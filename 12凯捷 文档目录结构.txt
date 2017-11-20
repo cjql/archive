@@ -1,0 +1,4994 @@
+卷 管理资料 的文件夹 PATH 列表
+卷序列号为 8336-2F21
+E:.
+|   文件列表输出.bat
+|   文档目录结构.xls
+|   文档目录结构.txt
+|   
++---凯捷-武烟集团管理诊断- 8.4MB
+|   |   武烟管控方案建议--附件.ppt
+|   |   武烟管控方案建议1.1.ppt
+|   |   武烟集团-组织结构建议v0.81.ppt
+|   |   武烟集团总部流程诊断项目建议书-0512 - v2.ppt
+|   |   武烟集团战略诊断结论.ppt
+|   |   武烟集团管理诊断报告-管控与组织-问题发现.ppt
+|   |   武烟集团管理诊断报告－现状评估 V1.0.ppt
+|   |   武烟集团管理诊断报告－现状评估 V2.1.ppt
+|   |   
+|   \---项目进展
+|           Service Agreement_Wuyan-050609合同.doc
+|           武烟集团管理诊断项目进展报告_050610.doc
+|           武烟集团管理诊断项目进展报告_050617.doc
+|           
++---凯捷-美国运通集团咨询全案（270M完整版）
+|   \---美国运通FAB(BXC50)
+|       |   Format landscape.doc
+|       |   Format.doc
+|       |   Table of Contents.xls
+|       |   
+|       +---Assessment Tool
+|       |   |   Assessment Tool.zip
+|       |   |   
+|       |   \---Assessment Tool
+|       |       |   ___### READ_ME ###___.ppt
+|       |       |   
+|       |       +---Deliverables
+|       |       |       Final Deliverable Generic.ppt
+|       |       |       Financial Model.xls
+|       |       |       Improvement Portfolio.xls
+|       |       |       
+|       |       +---Go To Mkt Analysis
+|       |       |       BPO - Competitors Assessment Generic.ppt
+|       |       |       BPO - Detailed Compet Assessm Generic.ppt
+|       |       |       BPO - Market Attractiveness Generic.ppt
+|       |       |       BPO - Market Sizing Generic.ppt
+|       |       |       BPO - Survey Document Generic.ppt
+|       |       |       BPO- Customer Assessment Generic.ppt
+|       |       |       
+|       |       +---Process Reviews
+|       |       |       DEEP DIVE - Fixed Assets.Generic.ppt
+|       |       |       DEEP DIVE - Payroll.Generic.ppt
+|       |       |       DEEP DIVE - Reconciliations.Generic.ppt
+|       |       |       DEEP DIVE - Vendor Payments.Generic.ppt
+|       |       |       DEEP DIVE TEV.Generic.ppt
+|       |       |       Difference Between Deep Dive and Scan Generic.ppt
+|       |       |       SCAN - Disbursements.Generic.ppt
+|       |       |       SCAN - GL Accounting.Generic.ppt
+|       |       |       
+|       |       +---Project Launch
+|       |       |       BPO Final LOU Generic.clean.doc
+|       |       |       BPO Kick Off MeetingGeneric.ppt
+|       |       |       DiversFinInst and cgey bpo discussion document -Generic.ppt
+|       |       |       
+|       |       +---Project Management
+|       |       |       BPO Workplan.07-01-2003.v1.mpp
+|       |       |       BPOStatus Report Generic.doc
+|       |       |       
+|       |       \---Questionnaires
+|       |               BPO Questionnaire Summary  Details.FNL.ppt
+|       |               BPO SSC GM Questionnaire.FNL2.doc
+|       |               BPO Tech Questionnaire.FNL.doc
+|       |               Process QuestionnaireGeneric.doc
+|       |               
+|       +---AXP Financial & Supporting Data
+|       |   |   AXP Cost & Expense Base I.ppt
+|       |   |   AXP Cost & Expense Base II.ppt
+|       |   |   FAB - Market & HQ $$ & FTE counts.xls
+|       |   |   FAB - Reconciliation of $$ and FTE Jul-02-2003.FNL.xls
+|       |   |   FAB - SOURCE DATA - 2002 Cost Center Data.xls
+|       |   |   FAB - SOURCE DATA - 2002 FTE.xls
+|       |   |   FAB - SOURCE DATA - 2003 Plan by Cost Center.xls
+|       |   |   FAB - SOURCE DATA - AXP Fin Empl by Name, Entities, Systems etc..xls
+|       |   |   FAB - SOURCE DATA - Budget Summary '02 and '03.xls
+|       |   |   FAB - SOURCE DATA - Controllers 2002 costs and FTE.ppt
+|       |   |   
+|       |   +---ABM Data
+|       |   |       FAB - ABM 2002 & 2003 Volume Data.xls
+|       |   |       FAB - ABM 2002 Dictionary.xls
+|       |   |       FAB - ABM 2003 Dictionary.mdb
+|       |   |       FAB - ABM Data 2002 and 2003.xls
+|       |   |       
+|       |   +---Insourcing Work
+|       |   |       AXP Internal Insourcing Study.zip
+|       |   |       GarySeptPinnacleUpdatever3.ppt
+|       |   |       OctPinnacleTomVer8.ppt
+|       |   |       SeptPinnacleUpdateVer5.zip
+|       |   |       
+|       |   \---Mgmnt & External Reporting
+|       |           AEB Consolidation - James Garry.zip
+|       |           AEB Controllership - Fred Moore.zip
+|       |           AEB External Reporting - Leslie Reitemeyer.zip
+|       |           AXP Accounting - Sol Bierig.zip
+|       |           BU Reporting - Hubert Chemla.zip
+|       |           Business Case - 021102.1.pob.xls
+|       |           CSBS Reporting - Larry Belmonte.zip
+|       |           Global Financial Reporting - Joe Bicocchi.zip
+|       |           Monthly Reporting Process Flow.05212002.POB.1.zip
+|       |           POD Documents.zip
+|       |           POD Process Flows.ppt
+|       |           TRS External Reporting - Jane Ling.zip
+|       |           US REPORTING.doc
+|       |           
+|       +---Deal Review
+|       |       American Express BPO Deal Review-AO final.ppt
+|       |       AXP multi-client upside 7-23.ppt
+|       |       Pursuit Deal Rev Sum AXP BPO 22_Jul_2003.FNL.doc
+|       |       
+|       +---Deliverables
+|       |       DEEP DIVE - Fixed Assets.FNL.Jul-14-2003.ppt
+|       |       DEEP DIVE - Payroll.FNL.Jul-14-2003.ppt
+|       |       DEEP DIVE - Reconciliations.FNL.Jul-14-2003.ppt
+|       |       DEEP DIVE - Vendor Payments.FNL.Jul-14-2003.ppt
+|       |       DEEP DIVE TEV.FNL.Jul-21-2003.ppt
+|       |       FAB - Competitors Assessment v2.ppt
+|       |       FAB - Customer Assessment v11.ppt
+|       |       FAB - Deliverable - Rating Critiera.FNL.xls
+|       |       FAB - Detailed Compet Assessm v6.ppt
+|       |       FAB - Market Attractiveness v3.ppt
+|       |       FAB - Market Sizing v4.ppt
+|       |       FAB - Survey Document v1.ppt
+|       |       FAB CGEY Deliverable.FNL.ppt
+|       |       SCAN - Card Balanced Files.FNL.Jul-14.2003.ppt
+|       |       SCAN - Disbursements.FNL.Jul-21-2003.ppt
+|       |       SCAN - GL Accounting.FNL.Jul-14-2003.ppt
+|       |       SCAN - Remittances.FNL.Jul-14-2003.ppt
+|       |       SCAN - Travel Back Office 071103v2.ppt
+|       |       
+|       +---F&A Processes
+|       |   |   DEEP DIVE - Fixed Assets.FNL.Jul-14-2003.ppt
+|       |   |   DEEP DIVE - Payroll.FNL.Jul-14-2003.ppt
+|       |   |   DEEP DIVE - Reconciliations.FNL.Jul-14-2003.ppt
+|       |   |   DEEP DIVE - Vendor Payments.FNL.Jul-14-2003.ppt
+|       |   |   DEEP DIVE TEV.FNL.Jul-21-2003.ppt
+|       |   |   Difference Between Deep Dive and Scan V2.ppt
+|       |   |   SCAN - Card Balanced Files.FNL.Jul-14.2003.ppt
+|       |   |   SCAN - Disbursements.FNL.Jul-21-2003.ppt
+|       |   |   SCAN - Remittances.FNL.Jul-14-2003.ppt
+|       |   |   SCAN - Travel Back Office 071103v2.ppt
+|       |   |   
+|       |   +---ASSET MGMNT
+|       |   |       103102 Pinnacle Presentation CLT_TKchanges.ppt
+|       |   |       Asset Management Debrief_Procurement_V3.ppt
+|       |   |       Asset Mgmt Project Plan v Draft 1_98 Version.mpp
+|       |   |       Asset_Mgmt_0702.ppt
+|       |   |       Gary 110102.ppt
+|       |   |       Highlevel Milestone Plan.ppt
+|       |   |       
+|       |   +---CARD_BALANCED_FILES
+|       |   |   |   CardBalancedFilesAudit2.xls
+|       |   |   |   who we spoke to CardBalancedFiles.ppt
+|       |   |   |   
+|       |   |   +---AMEX_DATA
+|       |   |   |   +---AMEX_QUESTIONNAIRE
+|       |   |   |   |       Questionnaire.doc
+|       |   |   |   |       
+|       |   |   |   \---AMEX_SUPPORTING_DOCUMENTATION
+|       |   |   |           2002FCStatistics.xls
+|       |   |   |           Capture Metrics - 2003.xls
+|       |   |   |           FAB - Card Balanced FilesCCNUMBERS .xls
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   +---FINANCIALS
+|       |   |   |       pic30227.pcx
+|       |   |   |       
+|       |   |   \---LEADING_PRACTICES
+|       |   |           Best Practices.doc
+|       |   |           Fiancial Mgmt Leading Practices Package.ppt
+|       |   |           
+|       |   +---CONTROLS & COMPLIANCE
+|       |   |       Finance Rptg Leading Practices.FNL.ppt
+|       |   |       
+|       |   +---DISBURSEMENTS
+|       |   |   |   DisbursementsAudit.xls
+|       |   |   |   who we spoke to Disbursements.ppt
+|       |   |   |   
+|       |   |   +---AMEX_DATA
+|       |   |   |   +---AMEX_QUESTIONNAIRE
+|       |   |   |   |       Disbursements - FAB Process Questionnaire Final.doc
+|       |   |   |   |       
+|       |   |   |   \---AMEX_SUPPORTING_DOCUMENTS
+|       |   |   +---BENCHMARKS
+|       |   |   |       Best Practices.doc
+|       |   |   |       
+|       |   |   +---FINANCIALS
+|       |   |   |       1202 GP Full Year Values.xls
+|       |   |   |       Disbursements.xls
+|       |   |   |       FCE TEV Disb 2003 Annualized.xls
+|       |   |   |       Financials  FTE details of Disb FA  TEV Team year 2002.xls
+|       |   |   |       Payroll Data.xls
+|       |   |   |       
+|       |   |   \---LEADING_PRACTICES
+|       |   |           AP_Leading Practices Template.doc
+|       |   |           Finance Best Practices.xls
+|       |   |           
+|       |   +---FIXED ASSETS
+|       |   |   |   2 FAB - Fixed Assets Audit.xls
+|       |   |   |   3 Fixed Assets - Whom we spoke to.ppt
+|       |   |   |   
+|       |   |   +---AMEX QUESTIONNAIRE
+|       |   |   |   |   7 FAB_ProcessQuestionnaire_FA.doc
+|       |   |   |   |   
+|       |   |   |   \---AMEX SUPPORTING DOCUMENTS
+|       |   |   |           FAB_ProcessQuestions_FA_V1[1].1_052803.xls
+|       |   |   |           FAS SIPOCs_Processflows.ppt
+|       |   |   |           Org Chart-GA-Mar03.ppt
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   |       6 Leading Practices - Benchmarks.doc
+|       |   |   |       
+|       |   |   +---FINANCIALS
+|       |   |   |       4 FAB data GA-FA_Revised.xls
+|       |   |   |       5 FAB - Fixed Assets E-mails.doc
+|       |   |   |       Financials  FTE details of FA Team year 2002.xls
+|       |   |   |       
+|       |   |   \---LEADING PRACTICES
+|       |   |           Hackett Leading Practices - Benchmarks.doc
+|       |   |           
+|       |   +---GL_ACCOUNTING
+|       |   |   |   GLAccountingAudit.xls
+|       |   |   |   who we spoke toGLAccounting.ppt
+|       |   |   |   
+|       |   |   +---AMEX_DATA
+|       |   |   |   +---AMEX_QUESTIONNAIRE
+|       |   |   |   |       FAB_ProcessQuestionnaire_month end.doc
+|       |   |   |   |       
+|       |   |   |   \---AMEX_SUPPORTING_DOCUMENTS
+|       |   |   |           GLAccountingAudit.xls
+|       |   |   |           HC 2002.xls
+|       |   |   |           Re FAB - Follow-up regarding GL AccountingFCC.txt
+|       |   |   |           Re FAB - Follow-up regarding GL AccountingFCW.txt
+|       |   |   |           Summary VolumesJan to March 03.xls
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   |       Best Practices.doc
+|       |   |   |       Hackett Book of Numbers Fin 2002.pdf
+|       |   |   |       
+|       |   |   +---FINANCIALS
+|       |   |   |       2003BudgetVanita_ver 2.xls
+|       |   |   |       FAB - GL Accounting .xls
+|       |   |   |       
+|       |   |   \---LEADING_PRACTICES
+|       |   |           Accounting and GL Leading Practices v12-02.ppt
+|       |   |           Fiancial Mgmt Leading Practices Packagev2.ppt
+|       |   |           Leading Practices in Finance and Accounting.doc
+|       |   |           
+|       |   +---PAYROLL
+|       |   |   |   Payroll Data.xls
+|       |   |   |   Payroll Data2.xls
+|       |   |   |   
+|       |   |   +---AMEX QUESTIONNAIRE
+|       |   |   |   |   Payroll - FAB Process Questionnaire Final .doc
+|       |   |   |   |   
+|       |   |   |   \---AMEX SUPPORTING DOCUMENTS
+|       |   |   |           Payroll Metrics 2002.xls
+|       |   |   |           Payroll Metrics US - ACD Calls 2002.xls
+|       |   |   |           Payroll UK - Draft SIPOC May 12th.ppt
+|       |   |   |           Payroll UK Org Chart May 2003.doc
+|       |   |   |           Payroll US Org Chart.doc
+|       |   |   |           Payroll US SIPOC 12052002.vsd
+|       |   |   |           Payroll US Systems .doc
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   |       2003_MapBench12revatotal_6.pdf
+|       |   |   |       APA 2002 Payroll Benchmarking Survey.ppt
+|       |   |   |       Benchmarks Payroll Documents.zip
+|       |   |   |       payroll ioma.pdf
+|       |   |   |       PayrollManagersSurvey.pdf
+|       |   |   |       
+|       |   |   +---FINANCIALS
+|       |   |   \---LEADING PRACTICES
+|       |   |           Hackett Leading Practices - Benchmarks.doc
+|       |   |           Jacobs Draft 11-12.zip
+|       |   |           LA School District Payroll Review - Anderson.pdf
+|       |   |           Leading Practices Payroll Documents.zip
+|       |   |           payroll.zip
+|       |   |           Requirements Fit Gap Analysis.xls
+|       |   |           
+|       |   +---RECONCILIATIONS
+|       |   |   |   2 FAB -  Reconciliation Audit.xls
+|       |   |   |   3 Reconciliations - Whom we spoke to.ppt
+|       |   |   |   
+|       |   |   +---AMEX QUESTIONNAIRE
+|       |   |   |   |   FAB_ProcessQuestionnaire_Recs.doc
+|       |   |   |   |   
+|       |   |   |   \---AMEX SUPPORTING DOCUMENTS
+|       |   |   |           Current Process Flow - GAR.ppt
+|       |   |   |           GAR 23 metrics.xls
+|       |   |   |           GAR product metrics Annexure D.xls
+|       |   |   |           GAR Rec process Annexure A.ppt
+|       |   |   |           GAR-ORG Annexure B.ppt
+|       |   |   |           Global rec project - overview.ppt
+|       |   |   |           New Global Reconciliation Platform.ppt
+|       |   |   |           Process maps - Annexure C.ppt
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   +---FINANCIALS
+|       |   |   |       57 forecast GAR_pma submission_FAB.xls
+|       |   |   |       Deep dive recs  - Annex. F.xls
+|       |   |   |       FAB - Reconcilliations E-mails.doc
+|       |   |   |       FAB Reconciliation Volume Break Up June 111.xls
+|       |   |   |       FAB Reconciliation Volume Break Up.xls
+|       |   |   |       FAB_Financials_Annexure E.xls
+|       |   |   |       Headcount.xls
+|       |   |   |       pic22813.pcx
+|       |   |   |       Volumes Breakdown.xls
+|       |   |   |       
+|       |   |   \---LEADING PRACTICES
+|       |   |           Best Practices.doc
+|       |   |           Reconciliation - Leading Practices  Benchmarking v1.ppt
+|       |   |           
+|       |   +---REMITTANCES
+|       |   |   |   RemittancesAudit.xls
+|       |   |   |   who we spoke to Remittances.ppt
+|       |   |   |   
+|       |   |   +---AMEX_DATA
+|       |   |   |   +---AMEX_QUESTIONNAIRE
+|       |   |   |   |       FAB ProcessRemitQuestionnaire5_05_v1.0.doc
+|       |   |   |   |       
+|       |   |   |   \---AMEX_SUPPORTING_DOCUMENTS
+|       |   |   |           2002  2003 Volume Data CM Remit.xls
+|       |   |   |           RemittancesQuestions - June 20th.xls
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   |       Benchmarks - Great Summary 1998 Comprehensive for AR.doc
+|       |   |   |       Manufacturer & Hackett financial benchmarks and leading pra.ppt
+|       |   |   |       
+|       |   |   +---FINANCIALS
+|       |   |   |       Cost Data - Remittances.xls
+|       |   |   |       FAB - Remittances .xls
+|       |   |   |       
+|       |   |   \---LEADING_PRACTICES
+|       |   |           #AE_339 GE Invoice (remittance).pdf
+|       |   |           Best Practices.doc
+|       |   |           Finance Best Practices.xls
+|       |   |           Leading Practices in Finance and Accounting.doc
+|       |   |           Manufacturer & Hackett financial benchmarks and leading pra.ppt
+|       |   |           
+|       |   +---TEV
+|       |   |   |   Amex FAB TEV 2003 - ADDITIONAL SOURCES.ppt
+|       |   |   |   FAB - TEV Audit.xls
+|       |   |   |   
+|       |   |   +---AMEX QUESTIONNAIRE
+|       |   |   |   |   FAB - TEV Questions & Responses.xls
+|       |   |   |   |   TEV - FAB Questions.doc
+|       |   |   |   |   
+|       |   |   |   \---AMEX SUPPORTING DOCUMENTS
+|       |   |   |           2003 FCE Split per R. Garodia.xls
+|       |   |   |           AIMCO presentation.ppt
+|       |   |   |           Global TEV Process Maps (Excel Format).xls
+|       |   |   |           TEV - 2002-2003 volume -phone.xls
+|       |   |   |           TEV - FCE Org chart.ppt
+|       |   |   |           TEV - Metrics Nov02-March03.xls
+|       |   |   |           TEV - Meyers_FAB Org Chart.ppt
+|       |   |   |           TEV - SIPOC-Final.ppt
+|       |   |   |           
+|       |   |   +---FINANCIALS
+|       |   |   |       AP Forecast.xls
+|       |   |   |       Attachment 4.3B Metrics Reports 2002 (Global).xls
+|       |   |   |       FAB FINAL - TEV - FCW $$.xls
+|       |   |   |       FAB_2002 CPC rejects DATA for Nov and Dec.xls
+|       |   |   |       FAB_2002CPC Rejects DATA for Nov and Dec.xls
+|       |   |   |       FCE & FCW 2002 & 2003 Volumes.xls
+|       |   |   |       FCE TEV 2002 & 2003 $$.xls
+|       |   |   |       Vendor Payables Fin&FTEs_FCE.xls
+|       |   |   |       
+|       |   |   \---LEADING PRACTICES
+|       |   |       |   Aberdeen Group Report on Expense Managment.pdf
+|       |   |       |   ad1188.pdf
+|       |   |       |   amex Survey.pdf
+|       |   |       |   AribaSpendManagement_WP_final.pdf
+|       |   |       |   Hackett Leading Practices - Benchmarks.doc
+|       |   |       |   IOMA - Managing T&E Costs and Automation.pdf
+|       |   |       |   IOMA 2003 AP Benchmarks.pdf
+|       |   |       |   Leading Practices TEV.zip
+|       |   |       |   META_Group_White_Paper.pdf
+|       |   |       |   TEV Benchmarks.zip
+|       |   |       |   te_whitepaper.pdf
+|       |   |       |   
+|       |   |       +---AMEX
+|       |   |       |       GarySeptPinnacleUpdatever3.ppt
+|       |   |       |       OctPinnacleTomVer8.ppt
+|       |   |       |       SeptPinnacleUpdateVer5.zip
+|       |   |       |       TE.pdf
+|       |   |       |       
+|       |   |       \---EXTENSITY
+|       |   |               An_Expensive_Business.pdf
+|       |   |               atkearney.pdf
+|       |   |               benchmark_EXTN.pdf
+|       |   |               Best_Practices_and_Benchmarks_of_Expense_Management1.pdf
+|       |   |               BTN.pdf
+|       |   |               BusinessIntelligence.pdf
+|       |   |               Expense_Reports.pdf
+|       |   |               marconi.pdf
+|       |   |               
+|       |   +---TRAVEL_BACK_OFFICE
+|       |   |   |   TravelBackOfficeAudit.xls
+|       |   |   |   
+|       |   |   +---AMEX_DATA
+|       |   |   |   +---AMEX_QUESTIONNAIRE
+|       |   |   |   |       GTFC FAB Process Questionnaire5_05_v1.0.doc
+|       |   |   |   |       
+|       |   |   |   \---AMEX_SUPPORTING_DOCUMENTS
+|       |   |   |           2002  2003 Volume DataTRVL_v2.xls
+|       |   |   |           FAB - Travel Back Office(CostCenter#s).xls
+|       |   |   |           TravelBackOfficeQuestions - July 1st.xls
+|       |   |   |           
+|       |   |   +---BENCHMARKS
+|       |   |   |       2003_MapBench12revatotal_6.pdf
+|       |   |   |       Benchmarks - Great Summary 1998 Comprehensive for AR.doc
+|       |   |   |       
+|       |   |   +---FINANCIALS
+|       |   |   |       FAB - Travel .xls
+|       |   |   |       GTBO_Data Collection_Consolidated - FAB.xls
+|       |   |   |       ProcessAnalysisBudget_v2.xls
+|       |   |   |       
+|       |   |   \---LEADING_PRACTICES
+|       |   |           Accounting and GL Leading Practices v12-02.ppt
+|       |   |           AP_Leading Practices Template.doc
+|       |   |           Best Practices.doc
+|       |   |           Fiancial Mgmt Leading Practices Packagev2.ppt
+|       |   |           Finance Best Practices.xls
+|       |   |           Leading Practices in Finance and Accounting.doc
+|       |   |           
+|       |   \---VENDORS PAYABLE
+|       |       +---AMEX QUESTIONNAIRE
+|       |       |   |   FAB Process Questionnaire Vendors Payable.doc
+|       |       |   |   
+|       |       |   \---AMEX SUPPORTING DOCUMENTS
+|       |       |           Attachment 4.1 (a) - Org Chart FCE.ppt
+|       |       |           Attachment 4.1 (b) - Org Chart FCW.ppt
+|       |       |           Attachment 4.2 (a) - FCW Process Flow
+|       |       |           Attachment 4.2 (b) - FCW Process Flow
+|       |       |           Attachment 4.2 (c) - FCE Process Flow.ppt
+|       |       |           Attachment 4.3A Metrics Report 2002 (FCE).xls
+|       |       |           Attachment 4.3B Metrics Reports 2002 (Global).xls
+|       |       |           Attachment 4.3C Metrics Reports 2003 (Global).xls
+|       |       |           Deep Dive Vendor Payables.xls
+|       |       |           Deep Dives Vendors Payable.xls
+|       |       |           Deep Dives Vendors PayableV2.xls
+|       |       |           Measures FCE Financials.xls
+|       |       |           Response_VendorPayments _060303.xls
+|       |       |           
+|       |       +---BENCHMARKS
+|       |       |       Accounts Payable Presentation.zip
+|       |       |       APGUIDE_03link2.pdf
+|       |       |       Benchmarkability v3.ppt
+|       |       |       Benchmarking Accounts Payable v4.ppt
+|       |       |       IBM AP Presentation to AMEX Aug 2001v1.ppt
+|       |       |       
+|       |       +---FINANCIALS
+|       |       |       Vendor Payments Adut_061903_V2.0.xls
+|       |       |       
+|       |       \---LEADING PRACTICES
+|       |               AP Benchmarksing and Leading Practices Study.zip
+|       |               Benchmarking Study_Chevron Report by CGEY (May 2000).zip
+|       |               Best Practices by process.zip
+|       |               Hackett Book of Numbers Fin 2002.pdf
+|       |               Hackett Leading Practices - Benchmarks.doc
+|       |               Hackett Performance Metrics 2002.xls
+|       |               IBM AP Presentation to AMEX Aug 2001v1.ppt
+|       |               IOMA 2003 AP Benchmarks.pdf
+|       |               IOMA 2003 AP Buyers Guide.PDF
+|       |               Mattel & Hackett financial benchmarks and leading practices.ppt
+|       |               Rapid FX Study.xls
+|       |               
+|       +---Financial Model
+|       |       Amex Bus Case 0723 1700-standalone.xls
+|       |       ERP Run and Build-Mumbai Org Chart.ppt
+|       |       ERP Software and Hardware Estimate.doc
+|       |       ERP Working Assumptions.doc
+|       |       FAB - AXP Year over Year Finance Costs.xls
+|       |       FAB - CFO and Other Saves.xls
+|       |       FAB - ERP & Process Improvement Cost & Benefits.FNL.xls
+|       |       FAB - ERP Build Cost Summary.FNL.xls
+|       |       FAB - ERP Build Estimate.FNL.xls
+|       |       FAB - ERP EPAW Build Estimate.FNL.xls
+|       |       FAB - ERP Run Costs - Mumbai.xls
+|       |       FAB - FFS Cost Estimation Model.xls
+|       |       
+|       +---Go-to-Market Analysis
+|       |   |   CGEY BPO Contact sheet v2.xls
+|       |   |   FAB - Competitors Assessment v2.ppt
+|       |   |   FAB - Customer Assessment v11.ppt
+|       |   |   FAB - Detailed Compet Assessm v6.ppt
+|       |   |   FAB - Market Attractiveness v3.ppt
+|       |   |   FAB - Market Sizing v4.ppt
+|       |   |   FAB - Survey Document v1.ppt
+|       |   |   Go-to-Market Analysis.zip
+|       |   |   
+|       |   +---Competitors
+|       |   |       Competitors articles.doc
+|       |   |       IBM DESCRIPTION OF BUSINESS.doc
+|       |   |       Payroll outsourcing buyer guide.pdf
+|       |   |       
+|       |   +---Financial Information
+|       |   |       FAB Revenue Sizingv3.xls
+|       |   |       Market share.xls
+|       |   |       Revenue Validation v3.ppt
+|       |   |       
+|       |   +---Market sizing Info
+|       |   |       2000 Hackett Benchmarking .pdf
+|       |   |       AOLTW Data&Ratios File 06-05-01.xls
+|       |   |       Benchmarks.xls
+|       |   |       Bottom Up Analysis Framework v.5.ppt
+|       |   |       Carrier Business Case.ppt
+|       |   |       CI for Visteon v.7.ppt
+|       |   |       Cost reduction matrix.xls
+|       |   |       FinanceBestBenchmarks.doc
+|       |   |       Financial Executive.doc
+|       |   |       Fortune reports.zip
+|       |   |       IT Outsourcing Research.xls
+|       |   |       IT Professional Services forecasts.pdf
+|       |   |       Japan IT Outsourcing Market 30_Oct_022.ppt
+|       |   |       Powerpoint Pres3.ppt
+|       |   |       Ross_outsourcingthought_oct02.pdf
+|       |   |       Ross_report_midmarket_2003.pdf
+|       |   |       
+|       |   +---Other
+|       |   |       Porter's five forces.doc
+|       |   |       rapid fx finance process data collection tool.doc
+|       |   |       Utility Strategy RFP - FINAL.doc
+|       |   |       
+|       |   +---Outsourcing Information
+|       |   |   |   103707 Gartner BPO -Mkt. Trends.pdf
+|       |   |   |   2002bporeport.pdf
+|       |   |   |   A - Outsourcing Fact Book Executive Summary - final Oct1-02.ppt
+|       |   |   |   Accenture_finance_outsourcing_study.pdf
+|       |   |   |   AC_F&A_Outsourcing 2.pdf
+|       |   |   |   AC_F&A_Outsourcing.pdf
+|       |   |   |   Add. articles for BPO.doc
+|       |   |   |   APGUIDE_03link2.pdf
+|       |   |   |   AR outsourcing.pdf
+|       |   |   |   B - Outsourcing Best Practices - final Oct1-02.ppt
+|       |   |   |   Banks are increasingly willing to outsource their so.doc
+|       |   |   |   BP01K.pdf
+|       |   |   |   BPO Market Analysis_Final_Aug 2002.ppt
+|       |   |   |   BPO savings est2..xls
+|       |   |   |   BPO.zip
+|       |   |   |   BPO_Investment Banking Final.ppt
+|       |   |   |   C - Outsourcing Margins and Market Trends - final Oct1-02.ppt
+|       |   |   |   cfo Transform Report.pdf
+|       |   |   |   CGE&Y - Capabiities in China (version 2.0).ppt
+|       |   |   |   CGE&Y - Outsourcing Capabiities (version 3.1).ppt
+|       |   |   |   CGEY Outsourcing Chief Targets EDS Clients.doc
+|       |   |   |   Deloitte Outsourcing Paper.pdf
+|       |   |   |   EmergMkts2.zip
+|       |   |   |   Global Operate Word Credentials 030501.rtf
+|       |   |   |   Global_Top_DecisionMakers_Study_on_Finance_and_Accouting.pdf
+|       |   |   |   HI_Europe_BPO.pdf
+|       |   |   |   HR In-Outsource.pdf
+|       |   |   |   IDC Worldwide Business Process  2002 thr 2006.pdf
+|       |   |   |   IDC_European BPO_Jul 02.pdf
+|       |   |   |   Japan Shrd Svcs.ppt
+|       |   |   |   Jim Noble Final Presentation 052902 - (final).ppt
+|       |   |   |   META_Group_White_Paper.pdf
+|       |   |   |   NH_F & A Outsourcing_April 03.ppt
+|       |   |   |   Offshoring Finance and Acctg.pdf
+|       |   |   |   Outsourcing Information.zip
+|       |   |   |   QA History.zip
+|       |   |   |   SIG_NewPricing.pdf
+|       |   |   |   SIG_OutsourcingPricing.pdf
+|       |   |   |   sla_template.zip
+|       |   |   |   TE.pdf
+|       |   |   |   Transaction-based pricing & FedEx.ppt
+|       |   |   |   
+|       |   |   +---FS Lab
+|       |   |   |       CashManagement.ppt
+|       |   |   |       EU_Directives.ppt
+|       |   |   |       FS001639_FInal HSBC Payments Report v2.0.ppt
+|       |   |   |       PaymentsICAV5.ppt
+|       |   |   |       
+|       |   |   \---Gartner docs
+|       |   |           Aggregated BPO 02.pdf
+|       |   |           Asia Pac 03.pdf
+|       |   |           BPO at Crossroads Trends.pdf
+|       |   |           BPO in Fin Svcs 02.pdf
+|       |   |           BPO India 02.pdf
+|       |   |           BPO Learning curve 03.pdf
+|       |   |           BPO Market Model 03.pdf
+|       |   |           Emerg of BSP 01.pdf
+|       |   |           Europe BPO Trends 02.pdf
+|       |   |           Exult in India 03.pdf
+|       |   |           Gartner docs.zip
+|       |   |           HC BPO 02.pdf
+|       |   |           IBM PWC - BPO Boost.pdf
+|       |   |           IT Svcs Forecast 02.pdf
+|       |   |           Partner Choice 03.pdf
+|       |   |           Proc Mgt 02.pdf
+|       |   |           Satisf with Exist Rel 02.pdf
+|       |   |           SMB BPO 03.pdf
+|       |   |           SMB Market_brief 03.pdf
+|       |   |           Vertic & Aggreg Trends 03.pdf
+|       |   |           
+|       |   +---Quals
+|       |   |       BPM Quals.ppt
+|       |   |       GO Creds 030501.ppt
+|       |   |       ML Qual HR-Fin presentation 4-4 715pm.doc
+|       |   |       Outsourcing Offering Shell.ppt
+|       |   |       Shell Chemicals Case Study.ppt
+|       |   |       
+|       |   \---Quest. Reponses
+|       |           Account Executive FA memo Ford.doc
+|       |           Account Executive FA memo ML.doc
+|       |           Account Executives List v8.xls
+|       |           Amex FA OS Questionnaire Final CleanawayUK.doc
+|       |           axp survey responsev2.doc
+|       |           Citigroup Finance BPO Questionnaire.doc
+|       |           Data Request v3.doc
+|       |           FA Questionnaire - Powergen response.doc
+|       |           FAB Questionnaire Summary  Details.FNL.ppt
+|       |           FABQuestionnaire.zip
+|       |           FA_Outsourcing_Questionaire_v8.xls
+|       |           FET OS questionnaire - Aviva Pru RSA.doc
+|       |           FET Questionnaire AMP.doc
+|       |           FET Questionnaire Barclays.doc
+|       |           Global Accounts List.zip
+|       |           Global Accounts tk.xls
+|       |           HG Accounts _ Siebel.xls
+|       |           Irene FA_Outsourcing_Questionaire_v6.xls
+|       |           March FY 2003 FSI Client Listing.xls
+|       |           oneresource group - abn amro site visit (version 3.0).ppt
+|       |           Pfizer and Monsanto Questionnaire for Account Execs Final.doc
+|       |           Questionnaire for Account Execs Final - Nova Scotia Response.doc
+|       |           Questionnaire for Account Execs Final - Syngentav2.doc
+|       |           Questionnaire for Account Execs Final ABNAmro.doc
+|       |           Questionnaire for Account Execs Final BC Gas
+|       |           Questionnaire for Account Execs Final Bruce Power.doc
+|       |           Questionnaire for Account Execs Final BT.doc
+|       |           Questionnaire for Account Execs Final ChevronTexaco
+|       |           Questionnaire for Account Execs Final CIBC.doc
+|       |           Questionnaire for Account Execs Final Exel.doc
+|       |           Questionnaire for Account Execs Final FedEx.doc
+|       |           Questionnaire for Account Execs Final Funaro.doc
+|       |           Questionnaire for Account Execs Final JPMC.doc
+|       |           Questionnaire for Account Execs Final Marks Spencer.doc
+|       |           Questionnaire for Account Execs Final O2.doc
+|       |           Questionnaire for Account Execs Final Sprint.doc
+|       |           Questionnaire for Account Execs Final State Farm.doc
+|       |           Questionnaire for Account Execs Final Syngenta.doc
+|       |           Questionnaire for Account Execs Final.doc
+|       |           Questionnaire for Account Execs FinalRegistersofScotland.doc
+|       |           Questionnaire for Account Execs Final_DNB v2.doc
+|       |           Questionnaire for Account Execs Zurich.doc
+|       |           Questionnaire for TPG Arthur Rijk.doc
+|       |           Questionnaire for Westpac Final.doc
+|       |           Questionnaire FSI Responses.zip
+|       |           r.davis- ap outsourcing october 01.ppt
+|       |           RegionAccounts.zip
+|       |           Shell Outsourcing Questionnaire for Account Execs Final.doc
+|       |           
+|       +---IT Infrastructure
+|       |       AMEX FAB FTE Counts 7-01.xls
+|       |       FAB IT Finding Summary.doc
+|       |       LEGACY Application Details New Delhi.xls
+|       |       
+|       +---Project LOU_Workplan_Kick-off
+|       |       axp and cgey fab discussion document - final.ppt
+|       |       FAB Final LOU March-26-2003.FNL.doc
+|       |       FAB Kick Off Meeting April-30-2003.FNL.ppt
+|       |       FAB Proposal April-08-2003.FNL.ppt
+|       |       FAB Workplan.07-01-2003.v1.mpp
+|       |       
+|       \---Project Management
+|           |   FAB - Amex Controllorship Leadership Team Contact List.XLS
+|           |   FAB - FAB Team Contact List.06-05-2003.xls
+|           |   FAB Workplan.07-01-2003.v1.mpp
+|           |   
+|           +---CD Labels
+|           |       0305-0428256 CD Cover.pdf
+|           |       0305-0428256 CD Labels 2 up.pdf
+|           |       CD-tray insert.pdf
+|           |       
+|           +---GM Questionnaires
+|           |       FC Central Employee Data as at 31st December.ppt
+|           |       FC-C Employee Demographic Data as at 31st Dec 2002.xls
+|           |       FC-Central GM questionnaire.doc
+|           |       FC-East Annexure I.xls
+|           |       FC-East GM Questionnaire v2.doc
+|           |       FC-West GM Questionnairev2.doc
+|           |       
+|           +---Original Questionnaires
+|           |       FAB FC GM Questionnaire.FNL.doc
+|           |       FAB Process Questionnaire.FNL.doc
+|           |       FAB Questionnaire Summary & Details.FNL.ppt
+|           |       FAB Tech Questionnaire.FNL.doc
+|           |       
+|           +---Pricing & EPAW
+|           |       EPAW2.50-AMEX a-4-7.xls
+|           |       FAB - Team Budget Tracking as of July 15 2003.xls
+|           |       FAB - Team Budget Tracking as of July 25 2003.xls
+|           |       Final TE For 20010172 as of 25-Jul-2003.pdf
+|           |       Final TE For 20010172 as of 25-Jul-2003.xls
+|           |       Revenue Managed.xls
+|           |       
+|           +---Status Reports
+|           |       FAB - Red Issue - IT 05-29-03.doc
+|           |       FAB Status Report July-18-2003.FNL.doc
+|           |       FAB Status Report June-06-2003.FNL.doc
+|           |       FAB Status Report June-13-2003.FNL.doc
+|           |       FAB Status Report June-20-2003.FNL.doc
+|           |       FAB Status Report June-27-2003.FNL.doc
+|           |       FAB Status Report May-09-2003.FNL.doc
+|           |       FAB Status Report May-16-2003.FNL.doc
+|           |       FAB Status Report May-23-2003.FNL.doc
+|           |       FAB Status Report May-30-2003.FNL.doc
+|           |       
+|           \---Update Presentations
+|                   FAB Draft Deliverable Sanjay Gupta Discussion 7-14-03.FNL.ppt
+|                   FAB Jim Greene Update 05-12-2003.FNL.ppt
+|                   FAB Jim Greene Update 06-04-2003.FNL.ppt
+|                   FAB Tom Iseghohi Update 06-10-2003.FNL.PPT
+|                   
++---凯捷-重庆协信集团战略与人力资源咨询项目（ 28MB）
+|   |   协信 全资子公司授权体系-1230陈小刚.xls
+|   |   协信各子公司组织结构.ppt
+|   |   协信最终报告会0122.ppt
+|   |   协信高管职位评估.xls
+|   |   子公司经理目标契约.xls
+|   |   子公司部门经理绩效建议－2-20.ppt
+|   |   定薪及参数表-不含实际年薪.xls
+|   |   绩效诊断.ppt
+|   |   职位评估表.xls
+|   |   薪酬设计.ppt
+|   |   重庆协信控股建议书（沟通版）3.0.ppt
+|   |   重庆协信控股集团－战略研讨会1126.2cxg.ppt
+|   |   重庆协信流程培训.ppt
+|   |   重庆协信流程研讨.ppt
+|   |   重庆协信项目中期报告－1227汇报宣讲会版.ppt
+|   |   重庆协信项目中期报告－1227汇报版.ppt
+|   |   集团各大中心总监目标契约.xls
+|   |   集团总裁及副总裁目标契约.xls
+|   |   
+|   +---中期报告
+|   |       重庆协信项目中期报告－1227汇报宣讲会版.ppt
+|   |       重庆协信项目中期报告－20041227汇报宣讲会版.ppt
+|   |       重庆协信项目（合并）.ppt
+|   |       
+|   +---协信子公司权限体系
+|   |       协信 全资子公司授权体系-1230陈小刚.xls
+|   |       协信 全资子公司授权体系.xls
+|   |       协信控股子公司授权体系.xls
+|   |       协信集团三大管理层权责.DOC
+|   |       协信集团主要权限体系划分.doc
+|   |       协信集团管理权限管理规定.doc
+|   |       参照新奥的权责.DOC
+|   |       城建公司授权书.doc
+|   |       
+|   +---启动会介绍
+|   |       启动会介绍.ppt
+|   |       咨询公司选择汇报.ppt
+|   |       
+|   +---授权体系最终提交版
+|   |       人力资源中心总监授权书.doc
+|   |       协信 全资子公司授权体系（管控模式）-1230.xls
+|   |       协信集团管理权限管理规定－1230－聂凯.doc
+|   |       商务发展公司总经理授权书.doc
+|   |       城建公司总经理授权书.doc
+|   |       天骄物业总经理授权书.doc
+|   |       客户中心总监授权书.doc
+|   |       研发副总裁授权书.doc
+|   |       研发策划中心总监授权书.doc
+|   |       管理副总裁授权书.doc
+|   |       营运副总裁授权书.doc
+|   |       营销客服副总裁授权书.doc
+|   |       行政中心总监授权书.doc
+|   |       财务中心总监授权书.doc
+|   |       财务副总裁授权书.doc
+|   |       购物中心总经理授权书.doc
+|   |       长信公司总经理授权书.doc
+|   |       项目营运中心总监授权书.doc
+|   |       
+|   +---最终报告
+|   |       协信最终报告会20050122.ppt
+|   |       协信最终报告会20050125.ppt
+|   |       协信绩效体系.ppt
+|   |       
+|   +---目标契约书1-25
+|   |       子公司经理 1-25.xls
+|   |       集团各大中心总监-1-25xls.xls
+|   |       集团总裁及副总裁-1-25xls.xls
+|   |       
+|   +---管理流程提交版
+|   |       流程说明文件最终提交版.doc
+|   |       重庆协信管理流程最终提交版.ppt
+|   |       
+|   +---职位说明书最终提交版
+|   |   +---中心其他职位说明书最终提交版
+|   |   |   +---人力资源中心
+|   |   |   |       人事培训经理职位说明书.doc
+|   |   |   |       招聘经理职位说明书.doc
+|   |   |   |       薪酬绩效经理职位说明书.doc
+|   |   |   |       
+|   |   |   +---客户中心
+|   |   |   |       客服经理职位说明书.doc
+|   |   |   |       营销经理职位说明书.doc
+|   |   |   |       
+|   |   |   +---研发策划中心
+|   |   |   |       住宅总策划师职位说明书.doc
+|   |   |   |       住宅总设计师职位说明书.doc
+|   |   |   |       商业总策划师职位说明书.doc
+|   |   |   |       商业总设计师职位说明书.doc
+|   |   |   |       拓展经理职位说明书.doc
+|   |   |   |       研发经理职位说明书.doc
+|   |   |   |       
+|   |   |   +---行政中心
+|   |   |   |       IT经理职位说明书.doc
+|   |   |   |       企管经理职位说明书.doc
+|   |   |   |       审计经理职位说明书.doc
+|   |   |   |       法务经理职位说明书.doc
+|   |   |   |       秘书处主任职位说明书.doc
+|   |   |   |       
+|   |   |   +---财务中心
+|   |   |   |       分析预算职位说明书.doc
+|   |   |   |       投融资经理职位说明书.doc
+|   |   |   |       核算经理职位说明书.doc
+|   |   |   |       
+|   |   |   \---项目营运中心
+|   |   |           供应商经理职位说明书.doc
+|   |   |           工程管理经理职位说明书.doc
+|   |   |           总工程师职位说明书.doc
+|   |   |           成本经理职位说明书.doc
+|   |   |           
+|   |   +---副总裁职位说明书最终提交版
+|   |   |       研发副总裁职位说明书.doc
+|   |   |       管理副总裁职位说明书.doc
+|   |   |       营运副总裁职位说明书.doc
+|   |   |       营销客服副总裁职位说明书.doc
+|   |   |       财务副总裁职位说明书.doc
+|   |   |       
+|   |   +---城建子公司最终提交版
+|   |   |       总工程师职位说明书.doc
+|   |   |       成本控制部经理职位说明书.doc
+|   |   |       拓展报建部经理职位说明书.doc
+|   |   |       研究发展部经理职位说明书.doc
+|   |   |       营销中心经理职位说明书.doc
+|   |   |       行政人事部经理职位说明书.doc
+|   |   |       财务部经理职位说明书.doc
+|   |   |       
+|   |   +---子公司总经理职位说明书最终提交版
+|   |   |       商务公司总经理职位说明书.doc
+|   |   |       城建总经理职位说明书.doc
+|   |   |       天骄物业总经理职位说明书.doc
+|   |   |       购物中心总经理职位说明书.doc
+|   |   |       长信总经理职位说明书.doc
+|   |   |       
+|   |   +---总监职位说明书最终提交版
+|   |   |       人力资源中心总监职位说明书.doc
+|   |   |       客户中心总监职位说明书.doc
+|   |   |       研发策划中心总监职位说明书.doc
+|   |   |       行政中心总监职位说明书.doc
+|   |   |       财务中心总监职位说明书.doc
+|   |   |       项目营运中心总监职位说明书.doc
+|   |   |       
+|   |   \---购物中心子公司最终提交版
+|   |           商务总监职位说明书.doc
+|   |           总经理助理职位说明书.doc
+|   |           招商市务经理职位说明书.doc
+|   |           营运部经理职位说明书.doc
+|   |           行政人事部经理职位说明书.doc
+|   |           财务部经理职位说明书.doc
+|   |           
+|   \---重庆协信控股建议书
+|           重庆协信控股建议书（沟通版）3.0.ppt
+|           
++---凯捷-香港中旅国际投资中央平台人力资源项目  54.7MB
+|   |   0530CTSHK-人员招聘、配置V1.0.ppt
+|   |   4 - April 29 培训管理制度.doc
+|   |   人力资源培训.ppt
+|   |   港中旅中央平台招聘制度V1.0.rar
+|   |   绩效管理方案演示版.ppt
+|   |   职位评估方法及程序.ppt
+|   |   能力素质模型6.12.ppt
+|   |   
+|   +---June 4-jd
+|   |   |   July 6-职位列表.xls
+|   |   |   July 7 JD.rar
+|   |   |   
+|   |   +---cc
+|   |   |   |   Contact Centre Positions Requirement_0301_SM(Ops).doc
+|   |   |   |   Contact Centre Positions Requirement_0305_M(CCQA).doc
+|   |   |   |   Contact Centre Positions Requirement_0309_AO.doc
+|   |   |   |   Contact Centre Positions Requirement_AM(Ops).doc
+|   |   |   |   Contact Centre Positions Requirement_CCO.doc
+|   |   |   |   Contact Centre Positions Requirement_LTC.doc
+|   |   |   |   Contact Centre Positions Requirement_M(Ops).doc
+|   |   |   |   Contact Centre Positions Requirement_SupOfficer.doc
+|   |   |   |   Contact Centre Positions Requirement_TicketCon.doc
+|   |   |   |   Contact Centre Positions Requirement_TrainLeader.doc
+|   |   |   |   jd of am planing&development.doc
+|   |   |   |   jd of am training operation.doc
+|   |   |   |   jd of AM.doc
+|   |   |   |   jd of head of training academy.doc
+|   |   |   |   jd of resource manager.doc
+|   |   |   |   jd of resources manager.doc
+|   |   |   |   JD_ContactCenterMgr CustomerCare.doc
+|   |   |   |   JD_SrBusinessAnalyst.doc
+|   |   |   |   JD_SrVP ContactCenter.doc
+|   |   |   |   JD_Support&Fullfilment.doc
+|   |   |   |   JD_VP Operation.doc
+|   |   |   |   JD_VP Technology.doc
+|   |   |   |   Lead Resource Controller.doc
+|   |   |   |   Leader, Operations (call centree-sales & corporate sales.doc
+|   |   |   |   Manager, Operations (call centre-sales & corporate sales).doc
+|   |   |   |   Manager, Ticketing Operation Centre.doc
+|   |   |   |   Process Consultant.doc
+|   |   |   |   Quality Assurance Consultant.doc
+|   |   |   |   Resource Controller.doc
+|   |   |   |   Staff Communication Officer.doc
+|   |   |   |   Ticketing Consultant.doc
+|   |   |   |   Training Administrator.doc
+|   |   |   |   Travel Consultant.doc
+|   |   |   |   
+|   |   |   \---supplement
+|   |   |           Contact Centre Position Requirement_OpsOfficer.doc
+|   |   |           Contact Centre Position Requirement_SOO.doc
+|   |   |           Contact Centre Positions Requirement_0301_SM(Ops).doc
+|   |   |           Contact Centre Positions Requirement_0305_M(CCQA).doc
+|   |   |           Contact Centre Positions Requirement_0309_AO.doc
+|   |   |           Contact Centre Positions Requirement_AM(Ops).doc
+|   |   |           Contact Centre Positions Requirement_CCO.doc
+|   |   |           Contact Centre Positions Requirement_LTC.doc
+|   |   |           Contact Centre Positions Requirement_M(Ops).doc
+|   |   |           Contact Centre Positions Requirement_SupOfficer.doc
+|   |   |           Contact Centre Positions Requirement_TicketCon.doc
+|   |   |           Contact Centre Positions Requirement_TrainLeader.doc
+|   |   |           
+|   |   +---From GE
+|   |   |   |   fin.rar
+|   |   |   |   finished.rar
+|   |   |   |   hotel.rar
+|   |   |   |   investment.rar
+|   |   |   |   it.rar
+|   |   |   |   JD-0704.rar
+|   |   |   |   jd.rar
+|   |   |   |   JDGM.rar
+|   |   |   |   July 7-structure.rar
+|   |   |   |   marketing + comm + CRM JDs.doc
+|   |   |   |   marketing + comm + CRM org chart & duties jul 6.ppt
+|   |   |   |   marketing + comm + CRM org chart & duties jul 6.rar
+|   |   |   |   市场采购一般员工.doc
+|   |   |   |   职位描述书－北京公司市场销售部.doc
+|   |   |   |   职位描述书－北京公司行政人事部.doc
+|   |   |   |   职位描述书－北京公司财务部.doc
+|   |   |   |   资讯科技部.rar
+|   |   |   |   
+|   |   |   +---beijing
+|   |   |   |       华北区票务采购部业务主管.doc
+|   |   |   |       华北区票务采购部经理.doc
+|   |   |   |       商旅-分公司商务管理中心经理.doc
+|   |   |   |       商旅-客户经理.doc
+|   |   |   |       商旅-销售经理.doc
+|   |   |   |       旅行顾问.doc
+|   |   |   |       综合旅行顾问.doc
+|   |   |   |       综合管理部业务主管.doc
+|   |   |   |       综合管理部经理.doc
+|   |   |   |       综合预订经理.doc
+|   |   |   |       职位描述书－北京公司旅游产品策划业务主管.doc
+|   |   |   |       职位描述书－北京公司旅游产品部经理.doc
+|   |   |   |       职位描述书－北京公司营运中心总监.doc
+|   |   |   |       酒店采购部业务主管.doc
+|   |   |   |       酒店采购部经理.doc
+|   |   |   |       预订业务部经理.doc
+|   |   |   |       
+|   |   |   +---cc
+|   |   |   |       cc.rar
+|   |   |   |       职位描述- 副培训经理（运作）.doc
+|   |   |   |       职位描述- 营运助理经理.doc
+|   |   |   |       职位描述- 质量保证经理.doc
+|   |   |   |       职位描述- 资源管理经理.doc
+|   |   |   |       职位描述-副培训经理（发展及规划）.doc
+|   |   |   |       职位描述-员工沟通专员.doc
+|   |   |   |       职位描述-培训助理.doc
+|   |   |   |       职位描述-客户关怀专员.doc
+|   |   |   |       职位描述-客户关怀经理.doc
+|   |   |   |       职位描述-支援及配送经理.doc
+|   |   |   |       职位描述-支援部文员.doc
+|   |   |   |       职位描述-旅游知识培训主管.doc
+|   |   |   |       职位描述-旅游顾问Consultant.doc
+|   |   |   |       职位描述-旅游顾问主管.doc
+|   |   |   |       职位描述-流程改进顾问.doc
+|   |   |   |       职位描述-航空票务操作经理.doc
+|   |   |   |       职位描述-航空票务顾问.doc
+|   |   |   |       职位描述-营运副总裁.doc
+|   |   |   |       职位描述-质量保证顾问.doc
+|   |   |   |       职位描述-资源控制专员.doc
+|   |   |   |       职位描述-资源控制中心主管.doc
+|   |   |   |       职位描述-送票员.doc
+|   |   |   |       职位描述-部门经理.doc
+|   |   |   |       职位描述-高级分析师.doc
+|   |   |   |       职位描述-高级副总裁.doc
+|   |   |   |       职位描述-高级票务操作员.doc
+|   |   |   |       职位描述-高级营运经理.doc
+|   |   |   |       运营助理.doc
+|   |   |   |       
+|   |   |   +---development
+|   |   |   |       职位描述－业务拓展总监.doc
+|   |   |   |       职位描述－增值服务与新产品开发经理.doc
+|   |   |   |       职位描述－增值服务与新产品开发高级专员.doc
+|   |   |   |       职位描述－大型活动经理.doc
+|   |   |   |       职位描述－大客户服务经理.doc
+|   |   |   |       职位描述－媒体合作专员.doc
+|   |   |   |       职位描述－市场调研与情报分析专员.doc
+|   |   |   |       
+|   |   |   +---fin
+|   |   |   |       上海分部 职位描述－会计助理,会计文员.doc
+|   |   |   |       上海分部 财务经理.doc
+|   |   |   |       副财务总监.doc
+|   |   |   |       助理会计部经理.doc
+|   |   |   |       北京分部 财务经理.doc
+|   |   |   |       北京分部.doc
+|   |   |   |       职位描述－上海分公司财务主任,会计主任.doc
+|   |   |   |       职位描述－会计助理,会计文员.doc
+|   |   |   |       职位描述－出纳员.doc
+|   |   |   |       职位描述－北京分公司财务主任,会计主任.doc
+|   |   |   |       职位描述－财务主任,会计主任.doc
+|   |   |   |       职位描述－财务部秘书.doc
+|   |   |   |       财务总监.doc
+|   |   |   |       财务经理.doc
+|   |   |   |       
+|   |   |   +---hotel
+|   |   |   |   |   职位描述-合约部高级主任区域业务部销售主任.doc
+|   |   |   |   |   职位描述-酒店业务部助理总经理.doc
+|   |   |   |   |   职位描述－分公司酒店合约部销售主任050630.doc
+|   |   |   |   |   职位描述－分公司酒店合约部销售经理050630.doc
+|   |   |   |   |   职位描述－分公司酒店合约部高级销售经理050630.doc
+|   |   |   |   |   酒店业务部信息录入员及档案员职位描述.doc
+|   |   |   |   |   酒店业务部总经理职位描述.doc
+|   |   |   |   |   酒店业务部收益管理主管职位描述.doc
+|   |   |   |   |   酒店业务部收益管理部专员职位描述.doc
+|   |   |   |   |   酒店业务部收益管理部高级副经理职位描述.doc
+|   |   |   |   |   酒店业务部收益管理部高级经理职位描述.doc
+|   |   |   |   |   酒店业务部资料管理副主管主管职位描述.doc
+|   |   |   |   |   酒店业务部资料管理部主管职位描述.doc
+|   |   |   |   |   酒店合约部副经理职位描述.doc
+|   |   |   |   |   酒店合约部理区域业务部销售经理职位描述.doc
+|   |   |   |   |   酒店合约部销售主任区域业务部销售主任职位描述.doc
+|   |   |   |   |   酒店合约部销售经理职位描述.doc
+|   |   |   |   |   酒店合约部高级销售经理或区域销售经理职位描述.doc
+|   |   |   |   |   
+|   |   |   |   \---关于职位描述
+|   |   |   |           职位描述－ 質量保證部主管50706.doc
+|   |   |   |           职位描述－质量保证部助理经理050706.doc
+|   |   |   |           职位描述－质量保证部检查员050706.doc
+|   |   |   |           职位描述－质量保证部经理050706.doc
+|   |   |   |           职位描述－质量保证部高级检查员050706.doc
+|   |   |   |           
+|   |   |   +---hr
+|   |   |   |   \---July 6-hr
+|   |   |   |           July 5-人事行政副总监.doc
+|   |   |   |           July 5-人事行政总监.doc
+|   |   |   |           July 5-人力资源经理.doc
+|   |   |   |           July 5-前台接待员.doc
+|   |   |   |           July 5-员工关系及企业文化主管.doc
+|   |   |   |           July 5-培训主管.doc
+|   |   |   |           July 5-招聘主管.doc
+|   |   |   |           July 5-绩效考核主管.doc
+|   |   |   |           July 5-薪酬福利主管.doc
+|   |   |   |           July 5-行政助理.doc
+|   |   |   |           July 5-行政秘书.doc
+|   |   |   |           July 5-行政经理.doc
+|   |   |   |           分公司 绩效考核专员.doc
+|   |   |   |           分公司人力资源及行政经理.doc
+|   |   |   |           分公司招i聘及培训专员.doc
+|   |   |   |           分公司薪酬福利及绩效考核专员.doc
+|   |   |   |           分公司行政助理.doc
+|   |   |   |           员工关系及企业文化专员.doc
+|   |   |   |           培训专员.doc
+|   |   |   |           招聘专员.doc
+|   |   |   |           绩效考核专员.doc
+|   |   |   |           薪酬福利专员.doc
+|   |   |   |           
+|   |   |   +---huadong
+|   |   |   |       华东区票务采购部业务主管.doc
+|   |   |   |       商旅-分公司商务管理中心经理.doc
+|   |   |   |       商旅-客户经理.doc
+|   |   |   |       商旅-销售经理.doc
+|   |   |   |       复件 商旅-销售总监.doc
+|   |   |   |       复件 复件 商旅-销售部人员.doc
+|   |   |   |       复件 旅行顾问.doc
+|   |   |   |       综合管理部业务主管.doc
+|   |   |   |       综合管理部经理.doc
+|   |   |   |       职位描述书－华东公司营运中心总监.doc
+|   |   |   |       酒店采购部业务主管.doc
+|   |   |   |       酒店采购部经理.doc
+|   |   |   |       
+|   |   |   +---investment
+|   |   |   |       招聘职位说明-投資主任.doc
+|   |   |   |       招聘职位说明-投資主管.doc
+|   |   |   |       招聘职位说明-投資策劃部總監.doc
+|   |   |   |       招聘职位说明-投資經理.doc
+|   |   |   |       招聘职位说明-研發主任.doc
+|   |   |   |       招聘职位说明-研發主管.doc
+|   |   |   |       招聘职位说明-研發經理.doc
+|   |   |   |       
+|   |   |   +---it
+|   |   |   |       复件 职位描述文件-资讯科技部副总监.doc
+|   |   |   |       职位描述-技术副总裁.doc
+|   |   |   |       职位描述文件-PC维修员.doc
+|   |   |   |       职位描述文件-操作维修组主管.doc
+|   |   |   |       职位描述文件-新技术研发与应用.doc
+|   |   |   |       职位描述文件-电话交换机机房值班员.doc
+|   |   |   |       职位描述文件-网络数据库组主管.doc
+|   |   |   |       职位描述文件-规划预算和其它管理人员.doc
+|   |   |   |       职位描述文件-资讯科技部总经理.doc
+|   |   |   |       职位描述文件计划控制部主管.doc
+|   |   |   |       职位描述－技术支持工程师.doc
+|   |   |   |       职位描述－技术支持经理.doc
+|   |   |   |       职位描述－知识库管理员.doc
+|   |   |   |       职位描述－知识库管理经理.doc
+|   |   |   |       职位描述－软件开发工程师.doc
+|   |   |   |       职位描述－软件开发经理.doc
+|   |   |   |       资讯科技部职位描述-系统维护经理.doc
+|   |   |   |       资讯科技部职位描述-网站开发经理.doc
+|   |   |   |       资讯科技部职位描述-软件开发副经理.doc
+|   |   |   |       资讯科技部职位描述-软件开发经理.doc
+|   |   |   |       资讯科技部职位描述－分析程序员.doc
+|   |   |   |       资讯科技部职位描述－数据库管理员.doc
+|   |   |   |       资讯科技部职位描述－文档管理员.doc
+|   |   |   |       资讯科技部职位描述－程序员.doc
+|   |   |   |       资讯科技部职位描述－系统分析员.doc
+|   |   |   |       资讯科技部职位描述－网络管理员.doc
+|   |   |   |       资讯科技部职位描述－网页制作工程师.doc
+|   |   |   |       资讯科技部职位描述－网页程序员.doc
+|   |   |   |       资讯科技部职位描述－网页设计工程师.doc
+|   |   |   |       资讯科技部职位描述－项目经理.doc
+|   |   |   |       
+|   |   |   +---package
+|   |   |   |       职位描述-旅游产品业务部产品策划专员20050628.do
+|   |   |   |       职位描述-旅游产品业务部产品策划主管.doc
+|   |   |   |       职位描述-旅游产品业务部产品策划经理20050628.do
+|   |   |   |       职位描述-旅游产品业务部产品采购专员 20050628.do
+|   |   |   |       职位描述-旅游产品业务部产品采购主管.doc
+|   |   |   |       职位描述-旅游产品业务部信息汇总员.doc
+|   |   |   |       职位描述-旅游产品业务部信息汇总员20050628.do
+|   |   |   |       职位描述-旅游产品业务部总经理20050628.do
+|   |   |   |       职位描述-旅游产品业务部高级经理.doc
+|   |   |   |       
+|   |   |   +---ticket
+|   |   |   |       职位描述-地区运营主管.doc
+|   |   |   |       职位描述-市场分析主管.doc
+|   |   |   |       职位描述-市场采购专员.doc
+|   |   |   |       职位描述-市场采购部综合主管.doc
+|   |   |   |       职位描述-机票市场分析专员.doc
+|   |   |   |       职位描述-机票市场营销高级经理.doc
+|   |   |   |       职位描述-运营专员.doc
+|   |   |   |       职位描述-运营高级经理.doc
+|   |   |   |       职位描述-采购地区主管.doc
+|   |   |   |       职位描述－采购高级经理.doc
+|   |   |   |       
+|   |   |   \---web
+|   |   |           职位描述- web dept chief editor.do
+|   |   |           职位描述- web dept editor(English).do
+|   |   |           职位描述- web dept editors(Chinese).do
+|   |   |           职位描述－web dept Programmer.do
+|   |   |           职位描述－web dept[1].designer.do
+|   |   |           
+|   |   +---hotel
+|   |   |       职位描述-合约部高级主任.doc
+|   |   |       职位描述-酒店业务部助理总经理.doc
+|   |   |       职位描述－分公司酒店合约部销售主任050630.doc
+|   |   |       职位描述－分公司酒店合约部销售经理050630.doc
+|   |   |       职位描述－分公司酒店合约部高级销售经理050630.doc
+|   |   |       酒店业务部信息录入员及档案员职位描述.doc
+|   |   |       酒店业务部信息汇主管职位描述.doc
+|   |   |       酒店业务部总经理职位描述.doc
+|   |   |       酒店业务部收益管理主管职位描述.doc
+|   |   |       酒店业务部收益管理部专员职位描述.doc
+|   |   |       酒店业务部收益管理部高级副经理职位描述.doc
+|   |   |       酒店业务部收益管理部高级经理职位描述.doc
+|   |   |       酒店业务部资料管理部主管职位描述.doc
+|   |   |       酒店合约部副经理职位描述.doc
+|   |   |       酒店合约部理职位描述.doc
+|   |   |       酒店合约部销售主任职位描述.doc
+|   |   |       酒店合约部销售经理职位描述.doc
+|   |   |       酒店合约部高级销售经理或区域销售经理职位描述.doc
+|   |   |       
+|   |   +---it
+|   |   |       Packed files.zip
+|   |   |       职位描述文件-PC维修员.doc
+|   |   |       职位描述文件-电话交换机机房值班员.doc
+|   |   |       职位描述文件-资讯科技部总经理.doc
+|   |   |       资讯科技部职位描述-R&D经理.doc
+|   |   |       资讯科技部职位描述-网站开发经理.doc
+|   |   |       资讯科技部职位描述-软件开发经理.doc
+|   |   |       资讯科技部职位描述-运行维护经理.doc
+|   |   |       资讯科技部职位描述－分析程序员.doc
+|   |   |       资讯科技部职位描述－数据库管理员.doc
+|   |   |       资讯科技部职位描述－文档管理员.doc
+|   |   |       资讯科技部职位描述－程序员.doc
+|   |   |       资讯科技部职位描述－系统分析员.doc
+|   |   |       资讯科技部职位描述－网络管理员.doc
+|   |   |       资讯科技部职位描述－网页制作工程师.doc
+|   |   |       资讯科技部职位描述－网页工程师.doc
+|   |   |       资讯科技部职位描述－网页程序员.doc
+|   |   |       资讯科技部职位描述－网页设计工程师.doc
+|   |   |       资讯科技部职位描述－项目经理.doc
+|   |   |       
+|   |   +---JD－2
+|   |   |       技术支持工程师.doc
+|   |   |       技术支持经理.doc
+|   |   |       知识库管理员.doc
+|   |   |       知识库管理经理.doc
+|   |   |       资讯科技部总监.doc
+|   |   |       软件开发工程师.doc
+|   |   |       软件开发经理.doc
+|   |   |       
+|   |   +---July 7 JD
+|   |   |   |   July 8- 资讯科技部.rar
+|   |   |   |   
+|   |   |   +---JUly 7- 北京公司
+|   |   |   |       分公司总经理.doc
+|   |   |   |       华北区票务采购部业务主管.doc
+|   |   |   |       华北区票务采购部经理.doc
+|   |   |   |       商旅-分公司商务管理中心经理.doc
+|   |   |   |       商旅-客户经理.doc
+|   |   |   |       商旅-销售经理.doc
+|   |   |   |       旅行顾问.doc
+|   |   |   |       综合旅行顾问.doc
+|   |   |   |       综合管理部业务主管.doc
+|   |   |   |       综合管理部经理.doc
+|   |   |   |       综合预订经理.doc
+|   |   |   |       职位描述书－北京公司旅游产品策划业务主管.doc
+|   |   |   |       职位描述书－北京公司旅游产品部经理.doc
+|   |   |   |       职位描述书－北京公司营运中心总监.doc
+|   |   |   |       酒店采购部业务主管.doc
+|   |   |   |       酒店采购部经理.doc
+|   |   |   |       预订业务部经理.doc
+|   |   |   |       
+|   |   |   +---July 7-业务拓展部
+|   |   |   |       业务拓展总监.doc
+|   |   |   |       增值服务与新产品开发经理.doc
+|   |   |   |       增值服务与新产品开发高级专员.doc
+|   |   |   |       大型活动经理.doc
+|   |   |   |       大客户服务经理.doc
+|   |   |   |       媒体合作专员.doc
+|   |   |   |       客户主任.doc
+|   |   |   |       市场调研与情报分析专员.doc
+|   |   |   |       
+|   |   |   +---July 7-人力资源部
+|   |   |   |       人事行政总监.doc
+|   |   |   |       人力资源经理.doc
+|   |   |   |       企业文化与员工关系专员.doc
+|   |   |   |       企业文化与员工关系主管.doc
+|   |   |   |       前台.doc
+|   |   |   |       助理人事行政总监.doc
+|   |   |   |       华东公司人事主管.doc
+|   |   |   |       华东公司人事行政经理.doc
+|   |   |   |       华东公司薪酬绩效主管.doc
+|   |   |   |       华东公司行政主管.doc
+|   |   |   |       华北公司人事主管.doc
+|   |   |   |       华北公司人事行政经理.doc
+|   |   |   |       华北公司前台.doc
+|   |   |   |       华北公司网络管理工程师.doc
+|   |   |   |       华北公司薪酬绩效主管.doc
+|   |   |   |       华北公司行政主管.doc
+|   |   |   |       学习与发展专员.doc
+|   |   |   |       学习与发展主管.doc
+|   |   |   |       绩效专员.doc
+|   |   |   |       绩效主管.doc
+|   |   |   |       薪酬专员.doc
+|   |   |   |       薪酬主管.doc
+|   |   |   |       行政助理.doc
+|   |   |   |       行政秘书.doc
+|   |   |   |       行政经理.doc
+|   |   |   |       配员专员.doc
+|   |   |   |       配员主管.doc
+|   |   |   |       
+|   |   |   +---July 7-华东公司
+|   |   |   |       分公司总经理.doc
+|   |   |   |       华东公司营运中心总监.doc
+|   |   |   |       华东区机票业务主管.doc
+|   |   |   |       华东机票业务部经理.doc
+|   |   |   |       商旅-分公司商务管理中心经理.doc
+|   |   |   |       商旅-客户经理.doc
+|   |   |   |       商旅-销售经理.doc
+|   |   |   |       市场销售人员.doc
+|   |   |   |       市场销售经理.doc
+|   |   |   |       综合管理部业务主管.doc
+|   |   |   |       综合管理部经理.doc
+|   |   |   |       配送业务人员.doc
+|   |   |   |       酒店业务主管.doc
+|   |   |   |       酒店业务部经理.doc
+|   |   |   |       
+|   |   |   +---July 7-市场推广部
+|   |   |   |       CRM助理经理.doc
+|   |   |   |       CRM总经理.doc
+|   |   |   |       助理总经理.doc
+|   |   |   |       卡推广销售主任.doc
+|   |   |   |       卡推广销售经理.doc
+|   |   |   |       品牌传讯主任.doc
+|   |   |   |       品牌传讯经理.doc
+|   |   |   |       
+|   |   |   +---July 7-投资策划部
+|   |   |   |       战略规划专员.doc
+|   |   |   |       战略规划部经理.doc
+|   |   |   |       战略规划高级专员.doc
+|   |   |   |       投资策划总监.doc
+|   |   |   |       投资部专员.doc
+|   |   |   |       投资部经理.doc
+|   |   |   |       投资部高级专员.doc
+|   |   |   |       
+|   |   |   +---July 7-财务部
+|   |   |   |       会计助理.doc
+|   |   |   |       出纳.doc
+|   |   |   |       助理财务经理.doc
+|   |   |   |       北京会计助理.doc
+|   |   |   |       北京公司财务部经理.doc
+|   |   |   |       北京财务主任.doc
+|   |   |   |       华东会计助理.doc
+|   |   |   |       华东公司财务部经理.doc
+|   |   |   |       华东财务主任.doc
+|   |   |   |       法律秘书.doc
+|   |   |   |       财务主任.doc
+|   |   |   |       财务总监.doc
+|   |   |   |       财务经理.doc
+|   |   |   |       
+|   |   |   \---July 8- 资讯科技部
+|   |   |           PC维修员.doc
+|   |   |           分析程序员.doc
+|   |   |           应用软件开发组经理.doc
+|   |   |           开发部副总经理.doc
+|   |   |           开发部总经理.doc
+|   |   |           技术支持工程师.doc
+|   |   |           技术支持经理.doc
+|   |   |           技术部总经理.doc
+|   |   |           操作维修组经理.doc
+|   |   |           操作维修部总经理.doc
+|   |   |           数据库管理员.doc
+|   |   |           文档管理员.doc
+|   |   |           新技术研发与应用.doc
+|   |   |           电话交换机机房值班员.doc
+|   |   |           知识库管理员.doc
+|   |   |           知识库管理经理.doc
+|   |   |           程序员.doc
+|   |   |           系统分析员.doc
+|   |   |           网站开发组经理.doc
+|   |   |           网站程序员.doc
+|   |   |           网站设计师.doc
+|   |   |           网络数据库管理组经理.doc
+|   |   |           网络管理员.doc
+|   |   |           美工.doc
+|   |   |           计划控制员.doc
+|   |   |           资讯科技部副总监.doc
+|   |   |           资讯科技部总监.doc
+|   |   |           软件开发工程师.doc
+|   |   |           软件开发经理.doc
+|   |   |           项目经理.doc
+|   |   |           
+|   |   +---July 7-Director
+|   |   |       hr.rar
+|   |   |       July 4-it.rar
+|   |   |       July 5-人事行政总监.doc
+|   |   |       职位描述-业务拓展总监.doc
+|   |   |       职位描述-人事行政总监.doc
+|   |   |       职位描述-市场总监.doc
+|   |   |       职位描述-投资策划总监.doc
+|   |   |       职位描述-财务总监.doc
+|   |   |       
+|   |   +---July 7-华东公司
+|   |   +---package
+|   |   |       旅遊產品部業務方案20050621.doc
+|   |   |       职位描述-旅游产品业务部产品策划专员20050628.doc
+|   |   |       职位描述-旅游产品业务部产品策划经理20050628.doc
+|   |   |       职位描述-旅游产品业务部产品采购专员 20050628.doc
+|   |   |       职位描述-旅游产品业务部信息汇总员20050628.doc
+|   |   |       职位描述-旅游产品业务部总经理20050628.doc
+|   |   |       職位描述-旅遊產品業務部信息總員20050621.doc
+|   |   |       職位描述-旅遊產品業務部產品採購主管20050621.doc
+|   |   |       職位描述-旅遊產品業務部產品策劃主管20050621.doc
+|   |   |       職位描述-旅遊產品業務部產品策劃经理20050621.doc
+|   |   |       職位描述-旅遊產品業務部高級经理20050620.doc
+|   |   |       
+|   |   +---ticket
+|   |   |       地区运营主管.doc
+|   |   |       市场采购一般员工.doc
+|   |   |       机票业务本部职位描述－营业高级经理.doc
+|   |   |       机票业务本部职位描述－采购高级经理.doc
+|   |   |       机票市场营销高级经理.doc
+|   |   |       运营管理一般员工.doc
+|   |   |       采购地区主管.doc
+|   |   |       
+|   |   +---其它
+|   |   |   |   July 4-副财务总监.doc
+|   |   |   |   July 4-财务总监.doc
+|   |   |   |   July 6-职位描述－合作及增值高级经理.doc
+|   |   |   |   July 6-职位描述－增值服务策划专员.doc
+|   |   |   |   July 6-职位描述－媒体合作专员.doc
+|   |   |   |   July 6-职位描述－对外合作项目经理.doc
+|   |   |   |   July 6-职位描述－市场情报专员.doc
+|   |   |   |   业务拓展工作手册.doc
+|   |   |   |   规划预算和其它管理人员.doc
+|   |   |   |   
+|   |   |   +---北京－市场销售部
+|   |   |   |       July 5-北京-市场营销总监.doc
+|   |   |   |       July 5-北京公司-会员主管.doc
+|   |   |   |       July 5-北京公司-公关策划经理.doc
+|   |   |   |       July 5-北京公司-关系营销经理.doc
+|   |   |   |       July 5-北京公司-广告主管.doc
+|   |   |   |       July 5-北京公司-销售主管.doc
+|   |   |   |       
+|   |   |   +---北京－行政人事部
+|   |   |   |       July 5-北京公司-网络管理工程师.doc
+|   |   |   |       July 5-北京公司-行政主管.doc
+|   |   |   |       July 5-北京公司－前台接待员.doc
+|   |   |   |       July 5-北京公司－薪酬绩效主管.doc
+|   |   |   |       July 5-北京分公司-人事主管.doc
+|   |   |   |       July 5-北京分公司-行政人事总经理.doc
+|   |   |   |       
+|   |   |   \---北京－财务部
+|   |   |           July 5-北京－会计主管.doc
+|   |   |           July 5-北京－会计经理.doc
+|   |   |           July 5-北京－出纳.doc
+|   |   |           July 5-北京－国际国内机票结算员.doc
+|   |   |           July 5-北京－客户结算员.doc
+|   |   |           July 5-北京－收银员.doc
+|   |   |           July 5-北京－票务核算会计.doc
+|   |   |           July 5-北京－结算经理.doc
+|   |   |           July 5-北京－综合会计.doc
+|   |   |           July 5-北京－财务部总经理.doc
+|   |   |           
+|   |   \---压缩文件
+|   |           beijing.rar
+|   |           July 4-fin.rar
+|   |           July 4-investment.rar
+|   |           July 6-hr.rar
+|   |           July 7-Director.rar
+|   |           
+|   \---提交客户
+|       |   0527CTSHK-人员招聘、配置V1.0.ppt
+|       |   0530CTSHK-人员招聘、配置V1.0.ppt
+|       |   0612职位评估打分表.xls
+|       |   20050508培训用表.doc
+|       |   20050508职位描述培训.ppt
+|       |   4 - April 29 培训管理制度.doc
+|       |   call center JD.rar
+|       |   CTSHK-人员招聘、配置表格.doc
+|       |   CTSHK-人员招聘表格0621.doc
+|       |   CTSHK-人员招聘表格0621.rar
+|       |   CTSHK－培训课程v1.1.xls
+|       |   JD 2.0.rar
+|       |   JDGM.rar
+|       |   July 2 培训体系.ppt
+|       |   July 7 职位列表.xls
+|       |   July4.职位列表.xls
+|       |   May 16 - 20 项目进展报告.doc
+|       |   中央平台人员配置图.ppt
+|       |   人力资源培训.ppt
+|       |   人员需求5.xls
+|       |   企业文化初稿.doc
+|       |   员工发展0616（1）.ppt
+|       |   港中旅中央平台招聘制度V1.0.rar
+|       |   港中旅费用明细.xls
+|       |   绩效管理方案演示版.ppt
+|       |   职位评估方法及程序培训.ppt
+|       |   能力素质模0612.rar
+|       |   能力素质模型.rar
+|       |   能力素质模型6.12.ppt
+|       |   表格.rar
+|       |   表格V2.0.rar
+|       |   部门能力素质.xls
+|       |   项目中期成果.rar
+|       |   
+|       \---表格V2.0
+|           \---表格
+|                   June 16 - HRF001工作申请表.doc
+|                   June 16 - HRF002初试表格.doc
+|                   June 16 - HRF003投资策划部招聘复试表格.doc
+|                   June 16 - HRF004业务拓展部招聘复试表格.doc
+|                   June 16 - HRF005资讯科技部招聘复试表格.doc
+|                   June 16 - HRF006市场推广部招聘复试表格.doc
+|                   June 16 - HRF007运营中心酒店业务部招聘复试表格.doc
+|                   June 16 - HRF008运营中心机票业务部招聘复试表格.doc
+|                   June 16 - HRF009运营中心旅游产品部招聘复试表格.doc
+|                   June 16 - HRF010运营中心商旅业务部招聘复试表格.doc
+|                   June 16 - HRF011运营中心客户服务中心招聘复试表格.doc
+|                   June 16 - HRF012运营中心网站招聘复试表格.doc
+|                   June 16 - HRF013财务核算部招聘复试表格.doc
+|                   June 16 - HRF014法律秘书部招聘复试表格.doc
+|                   June 16 - HRF015人力资源部招聘复试表格.doc
+|                   June 16 - HRF016行政部招聘复试表格.doc
+|                   June 16 - HRF017招聘面试问题.doc
+|                   
++---凯捷—五矿控股重组华锡集团及大厂矿区咨询项目全案  100MB
+|   |   1024-行业及竞争对手分析_锡.ppt
+|   |   2000年中国有色金属工业概况(29880字).mht
+|   |   price of antimony.xls
+|   |   《中國的礦產資源政策》白皮書.mht
+|   |   中华人民共和国锡金属产品质量标准.jpg
+|   |   中博所尽职调查报告（定稿).doc
+|   |   中国有色金属研究报告.doc
+|   |   中国的矿产资源政策.mht
+|   |   中期报告.doc
+|   |   中金岭南2003年年报.pdf
+|   |   五矿华锡重组项目访谈纪要.doc
+|   |   五矿华锡重组项目－管控访谈大纲.doc
+|   |   五矿华锡项目建议书 zy 040426.ppt
+|   |   五矿控股重组华锡集团及大厂矿区项目建议书040928.ppt
+|   |   五矿有色-锑行业研究0614.ppt
+|   |   五矿有色-锡行业研究-v4.3-zhp.ppt
+|   |   五矿有色——华锡集团购并项目——铟行业分析.ppt
+|   |   五矿有色——钨产业发展战略和整合平台报告（V4.2）-修改稿.pp.ppt
+|   |   五矿有色控股重组华锡集团及大厂矿区项目建议书.ppt
+|   |   五矿有色收购锡矿山财务预测 041012.ppt
+|   |   五矿锡矿山项目预决算表 zy 040720.xls
+|   |   华锡产品深加工项目简介.doc
+|   |   华锡协调组第三次会议纪要.pdf
+|   |   华锡集团四大生产基地巡礼.mht
+|   |   华锡集团垄断国际铟市场.mht
+|   |   华锡项目资料汇总.doc
+|   |   固体矿产勘查产业发展状况调研报告.mht
+|   |   大厂矿床网格构造示意图.jpg
+|   |   广西南丹池多金属矿带构造地质图.jpg
+|   |   广西大厂100号矿体分析.ppt
+|   |   控股重组华锡集团项目建议书(修改版)-040928.doc
+|   |   控股重组华锡集团项目建议书.doc
+|   |   收购锡矿山委托合同 040720.doc
+|   |   收购锡矿山委托合同（修改版） 040726.doc
+|   |   文件列表输出.bat
+|   |   文档目录结构.txt
+|   |   文档目录结构.xls
+|   |   有关锡矿山项目报价的说明.doc
+|   |   有色金属相关资料 zy 031125.doc
+|   |   氯碱化工2003年年度报告.pdf
+|   |   湖南锡矿山初步财务预测 041009.doc
+|   |   网易新闻频道--南丹有色金属过量开采 可利用储量已难以为继.mht
+|   |   资料.doc
+|   |   远卓问卷(五矿有色锡部提供的资料).doc
+|   |   选矿流程.jpg
+|   |   选矿流程2.jpg
+|   |   錫.mht
+|   |   铟行业分析.ppt
+|   |   铟行业分析3.ppt
+|   |   锌业股份2003年年度报.pdf
+|   |   锑矿分布图.jpg
+|   |   锑矿质量标准.jpg
+|   |   锑行业分析0604.ppt
+|   |   锑行业研究格局分析.ppt
+|   |   锑部工作汇报.doc
+|   |   锡业股份2003年年度报告.pdf
+|   |   锡矿山人员安排 040720.xls
+|   |   锡矿山调研报告05_27.doc
+|   |   锡矿山财务预测041015.ppt
+|   |   锡矿山锑矿田构造地质图.jpg
+|   |   锡精矿质量标准.jpg
+|   |   高峰公司资料.doc
+|   |   
+|   +---五矿资料
+|   |       2003锑市场回顾.doc
+|   |       中国锑市场调查031118.doc
+|   |       全国主要锑厂商产量2002__2003.xls
+|   |       铅锑金属量2002.htm
+|   |       锑市场简析20031218.ppt
+|   |       锑部工作汇报.doc
+|   |       
+|   +---华锡资料
+|   |   +---优惠政策
+|   |   |       优惠政策1.jpg
+|   |   |       优惠政策2.jpg
+|   |   |       优惠政策3.jpg
+|   |   |       优惠政策4.jpg
+|   |   |       优惠政策5.jpg
+|   |   |       
+|   |   +---其他资料
+|   |   |       主辅分离实施情况.jpg
+|   |   |       发展规划和重点项目.jpg
+|   |   |       
+|   |   +---华锡资料
+|   |   |       关于华锡项目的数据.doc
+|   |   |       关于职工身份置换有关资料汇总.doc
+|   |   |       
+|   |   +---局部破产情况
+|   |   |       局部关闭破产1.jpg
+|   |   |       局部关闭破产2.jpg
+|   |   |       局部关闭破产3.jpg
+|   |   |       局部关闭破产4.jpg
+|   |   |       局部关闭破产5.jpg
+|   |   |       局部关闭破产6.jpg
+|   |   |       局部关闭破产7.jpg
+|   |   |       
+|   |   \---财务情况
+|   |           主要产品产量.jpg
+|   |           利润表.jpg
+|   |           工资.jpg
+|   |           财务情况说明书1.jpg
+|   |           财务情况说明书2.jpg
+|   |           
+|   +---参考资料
+|   |       五矿有色三年滚动发展回顾.doc
+|   |       五矿有色投资企业.xls
+|   |       广西协调会.pdf
+|   |       广西地图.mht
+|   |       广西经委、国资委、财政厅、国土厅向自治区政府提交的《关于将华锡整体划拨给中国五矿集团公司的意见》.pdf
+|   |       总公司三年规划报告0.61_加入投资部文章_03-12-04_TF.ppt
+|   |       自治区党委 自治区人民政府关于进一步加快政企分开的意见.doc
+|   |       自治区党委自治区人民政府关于加快企业国有产权改革的意见.doc
+|   |       
+|   +---客户资料
+|   |       5月19日方案建议摘要报告(修改).doc
+|   |       中国铝业商请函.pdf
+|   |       五矿集团与华锡集团6月11日会谈情况汇报.doc
+|   |       华锡产品深加工项目简介.doc
+|   |       华锡集团内部改革方案.doc
+|   |       柳州华锡集团有限责任公司改制方案.doc
+|   |       第一次协调会会议纪要.pdf
+|   |       第二次协调会会议纪要 040623.pdf
+|   |       经济合作项目.doc
+|   |       
+|   +---尽职调查
+|   |   |   五矿华锡重组项目访谈纪要.doc
+|   |   |   五矿华锡项目财务尽职调查提纲.doc
+|   |   |   关于五矿华锡项目的有关问题.doc
+|   |   |   关于五矿华锡项目的有关问题和建议.doc
+|   |   |   关于华锡集团重组的工作方案_矿业与安全.doc
+|   |   |   关于整合大厂矿区初步的资料调研 060715.doc
+|   |   |   华锡尽职调查清单20040602－法律.doc
+|   |   |   尽职调查提纲 040714.doc
+|   |   |   尽职调查整体安排建议 040602.doc
+|   |   |   尽职调查简化提纲 040715.doc
+|   |   |   尽职调查表格 zy 040606.xls
+|   |   |   河池南丹企业调研.xls
+|   |   |   访谈提纲——五矿有色本部.doc
+|   |   |   访谈提纲——华锡集团.doc
+|   |   |   需要补充的材料 040716.doc
+|   |   |   
+|   |   \---old
+|   |           五矿华锡项目财务尽职调查提纲.doc
+|   |           关于华锡集团重组的工作方案_矿业与安全.doc
+|   |           华锡尽职调查清单20040602－法律.doc
+|   |           尽职调查整体安排建议 040602.doc
+|   |           尽职调查表格 zy 040606.xls
+|   |           
+|   +---尽职调查安排
+|   |       主题：锡矿山尽职调查报告补充内容.doc
+|   |       五矿湖南锡矿山项目尽职调查法律服务协议.doc
+|   |       五矿湖南锡矿山项目财务尽职调查提纲.doc
+|   |       前期调查提纲.doc
+|   |       尽职调查--环境类.doc
+|   |       尽职调查整体安排建议 040610.doc
+|   |       尽职调查表格.xls
+|   |       营销调查.doc
+|   |       评估申报明细表2（样表2004）.xls
+|   |       资产评估填表说明.doc
+|   |       资产评估项目前期准备资料.doc
+|   |       锡矿山尽职调查清单和安排（中博）.doc
+|   |       锡矿山非经营性资产情况表 040727.xls
+|   |       
+|   +---方案
+|   |   |   galem chen.xls
+|   |   |   五矿控股重组华锡的合作方案0610.doc
+|   |   |   五矿控股重组华锡的合作方案0622.doc
+|   |   |   五矿有色股份有限公司与柳州华锡集团有限公司合作方案建议.doc
+|   |   |   五矿集团与华锡集团合作方案的比较分析报告.doc
+|   |   |   五矿集团就华锡集团提出的重组方案的回复和建议.doc
+|   |   |   关于五矿华锡项目重组方案的若干建议040706.doc
+|   |   |   关于五矿华锡项目重组细化方案.doc
+|   |   |   关于五矿集团就华锡集团所提重组方案的回复和建议 040714.doc
+|   |   |   关于五矿集团重组华锡集团的方案建议040717.doc
+|   |   |   关于投资华锡集团财务预测匡算 040913.doc
+|   |   |   华锡初步财务预测 040802zhouy.xls
+|   |   |   框架协议（讨论稿） 040915.doc
+|   |   |   
+|   |   \---财务预测0722
+|   |           关于投资华锡集团财务预测匡算 040722.doc
+|   |           关于投资华锡集团财务预测匡算040722.xls
+|   |           
+|   +---江钨项目
+|   |       中钨集团可行性研究报告（最终版） 030925.doc
+|   |       漂塘（维简费） zy 030621.xls
+|   |       
+|   +---湖南地理知识
+|   |       湖南地图.jpg
+|   |       湖南省地理知识.mht
+|   |       湖南省旅游地图.gif
+|   |       湖南省－中华地图网.jpg
+|   |       
+|   +---湖南省破产企业相关法律
+|   |       New Text Document.txt
+|   |       属国有企业分离办社会职能的实施意见.mht
+|   |       建立健全省国有资产监督管理体制的若干意见.mht
+|   |       湖南省关于国有企业主辅分离、辅业改制方面的有关规定.doc
+|   |       省属国有企业关闭破产工作的实施意见.mht
+|   |       省属国有企业改制职工分流安置和社会保障实施暂行办法.mht
+|   |       省属国有企业改革专项资金管理暂行办法.mht
+|   |       省属国有企业改革中土地使用权处置暂行办法.mht
+|   |       省属国有企业改革中工商登记注册处理办法.mht
+|   |       省属国有企业改革中离休干部安置管理工作的实施意见.mht
+|   |       省属国有企业经营者员工持股暂行办法.mht
+|   |       规范省属国有资产产权交易行为的若干意见.mht
+|   |       鼓励各类投资者参与省属国有企业改革的若干意见.mht
+|   |       
+|   +---矿资源基本知识和概念
+|   |       中华人民共和国地质矿产行业标准.doc
+|   |       金属矿床地质勘探规范总则.doc
+|   |       
+|   +---祥云飞龙
+|   |       产品成本表.xls
+|   |       祥云飞龙实业有限公司投资建议报告 zy 031205.doc
+|   |       飞龙盈利预测 zy 031110.xls
+|   |       
+|   +---访谈
+|   |   +---北京五矿
+|   |   |       2002年度中国锑品出口供货企业名单.doc
+|   |   |       五矿华锡重组项目访谈纪要.doc
+|   |   |       北京矿冶研究总院访谈纪要.doc
+|   |   |       彭卜钢访谈纪要.doc
+|   |   |       锌银贵金属、锡镍部访谈纪要.doc
+|   |   |       锑部访谈纪要.doc
+|   |   |       
+|   |   \---河池华锡
+|   |           南丹县政府访谈040722.doc
+|   |           河池市4家矿山企业访谈040722.doc
+|   |           河池市政府访谈纪要040721.doc
+|   |           高峰矿业黎全总经理访谈040722.doc
+|   |           高峰矿及铜坑矿的数据统计.xls
+|   |           
+|   +---财务预测
+|   |   +---due diligence
+|   |   |       01~03成本费用资料.doc
+|   |   |       基础数据 040811.xls
+|   |   |       有关固定资产说明.doc
+|   |   |       管理费用明细表.xls
+|   |   |       锡矿山尽职调查工作计划 zy 040805.doc
+|   |   |       锡矿山尽职调查表格 zy 040805.xls
+|   |   |       
+|   |   +---Galem
+|   |   |   +---040817  2.30 PM
+|   |   |   |       完整报表版本040817.rar
+|   |   |   |       未考虑期间费用版本040817.rar
+|   |   |   |       
+|   |   |   +---040817 24.00 PM
+|   |   |   |       完整报表版本040818.rar
+|   |   |   |       未考虑期间费用版本040818.rar
+|   |   |   |       
+|   |   |   +---market analysis
+|   |   |   |       2003年上半年氯碱板块上市公司分析.mht
+|   |   |   |       下半年烧碱市场预测.doc
+|   |   |   |       我国氯碱工业分析展望.doc
+|   |   |   |       氯碱定价方法和价格走势分析.mht
+|   |   |   |       
+|   |   |   +---完整报表版本
+|   |   |   |       draft.doc
+|   |   |   |       化工厂财务预测040817(模拟完整版).xls
+|   |   |   |       基础数据 040811.xls
+|   |   |   |       湖南锡矿山初步财务预测 040812galem.doc
+|   |   |   |       锌厂财务预测040817(模拟完整版).xls
+|   |   |   |       锡矿山财务预测.eml
+|   |   |   |       预测数据 040817.xls
+|   |   |   |       
+|   |   |   \---未考虑期间费用版本
+|   |   |           Shortcut to 未考虑期间费用版本.lnk
+|   |   |           化工厂财务预测040817.xls
+|   |   |           湖南锡矿山初步财务预测 040817.doc
+|   |   |           锌厂财务预测040817.xls
+|   |   |           
+|   |   \---Zhouyi
+|   |       +---8-20
+|   |       |       01~03成本费用资料.doc
+|   |       |       price of antimony.xls
+|   |       |       五矿预测数据.xls
+|   |       |       分析数据.xls
+|   |       |       化工厂财务预测(模拟完整版).xls
+|   |       |       基础数据.xls
+|   |       |       敏感性分析.xls
+|   |       |       有关固定资产说明.doc
+|   |       |       湖南锡矿山初步财务预测.doc
+|   |       |       管理费用明细表.xls
+|   |       |       表格.xls
+|   |       |       锌厂敏感性分析（上涨）.xls
+|   |       |       锌厂敏感性分析（下跌）.xls
+|   |       |       锌厂财务预测(模拟完整版).xls
+|   |       |       锑品敏感性分析（上涨）.xls
+|   |       |       锑品敏感性分析（下跌）.xls
+|   |       |       预测数据.xls
+|   |       |       
+|   |       +---8-21
+|   |       |       01~03成本费用资料.doc
+|   |       |       price of antimony.xls
+|   |       |       五矿预测数据 040817.xls
+|   |       |       分析数据 040819.xls
+|   |       |       化工厂财务预测040817(模拟完整版).xls
+|   |       |       基础数据 040811.xls
+|   |       |       敏感性分析 040820.xls
+|   |       |       有关固定资产说明.doc
+|   |       |       湖南锡矿山初步财务预测 040820.doc
+|   |       |       湖南锡矿山初步财务预测 040821.doc
+|   |       |       管理费用明细表.xls
+|   |       |       表格 040819.xls
+|   |       |       锌厂敏感性分析（上涨）040820.xls
+|   |       |       锌厂敏感性分析（下跌）040820.xls
+|   |       |       锌厂财务预测040817(模拟完整版).xls
+|   |       |       锑品敏感性分析（上涨） 040820.xls
+|   |       |       锑品敏感性分析（下跌） 040820.xls
+|   |       |       预测数据 040819.xls
+|   |       |       
+|   |       +---8-23
+|   |       |   |   分析数据 040823.xls
+|   |       |   |   化工厂财务预测040817(模拟完整版).xls
+|   |       |   |   基础数据 040811.xls
+|   |       |   |   敏感性分析 040823.xls
+|   |       |   |   湖南锡矿山初步财务预测 040822.doc
+|   |       |   |   表格 040823.xls
+|   |       |   |   锌厂敏感性分析（上涨）040820.xls
+|   |       |   |   锌厂敏感性分析（下跌）040820.xls
+|   |       |   |   锌厂财务预测040817(模拟完整版).xls
+|   |       |   |   锑品敏感性分析（上涨） 040820.xls
+|   |       |   |   锑品敏感性分析（上涨） 040823.xls
+|   |       |   |   锑品敏感性分析（下跌） 040820.xls
+|   |       |   |   锑品敏感性分析（下跌） 040823.xls
+|   |       |   |   预测数据 040823.xls
+|   |       |   |   
+|   |       |   \---锡矿山版本
+|   |       |           湖南锡矿山初步财务预测 040822.doc
+|   |       |           湖南锡矿山初步财务预测 及方案.doc
+|   |       |           
+|   |       +---9-1
+|   |       |       基础数据 040901.xls
+|   |       |       敏感性分析 040901.xls
+|   |       |       湖南锡矿山初步财务预测 040901.doc
+|   |       |       表格 040901.xls
+|   |       |       锌厂敏感性分析（上涨）040901.xls
+|   |       |       锌厂敏感性分析（下跌）040901.xls
+|   |       |       锌厂财务预测040901.xls
+|   |       |       锑品敏感性分析（上涨） 040901.xls
+|   |       |       锑品敏感性分析（下跌） 040901.xls
+|   |       |       预测数据 040901.xls
+|   |       |       
+|   |       \---方案
+|   |               收购锡矿山方案框架 040727.doc
+|   |               重组方案.ppt
+|   |               锡矿山重组方案（第二稿）040820.doc
+|   |               
+|   +---重组方案
+|   |       收购锡矿山方案框架 040727.doc
+|   |       
+|   +---铟业
+|   |   |   2003年全球需求将进一步增长.htm
+|   |   |   ITO（铟锡氧化物）靶材生产技术.htm
+|   |   |   jiangao .doc
+|   |   |   全世界铟工业资源_应用现状与展望('99文献).htm
+|   |   |   分散元素的简介(2003年文献).htm
+|   |   |   华锡集团动工铟锌二期工程.htm
+|   |   |   南丹有色金属过量开采可用储量难以为继.htm
+|   |   |   国内铟产品结构需要调整.htm
+|   |   |   国际铟价触及5年最高位.htm
+|   |   |   复产之后南丹定位从全球市场容量看广西有色发展战略(2003年文献).htm
+|   |   |   市场人士预测国际市场铟价将继续上涨.htm
+|   |   |   广西.htm
+|   |   |   广西柳州地区经济发展综述(2002年文献).htm
+|   |   |   新型半绝缘磷化铟晶片研制成功.htm
+|   |   |   柳州市有色冶炼总厂.htm
+|   |   |   柳州铟泰科技.htm
+|   |   |   株冶铟产量将减少.htm
+|   |   |   精心打造世界“铟都”柳州华锡集团公司.htm
+|   |   |   铟元素.doc
+|   |   |   锌业股份.doc
+|   |   |   
+|   |   +---2003年全球需求将进一步增长.files
+|   |   |       horizon.gif
+|   |   |       infobank.gif
+|   |   |       
+|   |   +---ITO（铟锡氧化物）靶材生产技术.files
+|   |   |       bk3.gif
+|   |   |       
+|   |   +---全世界铟工业资源_应用现状与展望('99文献).files
+|   |   |       ced.gif
+|   |   |       infobank.gif
+|   |   |       
+|   |   +---分散元素的简介(2003年文献).files
+|   |   |       hksn.gif
+|   |   |       infobank.gif
+|   |   |       
+|   |   +---华锡集团动工铟锌二期工程.files
+|   |   |       main.css
+|   |   |       top.gif
+|   |   |       
+|   |   +---南丹有色金属过量开采可用储量难以为继.files
+|   |   |   |   1pt.gif
+|   |   |   |   21cn.gif
+|   |   |   |   com.gif
+|   |   |   |   education.js
+|   |   |   |   finance_all.js
+|   |   |   |   finhzh_qh.js
+|   |   |   |   fn_left.js
+|   |   |   |   it.js
+|   |   |   |   news&adsize=1x1&type=pageview&unique=965611360466728700.htm
+|   |   |   |   others.js
+|   |   |   |   tell-logo.gif
+|   |   |   |   travel.js
+|   |   |   |   
+|   |   |   \---news&adsize=1x1&type=pageview&unique=965611360466728700.files
+|   |   |           1x1.gif
+|   |   |           
+|   |   +---国内铟产品结构需要调整.files
+|   |   |       main.css
+|   |   |       top.gif
+|   |   |       
+|   |   +---国际铟价触及5年最高位.files
+|   |   |       main.css
+|   |   |       top.gif
+|   |   |       
+|   |   +---复产之后南丹定位从全球市场容量看广西有色发展战略(2003年文献).files
+|   |   |       ced.gif
+|   |   |       infobank.gif
+|   |   |       
+|   |   +---市场人士预测国际市场铟价将继续上涨.files
+|   |   |       main.css
+|   |   |       top.gif
+|   |   |       
+|   |   +---广西.files
+|   |   |       biaoshi.gif
+|   |   |       main.css
+|   |   |       top.gif
+|   |   |       
+|   |   +---广西柳州地区经济发展综述(2002年文献).files
+|   |   |       cnnews.gif
+|   |   |       infobank.gif
+|   |   |       
+|   |   +---新型半绝缘磷化铟晶片研制成功.files
+|   |   |       bg.gif
+|   |   |       bt8.gif
+|   |   |       bwss.js
+|   |   |       Count.gif
+|   |   |       gg.gif
+|   |   |       kjjx.js
+|   |   |       line1.gif
+|   |   |       ntem.gif
+|   |   |       
+|   |   +---柳州市有色冶炼总厂.files
+|   |   |       bgimg.gif
+|   |   |       cer1_c.jpg
+|   |   |       cer2_c.jpg
+|   |   |       pre.jpg
+|   |   |       ti11.gif
+|   |   |       ti12.gif
+|   |   |       ti13.gif
+|   |   |       ti14_c.gif
+|   |   |       ti15.gif
+|   |   |       ti2_c.gif
+|   |   |       ti3.gif
+|   |   |       trans.gif
+|   |   |       
+|   |   +---柳州铟泰科技.files
+|   |   |   |   left.htm
+|   |   |   |   main.htm
+|   |   |   |   top.htm
+|   |   |   |   
+|   |   |   +---left.files
+|   |   |   |       jia3.jpg
+|   |   |   |       jia4.jpg
+|   |   |   |       
+|   |   |   +---main.files
+|   |   |   |       office1.jpg
+|   |   |   |       
+|   |   |   \---top.files
+|   |   |           jia1.jpg
+|   |   |           jia2.jpg
+|   |   |           
+|   |   +---株冶铟产量将减少.files
+|   |   |       ced.gif
+|   |   |       infobank.gif
+|   |   |       
+|   |   \---精心打造世界“铟都”柳州华锡集团公司.files
+|   |           horizon.gif
+|   |           infobank.gif
+|   |           
+|   +---铟建议书
+|   |   |   1024-行业及竞争对手分析_锡.ppt
+|   |   |   五矿有色-锑行业研究-v4.0-zhenggf.ppt
+|   |   |   五矿有色-锡行业研究-v4.2-zhp.ppt
+|   |   |   罗兰贝格PPT图库.ppt
+|   |   |   钨.ppt
+|   |   |   铟行业分析.ppt
+|   |   |   铟行业分析.xls
+|   |   |   铟行业分析2.ppt
+|   |   |   铟行业分析最终版.ppt
+|   |   |   麦肯锡图表汇总.ppt
+|   |   |   
+|   |   +---华锡尽职调查安排
+|   |   |       五矿华锡项目财务尽职调查提纲.doc
+|   |   |       关于华锡集团重组的工作方案_矿业与安全.doc
+|   |   |       华锡尽职调查清单20040602－法律.doc
+|   |   |       尽职调查整体安排建议 040602.doc
+|   |   |       尽职调查表格 zy 040606.xls
+|   |   |       
+|   |   +---华锡行研和项目建议书
+|   |   |       五矿华锡项目建议书 zy 040426.ppt
+|   |   |       
+|   |   \---访谈
+|   |           北京矿冶研究总院访谈纪要.doc
+|   |           华锡产品深加工项目简介.doc
+|   |           国研网.doc
+|   |           彭卜钢访谈纪要.doc
+|   |           锌银贵金属、锡镍部访谈纪要.doc
+|   |           锑部访谈纪要.doc
+|   |           
+|   +---铟资料
+|   |       2000年中国有色金属工业概况(29880字).mht
+|   |       2002年3月12日广西柳州华锡集团铟锌二期工程开工(267字).txt
+|   |       2003年12月广西工业品出厂价创全年单月最高(792字).txt
+|   |       2003年7月中旬中国铟的出口价格已达200美元-千克的高点(294字).txt
+|   |       2003年全球需求将进一步增长(2281字).txt
+|   |       2004年中国铟价会达到500美元-千克(2188字).txt
+|   |       2004年经济运行工作基本思路及要点的通知.mht
+|   |       94铟市场分析.pdf
+|   |       9900型靶材与靶托的连接技术.pdf
+|   |       ITO（铟锡氧化物）靶材生产技术.txt
+|   |       jiangao .doc
+|   |       Sn-Cu合金电镀.pdf
+|   |       Text_dll.txt
+|   |       《中國的礦產資源政策》白皮書.mht
+|   |       三甲基铟、三乙基铟制备的研究进展.pdf
+|   |       世界铟将供过于求.pdf
+|   |       中国有色金属研究报告.doc
+|   |       中国的“小”金属.pdf
+|   |       中国矿业网.txt
+|   |       中国磷化铟单晶生长技术获突破(563字).txt
+|   |       中国铟价从原来的190-210美元-公斤上涨到210-220美元-公斤(337字).txt
+|   |       中国铟出口价格飞速上涨(453字).txt
+|   |       中国铟生产商计划继续上调售价(348字).txt
+|   |       中国铟硒太阳能薄膜电池科技攻关取得突破(970字).txt
+|   |       云南蒙自将成为全国第二大铟生产基地(325字).txt
+|   |       从全球市场容量看广西有色金属发展战略的定位——访柳州华锡集团副总经理姚文治.pdf
+|   |       从电炉底铅中回收铟和锗从电炉底铅中回收铟和锗.pdf
+|   |       从置换过程中提高粗铟质量的途径.pdf
+|   |       从铅烟尘中提取铟的萃取试验与实践.pdf
+|   |       从黄钾铁矾渣中回收锌铟.pdf
+|   |       会员通讯.pdf
+|   |       低酸浸出-溶剂萃取法从含铟渣中回收铟.pdf
+|   |       光电器件用铟锡氧化物ITO薄膜的制备及特性研究.pdf
+|   |       全世界铟工业资源_应用现状与展望('99文献)(3312字).txt
+|   |       全球稀散金属铟供不应求的局面将缓解(1084字).txt
+|   |       分散元素的简介(2003年文献)(3051字).txt
+|   |       化合物半导体材料的现状.pdf
+|   |       化学镀铟集流体对锌粉析氢行为的影响.pdf
+|   |       华锡集团产品战略的设计与实施.pdf
+|   |       南丹有色金属过量开采可用储量难以为继 - 财经 - 21CN_COM.txt
+|   |       发挥铟资源优势发展铟的高新产业.pdf
+|   |       合作和创新将促进中国锡锑工业走上新型工业化道路.pdf
+|   |       含铟矿渣显微岩相分析.pdf
+|   |       固体矿产勘查产业发展状况调研报告.mht
+|   |       国内外锗和铟回收工艺的发展.pdf
+|   |       国内铟产品结构需要调整.txt
+|   |       国外动态.pdf
+|   |       国家“九五”矿业科技攻关成果综述.pdf
+|   |       国研网1-4月我国黑色和有色金属业投资增幅双回落.txt
+|   |       国研网2000年各地区营业收入在10亿元及以上中国大型企业集团（广西）.txt
+|   |       国研网2004年工业企业景气指数.txt
+|   |       国研网中国产业发展景气报告8月4日发布(全文).txt
+|   |       国研网中国有色集团如何“走出去”？.txt
+|   |       国研网中国紧缩政策重创全球金属市场.txt
+|   |       国研网五大因素推动有色金属价格上扬.txt
+|   |       国研网从2003我国有色金属进口情况说起.txt
+|   |       国研网低水平重复建设行业名单圈定　主要涉及钢铁建材有色金属等行业.txt
+|   |       国研网冶金煤炭市场走势的分析和预测.txt
+|   |       国研网出口退税改革有色行业影响几多.txt
+|   |       国研网原材料涨价给世界经济蒙上阴影.txt
+|   |       国研网各行业固定资产投资完成情况(2004年1-4月).txt
+|   |       国研网四大问题凸显制约有色工业发展.txt
+|   |       国研网国内金属行业走出去成为当务之急.txt
+|   |       国研网国际镍价演变趋势分析.txt
+|   |       国研网废金属二次冶炼前景广阔.txt
+|   |       国研网当前部分行业制止低水平重复建设目录（钢铁行业和有色金属行业）.txt
+|   |       国研网我国有色工业发展势头猛.txt
+|   |       国研网我国有色金属产业亟需改变出口格局.txt
+|   |       国研网我国矿山及冶金装备与国外差距.txt
+|   |       国研网有色工业生产经营势头良好.txt
+|   |       国研网有色技术与设备首次向发达国家出口.txt
+|   |       国研网有色行业究竟有多热？.txt
+|   |       国研网有色金属价格反弹分析.txt
+|   |       国研网有色金属企业走出去开拓发展空间.txt
+|   |       国研网有色金属贸易逆差逐年加大.txt
+|   |       国研网有色金属：生产高附加值产品.txt
+|   |       国研网未来10年中国金属消费量将大增.txt
+|   |       国研网没有电价优惠有色日子咋过.txt
+|   |       国研网英媒体称中国对全球金属市场影响日益重要.txt
+|   |       国研网警惕有色金属产品后劲不足.txt
+|   |       国研网试论我国有色金属矿业政策体系的构成.txt
+|   |       国研网金属矿行业如何参与市场竞争？.txt
+|   |       国际动态 3.pdf
+|   |       国际动态.pdf
+|   |       国际动态2.pdf
+|   |       国际动态4.pdf
+|   |       国际市场稀有金属钴_铟供不应求价格上涨(282字).txt
+|   |       国际连续8个月回升之后铟价暂时回落(1335字).txt
+|   |       国际铟价上扬(510字).txt
+|   |       国际铟价触及1998年以来的最高点(249字).txt
+|   |       复产之后南丹定位从全球市场容量看广西有色发展战略(2003年文献)(2913字).txt
+|   |       大厂矿田铟资源的保护和利用.pdf
+|   |       宁夏西北稀有金属材料研究院研制成功氧化铟锡粉体及靶材(297字).txt
+|   |       工业企业电力消费增长的研究分析.pdf
+|   |       广西华锡集团四大生产基地建设概述(3637字).txt
+|   |       广西南丹复产计划搁浅;锑锡铟将长期短缺(1213字).txt
+|   |       广西南丹尾矿中评价出4个金属矿床(957字).txt
+|   |       广西大厂100号矿体分析.ppt
+|   |       广西柳州华锡将建世界铟都(795字).txt
+|   |       广西柳州华锡集团来宾冶炼厂投资1_5亿元进行技术改造(88字).txt
+|   |       广西柳州华锡集团精心打造,蓄势腾飞(1347字).txt
+|   |       广西柳州地区经济发展综述(2002年文献)(5465字).txt
+|   |       广西铟工业发展浅论.pdf
+|   |       我国铟产业现状及发展.pdf
+|   |       接触热阻与接触导热填料.pdf
+|   |       提取铟工艺流程改革试验研究.pdf
+|   |       提高富集铟渣品位及铟回收率的途径探讨.pdf
+|   |       提高车河铟锌精矿质量的工艺研究及生产实践.pdf
+|   |       新材料ITO薄膜的应用和发展.pdf
+|   |       无汞含铟浆层纸.pdf
+|   |       日本发现铟金属可提高二硼化镁超导临界电流密度(381字).txt
+|   |       最新消息.pdf
+|   |       有机铟源的应用开发研究.pdf
+|   |       有色金属2004年第1季度.pdf
+|   |       有色金属产业需改变出口格局.pdf
+|   |       有色金属工业当前形势及加入WTO对有色金属工业的影响.pdf
+|   |       有色金属相关资料 zy 031125.doc
+|   |       未来几年铟价将持续上涨(656字).txt
+|   |       某冶炼厂铟系统设计.pdf
+|   |       某厂提铟工艺技改浅议.pdf
+|   |       柳州华锡集团投资1_5亿元人民币改造锌铟系统(205字).txt
+|   |       株冶成功改进铟生产工艺.pdf
+|   |       株冶铟产量将减少(340字).txt
+|   |       株冶铟冶炼过程及改造.pdf
+|   |       株冶铟富集工艺的改进及应用研究.pdf
+|   |       江西银山铅锌矿床中镉镓铟的赋存状态及综合评价.pdf
+|   |       液晶显示器价格将走出一波下降行情(1754字).txt
+|   |       湖南荣华科技有限公司被迫停止生产(545字).txt
+|   |       湿法炼锌生产中铟的富集实践.pdf
+|   |       火焰发射法测定冶炼废渣中的铟.pdf
+|   |       电子工业将使金属铟的需求增加.pdf
+|   |       电解技术条件对精铟质量的影响.pdf
+|   |       矿业企业发展问题研究报告.mht
+|   |       硬锌真空蒸馏富集锗、铟的研究.pdf
+|   |       稀散元素的回收与应用.pdf
+|   |       稀散金属产业的现状与展望.pdf
+|   |       稀散金属产业的现状与展望2.pdf
+|   |       精铟生产中酸度的影响与控制.pdf
+|   |       网上信息.pdf
+|   |       美铟业公司上调铟售价(210字).txt
+|   |       羟铟石研究的新进展.pdf
+|   |       舞好壮乡工业的龙头.pdf
+|   |       证券投资分析04-宏观与行业-工程机械行业研究报告（天相）.pdf
+|   |       货源紧张将使铟价继续坚挺.pdf
+|   |       近年铟价变化对中国铟工业的影响.pdf
+|   |       铟.pdf
+|   |       铟——限量生产 节制出口.pdf
+|   |       铟价涨至5年来最高(354字).txt
+|   |       铟元素.doc
+|   |       铟冶炼的生产实践.pdf
+|   |       铟及其化合物的毒性研究.pdf
+|   |       铟市场需求前景看好.pdf
+|   |       铟消费逐年递增.pdf
+|   |       铟电解精炼中异常行为的研究.pdf
+|   |       铟的提取、应用和新产品开发.pdf
+|   |       铟的资源、应用和市场.pdf
+|   |       铟锡氧化物 (ITO) 靶材的应用和制备技术.pdf
+|   |       锌业股份.doc
+|   |       锌锰电池缓蚀剂的研究与进展.pdf
+|   |       锌－资料.doc
+|   |       韩国三星液晶显示器在中国变相降价意在夺取中国液显市场半壁江山(1697字).txt
+|   |       韶关冶炼厂铟的综合回收及深加工之探讨.pdf
+|   |       
+|   +---锑行业－ld
+|   |       m3-16-1.jpg
+|   |       Sb.gif
+|   |       t3-16-1-A.jpg
+|   |       t3-16-1.jpg
+|   |       t3-16-2.jpg
+|   |       t3-16-3.jpg
+|   |       t3-16-4-.jpg
+|   |       t3-16-5.jpg
+|   |       t3-16-6.jpg
+|   |       中国有色金属行业研究报告.doc
+|   |       中国锑工业发展概述(2003年文献.doc
+|   |       复产之后南丹定位.doc
+|   |       我国有色金属行业研究报告2.mht
+|   |       我国锑业产销市场透视.doc
+|   |       有色金属行业分析.doc
+|   |       锑产量.doc
+|   |       锑将提高价格.mht
+|   |       锑矿.doc
+|   |       锑矿生产和展望.doc
+|   |       锑行业的综合治理与可持续发展.doc
+|   |       锑金属世界产量.mht
+|   |       锑金属世界产量3.mht
+|   |       阻燃剂.mht
+|   |       
+|   \---锡锑铟行业研究
+|       |   1024-行业及竞争对手分析.ppt
+|       |   1024-行业及竞争对手分析_铟.ppt
+|       |   1024-行业及竞争对手分析_锡.ppt
+|       |   1949～1996年锡产量.jpg
+|       |   世界精锡产量及消费量.mht
+|       |   世界锡消费结构分析.mht
+|       |   世界锡资源储量及储量基础.mht
+|       |   中国矿业网-中国矿情－锡.mht
+|       |   中国矿业网-中国矿情－锡－地质特征.mht
+|       |   中国矿业网-中国矿情－锡－概述.mht
+|       |   中国矿业网-中国矿情－锡－资源.mht
+|       |   中国锡发展趋势.mht
+|       |   中国锡消费结构分析.mht
+|       |   中国锡的生产与消费.mht
+|       |   中国锡矿保有储量(万t)增长表.jpg
+|       |   中国锡矿床—览表.jpg
+|       |   中国锡矿床分布图.jpg
+|       |   主要深加工产品.mht
+|       |   发展趋势分析.mht
+|       |   各种锡材.mht
+|       |   少数民族地区工业地理（二）.mht
+|       |   我国主要矿产开采利用状况.mht
+|       |   焊料.mht
+|       |   玻利维亚矿产资源储量调查.mht
+|       |   精锡产量预测.mht
+|       |   锑行业研究格局分析.ppt
+|       |   锡业股份欢迎您！.mht
+|       |   锡业股份欢迎您！2.mht
+|       |   锡业股份欢迎您！3.mht
+|       |   锡业股份欢迎您！4.mht
+|       |   锡价格走势分析.mht
+|       |   锡合金.mht
+|       |   锡市场与价格.mht
+|       |   锡消费量预测.mht
+|       |   锡的无机化合物.mht
+|       |   锡的有机化合物.mht
+|       |   锡矿产量.jpg
+|       |   
+|       \---锡企业
+|               欢迎光临在线国际商报云南站.mht
+|               
++---凯捷—五矿有色股份公司重组自贡硬质合金有限公司咨询  208MB
+|   |   文档目录结构.txt
+|   |   文档目录结构.xls
+|   |   自汞硬质合金厂成都分公司简介.ppt
+|   |   自硬.rar
+|   |   自硬分公司.rar
+|   |   
+|   +---五矿可研报告
+|   |   |   五矿有色钨整合项目初步投资可行性分析报告－041031.doc
+|   |   |   
+|   |   \---sdfs
+|   |           2003.pdf
+|   |           2004.pdf
+|   |           中钨高新组织结构1030.doc
+|   |           中钨高新组织结构1031.doc
+|   |           五矿有色收购中钨高新净利润测算.doc
+|   |           五矿有色收购中钨高新工作思路.doc
+|   |           五矿有色钨整合项目可行性研究报告－战略部分1028.doc
+|   |           五矿有色钨整合项目可行性研究报告－战略部分1031.doc
+|   |           五矿有色钨整合项目可行性研究报告－行研部分.doc
+|   |           会议纪要041029－与中泰信托探讨五矿信托融资可行性.doc
+|   |           法律风险及对策041030.doc
+|   |           
+|   +---会议纪要
+|   |   |   自硬中介机构协调会纪要 040930.doc
+|   |   |   自硬会议纪要 040924.doc
+|   |   |   
+|   |   \---会议纪要
+|   |           与锡矿山沟通财务预测041014.doc
+|   |           关于自硬项目财务预测和可研报告041017.doc
+|   |           和自硬领导班子沟通方案041020.doc
+|   |           和自贡市政府沟通方案041020.doc
+|   |           投资委员会讨论华锡框架协议041012.doc
+|   |           自硬中介机构第一次协调会041017.doc
+|   |           
+|   +---凯捷内部资料
+|   |       C-General TermsConditions(Zi gong) 040827.doc
+|   |       C-Specific Agreement for the provision of Fixed Price Professioanal Services（Zi Gong） 040827.doc
+|   |       收购自贡报价 040921.xls
+|   |       
+|   +---尽职调查
+|   |   |   五矿整合钨业工作计划041004.doc
+|   |   |   
+|   |   +---尽职调查收集资料
+|   |   |   +---603
+|   |   |   |       2001-2003年财务情况.xls
+|   |   |   |       全面预算(3.5)9月18日2#-shbhyz.xls
+|   |   |   |       南硬2001-2003年财务情况.xls
+|   |   |   |       矿及钴的平均价1.xls
+|   |   |   |       钨精矿价格.xls
+|   |   |   |       
+|   |   |   +---自硬
+|   |   |   |   |   mime001.txt
+|   |   |   |   |   产量表.xls
+|   |   |   |   |   成本指标.xls
+|   |   |   |   |   损益表.xls
+|   |   |   |   |   现金流量表.xls
+|   |   |   |   |   负债表.xls
+|   |   |   |   |   财务快报.xls
+|   |   |   |   |   
+|   |   |   |   \---自硬
+|   |   |   |           五矿钨业整合项目尽职调查资料调研安排（自硬） 041020.doc
+|   |   |   |           债权债务担保合同041020.xls
+|   |   |   |           公司争议情况041020.xls
+|   |   |   |           关联方关系及其交易041020.xls
+|   |   |   |           分公司表格041020.xls
+|   |   |   |           分部资料041020.xls
+|   |   |   |           各公司主体情况041020.xls
+|   |   |   |           员工、税收情况041020.xls
+|   |   |   |           工业产权041020.xls
+|   |   |   |           投资收益041020.xls
+|   |   |   |           自硬改制相关数据表格041004.xls
+|   |   |   |           资产－土地、房屋、设备、车辆、租赁041020.xls
+|   |   |   |           
+|   |   |   +---自硬分公司
+|   |   |   |       五矿钨业整合项目尽职调查资料调研安排（自硬分公司） 041020.doc
+|   |   |   |       债权债务担保合同041020.xls
+|   |   |   |       公司争议情况041020.xls
+|   |   |   |       员工、税收情况041020.xls
+|   |   |   |       工业产权041020.xls
+|   |   |   |       资产－土地、房屋、设备、车辆、租赁041020.xls
+|   |   |   |       
+|   |   |   \---香炉山
+|   |   |           赣北APT项目.doc
+|   |   |           香炉山2003－2004年成本、费用及会计报表上报资料.xls
+|   |   |           香钨尽职调查表格.xls
+|   |   |           香钨财务预测.doc
+|   |   |           
+|   |   \---调查安排
+|   |       |   603财务预测清单040831.doc
+|   |       |   764-市场营销规划.doc
+|   |       |   五矿钨业整合工作计划 040827.doc
+|   |       |   尽职调查表格 zy 040901.xls
+|   |       |   广东中科信集团尽职调查提纲 20040828.doc
+|   |       |   自贡硬质合金厂财务预测清单040831.doc
+|   |       |   自贡硬质合金有限公司尽职调查大纲 20040828.doc
+|   |       |   香炉山财务预测清单040831.doc
+|   |       |   
+|   |       +---中科信
+|   |       |       尽职责任调查问卷（中科信）20041003.doc
+|   |       |       
+|   |       +---中钨高新
+|   |       |       五矿钨业整合项目尽职调查资料调研安排（中钨高新） 041004.doc
+|   |       |       债权债务担保合同.xls
+|   |       |       公司争议情况.xls
+|   |       |       关联方关系及其交易041004.xls
+|   |       |       分公司表格.xls
+|   |       |       分部资料041004.xls
+|   |       |       各公司主体情况.xls
+|   |       |       员工、税收情况.xls
+|   |       |       工业产权.xls
+|   |       |       投资收益041004.xls
+|   |       |       资产－土地、房屋、设备、车辆、租赁041005.xls
+|   |       |       
+|   |       \---自硬
+|   |               五矿钨业整合项目尽职调查资料调研安排（自硬） 041004.doc
+|   |               债权债务担保合同.xls
+|   |               公司争议情况.xls
+|   |               关联方关系及其交易041004.xls
+|   |               分公司表格.xls
+|   |               分部资料041004.xls
+|   |               各公司主体情况.xls
+|   |               员工、税收情况.xls
+|   |               工业产权.xls
+|   |               投资收益041004.xls
+|   |               自硬改制相关数据表格041004.xls
+|   |               资产－土地、房屋、设备、车辆、租赁041005.xls
+|   |               
+|   +---自硬改制
+|   |   +---第一稿
+|   |   |       自硬改制方案（第一稿修改稿）041016.doc
+|   |   |       自贡改制（初稿）041015.ppt
+|   |   |       自贡改制（第一稿）041015.ppt
+|   |   |       
+|   |   +---第三稿
+|   |   |       自硬改制方案（初稿）041021.doc
+|   |   |       自贡改制（初稿）041021.ppt
+|   |   |       
+|   |   \---第二稿
+|   |           自硬改制方案（第二稿）041018.doc
+|   |           自贡改制（第二稿）041018.ppt
+|   |           
+|   +---自贡硬质合金厂
+|   |   |   五矿有色——钨产业发展战略和整合平台报告（V7.2）.ppt
+|   |   |   江钨集团发展规划建议书（沟通版V0.1）.ppt
+|   |   |   自贡硬质合金有限责任公司.doc
+|   |   |   自贡财务成本统计表.xls
+|   |   |   
+|   |   \---自贡硬质合金
+|   |           【科技日报】自贡硬质合金公司产品畅销欧美.mht
+|   |           自贡硬质合金成都公司.mht
+|   |           自贡硬质合金有限公司.mht
+|   |           自贡硬质合金有限公司历史.mht
+|   |           自贡硬质合金有限公司大事记.mht
+|   |           
+|   +---财务预测
+|   |   |   五矿钨业整合初步投资可行性分析 041102.ppt
+|   |   |   
+|   |   +---041031
+|   |   |   +---603
+|   |   |   |   +---4110元毛利润
+|   |   |   |   |   +---盈利预测041004
+|   |   |   |   |   |       南昌硬质合金厂041003.doc
+|   |   |   |   |   |       基础数据统计.xls
+|   |   |   |   |   |       敏感性分析(上涨10%).xls
+|   |   |   |   |   |       敏感性分析(下跌10%).xls
+|   |   |   |   |   |       数据汇总表.xls
+|   |   |   |   |   |       预测数据.xls
+|   |   |   |   |   |       
+|   |   |   |   |   +---盈利预测041008
+|   |   |   |   |   |       南昌硬质合金厂041008.doc
+|   |   |   |   |   |       基础数据统计.xls
+|   |   |   |   |   |       敏感性分析(上涨10%).xls
+|   |   |   |   |   |       敏感性分析(下跌10%).xls
+|   |   |   |   |   |       数据汇总表.xls
+|   |   |   |   |   |       预测数据.xls
+|   |   |   |   |   |       
+|   |   |   |   |   +---盈利预测041009
+|   |   |   |   |   |   |   南昌硬质合金厂041009.doc
+|   |   |   |   |   |   |   基础数据统计.xls
+|   |   |   |   |   |   |   敏感性分析(上涨10%).xls
+|   |   |   |   |   |   |   敏感性分析(下跌10%).xls
+|   |   |   |   |   |   |   数据汇总表.xls
+|   |   |   |   |   |   |   预测数据.xls
+|   |   |   |   |   |   |   
+|   |   |   |   |   |   \---赣北041008
+|   |   |   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |   |   |           预测数据－赣北041006.xls
+|   |   |   |   |   |           
+|   |   |   |   |   \---盈利预测041012-4110元毛利润
+|   |   |   |   |       |   南昌硬质合金厂041012.doc
+|   |   |   |   |       |   基础数据统计.xls
+|   |   |   |   |       |   敏感性分析（上涨10%）.xls
+|   |   |   |   |       |   敏感性分析（下跌10%）.xls
+|   |   |   |   |       |   数据汇总表.xls
+|   |   |   |   |       |   预测数据.xls
+|   |   |   |   |       |   
+|   |   |   |   |       \---赣北041012
+|   |   |   |   |               基础数据表－赣北041006.xls
+|   |   |   |   |               敏感性分析（升10%）.xls
+|   |   |   |   |               敏感性分析（降10%）.xls
+|   |   |   |   |               赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |   |               赣北假设条件表.doc
+|   |   |   |   |               预测数据－赣北041006.xls
+|   |   |   |   |               
+|   |   |   |   \---9900元毛利润
+|   |   |   |       \---盈利预测041014
+|   |   |   |           |   南昌硬质合金厂041014.doc
+|   |   |   |           |   基础数据统计.xls
+|   |   |   |           |   敏感性分析（上涨10%）.xls
+|   |   |   |           |   敏感性分析（下跌10%）.xls
+|   |   |   |           |   数据汇总表.xls
+|   |   |   |           |   预测数据.xls
+|   |   |   |           |   
+|   |   |   |           \---赣北041014
+|   |   |   |                   基础数据表－赣北041006.xls
+|   |   |   |                   敏感性分析（升10%）.xls
+|   |   |   |                   敏感性分析（降10%）.xls
+|   |   |   |                   赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |                   赣北APT项目财务预测041014（修改版）.doc
+|   |   |   |                   赣北假设条件表.doc
+|   |   |   |                   预测数据－赣北041006.xls
+|   |   |   |                   
+|   |   |   +---764
+|   |   |   |   |   成都分公司.rar
+|   |   |   |   |   自贡硬质合金厂041026.doc
+|   |   |   |   |   
+|   |   |   |   +---成都分公司
+|   |   |   |   |   |   2001年-2003年资料汇总-complete.xls
+|   |   |   |   |   |   2001年-2003年资料汇总.xls
+|   |   |   |   |   |   销售费用表2004.xls
+|   |   |   |   |   |   
+|   |   |   |   |   \---041022
+|   |   |   |   |           基础数据统计-成都分公司.xls
+|   |   |   |   |           敏感性分析（上涨10%）－成都分公司.xls
+|   |   |   |   |           敏感性分析（下跌10%）－成都分公司.xls
+|   |   |   |   |           数据汇总表－成都分公司.xls
+|   |   |   |   |           预测数据－成都分公司.xls
+|   |   |   |   |           
+|   |   |   |   \---自硬总部
+|   |   |   +---五矿整合钨业项目财务预测框架041031
+|   |   |   |   |   五矿有色钨整合项目初步投资可行性分析报告－041031.doc
+|   |   |   |   |   数据汇总表－钨整合项目041031.xls
+|   |   |   |   |   
+|   |   |   |   +---603盈利预测041014
+|   |   |   |   |   |   南昌硬质合金厂041014.doc
+|   |   |   |   |   |   基础数据统计.xls
+|   |   |   |   |   |   敏感性分析（上涨10%）.xls
+|   |   |   |   |   |   敏感性分析（下跌10%）.xls
+|   |   |   |   |   |   数据汇总表.xls
+|   |   |   |   |   |   预测数据.xls
+|   |   |   |   |   |   
+|   |   |   |   |   \---赣北041014
+|   |   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |   |           赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |   |           赣北APT项目财务预测041014（修改版）.doc
+|   |   |   |   |           赣北假设条件表.doc
+|   |   |   |   |           预测数据－赣北041006.xls
+|   |   |   |   |           
+|   |   |   |   +---成都分公司
+|   |   |   |   |   |   2001年-2003年资料汇总-complete.xls
+|   |   |   |   |   |   2001年-2003年资料汇总.xls
+|   |   |   |   |   |   销售费用表2004.xls
+|   |   |   |   |   |   
+|   |   |   |   |   \---041022
+|   |   |   |   |           基础数据统计-成都分公司.xls
+|   |   |   |   |           敏感性分析（上涨10%）－成都分公司.xls
+|   |   |   |   |           敏感性分析（下跌10%）－成都分公司.xls
+|   |   |   |   |           数据汇总表－成都分公司.xls
+|   |   |   |   |           预测数据－成都分公司.xls
+|   |   |   |   |           
+|   |   |   |   +---赣北041014
+|   |   |   |   |       基础数据表－赣北041006.xls
+|   |   |   |   |       敏感性分析（升10%）.xls
+|   |   |   |   |       敏感性分析（降10%）.xls
+|   |   |   |   |       赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |   |       赣北APT项目财务预测041014（修改版）.doc
+|   |   |   |   |       赣北假设条件表.doc
+|   |   |   |   |       预测数据－赣北041006.xls
+|   |   |   |   |       
+|   |   |   |   \---香炉山财务预测041014
+|   |   |   |           假设条件表.doc
+|   |   |   |           基础数据表－香炉山041007.xls
+|   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |           预测数据－香炉山041007.xls
+|   |   |   |           香炉山2003－2004年成本、费用及会计报表上报资料.xls
+|   |   |   |           香炉山钨业财务预测041014(修改版).doc
+|   |   |   |           
+|   |   |   +---赣北钨业
+|   |   |   |   |   赣北041014.rar
+|   |   |   |   |   
+|   |   |   |   +---赣北041006
+|   |   |   |   |       基础数据表－赣北041006.xls
+|   |   |   |   |       敏感性分析（升10%）.xls
+|   |   |   |   |       敏感性分析（降10%）.xls
+|   |   |   |   |       赣北APT项目财务预测041006.doc
+|   |   |   |   |       预测数据－赣北041006.xls
+|   |   |   |   |       
+|   |   |   |   +---赣北041008
+|   |   |   |   |       基础数据表－赣北041006.xls
+|   |   |   |   |       敏感性分析（升10%）.xls
+|   |   |   |   |       敏感性分析（降10%）.xls
+|   |   |   |   |       赣北APT项目财务预测041009（修改版）.doc
+|   |   |   |   |       赣北假设条件表.doc
+|   |   |   |   |       预测数据－赣北041006.xls
+|   |   |   |   |       
+|   |   |   |   \---赣北041012
+|   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |           赣北APT项目财务预测041011（修改版）.doc
+|   |   |   |           赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |           赣北假设条件表.doc
+|   |   |   |           预测数据－赣北041006.xls
+|   |   |   |           
+|   |   |   \---香炉山041005
+|   |   |           基础数据表－香炉山.xls
+|   |   |           预测数据－香炉山.xls
+|   |   |           香炉山财务预测041014.rar
+|   |   |           
+|   |   \---五矿整合钨业项目财务预测框架041103
+|   |       |   中钨高新重大资产重组的初步工作计划041103.doc
+|   |       |   五矿析报告－041103.doc
+|   |       |   五矿钨业整合可行性研究报告041103(第一稿）.doc
+|   |       |   五矿钨业整合可行性研究报告041104.doc
+|   |       |   投资概况.doc
+|   |       |   数据汇总表－钨整合项目041031.xls
+|   |       |   
+|   |       +---603盈利预测041101
+|   |       |       基础数据统计.xls
+|   |       |       敏感性分析（上涨10%）－603.xls
+|   |       |       敏感性分析（下跌10%）－603.xls
+|   |       |       数据汇总表－603.xls
+|   |       |       预测数据-603.xls
+|   |       |       
+|   |       +---成都分公司041101
+|   |       |   |   2001年-2003年资料汇总-complete.xls
+|   |       |   |   2001年-2003年资料汇总.xls
+|   |       |   |   销售费用表2004.xls
+|   |       |   |   
+|   |       |   \---0411101
+|   |       |           基础数据统计-成都分公司.xls
+|   |       |           敏感性分析（上涨10%）－成都分公司.xls
+|   |       |           敏感性分析（下跌10%）－成都分公司.xls
+|   |       |           数据汇总表－成都分公司.xls
+|   |       |           预测数据－成都分公司.xls
+|   |       |           
+|   |       +---赣北041101
+|   |       |       基础数据表－赣北041006.xls
+|   |       |       敏感性分析(上涨10%）－赣北.xls
+|   |       |       敏感性分析(下跌10%）－赣北.xls
+|   |       |       数据汇总表－赣北钨业.xls
+|   |       |       赣北APT项目财务预测041012（修改版）.doc
+|   |       |       赣北APT项目财务预测041014（修改版）.doc
+|   |       |       赣北假设条件表.doc
+|   |       |       预测数据－赣北.xls
+|   |       |       
+|   |       \---香炉山财务预测041101
+|   |               假设条件表.doc
+|   |               基础数据表－香炉山041007.xls
+|   |               敏感性分析（上涨10%）－香炉山.xls
+|   |               敏感性分析（下跌10%）－香炉山.xls
+|   |               数据汇总表－香炉山.xls
+|   |               预测数据－香炉山.xls
+|   |               香炉山2003－2004年成本、费用及会计报表上报资料.xls
+|   |               香炉山钨业财务预测041014(修改版).doc
+|   |               
+|   +---财务预测清单040901
+|   |       603财务预测清单040831.doc
+|   |       自贡硬质合金厂财务预测清单040831.doc
+|   |       香炉山财务预测清单040831.doc
+|   |       
+|   +---钼业价格
+|   |       中国2005年起钼商品出口需要许可证.mht
+|   |       中国钼业发展现状与前景展望.mht
+|   |       加拿大钼精矿出口统计数据.mht
+|   |       钼业价格.mht
+|   |       
+|   \---项目报告
+|           中科信阶段性调查报告10-14-2004.doc
+|           中钨高新阶段性调查报告10-14-2004.doc
+|           关于有色股份钨项目的评审意见.doc
+|           南硬改制041016.ppt
+|           南硬案例.doc
+|           对比图片.doc
+|           
++---凯捷—消费电子、手机调研
+|   \---凯捷—消费电子、手机调研
+|       +---Nokia
+|       |   |   Address list.xls
+|       |   |   address.doc
+|       |   |   keyperlist.xls
+|       |   |   List of questions for Nokia basis 10 sept.doc
+|       |   |   List of questions for 诺基亚—Chinese.doc
+|       |   |   Nokia.ppt
+|       |   |   诺基亚－资料总结.doc
+|       |   |   
+|       |   \---诺基亚
+|       |           专访诺基亚2004中国攻略.pdf
+|       |           国研网3G时代诺基亚能否再续霸业？.mht
+|       |           国研网创新为本：西门子、三星和诺基亚的经验.mht
+|       |           国研网市场表现不佳 诺基亚（中国）重组待掀盖头.mht
+|       |           国研网第一季度诺基亚市场份额暴跌.mht
+|       |           国研网英国《金融时报》：诺基亚将调整战略结构.mht
+|       |           国研网诺基亚(中国)：在奔跑中夯实“以人为本”.mht
+|       |           国研网诺基亚10月将从巴黎证交所摘牌.mht
+|       |           国研网诺基亚2003年售手机近1_8亿部.mht
+|       |           国研网诺基亚2004年一季度净销售额为６６亿欧元.mht
+|       |           国研网诺基亚CEO：产业转型决定中国手机制造业的领先地位.mht
+|       |           国研网诺基亚“痛”在哪里？.mht
+|       |           国研网诺基亚“赢点”在哪里？.mht
+|       |           国研网诺基亚中国透露其四大合资企业重组待批准.mht
+|       |           国研网诺基亚为什么总能处于领先.mht
+|       |           国研网诺基亚为什么总能处于领先1.mht
+|       |           国研网诺基亚你拿什么赌明天.mht
+|       |           国研网诺基亚内部薪酬体系.mht
+|       |           国研网诺基亚大“赠单” 意在中国CDMA市场.mht
+|       |           国研网诺基亚总部将直辖中国市场.mht
+|       |           国研网诺基亚手机：质量之道、成功之路.mht
+|       |           国研网诺基亚智能手机叫好不叫座.mht
+|       |           国研网诺基亚机构和业务将进行大规模重组.mht
+|       |           国研网诺基亚染指运营拉长产业链.mht
+|       |           国研网诺基亚称因过度依赖低端产品导致业绩无法达标.mht
+|       |           国研网诺基亚称：2008年全球手机用户将突破20亿.mht
+|       |           国研网诺基亚遭遇市场反应力考验.mht
+|       |           国研网诺基亚：实现中国第一无需降价策略.mht
+|       |           国研网诺基亚：新兴市场将是手机用户增长最快市场.mht
+|       |           国研网诺基亚：第四季度业绩将与10月财测相符.mht
+|       |           在3GSM全球大会上诺基亚为移动行业引入新的商业模式.pdf
+|       |           普利司通购买诺基亚股份.pdf
+|       |           波导、摩托罗拉、诺基亚三雄争霸.pdf
+|       |           科技以人为本.pdf
+|       |           营造多彩的移动生活——访诺基亚移动电话(中国)华东区总经理何鸿略.pdf
+|       |           诺基亚 VS 爱立信——两大移动巨人的战争.pdf
+|       |           诺基亚“多元化”的终结.pdf
+|       |           诺基亚信息 4.pdf
+|       |           诺基亚信息.pdf
+|       |           诺基亚信息1.pdf
+|       |           诺基亚信息2.pdf
+|       |           诺基亚信息3.pdf
+|       |           诺基亚信息4.pdf
+|       |           诺基亚信息5.pdf
+|       |           诺基亚初显概念攻势.pdf
+|       |           诺基亚制定了下一步发展战略.pdf
+|       |           诺基亚将优质服务落实到每一天.pdf
+|       |           诺基亚成功的背后.pdf
+|       |           诺基亚新闻.pdf
+|       |           诺基亚染指CDMA手机.pdf
+|       |           诺基亚消息 3.pdf
+|       |           诺基亚消息.pdf
+|       |           诺基亚盛世重组为哪般.pdf
+|       |           诺基亚经验.pdf
+|       |           诺基亚网络公司将裁员550人 研发人员首当其冲.pdf
+|       |           诺基亚赢在哪.pdf
+|       |           高通(Qualcomm)和诺基亚(Nokia)投资中国CDMA.pdf
+|       |           
+|       +---Phillps
+|       |   |   List of questions for Philips basis 10 sept.doc
+|       |   |   List of questions for 飞利浦with answer—Chinese.doc
+|       |   |   List of questions for 飞利浦—Chinese(1).doc
+|       |   |   飞利浦-answer.doc
+|       |   |   飞利浦－生产部问卷.doc
+|       |   |   飞利浦－研发部问卷.doc
+|       |   |   
+|       |   \---飞利浦
+|       |           国研网华微电子与飞利浦成立合资公司.mht
+|       |           国研网康佳、创维两巨头扩军 飞利浦将“花落”谁家？.mht
+|       |           国研网收购企业的市场风险分析——华立集团收购飞利浦CDMA手机案例.mht
+|       |           国研网荷兰飞利浦宣布半导体业务重组计划.mht
+|       |           国研网飞利浦2002年亏损32亿欧元.mht
+|       |           国研网飞利浦TCL联手DVD录像机.mht
+|       |           国研网飞利浦与东软组建医疗公司.mht
+|       |           国研网飞利浦中国启动“全球营销计划”.mht
+|       |           国研网飞利浦以技术优势引领液晶新时代.mht
+|       |           国研网飞利浦全球总裁：四年后主营市场移至中国.mht
+|       |           国研网飞利浦公司就中国彩电遭美国倾销诉讼发表声明.mht
+|       |           国研网飞利浦十万专利成为火车头.mht
+|       |           国研网飞利浦启动新一轮“中国攻略”.mht
+|       |           国研网飞利浦家电为何兵败华南？.mht
+|       |           国研网飞利浦引领高端无绳电话潮流.mht
+|       |           国研网飞利浦彩电全线迁入中国.mht
+|       |           国研网飞利浦彩电广东市场渠道振荡的营销解析.mht
+|       |           国研网飞利浦手机中国面临大调整.mht
+|       |           国研网飞利浦打出“个性牌”力推差别化多元服务.mht
+|       |           国研网飞利浦押宝半导体业务.mht
+|       |           国研网飞利浦掌控高端彩电市场.mht
+|       |           国研网飞利浦涉嫌侵犯中国专利.mht
+|       |           国研网飞利浦的聘人之道.mht
+|       |           国研网飞利浦联手TCL生产DVD录像机.mht
+|       |           国研网飞利浦音箱全面来袭.mht
+|       |           国研网飞利浦：一个大一统帝国的新生.mht
+|       |           飞利浦——魅力无所不在.pdf
+|       |           飞利浦何以兵败内地.pdf
+|       |           飞利浦信息 7.pdf
+|       |           飞利浦信息.pdf
+|       |           飞利浦信息1.pdf
+|       |           飞利浦信息3.pdf
+|       |           飞利浦信息5.pdf
+|       |           飞利浦信息56.pdf
+|       |           飞利浦创造未来显示新境界.pdf
+|       |           飞利浦总裁柯慈雷访华.pdf
+|       |           飞利浦推动DVD技术不断创新.pdf
+|       |           飞利浦最新消费电子产品欣赏.pdf
+|       |           飞利浦液晶显示新品震撼登场.pdf
+|       |           飞利浦获奖等离子电视登陆京城.pdf
+|       |           飞利浦重磅出击中国市场.pdf
+|       |           
+|       +---Samsung
+|       |   |   List of questions for Samsung basis_Chinese2.doc
+|       |   |   List of questions for Samsung engl.doc
+|       |   |   List of questions for Samsung —Chinese.doc
+|       |   |   Samsung —answer.doc
+|       |   |   
+|       |   \---三星
+|       |           0  三星手机中国全攻略.pdf
+|       |           v.pdf
+|       |           三星CDMA手机的出击.pdf
+|       |           三星、大宇沉浮之鉴(上)三星、大宇沉浮之鉴(上).pdf
+|       |           三星、大宇沉浮之鉴(下).pdf
+|       |           三星中国布局.pdf
+|       |           三星为金融行业护航.pdf
+|       |           三星从危机中爬起的巨人.pdf
+|       |           三星液晶抢滩中国高端电视市场.pdf
+|       |           三星电子.pdf
+|       |           三星电子LCD成功的背后——记美国国家半导体与三星电子的成功合作.pdf
+|       |           三星电子战略蜕变的过程及启示.pdf
+|       |           三星电子打造世界名牌.pdf
+|       |           三星碰撞中国.pdf
+|       |           三星笔记本电脑.pdf
+|       |           三星笔记本电脑进军教育行业.pdf
+|       |           三星索尼谁是赢家.pdf
+|       |           三星陈兵笔记本.pdf
+|       |           三星集团的合理经营.pdf
+|       |           三星集团的成功之道.pdf
+|       |           三星飞利浦显示器市场谁执牛耳.pdf
+|       |           三星飞利浦谁在中国显示器市场独领风骚.pdf
+|       |           不学索尼,学三星 关于国内企业推行TPM的探讨.pdf
+|       |           从三星战略看企业转型.pdf
+|       |           国研网三星VS诺基亚：创新永无止境.mht
+|       |           国研网三星“升级”凭什么？.mht
+|       |           国研网三星上半年手机销售收入首次超过摩托罗拉.mht
+|       |           国研网三星中国：从制造中心到市场和品牌中心.mht
+|       |           国研网三星公布第三季度财报.mht
+|       |           国研网三星卓越品牌战略管理给本土品牌的启示.mht
+|       |           国研网三星咸鱼翻生的秘诀（下）.mht
+|       |           国研网三星成功的秘密.mht
+|       |           国研网三星手机何以超越摩托罗拉？.mht
+|       |           国研网三星挑战索尼全球彩电地位.mht
+|       |           国研网三星电子公司崛起探密.mht
+|       |           国研网三星电子品牌攻坚.mht
+|       |           国研网三星电子因何至上.mht
+|       |           国研网三星电子：三足鼎立中的“三字诀”.mht
+|       |           国研网三星白电做大中国基地.mht
+|       |           国研网三星称霸拍照手机之路不平坦.mht
+|       |           国研网三星空调2004年目标内销60万台外销200万台.mht
+|       |           国研网三星索尼在韩成立合资公司.mht
+|       |           国研网三星还要飞多高.mht
+|       |           国研网三星降价强攻数码摄像机市场.mht
+|       |           国研网三星靠什么超越索尼？.mht
+|       |           国研网中国将成三星最大海外市场.mht
+|       |           国研网二季度诺基亚手机市占率上升三星电子下降.mht
+|       |           国研网从三星战略看企业转型.mht
+|       |           国研网从三星电子看数字经济时代的行销执行力.mht
+|       |           国研网分析师预计三星第三季利润将比二季增长45%.mht
+|       |           国研网创新为本：西门子、三星和诺基亚的经验.mht
+|       |           国研网奥克斯与三星空调达成贴牌生产协议.mht
+|       |           国研网索尼、三星：决战中国.mht
+|       |           国研网索尼夏普三星等洋音响巨头搅局国内市场.mht
+|       |           国研网能否学习三星？.mht
+|       |           国研网解析三星电子成功的奥秘.mht
+|       |           国研网诺基亚VS三星：品牌的黯淡和崛起.mht
+|       |           国研网诺基亚、摩托罗拉、三星演绎手机老大争夺战.mht
+|       |           国研网赛格三星 做世界一流显示器生产商.mht
+|       |           国研网韩国三星电子的辉煌是怎样铸成的？.mht
+|       |           国研网韩国手机表现惊人 三星LG增长近九成.mht
+|       |           国研网韩资股东正式入主赛格三星.mht
+|       |           父与子的链接——韩国三星集团的文化传承.pdf
+|       |           科健三星打造中国最大CDMA生产基地.pdf
+|       |           韩国“三星”四变革.pdf
+|       |           韩国三星之光.pdf
+|       |           
+|       +---凯捷介绍
+|       |       凯捷介绍.doc
+|       |       凯捷介绍.ppt
+|       |       凯捷介绍2.ppt
+|       |       
+|       \---调研文件
+|               contact list and results.xls
+|               contact list and results2.xls
+|               Copy of Samsung vs Nokia 26 augustus presentatie.ppt
+|               Internal briefing for interviewers－内部访谈简要.doc
+|               Intro to questionnaire.doc
+|               List of questions for Nokia basis 10 sept.doc
+|               List of questions for Philips basis 10 sept.doc
+|               List of questions for Samsung basis 10 sept.doc
+|               List of questions for Samsung basis_Chinese.doc
+|               Rating competitors－对竞争对手进行分级.doc
+|               Samsung vs Nokia  updated.ppt
+|               Samsung vs Philips 1 september.ppt
+|               Samsung vs Philips.ppt
+|               三星联系人.doc
+|               联系方式.doc
+|               项目介绍.doc
+|               
++---凯捷—深圳燃气管理咨询全案--53MB
+|   +---1行研及诊断
+|   |   +---十大专题
+|   |   |       专题报告书写格式要求.doc
+|   |   |       深圳燃气——子战略专题会议V0.1.ppt
+|   |   |       
+|   |   +---发展纲要
+|   |   |       深圳燃气十一五发展纲要－20050111-2.doc
+|   |   |       
+|   |   +---访谈记录
+|   |   |       访谈纪要－于剑－总经理.doc
+|   |   |       访谈纪要－人力资源部陈部长.doc
+|   |   |       访谈纪要－发展部杨部长.doc
+|   |   |       访谈纪要－天然气高压管网.doc
+|   |   |       访谈纪要－孙平贵－总会计师.doc
+|   |   |       访谈纪要－安计部周部长.doc
+|   |   |       访谈纪要－宝安分公司.doc
+|   |   |       访谈纪要－审计部副部长陈国源.doc
+|   |   |       访谈纪要－市国资委叶处长.doc
+|   |   |       访谈纪要－市建设局马处长.doc
+|   |   |       访谈纪要－广东油气商会.doc
+|   |   |       访谈纪要－广州煤气公司.doc
+|   |   |       访谈纪要－总经办副主任郭竹冰.doc
+|   |   |       访谈纪要－总经办卓主任.doc
+|   |   |       访谈纪要－总经济师－薛波.doc
+|   |   |       访谈纪要－惠州燃气公司.doc
+|   |   |       访谈纪要－李勇坚－集团副总（瓶装气业务）.doc
+|   |   |       访谈纪要－李青平－集团副总（LNG公司董事）.doc
+|   |   |       访谈纪要－欧大江－集团副总（投融资）.doc
+|   |   |       访谈纪要－殷承敏－华安公司副总.doc
+|   |   |       访谈纪要－深燃石油气.doc
+|   |   |       访谈纪要－燃气经营分公司.doc
+|   |   |       访谈纪要－物资管理部副部长.doc
+|   |   |       访谈纪要－监理公司张万杰经理.doc
+|   |   |       访谈纪要－管道气客户服务公司.doc
+|   |   |       访谈纪要－管道气管网分公司.doc
+|   |   |       访谈纪要－董事长.doc
+|   |   |       访谈纪要－董秘处郭主任.doc
+|   |   |       访谈纪要－行政事务部部长詹淑民.doc
+|   |   |       访谈纪要－计财部副部长陈炫.doc
+|   |   |       访谈纪要－郭少明－审计部部长.doc
+|   |   |       
+|   |   +---部门职责调查
+|   |   |       曹强 说明书-综合财务部.doc
+|   |   |       深圳市燃气集团有限公司部门职责 _安全技术部.doc
+|   |   |       部门职责说明书 人力资源部.doc
+|   |   |       部门职责说明书.doc
+|   |   |       部门职责说明书——审计部.doc
+|   |   |       部门职责说明书－总经理办公室.doc
+|   |   |       部门职责说明书－总经理办公室（调整）.doc
+|   |   |       部门职责说明书－管网公司汇总.doc
+|   |   |       部门职责说明书－计划财务部.doc
+|   |   |       部门职责调查.doc
+|   |   |       
+|   |   \---项目成果（战略研讨会）
+|   |           战略研讨会－主持发言.doc
+|   |           战略研讨会－会议签到.doc
+|   |           战略研讨会－议程.ppt
+|   |           深圳燃气集团十一五规划项目——优势与劣势讨论.ppt
+|   |           深圳燃气集团十一五规划项目——战略态度现场调查.ppt
+|   |           深圳燃气集团十一五规划项目——战略研讨会V6.0.ppt
+|   |           深圳燃气集团十一五规划项目——机会与风险讨论.ppt
+|   |           
+|   +---2公司及业务战略
+|   |   |   战略研讨会会议纪要V2.0.doc
+|   |   |   战略研讨会总结V0314.ppt
+|   |   |   战略研讨会结果统计-0302V3.0.ppt
+|   |   |   
+|   |   +---picture
+|   |   |       1990年以来国际石油价格走势.bmp
+|   |   |       foshan.jpg
+|   |   |       guangdong map.jpg
+|   |   |       guangdong.jpg
+|   |   |       guangzhou map.gif
+|   |   |       huizhou.jpg
+|   |   |       Image1.gif
+|   |   |       ranqijituan.gif
+|   |   |       shengzhengdong.jpg
+|   |   |       shenzhen map.jpg
+|   |   |       shenzhen quantu.jpg
+|   |   |       shenzhen quantu1.jpg
+|   |   |       shenzhen 市区.jpg
+|   |   |       tu2.jpg
+|   |   |       zhuhai main map.gif
+|   |   |       zhuhai travel.jpg
+|   |   |       上海地图.jpg
+|   |   |       东莞.jpg
+|   |   |       东莞简图.jpg
+|   |   |       华燊燃气停牌.gif
+|   |   |       城市燃气运营商负债率.gif
+|   |   |       广东行政区划图.jpg
+|   |   |       广州.jpg
+|   |   |       惠州.jpg
+|   |   |       惠州1.jpg
+|   |   |       惠州2.jpg
+|   |   |       惠州3.jpg
+|   |   |       深圳南山.jpg
+|   |   |       深圳宝安.jpg
+|   |   |       深圳标志.jpg
+|   |   |       深圳盐田.jpg
+|   |   |       深圳福田.jpg
+|   |   |       深圳罗湖.jpg
+|   |   |       深圳龙岗.jpg
+|   |   |       燃气生产供应企业亏损情况.gif
+|   |   |       燃气销售额和销售利润率.gif
+|   |   |       珠海.jpg
+|   |   |       管道.jpg
+|   |   |       西气东输管线图.jpg
+|   |   |       
+|   |   +---专题报告
+|   |   |   \---投融资专题
+|   |   |       \---燃气供气设施投融资
+|   |   |               Mybase_0.bak
+|   |   |               Mybase_0.nyf
+|   |   |               中国天然气项目融资问题的对策与建议(2002年文献)(4992字).mht
+|   |   |               以信托方式参与环保产业投融资体制改革.doc
+|   |   |               天然气投融资.bak
+|   |   |               天然气投融资.nyf
+|   |   |               新疆广汇股份发挥融资功能;80亿打造天然气帝国(2276字).mht
+|   |   |               用自由现金流考量我国上市公司信用风险.mht
+|   |   |               
+|   |   +---中期报告沟通稿
+|   |   |   |   中期报告会主持发言（打印）.doc
+|   |   |   |   中期报告－议程.ppt
+|   |   |   |   战略委员会（沟通稿）.ppt
+|   |   |   |   目标预测过程（周平）.xls
+|   |   |   |   预测－4月26日调整.xls
+|   |   |   |   预测－5月8日调整.xls
+|   |   |   |   
+|   |   |   \---整理稿
+|   |   |           深圳燃气十一五规划-简要版v0.6.ppt
+|   |   |           深圳燃气十一五规划-精装版v0.4.ppt
+|   |   |           深圳燃气十一五规划-精装版v0.41（市领导）.ppt
+|   |   |           深圳燃气十一五规划-精装版v0.42（董事会）.ppt
+|   |   |           深圳燃气十一五规划－中期报告（沟通版V0.90）-完全版（指标修改）.ppt
+|   |   |           
+|   |   \---市场预测
+|   |           LPG战略规划.xls
+|   |           SZ Internal.xls
+|   |           中华煤气深圳市场预测.xls
+|   |           广聚能源研究－zhp.xls
+|   |           深圳市场预测.xls
+|   |           深圳燃气研究－zhp.xls
+|   |           燃气公司历年各项销售数据.xls
+|   |           目标预测.xls
+|   |           
+|   +---3人力资源规划
+|   |       人力资源规划专题报告递交汇报版.doc
+|   |       人力资源规划专题报告递交汇报版.ppt
+|   |       
+|   \---最终项目成果
+|           01天然气供气设施投融资及监管体制专题.doc
+|           02资本运作及对外发展专题.doc
+|           03人力资源规划专题.doc
+|           04财务管理专题-深圳市燃气集团有限公司全面预算管理办法v0.6.doc
+|           06天然气发展及政策研究专题.doc
+|           07宝安区管道燃气发展专题.doc
+|           08龙岗区管道燃气发展专题.doc
+|           10天然气转换专题.doc
+|           人力资源规划专题报告递交汇报版.ppt
+|           会议签到.doc
+|           最终报告会议程.ppt
+|           深圳市燃气集团“十一五”发展规划纲要-050525.ppt
+|           深圳燃气十一五规划-最终报告（汇报版）.ppt
+|           深圳燃气十一五规划-简要版.ppt
+|           深圳燃气十一五规划-精装版.ppt
+|           深圳燃气十一五规划－最终报告（提交版V0.4）.ppt
+|           
++---凯捷—莱茵达房地产集团咨询项目  78.4MB
+|   \---凯捷—莱茵达房地产集团咨询项目
+|       +---中期报告
+|       |       莱茵达集团中期报告2.0.ppt
+|       |       莱茵达集团中期报告4.0.ppt
+|       |       莱茵达集团中期报告4.0.rar
+|       |       莱茵达集团中期报告6.0.ppt
+|       |       莱茵达集团中期报告精简版.ppt
+|       |       莱茵达集团战略研讨会资料2.0.ppt
+|       |       莱茵达集团战略研讨会资料Final.ppt
+|       |       
+|       +---参考资料
+|       |   |   000558.pdf
+|       |   |   03-中远房地产内部诊断报告.ppt
+|       |   |   1.0 组织结构报告_1109.ppt
+|       |   |   11－百大地产计划预算内控 .ppt
+|       |   |   ZJT流程梳理项目－As-Is report v1.8.ppt
+|       |   |   七部委猛药遏制房产价格 转让期房炒地皮被禁止.doc
+|       |   |   中国房地产行业现状及发展趋势分析-6.0.ppt
+|       |   |   安达信－业务流程优化设计培训.ppt
+|       |   |   房地产公司管理手册.DOC
+|       |   |   招标管理规定.doc
+|       |   |   新楼盘销售技巧.doc
+|       |   |   
+|       |   +---万科案例
+|       |   |       10817288.pdf
+|       |   |       2004lennar.pdf
+|       |   |       2004万科年报.pdf
+|       |   |       Pultehome2003.pdf
+|       |   |       Understanding the US Homebuilding industry case study－0218.ppt
+|       |   |       万科模式.ppt
+|       |   |       万科的标准化模块化.mht
+|       |   |       万科项目储备.pdf
+|       |   |       学习万科好榜样.mht
+|       |   |       房产开发是基金的配套.mht
+|       |   |       房地产公司组织结构发展.mht
+|       |   |       普而特VS万科：中国领跑者.mht
+|       |   |       监事会议事规则.doc
+|       |   |       美国房地产行业整合.mht
+|       |   |       股东大会议事规则.doc
+|       |   |       董事会议事规则.doc
+|       |   |       
+|       |   \---房产资料
+|       |           No_1情结的顺驰战略_房产家居_新浪网.mht
+|       |           XX总控制计划终稿.doc
+|       |           上海房地产－谢国忠.mht
+|       |           住宅部品体系框架 -住宅产业网.mht
+|       |           几个房地产热点话题◎.mht
+|       |           北大纵横为某公司做的全面预算管理制度 .DOC
+|       |           协信成本比例明细.xls
+|       |           地产大鳄到上海周边去.doc
+|       |           年度预算与策略规划操作指南(195页）.doc
+|       |           广州合生创展、珠江投资——孖生兄弟 联走三地.mht
+|       |           深圳二手楼市狼来了 顺驰放言两年做老大_新浪房产_新浪网.mht
+|       |           珠江合生上海沿革.doc
+|       |           莱茵达.pdf
+|       |           
+|       +---最终报告
+|       |       莱茵达业务流程提交版.ppt
+|       |       莱茵达最终报告流程部分0710.ppt
+|       |       莱茵达流程提交版.ppt
+|       |       莱茵达管理流程提交版.ppt
+|       |       
+|       +---最终递交成果
+|       |   |   莱茵达组织架构05-0802.ppt
+|       |   |   莱茵达集团中期报告提交版.ppt
+|       |   |   莱茵达集团战略研讨会资料3.1.ppt
+|       |   |   莱茵达项目最终报告提交版.ppt
+|       |   |   
+|       |   +---7-22日提交人力资源报告
+|       |   |   |   绩效体系方案.ppt
+|       |   |   |   莱茵达中长期激励方案.ppt
+|       |   |   |   莱茵达职位薪酬表.xls
+|       |   |   |   薪酬绩效体系方案.ppt
+|       |   |   |   薪酬绩效过渡期方案.ppt
+|       |   |   |   
+|       |   |   \---目标责任书
+|       |   |       +---目标责任书--标准版
+|       |   |       |       子公司经理班子(2).xls
+|       |   |       |       房地产集团总经理及中心总监(2)xls.xls
+|       |   |       |       目标考评表.xls
+|       |   |       |       集团总部高管及中心总监(2)xls.xls
+|       |   |       |       
+|       |   |       \---过渡期 目标责任书-与薪酬挂钩
+|       |   |               子公司经理班子(1).xls
+|       |   |               房地产集团总经理及中心总监(1)xls.xls
+|       |   |               目标考评表.xls
+|       |   |               集团总部高管及中心总监(1)xls.xls
+|       |   |               
+|       |   +---流程提交报告
+|       |   |   |   南京开发建设部流程提交版.ppt
+|       |   |   |   莱茵达业务流程提交版.ppt
+|       |   |   |   莱茵达管理流程提交版.ppt
+|       |   |   |   
+|       |   |   \---研发技术中心业务流程
+|       |   |           规划设计管理流程.doc
+|       |   |           规划设计管理流程说明文件.doc
+|       |   |           规划需求管理流程.doc
+|       |   |           规划需求管理说明文件.doc
+|       |   |           设计招标管理流程.doc
+|       |   |           设计招标管理说明文件.doc
+|       |   |           项目后评估流程.doc
+|       |   |           项目后评估流程说明文件.doc
+|       |   |           
+|       |   \---组织部分提交报告
+|       |       |   房地产业务授权体系－提交版.xls
+|       |       |   
+|       |       \---岗位说明书－0710
+|       |           |   岗位说明书封面.doc
+|       |           |   
+|       |           +---子公司职位说明
+|       |           |       南京公司工程技术部经理.doc
+|       |           |       南京公司开发建设部经理.doc
+|       |           |       南京公司总经理.doc
+|       |           |       南京公司投资预算部经理.doc
+|       |           |       南京公司材料配置部经理.doc
+|       |           |       南京公司营销企划部经理.doc
+|       |           |       南京公司营销副总.doc
+|       |           |       南京公司行政人事副总.doc
+|       |           |       南京公司行政人事部经理.doc
+|       |           |       南京公司财务总监（财务经理）.doc
+|       |           |       
+|       |           +---房地产集团职位说明
+|       |           |       房地产集团副总经理职位说明书.doc
+|       |           |       房地产集团总工程师职位说明书.doc
+|       |           |       房地产集团总经理助理职位说明书.doc
+|       |           |       房地产集团总经理职位说明书.doc
+|       |           |       房地产集团成本管理中心主任.doc
+|       |           |       房地产集团材料配置中心主任.doc
+|       |           |       房地产集团研发技术中心主任.doc
+|       |           |       房地产集团营销策划中心主任职位说明书.doc
+|       |           |       
+|       |           \---集团职位说明
+|       |                   人力资源部经理职位说明书.doc
+|       |                   审计监察中心总监职位说明书.doc
+|       |                   总裁办公室主任职位说明书.doc
+|       |                   战略发展部经理职位说明书.doc
+|       |                   管理副总裁职位说明书.doc
+|       |                   计划预算部经理职位说明书.doc
+|       |                   财务副总裁职位说明书.doc
+|       |                   资产管理部经理职位说明书.doc
+|       |                   集团财务部经理职位说明书.doc
+|       |                   
+|       \---莱茵达培训材料
+|               流程制作模板.ppt
+|               莱茵达流程培训材料.ppt
+|               莱茵达薪酬绩效管理培训－lxf-6-10.ppt
+|               需打印的会议文件.ppt
+|               
++---凯捷安永-TCL集团财务系统（ 17M）
+|   \---19_安永_tcl集团_集团财务系统
+|           安永_tcl集团集团财务管理现状分析及财务信息系统需求分析.pdf
+|           用户需求书 第一册 中文版 vfinal.pdf
+|           用户需求书 第三册 中文版 vfinal.pdf
+|           用户需求书 第二册 中文版 vfinal.pdf
+|           
++---凯捷报告包
+|   |   凯捷－万向集团建议书-理解及解决思路v2.0.ppt
+|   |   凯捷－苏州新海宜——管理改善项目LOP——v3.0.ppt
+|   |   长虹项目建议书060214.ppt
+|   |   
+|   +---凯捷-嘉里粮油（19M）
+|   |       Capgemini Introduction to qualification V1.1.pdf
+|   |       凯捷A04__HQ_20020101_120008.DVF.DVF
+|   |       
+|   \---凯捷-建屋集团管理咨询项目行业分析和内部诊断中期报告
+|           Genway Project- Midterm Report-4.1.ppt
+|           
++---凯捷-大连龙头分园战略咨询项目2006年7月
+|       大连龙头分园建议书.ppt
+|       枫林生物医药科技园项目建议书－演示版.ppt
+|       龙头分园战略咨询项目.ppt
+|       
++---凯捷—金地集团项目建议书
+|   |   0802-中远房地产战略董事会版.ppt
+|   |   0912-lxy-云百大房地产LOP-发送版.ppt
+|   |   1998-2002年全国商品房投诉情况综述报告.doc
+|   |   2002年2003年我国房地产行业景气分析.doc
+|   |   2002年后土地房地产及金融政策.doc
+|   |   2003年我国经济适用房综合调研分析.doc
+|   |   2004年上半年房地产政策回顾.htm
+|   |   capgemini-房地产行业研究.ppt
+|   |   capitaland.ppt
+|   |   fangdichan2.doc
+|   |   fangdichan200303.doc
+|   |   fangdichan2004.doc
+|   |   gemdale.gif
+|   |   organizational.gif
+|   |   real estate eva ranking.xls
+|   |   real estate ranking.xls
+|   |   slide.swf
+|   |   上海同策中期报告汇报版总版（最终汇报）.ppt
+|   |   上海房地产价格走势（new).doc
+|   |   上海房地产月刊.pdf
+|   |   中国城镇住房发展与展望.doc
+|   |   中国房地产市场分析报告.doc
+|   |   中国房地产行业现状及发展趋势分析-2.0.ppt
+|   |   中国房地产行业现状及发展趋势分析-3.0.ppt
+|   |   中国房地产行业现状及发展趋势分析-4.0.ppt
+|   |   中国房地产行业现状及发展趋势分析-5.0.ppt
+|   |   中研普华-2004年中国汽车行业深度分析报告.pdf
+|   |   合生创展房地产资料4.doc
+|   |   同策地产项目建议书4.0(040415).ppt
+|   |   国务院发展研究中心2004二季度房地产报告.DOC
+|   |   我国房地产和住宅发展形势分析.doc
+|   |   我国房地产市场供求关系分析.doc
+|   |   房地产4企业数据对比.xls
+|   |   房地产上市企业对比分析.ppt
+|   |   房地产上市企业数据03年.xls
+|   |   房地产相关数据.xls
+|   |   房地产营销之客户细分.doc
+|   |   新华信的房地产行业研究报告.ppt
+|   |   深圳燃气集团“十一五”规划项目建议书.doc
+|   |   深圳燃气集团“十一五”规划项目建议书.pdf
+|   |   深圳燃气集团十一五规划项目建议书（沟通版V0.3）.ppt
+|   |   美国房地产金融机制的启示.doc
+|   |   行业.txt
+|   |   西欧城市建设启示录.doc
+|   |   金厦集团地产策划案.txt
+|   |   金地集团.ppt
+|   |   金地集团.txt
+|   |   金地（集团）股份有限公司2002 年年度报告.pdf
+|   |   金地（集团）股份有限公司2003年度报告.pdf
+|   |   香港房地产金融市场发展特点与启示.doc
+|   |   
+|   +---capgemini-real estate
+|   |       Best Practices Presentation.zip
+|   |       Lend Lease Real Estate Investments.htm
+|   |       readme.txt
+|   |       SAP Real Estate Management System Design.zip
+|   |       新建 Microsoft Word 文档.doc
+|   |       
+|   \---capitaland
+|           Capitaland revenue data.xls
+|           Capitaland revenue data2.xls
+|           CapitaLand Summary Report 2001.pdf
+|           CapitaLand Summary Report 2002.pdf
+|           CapitaLand Summary Report 2003.pdf
+|           capitaland-logo.jpg
+|           capitaland.jpg
+|           capitaland.ppt
+|           report-嘉德china.doc
+|           凯德多元化发展.jpg
+|           
++---凯捷—南航全球商务旅行服务有限公司战略规划项目建议版
+|       2004中国旅游电子商务观察.doc
+|       中国搜索引擎研究报告2003 年简版.pdf
+|       中国网上旅行预订研究报告.pdf
+|       中国网上订房订票研究报告2003 年简版.pdf
+|       中青旅旅游产业战略.ppt
+|       凯捷公司介绍.ppt
+|       南航全球旅游网（GFT）战略项目建议书---背景部分1.0.ppt
+|       南航旅游建议书031120最终版.ppt
+|       在线旅游公司案例.ppt
+|       大事件与财务状况.ppt
+|       广东联通营销体系分析及建议3.0.ppt
+|       组织架构图2.ppt
+|       资源获得、执行计划、方法论－华崇理.ppt
+|       邀请函.doc
+|       首次沟通材料2.ppt
+|       
++---凯捷—平衡计分卡
+|       An Introduction to Balanced Socrecard.ppt
+|       Balanced Scorecard - A Complete Solution Set.doc
+|       BSC_planning_04.ppt
+|       Capgemini Reference PGGM BSC.ppt
+|       CBA Balanced Scorecard Prototype Documentation.doc
+|       Fluxys Proposal_versie 0.1.ppt
+|       OSG Balanced Scorecard.ppt
+|       Pov_bsc_07.doc
+|       UTAB_BSC_PAPER_9D_2002_WI.PPT
+|       WestpacBSC_DiscussionPaper_Sanitised.ppt
+|       
++---凯捷—五矿有色锑整合项目
+|   |   0924-五矿集团十年远景规划研讨-有色战略.ppt
+|   |   Authorizationmatrix  FY03 (Final).xls
+|   |   BCS_Exit Checklist Stage 3.doc
+|   |   BCS_Exit Checklist Stage 6.doc
+|   |   BCS_Exit Checklist Stage 7.doc
+|   |   China Minmetals- Hunan Project.rar
+|   |   engagement_set up forms.xls
+|   |   Needed  information for SPADE-China Minmetals Hunan.xls
+|   |   OPR_Opportunity Review Form - China Minmetals Hunan.doc
+|   |   Projectset-up v1.0.doc
+|   |   Pursuit_set up form- China Minmetals Hunan.xls
+|   |   share structure.xls
+|   |   五矿有色锑产业发展战略报告--v2.3.ppt
+|   |   锑品、钨品等产品数据汇总情.xls
+|   |   BCS_Bid Control Sheet.doc
+|   |   
+|   +---China Minmetals- Hunan Project
+|   |       OPR_Opportunity Review Form.doc
+|   |       Pursuit_set up form.xls
+|   |       
+|   +---Due diligence
+|   |   |   2002年12月产品产量及作业量表.xls
+|   |   |   2003实际数.xls
+|   |   |   2004年采掘计划.xls
+|   |   |   五矿辰州矿业项目尽职调查清单040902.doc
+|   |   |   已投产子公司产品及产量情况.xls
+|   |   |   辰州矿业相关数据统计.xls
+|   |   |   
+|   |   +---02年成本数据
+|   |   |       湖南辰州矿业有限责任公司2002年12月产品成本分配表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年12月产品成本分配表续.xls
+|   |   |       湖南辰州矿业有限责任公司2002年12月产品生产成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年12月产品生产销售成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年4季主营业务收支明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年4季冶炼作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年4季堆浸作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年4季掘进作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年4季选矿作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年产品销售费用及财务费用明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年制造费用明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年固定资产及累计折旧表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年固定资产及累计折旧表续.xls
+|   |   |       湖南辰州矿业有限责任公司2002年应上交及应弥补款项表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年白钨产品单位成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年管理费用明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年精锑产品单位成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2002年黄金产品单位成本表.xls
+|   |   |       
+|   |   +---03年成本数据
+|   |   |       湖南辰州矿业有限责任公司2003年12月产品成本分配表1.xls
+|   |   |       湖南辰州矿业有限责任公司2003年12月产品生产成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年12月产品生产销售成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年12月成本共同费用分配表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年12月损益及利润分配表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年12月综合成本分配表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年产品销售费用及财务费用明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年冶炼作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年制造费用明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年固定资产及累计折旧表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年固定资产及累计折旧表续.xls
+|   |   |       湖南辰州矿业有限责任公司2003年堆浸作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年应上交及应弥补款项表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年掘进作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年白钨产品单位成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年管理费用明细表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年精锑产品单位成本表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年选矿作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年采矿作业成本计算表.xls
+|   |   |       湖南辰州矿业有限责任公司2003年黄金产品单位成本表.xls
+|   |   |       
+|   |   \---三张主表
+|   |       +---合并
+|   |       |       2002合并利润及利润分配表.xls
+|   |       |       2002合并现金流量表.xls
+|   |       |       2002合并资产负债表.xls
+|   |       |       2003合并利润及利润分配表.xls
+|   |       |       2003合并现金流量表.xls
+|   |       |       2003合并资产负债表.xls
+|   |       |       
+|   |       \---本部
+|   |               湖南辰州矿业有限责任公司2002年12月损益及利润分配表.xls
+|   |               湖南辰州矿业有限责任公司2002年12月资产负债表.xls
+|   |               湖南辰州矿业有限责任公司2003年12月资产负债表.xls
+|   |               湖南辰州矿业有限责任公司2003年4季主营业务收支明细表.xls
+|   |               湖南辰州矿业有限责任公司2003年4季现金流量表.xls
+|   |               湖南辰州矿业有限责任公司2003年4季现金流量表续.xls
+|   |               
+|   +---尽职调查报告
+|   |   |   五矿有色参股辰州矿业项目可行性研究报告 040928.doc
+|   |   |   五矿有色锑业务整合0906.doc
+|   |   |   参股湖南辰州矿业有限公司的项目建议书.doc
+|   |   |   尽职调查报告（初稿).doc
+|   |   |   
+|   |   \---galem
+|   |       |   辰州矿业项目报告041009.rar
+|   |       |   
+|   |       +---报告040926
+|   |       |       五矿有色参股辰州矿业项目可行性研究报告 040926.doc
+|   |       |       五矿有色参股辰州矿业项目可行性研究报告 040928.doc
+|   |       |       五矿有色参股辰州矿业项目可行性研究报告.ppt
+|   |       |       湖南辰州矿业有限公司可行性研究报告(初稿).doc
+|   |       |       湖南辰州矿业有限公司可行性研究报告(第二稿).doc
+|   |       |       湖南辰州矿业财务预测 040921.doc
+|   |       |       辰州矿业可行性研究报告摘要.doc
+|   |       |       
+|   |       +---报告041008
+|   |       |   |   五矿有色参股辰州矿业项目可行性研究报告 041008.doc
+|   |       |   |   五矿有色参股辰州矿业项目可行性研究报告 041008.ppt
+|   |       |   |   参股湖南辰州矿业有限公司的项目建议书041008.doc
+|   |       |   |   参股辰州矿业项目建议书041008.ppt
+|   |       |   |   
+|   |       |   \---财务预测(APT利润8000元)-041008
+|   |       |       |   基础数据表－安化湘安钨业有限公司.xls
+|   |       |       |   基础数据表－常德辰州锑品有限公司.xls
+|   |       |       |   基础数据表－新邵辰州锑业有限公司.xls
+|   |       |       |   基础数据表－甘肃辰州矿业开发有限公司.xls
+|   |       |       |   基础数据表－辰州本部.xls
+|   |       |       |   数据汇总表.xls
+|   |       |       |   预测数据－安化湘安钨业有限公司.xls
+|   |       |       |   预测数据－常德辰州锑品有限公司.xls
+|   |       |       |   预测数据－新邵辰州锑业有限公司.xls
+|   |       |       |   预测数据－辰州本部.xls
+|   |       |       |   
+|   |       |       \---敏感性分析
+|   |       |               敏感性分析－安化湘安钨业有限公司（上涨10%）.xls
+|   |       |               敏感性分析－安化湘安钨业有限公司（下跌10%）.xls
+|   |       |               敏感性分析－常德辰州锑品有限公司（上涨10%）.xls
+|   |       |               敏感性分析－常德辰州锑品有限公司（下跌10%）.xls
+|   |       |               敏感性分析－新邵辰州锑业有限公司（上涨10%）.xls
+|   |       |               敏感性分析－新邵辰州锑业有限公司（下跌10%）.xls
+|   |       |               敏感性分析－辰州本部（上涨10%）.xls
+|   |       |               敏感性分析－辰州本部（下跌10%）.xls
+|   |       |               
+|   |       \---报告041009
+|   |           |   五矿有色参股辰州矿业项目可行性研究报告 041013.doc
+|   |           |   五矿有色参股辰州矿业项目可行性研究报告 041013.ppt
+|   |           |   参股湖南辰州矿业有限公司的项目建议书041013.doc
+|   |           |   参股辰州矿业项目建议书041013.ppt
+|   |           |   湖南辰州矿业财务预测 041013.doc
+|   |           |   
+|   |           \---财务预测(APT利润8000元)-041009
+|   |               |   基础数据表－安化湘安钨业有限公司.xls
+|   |               |   基础数据表－常德辰州锑品有限公司.xls
+|   |               |   基础数据表－新邵辰州锑业有限公司.xls
+|   |               |   基础数据表－甘肃辰州矿业开发有限公司.xls
+|   |               |   基础数据表－辰州本部.xls
+|   |               |   数据汇总表.xls
+|   |               |   预测数据－安化湘安钨业有限公司.xls
+|   |               |   预测数据－常德辰州锑品有限公司.xls
+|   |               |   预测数据－新邵辰州锑业有限公司.xls
+|   |               |   预测数据－辰州本部.xls
+|   |               |   
+|   |               \---敏感性分析
+|   |                       敏感性分析-辰州本部(上涨10%).xls
+|   |                       敏感性分析-辰州本部(下跌10%).xls
+|   |                       敏感性分析－安化湘安钨业有限公司(上涨10%).xls
+|   |                       敏感性分析－安化湘安钨业有限公司(下跌10%).xls
+|   |                       敏感性分析－常德辰州锑品有限公司（上涨10%）.xls
+|   |                       敏感性分析－常德辰州锑品有限公司（下跌10%）.xls
+|   |                       敏感性分析－新邵辰州锑业有限公司（上涨10%）.xls
+|   |                       敏感性分析－新邵辰州锑业有限公司（下跌10%）.xls
+|   |                       
+|   +---财务预测
+|   |   +---APT利润8000元版
+|   |   |   +---财务预测(APT价格)-040930
+|   |   |   |   |   五矿有色参股辰州矿业项目可行性研究报告 040930.doc
+|   |   |   |   |   基础数据表－安化湘安钨业有限公司.xls
+|   |   |   |   |   基础数据表－常德辰州锑品有限公司.xls
+|   |   |   |   |   基础数据表－新邵辰州锑业有限公司.xls
+|   |   |   |   |   基础数据表－甘肃辰州矿业开发有限公司.xls
+|   |   |   |   |   基础数据表－辰州本部.xls
+|   |   |   |   |   数据汇总表.xls
+|   |   |   |   |   湖南辰州矿业财务预测 040930.doc
+|   |   |   |   |   辰州矿业可行性研究报告摘要.doc
+|   |   |   |   |   预测数据－安化湘安钨业有限公司.xls
+|   |   |   |   |   预测数据－常德辰州锑品有限公司.xls
+|   |   |   |   |   预测数据－新邵辰州锑业有限公司.xls
+|   |   |   |   |   预测数据－辰州本部.xls
+|   |   |   |   |   
+|   |   |   |   \---敏感性分析
+|   |   |   |           敏感性分析－安化湘安钨业有限公司（上涨10%）.xls
+|   |   |   |           敏感性分析－安化湘安钨业有限公司（下跌10%）.xls
+|   |   |   |           敏感性分析－常德辰州锑品有限公司（上涨10%）.xls
+|   |   |   |           敏感性分析－常德辰州锑品有限公司（下跌10%）.xls
+|   |   |   |           敏感性分析－新邵辰州锑业有限公司（上涨10%）.xls
+|   |   |   |           敏感性分析－新邵辰州锑业有限公司（下跌10%）.xls
+|   |   |   |           敏感性分析－辰州本部（上涨10%）.xls
+|   |   |   |           敏感性分析－辰州本部（下跌10%）.xls
+|   |   |   |           
+|   |   |   \---财务预测(APT利润8000元)-041009
+|   |   |       |   基础数据表－安化湘安钨业有限公司.xls
+|   |   |       |   基础数据表－常德辰州锑品有限公司.xls
+|   |   |       |   基础数据表－新邵辰州锑业有限公司.xls
+|   |   |       |   基础数据表－甘肃辰州矿业开发有限公司.xls
+|   |   |       |   基础数据表－辰州本部.xls
+|   |   |       |   数据汇总表.xls
+|   |   |       |   预测数据－安化湘安钨业有限公司.xls
+|   |   |       |   预测数据－常德辰州锑品有限公司.xls
+|   |   |       |   预测数据－新邵辰州锑业有限公司.xls
+|   |   |       |   预测数据－辰州本部.xls
+|   |   |       |   
+|   |   |       \---敏感性分析
+|   |   |               敏感性分析-辰州本部(上涨10%).xls
+|   |   |               敏感性分析-辰州本部(下跌10%).xls
+|   |   |               敏感性分析－安化湘安钨业有限公司(上涨10%).xls
+|   |   |               敏感性分析－安化湘安钨业有限公司(下跌10%).xls
+|   |   |               敏感性分析－常德辰州锑品有限公司（上涨10%）.xls
+|   |   |               敏感性分析－常德辰州锑品有限公司（下跌10%）.xls
+|   |   |               敏感性分析－新邵辰州锑业有限公司（上涨10%）.xls
+|   |   |               敏感性分析－新邵辰州锑业有限公司（下跌10%）.xls
+|   |   |               
+|   |   \---财务预测-五矿提供价格版
+|   |       +---财务预测040926
+|   |       |   |   五矿有色参股辰州矿业项目可行性研究报告 040926.doc
+|   |       |   |   五矿有色参股辰州矿业项目可行性研究报告 040928.doc
+|   |       |   |   五矿有色参股辰州矿业项目可行性研究报告.ppt
+|   |       |   |   基础数据表－安化湘安钨业有限公司.xls
+|   |       |   |   基础数据表－常德辰州锑品有限公司.xls
+|   |       |   |   基础数据表－新邵辰州锑业有限公司.xls
+|   |       |   |   基础数据表－甘肃辰州矿业开发有限公司.xls
+|   |       |   |   基础数据表－辰州本部.xls
+|   |       |   |   数据汇总表.xls
+|   |       |   |   湖南辰州矿业有限公司可行性研究报告(初稿).doc
+|   |       |   |   湖南辰州矿业有限公司可行性研究报告(第二稿).doc
+|   |       |   |   湖南辰州矿业财务预测 040921.doc
+|   |       |   |   辰州矿业可行性研究报告摘要.doc
+|   |       |   |   预测数据－安化湘安钨业有限公司.xls
+|   |       |   |   预测数据－常德辰州锑品有限公司.xls
+|   |       |   |   预测数据－新邵辰州锑业有限公司.xls
+|   |       |   |   预测数据－辰州本部.xls
+|   |       |   |   
+|   |       |   +---敏感性分析
+|   |       |   |       敏感性分析－安化湘安钨业有限公司（上涨10%）.xls
+|   |       |   |       敏感性分析－安化湘安钨业有限公司（下跌10%）.xls
+|   |       |   |       敏感性分析－常德辰州锑品有限公司（上涨10%）.xls
+|   |       |   |       敏感性分析－常德辰州锑品有限公司（下跌10%）.xls
+|   |       |   |       敏感性分析－新邵辰州锑业有限公司（上涨10%）.xls
+|   |       |   |       敏感性分析－新邵辰州锑业有限公司（下跌10%）.xls
+|   |       |   |       敏感性分析－辰州本部（上涨10%）.xls
+|   |       |   |       敏感性分析－辰州本部（下跌10%）.xls
+|   |       |   |       
+|   |       |   \---辰州-模拟成本法
+|   |       |           sfdsdfsdf.xls
+|   |       |           基础数据表－辰州本部0914.xls
+|   |       |           预测数据－辰州本部0914.xls
+|   |       |           
+|   |       \---财务预测041007
+|   |           |   基础数据表－安化湘安钨业有限公司.xls
+|   |           |   基础数据表－常德辰州锑品有限公司.xls
+|   |           |   基础数据表－新邵辰州锑业有限公司.xls
+|   |           |   基础数据表－甘肃辰州矿业开发有限公司.xls
+|   |           |   基础数据表－辰州本部.xls
+|   |           |   数据汇总表.xls
+|   |           |   预测数据－安化湘安钨业有限公司.xls
+|   |           |   预测数据－常德辰州锑品有限公司.xls
+|   |           |   预测数据－新邵辰州锑业有限公司.xls
+|   |           |   预测数据－辰州本部.xls
+|   |           |   
+|   |           \---敏感性分析
+|   |                   敏感性分析－安化湘安钨业有限公司（上涨10%）.xls
+|   |                   敏感性分析－安化湘安钨业有限公司（下跌10%）.xls
+|   |                   敏感性分析－常德辰州锑品有限公司（上涨10%）.xls
+|   |                   敏感性分析－常德辰州锑品有限公司（下跌10%）.xls
+|   |                   敏感性分析－新邵辰州锑业有限公司（上涨10%）.xls
+|   |                   敏感性分析－新邵辰州锑业有限公司（下跌10%）.xls
+|   |                   敏感性分析－辰州本部（上涨10%）.xls
+|   |                   敏感性分析－辰州本部（下跌10%）.xls
+|   |                   
+|   +---辰州资料
+|   |       2004年黄金产量.xls
+|   |       qualify supplier.doc
+|   |       公司“十一·五”资源发展规划.doc
+|   |       关于与锡矿山、辰州矿业两公司主要领导沟通情.doc
+|   |       关于参股辰州矿业有限公司有关情况的汇报（黄.doc
+|   |       参股辰州矿业责任有限公司的情况介绍.doc
+|   |       合 作 意 向 书（辰州矿业2）.doc
+|   |       湖南辰州矿业报价.xls
+|   |       湖南辰州矿业有限责任公司“十一·五”.doc
+|   |       
+|   +---金矿市场分析
+|   |   |   下半年金价可能走软.mht
+|   |   |   不同黄金品种的优缺点.mht
+|   |   |   世界黄金产量将平稳上升.mht
+|   |   |   世界黄金价格的主要类型.mht
+|   |   |   世界黄金协会称第二季全球消费黄金需求出现增长.mht
+|   |   |   世界黄金消费与中国黄金市场.mht
+|   |   |   中国货币网——我国黄金市场和国家黄金战略储备概述.mht
+|   |   |   买黄金是不是投资？.mht
+|   |   |   亚洲主要黄金市场特点.mht
+|   |   |   全球凸现金矿资源整合新动向.mht
+|   |   |   全球黄金矿业面临发展问题.mht
+|   |   |   全球黄金矿产资源分布简况.mht
+|   |   |   南非黄金产量将呈下降趋势.mht
+|   |   |   南非黄金产量长期下降趋势料将持续.mht
+|   |   |   印度气候变化不太可能立即影响黄金需求.mht
+|   |   |   历史上黄金的货币角色.mht
+|   |   |   国际上黄金市场的主要划分方式和类型.mht
+|   |   |   国际黄金市场上的主要投资方式及利弊.mht
+|   |   |   国际黄金市场的发展轨迹.mht
+|   |   |   安格鲁铂金公司对市场前景乐观.mht
+|   |   |   对黄金投资热的冷思考.mht
+|   |   |   市场分析师认为今年金价将趋向于上扬.mht
+|   |   |   影响世界黄金价格的主要因素.mht
+|   |   |   我国人均金饰品占有量.mht
+|   |   |   我国首饰用金消费量十年间一直保持世界前三位.mht
+|   |   |   投资黄金与不动产、储蓄、有价证券的利弊比较.mht
+|   |   |   教你辩析黄金首饰.mht
+|   |   |   是什么“K金”.mht
+|   |   |   汽车产量的增长为铂族金属市场的需求带来乐观情绪.mht
+|   |   |   海湾国家黄金销售创历史新高.mht
+|   |   |   秘鲁成为世界第六大产金国.mht
+|   |   |   美元下跌和油价上涨可能使金价继续上升.mht
+|   |   |   谈洛希尔公司退出黄金市场.mht
+|   |   |   金价再创新高 警惕短期风险.mht
+|   |   |   金矿勘查持续走热的原因分析.mht
+|   |   |   铂金供不应求有风险.mht
+|   |   |   销售数据影响美元下跌，金价尾盘走强.mht
+|   |   |   需求上升给黄金工业创造光明前景.mht
+|   |   |   黄金——美元的对头.mht
+|   |   |   黄金价格缘何一路走高.mht
+|   |   |   黄金在货币金融体系中地位的演变.mht
+|   |   |   黄金市场将开放.mht
+|   |   |   黄金市场开放带来影响几何.mht
+|   |   |   黄金市场涉及的法律体系和监管构架.mht
+|   |   |   黄金市场的价格确定机制.mht
+|   |   |   黄金市场的基本构成要素.mht
+|   |   |   黄金市场：投资魅力永存.mht
+|   |   |   黄金期货交易的主要内容及与远期交易的区别.mht
+|   |   |   黄金的主要需求和用途.mht
+|   |   |   黄金的价值与地位.mht
+|   |   |   黄金的基本性质.mht
+|   |   |   黄金的定义及成色.mht
+|   |   |   黄金的档次.mht
+|   |   |   黄金的种类 .doc
+|   |   |   黄金知识知多少.mht
+|   |   |   黄金行业2004年5月份经济运行情况.mht
+|   |   |   黄金行业2004年6月份暨上半年经济运行情况.mht
+|   |   |   黄金金市场的供应和需求.mht
+|   |   |   
+|   |   \---market data
+|   |           1968～2003世界黄金月平均价格.gif
+|   |           1968～2003世界黄金月平均价格.mht
+|   |           2003年全球铂金需求情况要点.mht
+|   |           2003年第三季度黄金供求状况报告（GFMS）.mht
+|   |           2003年黄金需求数据统计.mht
+|   |           2004年上半年黄金市场分析及下半年展望.doc
+|   |           2004年金银铂钯价格预测  .doc
+|   |           世界产金前20名国家.mht
+|   |           世界各国（地区）官方持金情况(2004年7月).mht
+|   |           世界官方黄金储备一览.mht
+|   |           世界黄金产量最大的15个公司.mht
+|   |           世界黄金市场需求下降.mht
+|   |           中国货币网——2004年金银铂钯价格预测.mht
+|   |           全球28位专家对2003年金银铂钯价格的预测与分析.mht
+|   |           历年中国人民银行黄金收购价格表.mht
+|   |           历年国内黄金产量（1949—2003）.mht
+|   |           国际黄金市场行情(1999年).mht
+|   |           国际黄金市场行情2000年.mht
+|   |           黄金价格可能涨至2005年.mht
+|   |           
+|   \---锑行业资料
+|           中国锑市场调查031118.doc
+|           辰州矿业主要产品价格走势预测.doc
+|           辰州矿业－钨行研－v1.0.doc
+|           辰州矿业－锑行研－v1.0.doc
+|           锑资料.doc
+|           
++---凯捷—五矿有色锡整合项目
+|   |   五矿控股重组华锡集团及大厂矿区项目建议书040928.ppt
+|   |   五矿有色——钨产业发展战略和整合平台报告（V4.2）-修改稿.pp.ppt
+|   |   五矿有色收购锡矿山财务预测 041012.ppt
+|   |   
+|   \---方案
+|           收购锡矿山方案框架 040727.doc
+|           重组方案.ppt
+|           锡矿山重组方案（第二稿）040820.doc
+|           
++---凯捷-2005年-香港中旅国际投资中央平台人力资源咨询全案  54.7MB
+|   |   0530CTSHK-人员招聘、配置V1.0.ppt
+|   |   4 - April 29 培训管理制度.doc
+|   |   人力资源培训.ppt
+|   |   港中旅中央平台招聘制度V1.0.rar
+|   |   绩效管理方案演示版.ppt
+|   |   职位评估方法及程序.ppt
+|   |   能力素质模型6.12.ppt
+|   |   
+|   +---001 June 4-jd
+|   |   |   July 6-职位列表.xls
+|   |   |   July 7 JD.rar
+|   |   |   
+|   |   +---010 ticket
+|   |   |       地区运营主管.doc
+|   |   |       市场采购一般员工.doc
+|   |   |       机票业务本部职位描述－营业高级经理.doc
+|   |   |       机票业务本部职位描述－采购高级经理.doc
+|   |   |       机票市场营销高级经理.doc
+|   |   |       运营管理一般员工.doc
+|   |   |       采购地区主管.doc
+|   |   |       
+|   |   +---009 package
+|   |   |       旅遊產品部業務方案20050621.doc
+|   |   |       职位描述-旅游产品业务部产品策划专员20050628.doc
+|   |   |       职位描述-旅游产品业务部产品策划经理20050628.doc
+|   |   |       职位描述-旅游产品业务部产品采购专员 20050628.doc
+|   |   |       职位描述-旅游产品业务部信息汇总员20050628.doc
+|   |   |       职位描述-旅游产品业务部总经理20050628.doc
+|   |   |       職位描述-旅遊產品業務部信息總員20050621.doc
+|   |   |       職位描述-旅遊產品業務部產品採購主管20050621.doc
+|   |   |       職位描述-旅遊產品業務部產品策劃主管20050621.doc
+|   |   |       職位描述-旅遊產品業務部產品策劃经理20050621.doc
+|   |   |       職位描述-旅遊產品業務部高級经理20050620.doc
+|   |   |       
+|   |   +---008 July 7-华东公司
+|   |   +---004 it
+|   |   |       Packed files.zip
+|   |   |       职位描述文件-PC维修员.doc
+|   |   |       职位描述文件-电话交换机机房值班员.doc
+|   |   |       职位描述文件-资讯科技部总经理.doc
+|   |   |       资讯科技部职位描述-R&D经理.doc
+|   |   |       资讯科技部职位描述-网站开发经理.doc
+|   |   |       资讯科技部职位描述-软件开发经理.doc
+|   |   |       资讯科技部职位描述-运行维护经理.doc
+|   |   |       资讯科技部职位描述－分析程序员.doc
+|   |   |       资讯科技部职位描述－数据库管理员.doc
+|   |   |       资讯科技部职位描述－文档管理员.doc
+|   |   |       资讯科技部职位描述－程序员.doc
+|   |   |       资讯科技部职位描述－系统分析员.doc
+|   |   |       资讯科技部职位描述－网络管理员.doc
+|   |   |       资讯科技部职位描述－网页制作工程师.doc
+|   |   |       资讯科技部职位描述－网页工程师.doc
+|   |   |       资讯科技部职位描述－网页程序员.doc
+|   |   |       资讯科技部职位描述－网页设计工程师.doc
+|   |   |       资讯科技部职位描述－项目经理.doc
+|   |   |       
+|   |   +---003 hotel
+|   |   |       职位描述-合约部高级主任.doc
+|   |   |       职位描述-酒店业务部助理总经理.doc
+|   |   |       职位描述－分公司酒店合约部销售主任050630.doc
+|   |   |       职位描述－分公司酒店合约部销售经理050630.doc
+|   |   |       职位描述－分公司酒店合约部高级销售经理050630.doc
+|   |   |       酒店业务部信息录入员及档案员职位描述.doc
+|   |   |       酒店业务部信息汇主管职位描述.doc
+|   |   |       酒店业务部总经理职位描述.doc
+|   |   |       酒店业务部收益管理主管职位描述.doc
+|   |   |       酒店业务部收益管理部专员职位描述.doc
+|   |   |       酒店业务部收益管理部高级副经理职位描述.doc
+|   |   |       酒店业务部收益管理部高级经理职位描述.doc
+|   |   |       酒店业务部资料管理部主管职位描述.doc
+|   |   |       酒店合约部副经理职位描述.doc
+|   |   |       酒店合约部理职位描述.doc
+|   |   |       酒店合约部销售主任职位描述.doc
+|   |   |       酒店合约部销售经理职位描述.doc
+|   |   |       酒店合约部高级销售经理或区域销售经理职位描述.doc
+|   |   |       
+|   |   +---001 cc
+|   |   |   |   Contact Centre Positions Requirement_0301_SM(Ops).doc
+|   |   |   |   Contact Centre Positions Requirement_0305_M(CCQA).doc
+|   |   |   |   Contact Centre Positions Requirement_0309_AO.doc
+|   |   |   |   Contact Centre Positions Requirement_AM(Ops).doc
+|   |   |   |   Contact Centre Positions Requirement_CCO.doc
+|   |   |   |   Contact Centre Positions Requirement_LTC.doc
+|   |   |   |   Contact Centre Positions Requirement_M(Ops).doc
+|   |   |   |   Contact Centre Positions Requirement_SupOfficer.doc
+|   |   |   |   Contact Centre Positions Requirement_TicketCon.doc
+|   |   |   |   Contact Centre Positions Requirement_TrainLeader.doc
+|   |   |   |   jd of am planing&development.doc
+|   |   |   |   jd of am training operation.doc
+|   |   |   |   jd of AM.doc
+|   |   |   |   jd of head of training academy.doc
+|   |   |   |   jd of resource manager.doc
+|   |   |   |   jd of resources manager.doc
+|   |   |   |   JD_ContactCenterMgr CustomerCare.doc
+|   |   |   |   JD_SrBusinessAnalyst.doc
+|   |   |   |   JD_SrVP ContactCenter.doc
+|   |   |   |   JD_Support&Fullfilment.doc
+|   |   |   |   JD_VP Operation.doc
+|   |   |   |   JD_VP Technology.doc
+|   |   |   |   Lead Resource Controller.doc
+|   |   |   |   Leader, Operations (call centree-sales & corporate sales.doc
+|   |   |   |   Manager, Operations (call centre-sales & corporate sales).doc
+|   |   |   |   Manager, Ticketing Operation Centre.doc
+|   |   |   |   Process Consultant.doc
+|   |   |   |   Quality Assurance Consultant.doc
+|   |   |   |   Resource Controller.doc
+|   |   |   |   Staff Communication Officer.doc
+|   |   |   |   Ticketing Consultant.doc
+|   |   |   |   Training Administrator.doc
+|   |   |   |   Travel Consultant.doc
+|   |   |   |   
+|   |   |   \---001 supplement
+|   |   |           Contact Centre Position Requirement_OpsOfficer.doc
+|   |   |           Contact Centre Position Requirement_SOO.doc
+|   |   |           Contact Centre Positions Requirement_0301_SM(Ops).doc
+|   |   |           Contact Centre Positions Requirement_0305_M(CCQA).doc
+|   |   |           Contact Centre Positions Requirement_0309_AO.doc
+|   |   |           Contact Centre Positions Requirement_AM(Ops).doc
+|   |   |           Contact Centre Positions Requirement_CCO.doc
+|   |   |           Contact Centre Positions Requirement_LTC.doc
+|   |   |           Contact Centre Positions Requirement_M(Ops).doc
+|   |   |           Contact Centre Positions Requirement_SupOfficer.doc
+|   |   |           Contact Centre Positions Requirement_TicketCon.doc
+|   |   |           Contact Centre Positions Requirement_TrainLeader.doc
+|   |   |           
+|   |   +---002 From GE
+|   |   |   |   fin.rar
+|   |   |   |   finished.rar
+|   |   |   |   hotel.rar
+|   |   |   |   investment.rar
+|   |   |   |   it.rar
+|   |   |   |   JD-0704.rar
+|   |   |   |   jd.rar
+|   |   |   |   JDGM.rar
+|   |   |   |   July 7-structure.rar
+|   |   |   |   marketing + comm + CRM JDs.doc
+|   |   |   |   marketing + comm + CRM org chart & duties jul 6.ppt
+|   |   |   |   marketing + comm + CRM org chart & duties jul 6.rar
+|   |   |   |   市场采购一般员工.doc
+|   |   |   |   职位描述书－北京公司市场销售部.doc
+|   |   |   |   职位描述书－北京公司行政人事部.doc
+|   |   |   |   职位描述书－北京公司财务部.doc
+|   |   |   |   资讯科技部.rar
+|   |   |   |   
+|   |   |   +---012 web
+|   |   |   |       职位描述- web dept chief editor.do
+|   |   |   |       职位描述- web dept editor(English).do
+|   |   |   |       职位描述- web dept editors(Chinese).do
+|   |   |   |       职位描述－web dept Programmer.do
+|   |   |   |       职位描述－web dept[1].designer.do
+|   |   |   |       
+|   |   |   +---011 ticket
+|   |   |   |       职位描述-地区运营主管.doc
+|   |   |   |       职位描述-市场分析主管.doc
+|   |   |   |       职位描述-市场采购专员.doc
+|   |   |   |       职位描述-市场采购部综合主管.doc
+|   |   |   |       职位描述-机票市场分析专员.doc
+|   |   |   |       职位描述-机票市场营销高级经理.doc
+|   |   |   |       职位描述-运营专员.doc
+|   |   |   |       职位描述-运营高级经理.doc
+|   |   |   |       职位描述-采购地区主管.doc
+|   |   |   |       职位描述－采购高级经理.doc
+|   |   |   |       
+|   |   |   +---010 package
+|   |   |   |       职位描述-旅游产品业务部产品策划专员20050628.do
+|   |   |   |       职位描述-旅游产品业务部产品策划主管.doc
+|   |   |   |       职位描述-旅游产品业务部产品策划经理20050628.do
+|   |   |   |       职位描述-旅游产品业务部产品采购专员 20050628.do
+|   |   |   |       职位描述-旅游产品业务部产品采购主管.doc
+|   |   |   |       职位描述-旅游产品业务部信息汇总员.doc
+|   |   |   |       职位描述-旅游产品业务部信息汇总员20050628.do
+|   |   |   |       职位描述-旅游产品业务部总经理20050628.do
+|   |   |   |       职位描述-旅游产品业务部高级经理.doc
+|   |   |   |       
+|   |   |   +---009 it
+|   |   |   |       复件 职位描述文件-资讯科技部副总监.doc
+|   |   |   |       职位描述-技术副总裁.doc
+|   |   |   |       职位描述文件-PC维修员.doc
+|   |   |   |       职位描述文件-操作维修组主管.doc
+|   |   |   |       职位描述文件-新技术研发与应用.doc
+|   |   |   |       职位描述文件-电话交换机机房值班员.doc
+|   |   |   |       职位描述文件-网络数据库组主管.doc
+|   |   |   |       职位描述文件-规划预算和其它管理人员.doc
+|   |   |   |       职位描述文件-资讯科技部总经理.doc
+|   |   |   |       职位描述文件计划控制部主管.doc
+|   |   |   |       职位描述－技术支持工程师.doc
+|   |   |   |       职位描述－技术支持经理.doc
+|   |   |   |       职位描述－知识库管理员.doc
+|   |   |   |       职位描述－知识库管理经理.doc
+|   |   |   |       职位描述－软件开发工程师.doc
+|   |   |   |       职位描述－软件开发经理.doc
+|   |   |   |       资讯科技部职位描述-系统维护经理.doc
+|   |   |   |       资讯科技部职位描述-网站开发经理.doc
+|   |   |   |       资讯科技部职位描述-软件开发副经理.doc
+|   |   |   |       资讯科技部职位描述-软件开发经理.doc
+|   |   |   |       资讯科技部职位描述－分析程序员.doc
+|   |   |   |       资讯科技部职位描述－数据库管理员.doc
+|   |   |   |       资讯科技部职位描述－文档管理员.doc
+|   |   |   |       资讯科技部职位描述－程序员.doc
+|   |   |   |       资讯科技部职位描述－系统分析员.doc
+|   |   |   |       资讯科技部职位描述－网络管理员.doc
+|   |   |   |       资讯科技部职位描述－网页制作工程师.doc
+|   |   |   |       资讯科技部职位描述－网页程序员.doc
+|   |   |   |       资讯科技部职位描述－网页设计工程师.doc
+|   |   |   |       资讯科技部职位描述－项目经理.doc
+|   |   |   |       
+|   |   |   +---008 investment
+|   |   |   |       招聘职位说明-投資主任.doc
+|   |   |   |       招聘职位说明-投資主管.doc
+|   |   |   |       招聘职位说明-投資策劃部總監.doc
+|   |   |   |       招聘职位说明-投資經理.doc
+|   |   |   |       招聘职位说明-研發主任.doc
+|   |   |   |       招聘职位说明-研發主管.doc
+|   |   |   |       招聘职位说明-研發經理.doc
+|   |   |   |       
+|   |   |   +---007 huadong
+|   |   |   |       华东区票务采购部业务主管.doc
+|   |   |   |       商旅-分公司商务管理中心经理.doc
+|   |   |   |       商旅-客户经理.doc
+|   |   |   |       商旅-销售经理.doc
+|   |   |   |       复件 商旅-销售总监.doc
+|   |   |   |       复件 复件 商旅-销售部人员.doc
+|   |   |   |       复件 旅行顾问.doc
+|   |   |   |       综合管理部业务主管.doc
+|   |   |   |       综合管理部经理.doc
+|   |   |   |       职位描述书－华东公司营运中心总监.doc
+|   |   |   |       酒店采购部业务主管.doc
+|   |   |   |       酒店采购部经理.doc
+|   |   |   |       
+|   |   |   +---006 hr
+|   |   |   |   \---001 July 6-hr
+|   |   |   |           July 5-人事行政副总监.doc
+|   |   |   |           July 5-人事行政总监.doc
+|   |   |   |           July 5-人力资源经理.doc
+|   |   |   |           July 5-前台接待员.doc
+|   |   |   |           July 5-员工关系及企业文化主管.doc
+|   |   |   |           July 5-培训主管.doc
+|   |   |   |           July 5-招聘主管.doc
+|   |   |   |           July 5-绩效考核主管.doc
+|   |   |   |           July 5-薪酬福利主管.doc
+|   |   |   |           July 5-行政助理.doc
+|   |   |   |           July 5-行政秘书.doc
+|   |   |   |           July 5-行政经理.doc
+|   |   |   |           分公司 绩效考核专员.doc
+|   |   |   |           分公司人力资源及行政经理.doc
+|   |   |   |           分公司招i聘及培训专员.doc
+|   |   |   |           分公司薪酬福利及绩效考核专员.doc
+|   |   |   |           分公司行政助理.doc
+|   |   |   |           员工关系及企业文化专员.doc
+|   |   |   |           培训专员.doc
+|   |   |   |           招聘专员.doc
+|   |   |   |           绩效考核专员.doc
+|   |   |   |           薪酬福利专员.doc
+|   |   |   |           
+|   |   |   +---005 hotel
+|   |   |   |   |   职位描述-合约部高级主任区域业务部销售主任.doc
+|   |   |   |   |   职位描述-酒店业务部助理总经理.doc
+|   |   |   |   |   职位描述－分公司酒店合约部销售主任050630.doc
+|   |   |   |   |   职位描述－分公司酒店合约部销售经理050630.doc
+|   |   |   |   |   职位描述－分公司酒店合约部高级销售经理050630.doc
+|   |   |   |   |   酒店业务部信息录入员及档案员职位描述.doc
+|   |   |   |   |   酒店业务部总经理职位描述.doc
+|   |   |   |   |   酒店业务部收益管理主管职位描述.doc
+|   |   |   |   |   酒店业务部收益管理部专员职位描述.doc
+|   |   |   |   |   酒店业务部收益管理部高级副经理职位描述.doc
+|   |   |   |   |   酒店业务部收益管理部高级经理职位描述.doc
+|   |   |   |   |   酒店业务部资料管理副主管主管职位描述.doc
+|   |   |   |   |   酒店业务部资料管理部主管职位描述.doc
+|   |   |   |   |   酒店合约部副经理职位描述.doc
+|   |   |   |   |   酒店合约部理区域业务部销售经理职位描述.doc
+|   |   |   |   |   酒店合约部销售主任区域业务部销售主任职位描述.doc
+|   |   |   |   |   酒店合约部销售经理职位描述.doc
+|   |   |   |   |   酒店合约部高级销售经理或区域销售经理职位描述.doc
+|   |   |   |   |   
+|   |   |   |   \---001 关于职位描述
+|   |   |   |           职位描述－ 質量保證部主管50706.doc
+|   |   |   |           职位描述－质量保证部助理经理050706.doc
+|   |   |   |           职位描述－质量保证部检查员050706.doc
+|   |   |   |           职位描述－质量保证部经理050706.doc
+|   |   |   |           职位描述－质量保证部高级检查员050706.doc
+|   |   |   |           
+|   |   |   +---004 fin
+|   |   |   |       上海分部 职位描述－会计助理,会计文员.doc
+|   |   |   |       上海分部 财务经理.doc
+|   |   |   |       副财务总监.doc
+|   |   |   |       助理会计部经理.doc
+|   |   |   |       北京分部 财务经理.doc
+|   |   |   |       北京分部.doc
+|   |   |   |       职位描述－上海分公司财务主任,会计主任.doc
+|   |   |   |       职位描述－会计助理,会计文员.doc
+|   |   |   |       职位描述－出纳员.doc
+|   |   |   |       职位描述－北京分公司财务主任,会计主任.doc
+|   |   |   |       职位描述－财务主任,会计主任.doc
+|   |   |   |       职位描述－财务部秘书.doc
+|   |   |   |       财务总监.doc
+|   |   |   |       财务经理.doc
+|   |   |   |       
+|   |   |   +---003 development
+|   |   |   |       职位描述－业务拓展总监.doc
+|   |   |   |       职位描述－增值服务与新产品开发经理.doc
+|   |   |   |       职位描述－增值服务与新产品开发高级专员.doc
+|   |   |   |       职位描述－大型活动经理.doc
+|   |   |   |       职位描述－大客户服务经理.doc
+|   |   |   |       职位描述－媒体合作专员.doc
+|   |   |   |       职位描述－市场调研与情报分析专员.doc
+|   |   |   |       
+|   |   |   +---002 cc
+|   |   |   |       cc.rar
+|   |   |   |       职位描述- 副培训经理（运作）.doc
+|   |   |   |       职位描述- 营运助理经理.doc
+|   |   |   |       职位描述- 质量保证经理.doc
+|   |   |   |       职位描述- 资源管理经理.doc
+|   |   |   |       职位描述-副培训经理（发展及规划）.doc
+|   |   |   |       职位描述-员工沟通专员.doc
+|   |   |   |       职位描述-培训助理.doc
+|   |   |   |       职位描述-客户关怀专员.doc
+|   |   |   |       职位描述-客户关怀经理.doc
+|   |   |   |       职位描述-支援及配送经理.doc
+|   |   |   |       职位描述-支援部文员.doc
+|   |   |   |       职位描述-旅游知识培训主管.doc
+|   |   |   |       职位描述-旅游顾问Consultant.doc
+|   |   |   |       职位描述-旅游顾问主管.doc
+|   |   |   |       职位描述-流程改进顾问.doc
+|   |   |   |       职位描述-航空票务操作经理.doc
+|   |   |   |       职位描述-航空票务顾问.doc
+|   |   |   |       职位描述-营运副总裁.doc
+|   |   |   |       职位描述-质量保证顾问.doc
+|   |   |   |       职位描述-资源控制专员.doc
+|   |   |   |       职位描述-资源控制中心主管.doc
+|   |   |   |       职位描述-送票员.doc
+|   |   |   |       职位描述-部门经理.doc
+|   |   |   |       职位描述-高级分析师.doc
+|   |   |   |       职位描述-高级副总裁.doc
+|   |   |   |       职位描述-高级票务操作员.doc
+|   |   |   |       职位描述-高级营运经理.doc
+|   |   |   |       运营助理.doc
+|   |   |   |       
+|   |   |   \---001 beijing
+|   |   |           华北区票务采购部业务主管.doc
+|   |   |           华北区票务采购部经理.doc
+|   |   |           商旅-分公司商务管理中心经理.doc
+|   |   |           商旅-客户经理.doc
+|   |   |           商旅-销售经理.doc
+|   |   |           旅行顾问.doc
+|   |   |           综合旅行顾问.doc
+|   |   |           综合管理部业务主管.doc
+|   |   |           综合管理部经理.doc
+|   |   |           综合预订经理.doc
+|   |   |           职位描述书－北京公司旅游产品策划业务主管.doc
+|   |   |           职位描述书－北京公司旅游产品部经理.doc
+|   |   |           职位描述书－北京公司营运中心总监.doc
+|   |   |           酒店采购部业务主管.doc
+|   |   |           酒店采购部经理.doc
+|   |   |           预订业务部经理.doc
+|   |   |           
+|   |   +---005 JD－2
+|   |   |       技术支持工程师.doc
+|   |   |       技术支持经理.doc
+|   |   |       知识库管理员.doc
+|   |   |       知识库管理经理.doc
+|   |   |       资讯科技部总监.doc
+|   |   |       软件开发工程师.doc
+|   |   |       软件开发经理.doc
+|   |   |       
+|   |   +---006 July 7 JD
+|   |   |   |   July 8- 资讯科技部.rar
+|   |   |   |   
+|   |   |   +---008 July 8- 资讯科技部
+|   |   |   |       PC维修员.doc
+|   |   |   |       分析程序员.doc
+|   |   |   |       应用软件开发组经理.doc
+|   |   |   |       开发部副总经理.doc
+|   |   |   |       开发部总经理.doc
+|   |   |   |       技术支持工程师.doc
+|   |   |   |       技术支持经理.doc
+|   |   |   |       技术部总经理.doc
+|   |   |   |       操作维修组经理.doc
+|   |   |   |       操作维修部总经理.doc
+|   |   |   |       数据库管理员.doc
+|   |   |   |       文档管理员.doc
+|   |   |   |       新技术研发与应用.doc
+|   |   |   |       电话交换机机房值班员.doc
+|   |   |   |       知识库管理员.doc
+|   |   |   |       知识库管理经理.doc
+|   |   |   |       程序员.doc
+|   |   |   |       系统分析员.doc
+|   |   |   |       网站开发组经理.doc
+|   |   |   |       网站程序员.doc
+|   |   |   |       网站设计师.doc
+|   |   |   |       网络数据库管理组经理.doc
+|   |   |   |       网络管理员.doc
+|   |   |   |       美工.doc
+|   |   |   |       计划控制员.doc
+|   |   |   |       资讯科技部副总监.doc
+|   |   |   |       资讯科技部总监.doc
+|   |   |   |       软件开发工程师.doc
+|   |   |   |       软件开发经理.doc
+|   |   |   |       项目经理.doc
+|   |   |   |       
+|   |   |   +---007 July 7-业务拓展部
+|   |   |   |       业务拓展总监.doc
+|   |   |   |       增值服务与新产品开发经理.doc
+|   |   |   |       增值服务与新产品开发高级专员.doc
+|   |   |   |       大型活动经理.doc
+|   |   |   |       大客户服务经理.doc
+|   |   |   |       媒体合作专员.doc
+|   |   |   |       客户主任.doc
+|   |   |   |       市场调研与情报分析专员.doc
+|   |   |   |       
+|   |   |   +---006 July 7-投资策划部
+|   |   |   |       战略规划专员.doc
+|   |   |   |       战略规划部经理.doc
+|   |   |   |       战略规划高级专员.doc
+|   |   |   |       投资策划总监.doc
+|   |   |   |       投资部专员.doc
+|   |   |   |       投资部经理.doc
+|   |   |   |       投资部高级专员.doc
+|   |   |   |       
+|   |   |   +---005 July 7-市场推广部
+|   |   |   |       CRM助理经理.doc
+|   |   |   |       CRM总经理.doc
+|   |   |   |       助理总经理.doc
+|   |   |   |       卡推广销售主任.doc
+|   |   |   |       卡推广销售经理.doc
+|   |   |   |       品牌传讯主任.doc
+|   |   |   |       品牌传讯经理.doc
+|   |   |   |       
+|   |   |   +---004 July 7-人力资源部
+|   |   |   |       人事行政总监.doc
+|   |   |   |       人力资源经理.doc
+|   |   |   |       企业文化与员工关系专员.doc
+|   |   |   |       企业文化与员工关系主管.doc
+|   |   |   |       前台.doc
+|   |   |   |       助理人事行政总监.doc
+|   |   |   |       华东公司人事主管.doc
+|   |   |   |       华东公司人事行政经理.doc
+|   |   |   |       华东公司薪酬绩效主管.doc
+|   |   |   |       华东公司行政主管.doc
+|   |   |   |       华北公司人事主管.doc
+|   |   |   |       华北公司人事行政经理.doc
+|   |   |   |       华北公司前台.doc
+|   |   |   |       华北公司网络管理工程师.doc
+|   |   |   |       华北公司薪酬绩效主管.doc
+|   |   |   |       华北公司行政主管.doc
+|   |   |   |       学习与发展专员.doc
+|   |   |   |       学习与发展主管.doc
+|   |   |   |       绩效专员.doc
+|   |   |   |       绩效主管.doc
+|   |   |   |       薪酬专员.doc
+|   |   |   |       薪酬主管.doc
+|   |   |   |       行政助理.doc
+|   |   |   |       行政秘书.doc
+|   |   |   |       行政经理.doc
+|   |   |   |       配员专员.doc
+|   |   |   |       配员主管.doc
+|   |   |   |       
+|   |   |   +---003 July 7-华东公司
+|   |   |   |       分公司总经理.doc
+|   |   |   |       华东公司营运中心总监.doc
+|   |   |   |       华东区机票业务主管.doc
+|   |   |   |       华东机票业务部经理.doc
+|   |   |   |       商旅-分公司商务管理中心经理.doc
+|   |   |   |       商旅-客户经理.doc
+|   |   |   |       商旅-销售经理.doc
+|   |   |   |       市场销售人员.doc
+|   |   |   |       市场销售经理.doc
+|   |   |   |       综合管理部业务主管.doc
+|   |   |   |       综合管理部经理.doc
+|   |   |   |       配送业务人员.doc
+|   |   |   |       酒店业务主管.doc
+|   |   |   |       酒店业务部经理.doc
+|   |   |   |       
+|   |   |   +---002 July 7-财务部
+|   |   |   |       会计助理.doc
+|   |   |   |       出纳.doc
+|   |   |   |       助理财务经理.doc
+|   |   |   |       北京会计助理.doc
+|   |   |   |       北京公司财务部经理.doc
+|   |   |   |       北京财务主任.doc
+|   |   |   |       华东会计助理.doc
+|   |   |   |       华东公司财务部经理.doc
+|   |   |   |       华东财务主任.doc
+|   |   |   |       法律秘书.doc
+|   |   |   |       财务主任.doc
+|   |   |   |       财务总监.doc
+|   |   |   |       财务经理.doc
+|   |   |   |       
+|   |   |   \---001 JUly 7- 北京公司
+|   |   |           分公司总经理.doc
+|   |   |           华北区票务采购部业务主管.doc
+|   |   |           华北区票务采购部经理.doc
+|   |   |           商旅-分公司商务管理中心经理.doc
+|   |   |           商旅-客户经理.doc
+|   |   |           商旅-销售经理.doc
+|   |   |           旅行顾问.doc
+|   |   |           综合旅行顾问.doc
+|   |   |           综合管理部业务主管.doc
+|   |   |           综合管理部经理.doc
+|   |   |           综合预订经理.doc
+|   |   |           职位描述书－北京公司旅游产品策划业务主管.doc
+|   |   |           职位描述书－北京公司旅游产品部经理.doc
+|   |   |           职位描述书－北京公司营运中心总监.doc
+|   |   |           酒店采购部业务主管.doc
+|   |   |           酒店采购部经理.doc
+|   |   |           预订业务部经理.doc
+|   |   |           
+|   |   +---007 July 7-Director
+|   |   |       hr.rar
+|   |   |       July 4-it.rar
+|   |   |       July 5-人事行政总监.doc
+|   |   |       职位描述-业务拓展总监.doc
+|   |   |       职位描述-人事行政总监.doc
+|   |   |       职位描述-市场总监.doc
+|   |   |       职位描述-投资策划总监.doc
+|   |   |       职位描述-财务总监.doc
+|   |   |       
+|   |   +---011 其它
+|   |   |   |   July 4-副财务总监.doc
+|   |   |   |   July 4-财务总监.doc
+|   |   |   |   July 6-职位描述－合作及增值高级经理.doc
+|   |   |   |   July 6-职位描述－增值服务策划专员.doc
+|   |   |   |   July 6-职位描述－媒体合作专员.doc
+|   |   |   |   July 6-职位描述－对外合作项目经理.doc
+|   |   |   |   July 6-职位描述－市场情报专员.doc
+|   |   |   |   业务拓展工作手册.doc
+|   |   |   |   规划预算和其它管理人员.doc
+|   |   |   |   
+|   |   |   +---002 北京－市场销售部
+|   |   |   |       July 5-北京-市场营销总监.doc
+|   |   |   |       July 5-北京公司-会员主管.doc
+|   |   |   |       July 5-北京公司-公关策划经理.doc
+|   |   |   |       July 5-北京公司-关系营销经理.doc
+|   |   |   |       July 5-北京公司-广告主管.doc
+|   |   |   |       July 5-北京公司-销售主管.doc
+|   |   |   |       
+|   |   |   +---003 北京－行政人事部
+|   |   |   |       July 5-北京公司-网络管理工程师.doc
+|   |   |   |       July 5-北京公司-行政主管.doc
+|   |   |   |       July 5-北京公司－前台接待员.doc
+|   |   |   |       July 5-北京公司－薪酬绩效主管.doc
+|   |   |   |       July 5-北京分公司-人事主管.doc
+|   |   |   |       July 5-北京分公司-行政人事总经理.doc
+|   |   |   |       
+|   |   |   \---001 北京－财务部
+|   |   |           July 5-北京－会计主管.doc
+|   |   |           July 5-北京－会计经理.doc
+|   |   |           July 5-北京－出纳.doc
+|   |   |           July 5-北京－国际国内机票结算员.doc
+|   |   |           July 5-北京－客户结算员.doc
+|   |   |           July 5-北京－收银员.doc
+|   |   |           July 5-北京－票务核算会计.doc
+|   |   |           July 5-北京－结算经理.doc
+|   |   |           July 5-北京－综合会计.doc
+|   |   |           July 5-北京－财务部总经理.doc
+|   |   |           
+|   |   \---012 压缩文件
+|   |           beijing.rar
+|   |           July 4-fin.rar
+|   |           July 4-investment.rar
+|   |           July 6-hr.rar
+|   |           July 7-Director.rar
+|   |           
+|   \---002 提交客户
+|       |   0527CTSHK-人员招聘、配置V1.0.ppt
+|       |   0530CTSHK-人员招聘、配置V1.0.ppt
+|       |   0612职位评估打分表.xls
+|       |   20050508培训用表.doc
+|       |   20050508职位描述培训.ppt
+|       |   4 - April 29 培训管理制度.doc
+|       |   call center JD.rar
+|       |   CTSHK-人员招聘、配置表格.doc
+|       |   CTSHK-人员招聘表格0621.doc
+|       |   CTSHK-人员招聘表格0621.rar
+|       |   CTSHK－培训课程v1.1.xls
+|       |   JD 2.0.rar
+|       |   JDGM.rar
+|       |   July 2 培训体系.ppt
+|       |   July 7 职位列表.xls
+|       |   July4.职位列表.xls
+|       |   May 16 - 20 项目进展报告.doc
+|       |   中央平台人员配置图.ppt
+|       |   人力资源培训.ppt
+|       |   人员需求5.xls
+|       |   企业文化初稿.doc
+|       |   员工发展0616（1）.ppt
+|       |   港中旅中央平台招聘制度V1.0.rar
+|       |   港中旅费用明细.xls
+|       |   绩效管理方案演示版.ppt
+|       |   职位评估方法及程序培训.ppt
+|       |   能力素质模0612.rar
+|       |   能力素质模型.rar
+|       |   能力素质模型6.12.ppt
+|       |   表格.rar
+|       |   表格V2.0.rar
+|       |   部门能力素质.xls
+|       |   项目中期成果.rar
+|       |   
+|       \---001 表格V2.0
+|           \---001 表格
+|                   June 16 - HRF001工作申请表.doc
+|                   June 16 - HRF002初试表格.doc
+|                   June 16 - HRF003投资策划部招聘复试表格.doc
+|                   June 16 - HRF004业务拓展部招聘复试表格.doc
+|                   June 16 - HRF005资讯科技部招聘复试表格.doc
+|                   June 16 - HRF006市场推广部招聘复试表格.doc
+|                   June 16 - HRF007运营中心酒店业务部招聘复试表格.doc
+|                   June 16 - HRF008运营中心机票业务部招聘复试表格.doc
+|                   June 16 - HRF009运营中心旅游产品部招聘复试表格.doc
+|                   June 16 - HRF010运营中心商旅业务部招聘复试表格.doc
+|                   June 16 - HRF011运营中心客户服务中心招聘复试表格.doc
+|                   June 16 - HRF012运营中心网站招聘复试表格.doc
+|                   June 16 - HRF013财务核算部招聘复试表格.doc
+|                   June 16 - HRF014法律秘书部招聘复试表格.doc
+|                   June 16 - HRF015人力资源部招聘复试表格.doc
+|                   June 16 - HRF016行政部招聘复试表格.doc
+|                   June 16 - HRF017招聘面试问题.doc
+|                   
++---凯捷-2005年-重庆协信集团战略与人力资源咨询项全案（ 28MB）
+|   |   协信 全资子公司授权体系-1230陈小刚.xls
+|   |   协信各子公司组织结构.ppt
+|   |   协信最终报告会0122.ppt
+|   |   协信高管职位评估.xls
+|   |   子公司经理目标契约.xls
+|   |   子公司部门经理绩效建议－2-20.ppt
+|   |   定薪及参数表-不含实际年薪.xls
+|   |   绩效诊断.ppt
+|   |   职位评估表.xls
+|   |   薪酬设计.ppt
+|   |   重庆协信控股建议书（沟通版）3.0.ppt
+|   |   重庆协信控股集团－战略研讨会1126.2cxg.ppt
+|   |   重庆协信流程培训.ppt
+|   |   重庆协信流程研讨.ppt
+|   |   重庆协信项目中期报告－1227汇报宣讲会版.ppt
+|   |   重庆协信项目中期报告－1227汇报版.ppt
+|   |   集团各大中心总监目标契约.xls
+|   |   集团总裁及副总裁目标契约.xls
+|   |   
+|   +---006 职位说明书最终提交版
+|   |   +---006 总监职位说明书最终提交版
+|   |   |       人力资源中心总监职位说明书.doc
+|   |   |       客户中心总监职位说明书.doc
+|   |   |       研发策划中心总监职位说明书.doc
+|   |   |       行政中心总监职位说明书.doc
+|   |   |       财务中心总监职位说明书.doc
+|   |   |       项目营运中心总监职位说明书.doc
+|   |   |       
+|   |   +---003 购物中心子公司最终提交版
+|   |   |       商务总监职位说明书.doc
+|   |   |       总经理助理职位说明书.doc
+|   |   |       招商市务经理职位说明书.doc
+|   |   |       营运部经理职位说明书.doc
+|   |   |       行政人事部经理职位说明书.doc
+|   |   |       财务部经理职位说明书.doc
+|   |   |       
+|   |   +---002 副总裁职位说明书最终提交版
+|   |   |       研发副总裁职位说明书.doc
+|   |   |       管理副总裁职位说明书.doc
+|   |   |       营运副总裁职位说明书.doc
+|   |   |       营销客服副总裁职位说明书.doc
+|   |   |       财务副总裁职位说明书.doc
+|   |   |       
+|   |   +---001 城建子公司最终提交版
+|   |   |       总工程师职位说明书.doc
+|   |   |       成本控制部经理职位说明书.doc
+|   |   |       拓展报建部经理职位说明书.doc
+|   |   |       研究发展部经理职位说明书.doc
+|   |   |       营销中心经理职位说明书.doc
+|   |   |       行政人事部经理职位说明书.doc
+|   |   |       财务部经理职位说明书.doc
+|   |   |       
+|   |   +---004 中心其他职位说明书最终提交版
+|   |   |   +---003 人力资源中心
+|   |   |   |       人事培训经理职位说明书.doc
+|   |   |   |       招聘经理职位说明书.doc
+|   |   |   |       薪酬绩效经理职位说明书.doc
+|   |   |   |       
+|   |   |   +---002 客户中心
+|   |   |   |       客服经理职位说明书.doc
+|   |   |   |       营销经理职位说明书.doc
+|   |   |   |       
+|   |   |   +---006 研发策划中心
+|   |   |   |       住宅总策划师职位说明书.doc
+|   |   |   |       住宅总设计师职位说明书.doc
+|   |   |   |       商业总策划师职位说明书.doc
+|   |   |   |       商业总设计师职位说明书.doc
+|   |   |   |       拓展经理职位说明书.doc
+|   |   |   |       研发经理职位说明书.doc
+|   |   |   |       
+|   |   |   +---005 行政中心
+|   |   |   |       IT经理职位说明书.doc
+|   |   |   |       企管经理职位说明书.doc
+|   |   |   |       审计经理职位说明书.doc
+|   |   |   |       法务经理职位说明书.doc
+|   |   |   |       秘书处主任职位说明书.doc
+|   |   |   |       
+|   |   |   +---001 财务中心
+|   |   |   |       分析预算职位说明书.doc
+|   |   |   |       投融资经理职位说明书.doc
+|   |   |   |       核算经理职位说明书.doc
+|   |   |   |       
+|   |   |   \---004 项目营运中心
+|   |   |           供应商经理职位说明书.doc
+|   |   |           工程管理经理职位说明书.doc
+|   |   |           总工程师职位说明书.doc
+|   |   |           成本经理职位说明书.doc
+|   |   |           
+|   |   \---005 子公司总经理职位说明书最终提交版
+|   |           商务公司总经理职位说明书.doc
+|   |           城建总经理职位说明书.doc
+|   |           天骄物业总经理职位说明书.doc
+|   |           购物中心总经理职位说明书.doc
+|   |           长信总经理职位说明书.doc
+|   |           
+|   +---007 中期报告
+|   |       重庆协信项目中期报告－1227汇报宣讲会版.ppt
+|   |       重庆协信项目中期报告－20041227汇报宣讲会版.ppt
+|   |       重庆协信项目（合并）.ppt
+|   |       
+|   +---005 协信子公司权限体系
+|   |       协信 全资子公司授权体系-1230陈小刚.xls
+|   |       协信 全资子公司授权体系.xls
+|   |       协信控股子公司授权体系.xls
+|   |       协信集团三大管理层权责.DOC
+|   |       协信集团主要权限体系划分.doc
+|   |       协信集团管理权限管理规定.doc
+|   |       参照新奥的权责.DOC
+|   |       城建公司授权书.doc
+|   |       
+|   +---003 启动会介绍
+|   |       启动会介绍.ppt
+|   |       咨询公司选择汇报.ppt
+|   |       
+|   +---004 授权体系最终提交版
+|   |       人力资源中心总监授权书.doc
+|   |       协信 全资子公司授权体系（管控模式）-1230.xls
+|   |       协信集团管理权限管理规定－1230－聂凯.doc
+|   |       商务发展公司总经理授权书.doc
+|   |       城建公司总经理授权书.doc
+|   |       天骄物业总经理授权书.doc
+|   |       客户中心总监授权书.doc
+|   |       研发副总裁授权书.doc
+|   |       研发策划中心总监授权书.doc
+|   |       管理副总裁授权书.doc
+|   |       营运副总裁授权书.doc
+|   |       营销客服副总裁授权书.doc
+|   |       行政中心总监授权书.doc
+|   |       财务中心总监授权书.doc
+|   |       财务副总裁授权书.doc
+|   |       购物中心总经理授权书.doc
+|   |       长信公司总经理授权书.doc
+|   |       项目营运中心总监授权书.doc
+|   |       
+|   +---009 最终报告
+|   |       协信最终报告会20050122.ppt
+|   |       协信最终报告会20050125.ppt
+|   |       协信绩效体系.ppt
+|   |       
+|   +---002 目标契约书1-25
+|   |       子公司经理 1-25.xls
+|   |       集团各大中心总监-1-25xls.xls
+|   |       集团总裁及副总裁-1-25xls.xls
+|   |       
+|   +---001 管理流程提交版
+|   |       流程说明文件最终提交版.doc
+|   |       重庆协信管理流程最终提交版.ppt
+|   |       
+|   \---008 重庆协信控股建议书
+|           重庆协信控股建议书（沟通版）3.0.ppt
+|           
++---凯捷-2006年-中国航油集团“十一五”发展战略规划项目 9MB
+|       中国航油“十一五”发展战略规划报告060809-完整版修订-v5.0.ppt
+|       中国航油集团战略规划项目-财务模型-060810.ppt
+|       中国航油集团战略规划项目_国际最佳实践研究报告（附件二）_20060810.ppt
+|       中国航油集团战略项目_行业分析报告（附件一）_20060810.ppt
+|       
++---凯捷-2005年-莱茵达房地产集团咨询全案  78.4MB
+|   \---001 凯捷—莱茵达房地产集团咨询项目
+|       +---003 中期报告
+|       |       莱茵达集团中期报告2.0.ppt
+|       |       莱茵达集团中期报告4.0.ppt
+|       |       莱茵达集团中期报告4.0.rar
+|       |       莱茵达集团中期报告6.0.ppt
+|       |       莱茵达集团中期报告精简版.ppt
+|       |       莱茵达集团战略研讨会资料2.0.ppt
+|       |       莱茵达集团战略研讨会资料Final.ppt
+|       |       
+|       +---001 参考资料
+|       |   |   000558.pdf
+|       |   |   03-中远房地产内部诊断报告.ppt
+|       |   |   1.0 组织结构报告_1109.ppt
+|       |   |   11－百大地产计划预算内控 .ppt
+|       |   |   ZJT流程梳理项目－As-Is report v1.8.ppt
+|       |   |   七部委猛药遏制房产价格 转让期房炒地皮被禁止.doc
+|       |   |   中国房地产行业现状及发展趋势分析-6.0.ppt
+|       |   |   安达信－业务流程优化设计培训.ppt
+|       |   |   房地产公司管理手册.DOC
+|       |   |   招标管理规定.doc
+|       |   |   新楼盘销售技巧.doc
+|       |   |   
+|       |   +---002 万科案例
+|       |   |       10817288.pdf
+|       |   |       2004lennar.pdf
+|       |   |       2004万科年报.pdf
+|       |   |       Pultehome2003.pdf
+|       |   |       Understanding the US Homebuilding industry case study－0218.ppt
+|       |   |       万科模式.ppt
+|       |   |       万科的标准化模块化.mht
+|       |   |       万科项目储备.pdf
+|       |   |       学习万科好榜样.mht
+|       |   |       房产开发是基金的配套.mht
+|       |   |       房地产公司组织结构发展.mht
+|       |   |       普而特VS万科：中国领跑者.mht
+|       |   |       监事会议事规则.doc
+|       |   |       美国房地产行业整合.mht
+|       |   |       股东大会议事规则.doc
+|       |   |       董事会议事规则.doc
+|       |   |       
+|       |   \---001 房产资料
+|       |           No_1情结的顺驰战略_房产家居_新浪网.mht
+|       |           XX总控制计划终稿.doc
+|       |           上海房地产－谢国忠.mht
+|       |           住宅部品体系框架 -住宅产业网.mht
+|       |           几个房地产热点话题◎.mht
+|       |           北大纵横为某公司做的全面预算管理制度 .DOC
+|       |           协信成本比例明细.xls
+|       |           地产大鳄到上海周边去.doc
+|       |           年度预算与策略规划操作指南(195页）.doc
+|       |           广州合生创展、珠江投资——孖生兄弟 联走三地.mht
+|       |           深圳二手楼市狼来了 顺驰放言两年做老大_新浪房产_新浪网.mht
+|       |           珠江合生上海沿革.doc
+|       |           莱茵达.pdf
+|       |           
+|       +---004 最终报告
+|       |       莱茵达业务流程提交版.ppt
+|       |       莱茵达最终报告流程部分0710.ppt
+|       |       莱茵达流程提交版.ppt
+|       |       莱茵达管理流程提交版.ppt
+|       |       
+|       +---005 最终递交成果
+|       |   |   莱茵达组织架构05-0802.ppt
+|       |   |   莱茵达集团中期报告提交版.ppt
+|       |   |   莱茵达集团战略研讨会资料3.1.ppt
+|       |   |   莱茵达项目最终报告提交版.ppt
+|       |   |   
+|       |   +---001 7-22日提交人力资源报告
+|       |   |   |   绩效体系方案.ppt
+|       |   |   |   莱茵达中长期激励方案.ppt
+|       |   |   |   莱茵达职位薪酬表.xls
+|       |   |   |   薪酬绩效体系方案.ppt
+|       |   |   |   薪酬绩效过渡期方案.ppt
+|       |   |   |   
+|       |   |   \---001 目标责任书
+|       |   |       +---002 目标责任书--标准版
+|       |   |       |       子公司经理班子(2).xls
+|       |   |       |       房地产集团总经理及中心总监(2)xls.xls
+|       |   |       |       目标考评表.xls
+|       |   |       |       集团总部高管及中心总监(2)xls.xls
+|       |   |       |       
+|       |   |       \---001 过渡期 目标责任书-与薪酬挂钩
+|       |   |               子公司经理班子(1).xls
+|       |   |               房地产集团总经理及中心总监(1)xls.xls
+|       |   |               目标考评表.xls
+|       |   |               集团总部高管及中心总监(1)xls.xls
+|       |   |               
+|       |   +---002 流程提交报告
+|       |   |   |   南京开发建设部流程提交版.ppt
+|       |   |   |   莱茵达业务流程提交版.ppt
+|       |   |   |   莱茵达管理流程提交版.ppt
+|       |   |   |   
+|       |   |   \---001 研发技术中心业务流程
+|       |   |           规划设计管理流程.doc
+|       |   |           规划设计管理流程说明文件.doc
+|       |   |           规划需求管理流程.doc
+|       |   |           规划需求管理说明文件.doc
+|       |   |           设计招标管理流程.doc
+|       |   |           设计招标管理说明文件.doc
+|       |   |           项目后评估流程.doc
+|       |   |           项目后评估流程说明文件.doc
+|       |   |           
+|       |   \---003 组织部分提交报告
+|       |       |   房地产业务授权体系－提交版.xls
+|       |       |   
+|       |       \---001 岗位说明书－0710
+|       |           |   岗位说明书封面.doc
+|       |           |   
+|       |           +---003 子公司职位说明
+|       |           |       南京公司工程技术部经理.doc
+|       |           |       南京公司开发建设部经理.doc
+|       |           |       南京公司总经理.doc
+|       |           |       南京公司投资预算部经理.doc
+|       |           |       南京公司材料配置部经理.doc
+|       |           |       南京公司营销企划部经理.doc
+|       |           |       南京公司营销副总.doc
+|       |           |       南京公司行政人事副总.doc
+|       |           |       南京公司行政人事部经理.doc
+|       |           |       南京公司财务总监（财务经理）.doc
+|       |           |       
+|       |           +---001 房地产集团职位说明
+|       |           |       房地产集团副总经理职位说明书.doc
+|       |           |       房地产集团总工程师职位说明书.doc
+|       |           |       房地产集团总经理助理职位说明书.doc
+|       |           |       房地产集团总经理职位说明书.doc
+|       |           |       房地产集团成本管理中心主任.doc
+|       |           |       房地产集团材料配置中心主任.doc
+|       |           |       房地产集团研发技术中心主任.doc
+|       |           |       房地产集团营销策划中心主任职位说明书.doc
+|       |           |       
+|       |           \---002 集团职位说明
+|       |                   人力资源部经理职位说明书.doc
+|       |                   审计监察中心总监职位说明书.doc
+|       |                   总裁办公室主任职位说明书.doc
+|       |                   战略发展部经理职位说明书.doc
+|       |                   管理副总裁职位说明书.doc
+|       |                   计划预算部经理职位说明书.doc
+|       |                   财务副总裁职位说明书.doc
+|       |                   资产管理部经理职位说明书.doc
+|       |                   集团财务部经理职位说明书.doc
+|       |                   
+|       \---002 莱茵达培训材料
+|               流程制作模板.ppt
+|               莱茵达流程培训材料.ppt
+|               莱茵达薪酬绩效管理培训－lxf-6-10.ppt
+|               需打印的会议文件.ppt
+|               
++---凯捷-2005年-五矿有色股份公司重组自贡硬质合金有限公司咨询全案  208MB
+|   |   文档目录结构.txt
+|   |   文档目录结构.xls
+|   |   自汞硬质合金厂成都分公司简介.ppt
+|   |   自硬.rar
+|   |   自硬分公司.rar
+|   |   
+|   +---002 财务预测清单040901
+|   |       603财务预测清单040831.doc
+|   |       自贡硬质合金厂财务预测清单040831.doc
+|   |       香炉山财务预测清单040831.doc
+|   |       
+|   +---007 五矿可研报告
+|   |   |   五矿有色钨整合项目初步投资可行性分析报告－041031.doc
+|   |   |   
+|   |   \---001 sdfs
+|   |           2003.pdf
+|   |           2004.pdf
+|   |           中钨高新组织结构1030.doc
+|   |           中钨高新组织结构1031.doc
+|   |           五矿有色收购中钨高新净利润测算.doc
+|   |           五矿有色收购中钨高新工作思路.doc
+|   |           五矿有色钨整合项目可行性研究报告－战略部分1028.doc
+|   |           五矿有色钨整合项目可行性研究报告－战略部分1031.doc
+|   |           五矿有色钨整合项目可行性研究报告－行研部分.doc
+|   |           会议纪要041029－与中泰信托探讨五矿信托融资可行性.doc
+|   |           法律风险及对策041030.doc
+|   |           
+|   +---003 会议纪要
+|   |   |   自硬中介机构协调会纪要 040930.doc
+|   |   |   自硬会议纪要 040924.doc
+|   |   |   
+|   |   \---001 会议纪要
+|   |           与锡矿山沟通财务预测041014.doc
+|   |           关于自硬项目财务预测和可研报告041017.doc
+|   |           和自硬领导班子沟通方案041020.doc
+|   |           和自贡市政府沟通方案041020.doc
+|   |           投资委员会讨论华锡框架协议041012.doc
+|   |           自硬中介机构第一次协调会041017.doc
+|   |           
+|   +---005 凯捷内部资料
+|   |       C-General TermsConditions(Zi gong) 040827.doc
+|   |       C-Specific Agreement for the provision of Fixed Price Professioanal Services（Zi Gong） 040827.doc
+|   |       收购自贡报价 040921.xls
+|   |       
+|   +---004 尽职调查
+|   |   |   五矿整合钨业工作计划041004.doc
+|   |   |   
+|   |   +---002 尽职调查收集资料
+|   |   |   +---603
+|   |   |   |       2001-2003年财务情况.xls
+|   |   |   |       全面预算(3.5)9月18日2#-shbhyz.xls
+|   |   |   |       南硬2001-2003年财务情况.xls
+|   |   |   |       矿及钴的平均价1.xls
+|   |   |   |       钨精矿价格.xls
+|   |   |   |       
+|   |   |   +---605 自硬
+|   |   |   |   |   mime001.txt
+|   |   |   |   |   产量表.xls
+|   |   |   |   |   成本指标.xls
+|   |   |   |   |   损益表.xls
+|   |   |   |   |   现金流量表.xls
+|   |   |   |   |   负债表.xls
+|   |   |   |   |   财务快报.xls
+|   |   |   |   |   
+|   |   |   |   \---001 自硬
+|   |   |   |           五矿钨业整合项目尽职调查资料调研安排（自硬） 041020.doc
+|   |   |   |           债权债务担保合同041020.xls
+|   |   |   |           公司争议情况041020.xls
+|   |   |   |           关联方关系及其交易041020.xls
+|   |   |   |           分公司表格041020.xls
+|   |   |   |           分部资料041020.xls
+|   |   |   |           各公司主体情况041020.xls
+|   |   |   |           员工、税收情况041020.xls
+|   |   |   |           工业产权041020.xls
+|   |   |   |           投资收益041020.xls
+|   |   |   |           自硬改制相关数据表格041004.xls
+|   |   |   |           资产－土地、房屋、设备、车辆、租赁041020.xls
+|   |   |   |           
+|   |   |   +---606 自硬分公司
+|   |   |   |       五矿钨业整合项目尽职调查资料调研安排（自硬分公司） 041020.doc
+|   |   |   |       债权债务担保合同041020.xls
+|   |   |   |       公司争议情况041020.xls
+|   |   |   |       员工、税收情况041020.xls
+|   |   |   |       工业产权041020.xls
+|   |   |   |       资产－土地、房屋、设备、车辆、租赁041020.xls
+|   |   |   |       
+|   |   |   \---604 香炉山
+|   |   |           赣北APT项目.doc
+|   |   |           香炉山2003－2004年成本、费用及会计报表上报资料.xls
+|   |   |           香钨尽职调查表格.xls
+|   |   |           香钨财务预测.doc
+|   |   |           
+|   |   \---001 调查安排
+|   |       |   603财务预测清单040831.doc
+|   |       |   764-市场营销规划.doc
+|   |       |   五矿钨业整合工作计划 040827.doc
+|   |       |   尽职调查表格 zy 040901.xls
+|   |       |   广东中科信集团尽职调查提纲 20040828.doc
+|   |       |   自贡硬质合金厂财务预测清单040831.doc
+|   |       |   自贡硬质合金有限公司尽职调查大纲 20040828.doc
+|   |       |   香炉山财务预测清单040831.doc
+|   |       |   
+|   |       +---001 中科信
+|   |       |       尽职责任调查问卷（中科信）20041003.doc
+|   |       |       
+|   |       +---002 中钨高新
+|   |       |       五矿钨业整合项目尽职调查资料调研安排（中钨高新） 041004.doc
+|   |       |       债权债务担保合同.xls
+|   |       |       公司争议情况.xls
+|   |       |       关联方关系及其交易041004.xls
+|   |       |       分公司表格.xls
+|   |       |       分部资料041004.xls
+|   |       |       各公司主体情况.xls
+|   |       |       员工、税收情况.xls
+|   |       |       工业产权.xls
+|   |       |       投资收益041004.xls
+|   |       |       资产－土地、房屋、设备、车辆、租赁041005.xls
+|   |       |       
+|   |       \---003 自硬
+|   |               五矿钨业整合项目尽职调查资料调研安排（自硬） 041004.doc
+|   |               债权债务担保合同.xls
+|   |               公司争议情况.xls
+|   |               关联方关系及其交易041004.xls
+|   |               分公司表格.xls
+|   |               分部资料041004.xls
+|   |               各公司主体情况.xls
+|   |               员工、税收情况.xls
+|   |               工业产权.xls
+|   |               投资收益041004.xls
+|   |               自硬改制相关数据表格041004.xls
+|   |               资产－土地、房屋、设备、车辆、租赁041005.xls
+|   |               
+|   +---010 自硬改制
+|   |   +---003 第一稿
+|   |   |       自硬改制方案（第一稿修改稿）041016.doc
+|   |   |       自贡改制（初稿）041015.ppt
+|   |   |       自贡改制（第一稿）041015.ppt
+|   |   |       
+|   |   +---002 第三稿
+|   |   |       自硬改制方案（初稿）041021.doc
+|   |   |       自贡改制（初稿）041021.ppt
+|   |   |       
+|   |   \---001 第二稿
+|   |           自硬改制方案（第二稿）041018.doc
+|   |           自贡改制（第二稿）041018.ppt
+|   |           
+|   +---009 自贡硬质合金厂
+|   |   |   五矿有色——钨产业发展战略和整合平台报告（V7.2）.ppt
+|   |   |   江钨集团发展规划建议书（沟通版V0.1）.ppt
+|   |   |   自贡硬质合金有限责任公司.doc
+|   |   |   自贡财务成本统计表.xls
+|   |   |   
+|   |   \---001 自贡硬质合金
+|   |           【科技日报】自贡硬质合金公司产品畅销欧美.mht
+|   |           自贡硬质合金成都公司.mht
+|   |           自贡硬质合金有限公司.mht
+|   |           自贡硬质合金有限公司历史.mht
+|   |           自贡硬质合金有限公司大事记.mht
+|   |           
+|   +---001 财务预测
+|   |   |   五矿钨业整合初步投资可行性分析 041102.ppt
+|   |   |   
+|   |   +---041031
+|   |   |   +---603
+|   |   |   |   +---4110元毛利润
+|   |   |   |   |   +---003 盈利预测041009
+|   |   |   |   |   |   |   南昌硬质合金厂041009.doc
+|   |   |   |   |   |   |   基础数据统计.xls
+|   |   |   |   |   |   |   敏感性分析(上涨10%).xls
+|   |   |   |   |   |   |   敏感性分析(下跌10%).xls
+|   |   |   |   |   |   |   数据汇总表.xls
+|   |   |   |   |   |   |   预测数据.xls
+|   |   |   |   |   |   |   
+|   |   |   |   |   |   \---001 赣北041008
+|   |   |   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |   |   |           预测数据－赣北041006.xls
+|   |   |   |   |   |           
+|   |   |   |   |   +---002 盈利预测041008
+|   |   |   |   |   |       南昌硬质合金厂041008.doc
+|   |   |   |   |   |       基础数据统计.xls
+|   |   |   |   |   |       敏感性分析(上涨10%).xls
+|   |   |   |   |   |       敏感性分析(下跌10%).xls
+|   |   |   |   |   |       数据汇总表.xls
+|   |   |   |   |   |       预测数据.xls
+|   |   |   |   |   |       
+|   |   |   |   |   +---001 盈利预测041004
+|   |   |   |   |   |       南昌硬质合金厂041003.doc
+|   |   |   |   |   |       基础数据统计.xls
+|   |   |   |   |   |       敏感性分析(上涨10%).xls
+|   |   |   |   |   |       敏感性分析(下跌10%).xls
+|   |   |   |   |   |       数据汇总表.xls
+|   |   |   |   |   |       预测数据.xls
+|   |   |   |   |   |       
+|   |   |   |   |   \---004 盈利预测041012-4110元毛利润
+|   |   |   |   |       |   南昌硬质合金厂041012.doc
+|   |   |   |   |       |   基础数据统计.xls
+|   |   |   |   |       |   敏感性分析（上涨10%）.xls
+|   |   |   |   |       |   敏感性分析（下跌10%）.xls
+|   |   |   |   |       |   数据汇总表.xls
+|   |   |   |   |       |   预测数据.xls
+|   |   |   |   |       |   
+|   |   |   |   |       \---001 赣北041012
+|   |   |   |   |               基础数据表－赣北041006.xls
+|   |   |   |   |               敏感性分析（升10%）.xls
+|   |   |   |   |               敏感性分析（降10%）.xls
+|   |   |   |   |               赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |   |               赣北假设条件表.doc
+|   |   |   |   |               预测数据－赣北041006.xls
+|   |   |   |   |               
+|   |   |   |   \---9900元毛利润
+|   |   |   |       \---001 盈利预测041014
+|   |   |   |           |   南昌硬质合金厂041014.doc
+|   |   |   |           |   基础数据统计.xls
+|   |   |   |           |   敏感性分析（上涨10%）.xls
+|   |   |   |           |   敏感性分析（下跌10%）.xls
+|   |   |   |           |   数据汇总表.xls
+|   |   |   |           |   预测数据.xls
+|   |   |   |           |   
+|   |   |   |           \---001 赣北041014
+|   |   |   |                   基础数据表－赣北041006.xls
+|   |   |   |                   敏感性分析（升10%）.xls
+|   |   |   |                   敏感性分析（降10%）.xls
+|   |   |   |                   赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |                   赣北APT项目财务预测041014（修改版）.doc
+|   |   |   |                   赣北假设条件表.doc
+|   |   |   |                   预测数据－赣北041006.xls
+|   |   |   |                   
+|   |   |   +---764
+|   |   |   |   |   成都分公司.rar
+|   |   |   |   |   自贡硬质合金厂041026.doc
+|   |   |   |   |   
+|   |   |   |   +---001 成都分公司
+|   |   |   |   |   |   2001年-2003年资料汇总-complete.xls
+|   |   |   |   |   |   2001年-2003年资料汇总.xls
+|   |   |   |   |   |   销售费用表2004.xls
+|   |   |   |   |   |   
+|   |   |   |   |   \---041022
+|   |   |   |   |           基础数据统计-成都分公司.xls
+|   |   |   |   |           敏感性分析（上涨10%）－成都分公司.xls
+|   |   |   |   |           敏感性分析（下跌10%）－成都分公司.xls
+|   |   |   |   |           数据汇总表－成都分公司.xls
+|   |   |   |   |           预测数据－成都分公司.xls
+|   |   |   |   |           
+|   |   |   |   \---002 自硬总部
+|   |   |   +---766 五矿整合钨业项目财务预测框架041031
+|   |   |   |   |   五矿有色钨整合项目初步投资可行性分析报告－041031.doc
+|   |   |   |   |   数据汇总表－钨整合项目041031.xls
+|   |   |   |   |   
+|   |   |   |   +---606 香炉山财务预测041014
+|   |   |   |   |       假设条件表.doc
+|   |   |   |   |       基础数据表－香炉山041007.xls
+|   |   |   |   |       敏感性分析（升10%）.xls
+|   |   |   |   |       敏感性分析（降10%）.xls
+|   |   |   |   |       预测数据－香炉山041007.xls
+|   |   |   |   |       香炉山2003－2004年成本、费用及会计报表上报资料.xls
+|   |   |   |   |       香炉山钨业财务预测041014(修改版).doc
+|   |   |   |   |       
+|   |   |   |   +---603盈利预测041014
+|   |   |   |   |   |   南昌硬质合金厂041014.doc
+|   |   |   |   |   |   基础数据统计.xls
+|   |   |   |   |   |   敏感性分析（上涨10%）.xls
+|   |   |   |   |   |   敏感性分析（下跌10%）.xls
+|   |   |   |   |   |   数据汇总表.xls
+|   |   |   |   |   |   预测数据.xls
+|   |   |   |   |   |   
+|   |   |   |   |   \---001 赣北041014
+|   |   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |   |           赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |   |           赣北APT项目财务预测041014（修改版）.doc
+|   |   |   |   |           赣北假设条件表.doc
+|   |   |   |   |           预测数据－赣北041006.xls
+|   |   |   |   |           
+|   |   |   |   +---604 成都分公司
+|   |   |   |   |   |   2001年-2003年资料汇总-complete.xls
+|   |   |   |   |   |   2001年-2003年资料汇总.xls
+|   |   |   |   |   |   销售费用表2004.xls
+|   |   |   |   |   |   
+|   |   |   |   |   \---041022
+|   |   |   |   |           基础数据统计-成都分公司.xls
+|   |   |   |   |           敏感性分析（上涨10%）－成都分公司.xls
+|   |   |   |   |           敏感性分析（下跌10%）－成都分公司.xls
+|   |   |   |   |           数据汇总表－成都分公司.xls
+|   |   |   |   |           预测数据－成都分公司.xls
+|   |   |   |   |           
+|   |   |   |   \---605 赣北041014
+|   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |           赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |           赣北APT项目财务预测041014（修改版）.doc
+|   |   |   |           赣北假设条件表.doc
+|   |   |   |           预测数据－赣北041006.xls
+|   |   |   |           
+|   |   |   +---765 赣北钨业
+|   |   |   |   |   赣北041014.rar
+|   |   |   |   |   
+|   |   |   |   +---001 赣北041006
+|   |   |   |   |       基础数据表－赣北041006.xls
+|   |   |   |   |       敏感性分析（升10%）.xls
+|   |   |   |   |       敏感性分析（降10%）.xls
+|   |   |   |   |       赣北APT项目财务预测041006.doc
+|   |   |   |   |       预测数据－赣北041006.xls
+|   |   |   |   |       
+|   |   |   |   +---002 赣北041008
+|   |   |   |   |       基础数据表－赣北041006.xls
+|   |   |   |   |       敏感性分析（升10%）.xls
+|   |   |   |   |       敏感性分析（降10%）.xls
+|   |   |   |   |       赣北APT项目财务预测041009（修改版）.doc
+|   |   |   |   |       赣北假设条件表.doc
+|   |   |   |   |       预测数据－赣北041006.xls
+|   |   |   |   |       
+|   |   |   |   \---003 赣北041012
+|   |   |   |           基础数据表－赣北041006.xls
+|   |   |   |           敏感性分析（升10%）.xls
+|   |   |   |           敏感性分析（降10%）.xls
+|   |   |   |           赣北APT项目财务预测041011（修改版）.doc
+|   |   |   |           赣北APT项目财务预测041012（修改版）.doc
+|   |   |   |           赣北假设条件表.doc
+|   |   |   |           预测数据－赣北041006.xls
+|   |   |   |           
+|   |   |   \---767 香炉山041005
+|   |   |           基础数据表－香炉山.xls
+|   |   |           预测数据－香炉山.xls
+|   |   |           香炉山财务预测041014.rar
+|   |   |           
+|   |   \---042 五矿整合钨业项目财务预测框架041103
+|   |       |   中钨高新重大资产重组的初步工作计划041103.doc
+|   |       |   五矿析报告－041103.doc
+|   |       |   五矿钨业整合可行性研究报告041103(第一稿）.doc
+|   |       |   五矿钨业整合可行性研究报告041104.doc
+|   |       |   投资概况.doc
+|   |       |   数据汇总表－钨整合项目041031.xls
+|   |       |   
+|   |       +---606 香炉山财务预测041101
+|   |       |       假设条件表.doc
+|   |       |       基础数据表－香炉山041007.xls
+|   |       |       敏感性分析（上涨10%）－香炉山.xls
+|   |       |       敏感性分析（下跌10%）－香炉山.xls
+|   |       |       数据汇总表－香炉山.xls
+|   |       |       预测数据－香炉山.xls
+|   |       |       香炉山2003－2004年成本、费用及会计报表上报资料.xls
+|   |       |       香炉山钨业财务预测041014(修改版).doc
+|   |       |       
+|   |       +---604 成都分公司041101
+|   |       |   |   2001年-2003年资料汇总-complete.xls
+|   |       |   |   2001年-2003年资料汇总.xls
+|   |       |   |   销售费用表2004.xls
+|   |       |   |   
+|   |       |   \---0411101
+|   |       |           基础数据统计-成都分公司.xls
+|   |       |           敏感性分析（上涨10%）－成都分公司.xls
+|   |       |           敏感性分析（下跌10%）－成都分公司.xls
+|   |       |           数据汇总表－成都分公司.xls
+|   |       |           预测数据－成都分公司.xls
+|   |       |           
+|   |       +---603盈利预测041101
+|   |       |       基础数据统计.xls
+|   |       |       敏感性分析（上涨10%）－603.xls
+|   |       |       敏感性分析（下跌10%）－603.xls
+|   |       |       数据汇总表－603.xls
+|   |       |       预测数据-603.xls
+|   |       |       
+|   |       \---605 赣北041101
+|   |               基础数据表－赣北041006.xls
+|   |               敏感性分析(上涨10%）－赣北.xls
+|   |               敏感性分析(下跌10%）－赣北.xls
+|   |               数据汇总表－赣北钨业.xls
+|   |               赣北APT项目财务预测041012（修改版）.doc
+|   |               赣北APT项目财务预测041014（修改版）.doc
+|   |               赣北假设条件表.doc
+|   |               预测数据－赣北.xls
+|   |               
+|   +---006 钼业价格
+|   |       中国2005年起钼商品出口需要许可证.mht
+|   |       中国钼业发展现状与前景展望.mht
+|   |       加拿大钼精矿出口统计数据.mht
+|   |       钼业价格.mht
+|   |       
+|   \---008 项目报告
+|           中科信阶段性调查报告10-14-2004.doc
+|           中钨高新阶段性调查报告10-14-2004.doc
+|           关于有色股份钨项目的评审意见.doc
+|           南硬改制041016.ppt
+|           南硬案例.doc
+|           对比图片.doc
+|           
+\---凯捷-2005年-武烟集团管理诊断- 8.4MB
+    |   武烟管控方案建议--附件.ppt
+    |   武烟管控方案建议1.1.ppt
+    |   武烟集团-组织结构建议v0.81.ppt
+    |   武烟集团总部流程诊断项目建议书-0512 - v2.ppt
+    |   武烟集团战略诊断结论.ppt
+    |   武烟集团管理诊断报告-管控与组织-问题发现.ppt
+    |   武烟集团管理诊断报告－现状评估 V1.0.ppt
+    |   武烟集团管理诊断报告－现状评估 V2.1.ppt
+    |   
+    \---001 项目进展
+            Service Agreement_Wuyan-050609合同.doc
+            武烟集团管理诊断项目进展报告_050610.doc
+            武烟集团管理诊断项目进展报告_050617.doc
+            
