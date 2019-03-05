@@ -1,5 +1,7 @@
 for setup short cut
-## 下载链接
+## g
 https://github.com/mozilla/geckodriver/releases
-## 
+## p
 [pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+## w
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
