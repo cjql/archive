@@ -14,5 +14,6 @@ http://www.oapen.org/
 https://www.openbookpublishers.com/section/2/1   
 http://www.rejoiceblog.com/    
 http://www.xuexi111.org/  
+http://www.weibaiyue.com/  
 https://en.wikibooks.org/wiki/Subject:Python_programming_language    
 http://www.wzbook.xyz/  
