@@ -8,3 +8,9 @@ http://ireadweek.com/
 http://m.gutenberg.org/ebooks/search.mobile/?sort_order=downloads  
 http://www.oapen.org/  
 https://www.jstor.org/  
+http://www.rejoiceblog.com/  
+http://mydbfx.com/  
+http://www.lanjuhua.com/  
+http://www.wzbook.xyz/  
+http://www.java1234.com/ 
+http://www.1024ebook.com/  
