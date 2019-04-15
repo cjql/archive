@@ -3,6 +3,7 @@ http://www.allitebooks.com/
 http://www.baizhionline.com/  
 https://bookboon.com/en  
 http://book.th7.cn/  
+http://www.cydown.cn/  
 http://www.ebook777.com/  
 https://www.free-ebooks.net/ 四种格式  
 https://github.com/justjavac/free-programming-books-zh_CN  
@@ -18,8 +19,9 @@ http://www.itbooks.cn/
 https://itbook.download/  
 http://ibooks.org.cn/  
 https://itbook.store/  
-http://www.itshuji.com/   
 https://github.com/howie6879/ITBooks  
+http://www.itshuji.com/   
+https://www.ittwz.com/  
 http://www.java1234.com/  
 https://www.jb51.net/  
 https://www.jstor.org/  
@@ -33,10 +35,12 @@ https://www.openbookpublishers.com/section/2/1
 http://www.pythondoc.com/  
 http://www.qianduandaxue.com/ziliaofenxiang/  
 http://www.rejoiceblog.com/    
+http://www.seosee.info/  
 http://www.xuexi111.org/  
 http://www.xzpc6.com/  
 http://www.weibaiyue.com/  
-https://en.wikibooks.org/wiki/Subject:Python_programming_language    
+https://en.wikibooks.org/wiki/Subject:Python_programming_language   
+https://www.wq1.net/  
 http://www.wzbook.xyz/  
 
 https://www.douban.com/group/topic/27717353/  
