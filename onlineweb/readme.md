@@ -4,6 +4,7 @@ http://www.funbbs.top/
 https://www.gitenberg.org/browse   
 https://greenteapress.com/wp/    
 http://m.gutenberg.org/ebooks/search.mobile/?sort_order=downloads  
+https://haobook.org/  
 http://hejizhan.com/bbs/  
 http://ireadweek.com/  
 http://www.java1234.com/  
