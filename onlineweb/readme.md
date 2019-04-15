@@ -7,12 +7,14 @@ http://m.gutenberg.org/ebooks/search.mobile/?sort_order=downloads
 https://haobook.org/  
 http://hejizhan.com/bbs/  
 http://ireadweek.com/  
+http://www.itshuji.com/   
 http://www.java1234.com/  
 https://www.jstor.org/  
 http://www.lanjuhua.com/  
 http://mydbfx.com/  
 http://www.oapen.org/  
 https://www.openbookpublishers.com/section/2/1   
+http://www.qianduandaxue.com/ziliaofenxiang/  
 http://www.rejoiceblog.com/    
 http://www.xuexi111.org/  
 http://www.weibaiyue.com/  
