@@ -1,0 +1,1708 @@
+卷 管理资料 的文件夹 PATH 列表
+卷序列号为 8336-2F21
+E:.
+|   文件列表输出.bat
+|   文档目录结构.xls
+|   文档目录结构.txt
+|   
++---IBM—中国移动IT关键绩效指标研究（3.6MB）
+|       IBM为中移动做的IT关键绩效指标研究.ppt
+|       IBM为中移动做的IT关键绩效指标研究（word版）.doc
+|       
++---IBM—四川新华发行集团14.6MB
+|       CD interface summary.ppt
+|       ChengduBookStores Presentation - Book Circulation 2004-07-27.ppt
+|       ChengduBookStores Presentation - System Architecture 2004-07-27.ppt
+|       FICO_Q&A_Eileen.ppt
+|       IBM四川新华发行集团项目建议书.pdf
+|       Project management.ppt
+|       retail_V05.ppt
+|       SAP&DMS 分工说明_V2.xls
+|       table for CDXH.doc
+|       
++---IBM—李宁集团整体咨询（ 26.7MB）
+|   |   1. 集团组织设计和变革.ppt
+|   |   2. 李宁品牌与营销策略V0.ppt
+|   |   2. 李宁品牌与营销策略V1.ppt
+|   |   2004战略目标.xls
+|   |   2004计划指导.ppt
+|   |   5.1 李宁供应链策略之一.ppt
+|   |   5.2 李宁供应链策略之二 (草稿).ppt
+|   |   5.3生产计划.pdf
+|   |   5.3运营管理-北体.ppt
+|   |   6.1 李宁管控模式之一(北体组织).ppt
+|   |   6.3 李宁管控模式之三(管控流程) .ppt
+|   |   7.1 财务模型简介.ppt
+|   |   7.1 财务模型简介v2.pdf
+|   |   8.1 李宁信息技术战略V1.ppt
+|   |   8.2 李宁信息技术战略Add.ppt
+|   |   Biz Strategy Intro.ppt
+|   |   LN Brand & Marketing finalV3.ppt
+|   |   企业宗旨讨论.ppt
+|   |   供应商管理.xls
+|   |   文件列表输出.bat
+|   |   文档目录结构.txt
+|   |   文档目录结构.xls
+|   |   组织设计培训.ppt
+|   |   集中采购.ppt
+|   |   集团架构.税务设计.doc
+|   |   集团管理模式.ppt
+|   |   
+|   +---in process
+|   |       8.1 李宁信息技术战略VO.ppt
+|   |       Budgeting_v2(CHINESE).ppt
+|   |       GL ( CHINESE).ppt
+|   |       IT-CRM Recol for LINING V0.ppt
+|   |       Purchasing_v1(CHINESE).ppt
+|   |       组织设计培训.ppt
+|   |       
+|   \---参考
+|           7.2 李宁财务模型 (草稿).xls
+|           PwC-BusinessProcessOutsourcing.pdf
+|           Strategy Practitioner Tools.ppt
+|           上海李宁.ppt
+|           太平洋机械启动报告.ppt
+|           投资部门职能.doc
+|           普华永道-咨询报告.ppt
+|           李宁人力资源管理项目综合汇报1120.ppt
+|           李宁公司营销系统职位说明书.doc
+|           李宁公司营销系统职务分析.doc
+|           李宁第四阶段汇报1116.ppt
+|           李宁绩效管理培训0911.ppt
+|           李宁集团企业架构和业务架构优化及税务筹划的建议.doc
+|           集团管理模式.pdf
+|           
++---IBM-中国免税品（集团）总公司ERP咨询
+|       ERP实施的管理变革重要问题及系统需求.ppt
+|       System_Implementation_RFP_China Duty Free - JDA Response.doc
+|       业务流程和相关系统需求 - 业务主数据.ppt
+|       业务流程和相关系统需求 - 财务.ppt
+|       业务流程和相关系统需求 - 采购物流.ppt
+|       业务流程和相关系统需求 - 销售.ppt
+|       业务流程和相关系统需求 - 零售.ppt
+|       中免软件选型评估报告.ppt
+|       中免集团总部系统需求RFP China Duty Free (head Office sytsem) Version 2.xls
+|       中免集团软件需求书.doc
+|       中免集团门店管理及POS系统功能需求清单China Duty Free POS RFP Response Version 2.xls
+|       总公司ERP管理功能需求清单.xls
+|       门店管理及POS系统功能需求清单.xls
+|       门店管理及POS系统功能需求清单2004-3-26.xls
+|       
++---IBM-昆明钢铁
+|   |   IBM-Case Study V2[1].5.ppt
+|   |   昆明钢铁信息技术规划报告.doc
+|   |   昆钢-IBM-Internal Analysis-abridged.ppt
+|   |   昆钢-IBM-非钢产业分析.ppt
+|   |   
+|   \---钢铁行业全套流程
+|       |   昆钢-IBM-KM Steel-Strategy V2[1].2.ppt
+|       |   昆钢-IBM-非钢产业分析.ppt
+|       |   
+|       +---采矿
+|       |   |   上厂铁矿工艺流程.htm
+|       |   |   昆钢大红山铁矿生产工艺.htm
+|       |   |   昆钢集团矿业开发处工艺流程.htm
+|       |   |   昆钢集团龙山冶金溶剂矿工艺流程方框图.htm
+|       |   |   昆钢集团龙山冶金溶剂矿工艺流程设备图片.htm
+|       |   |   
+|       |   +---昆钢集团龙山冶金溶剂矿工艺流程设备图片.files
+|       |   |       back1.gif
+|       |   |       daohang.js
+|       |   |       gylc1.jpg
+|       |   |       gylc2.jpg
+|       |   |       gylc3.jpg
+|       |   |       gylc4.jpg
+|       |   |       gylc5.jpg
+|       |   |       gylc6.jpg
+|       |   |       gylc7.jpg
+|       |   |       gylc8.jpg
+|       |   |       gz.gif
+|       |   |       long.gif
+|       |   |       mystyle.css
+|       |   |       qc-bj1.gif
+|       |   |       style.css
+|       |   |       sx-beijing01.gif
+|       |   |       web-6.gif
+|       |   |       
+|       |   +---昆钢集团龙山冶金溶剂矿工艺流程方框图.files
+|       |   |       daohang.js
+|       |   |       gylc.gif
+|       |   |       long.gif
+|       |   |       mystyle.css
+|       |   |       qc-bj1.gif
+|       |   |       style.css
+|       |   |       sx-beijing01.gif
+|       |   |       web-6.gif
+|       |   |       
+|       |   +---昆钢集团矿业开发处工艺流程.files
+|       |   |   |   buttom.htm
+|       |   |   |   gylc.htm
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       index_04.jpg
+|       |   |   |       mainlogo_r1_c1.jpg
+|       |   |   |       mainlogo_r2_c1.jpg
+|       |   |   |       mainlogo_r2_c10.jpg
+|       |   |   |       mainlogo_r2_c2.jpg
+|       |   |   |       mainlogo_r2_c3.jpg
+|       |   |   |       mainlogo_r2_c4.jpg
+|       |   |   |       mainlogo_r2_c5.jpg
+|       |   |   |       mainlogo_r2_c6.jpg
+|       |   |   |       mainlogo_r2_c7.jpg
+|       |   |   |       mainlogo_r2_c9.jpg
+|       |   |   |       mainlogo_r4_c1.jpg
+|       |   |   |       mainlogo_r5_c1.jpg
+|       |   |   |       mainlogo_r5_c8.jpg
+|       |   |   |       mainlogo_r8_c1.jpg
+|       |   |   |       spacer.gif
+|       |   |   |       top.css
+|       |   |   |       
+|       |   |   +---gylc.files
+|       |   |   |       gylc.gif
+|       |   |   |       index_04.jpg
+|       |   |   |       
+|       |   |   \---buttom.files
+|       |   |           index_04.jpg
+|       |   |           
+|       |   +---昆钢大红山铁矿生产工艺.files
+|       |   |       dhs.gif
+|       |   |       dhs.htm
+|       |   |       dhslogo.gif
+|       |   |       imgbar.jpg
+|       |   |       imgbar0.jpg
+|       |   |       imgbar1.jpg
+|       |   |       imgbar2.jpg
+|       |   |       imgbar3.jpg
+|       |   |       imgbar50.jpg
+|       |   |       imgbar7.jpg
+|       |   |       p-1.jpg
+|       |   |       small.jpg
+|       |   |       swscan00014.gif
+|       |   |       zpd.gif
+|       |   |       
+|       |   \---上厂铁矿工艺流程.files
+|       |           111.gif
+|       |           bt.gif
+|       |           c_z13.gif
+|       |           index_r2_c1.gif
+|       |           index_r3_c1.gif
+|       |           index_r3_c3.gif
+|       |           index_r3_c32.gif
+|       |           index_r3_c9.gif
+|       |           line.gif
+|       |           sck.htm
+|       |           titlebg.gif
+|       |           titlebg2.gif
+|       |           
+|       +---辅线供应
+|       |   |   昆钢动力厂供水系统流程图.htm
+|       |   |   昆钢动力厂压缩空气系统流程图.htm
+|       |   |   昆钢动力厂煤气系统流程图.htm
+|       |   |   昆钢动力厂电力系统流程图.htm
+|       |   |   昆钢动力厂蒸汽系统流程图.htm
+|       |   |   昆钢集团氧气厂1#空分工艺流程简图.htm
+|       |   |   昆钢集团氧气厂2#空分工艺流程简图.htm
+|       |   |   昆钢集团氧气厂3#空分工艺流程简图.htm
+|       |   |   
+|       |   +---昆钢集团氧气厂3#空分工艺流程简图.files
+|       |   |   |   left.htm
+|       |   |   |   P21.htm
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       background.gif
+|       |   |   |       toplogo.jpg
+|       |   |   |       
+|       |   |   +---P21.files
+|       |   |   |       bground.gif
+|       |   |   |       
+|       |   |   \---left.files
+|       |   |           bground.gif
+|       |   |           icon_small_01.gif
+|       |   |           icon_small_02.gif
+|       |   |           icon_small_04.gif
+|       |   |           icon_small_06.gif
+|       |   |           icon_small_07.gif
+|       |   |           icon_small_08.gif
+|       |   |           icon_small_09.gif
+|       |   |           icon_small_10.gif
+|       |   |           icon_small_11.gif
+|       |   |           icon_small_12.gif
+|       |   |           icon_small_13.gif
+|       |   |           icon_small_14.gif
+|       |   |           icon_small_17.gif
+|       |   |           icon_small_18.gif
+|       |   |           index.css
+|       |   |           left_arrow_down.gif
+|       |   |           left_background_01.gif
+|       |   |           left_background_02.gif
+|       |   |           menubr.gif
+|       |   |           
+|       |   +---昆钢集团氧气厂2#空分工艺流程简图.files
+|       |   |   |   left.htm
+|       |   |   |   P20.htm
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       background.gif
+|       |   |   |       toplogo.jpg
+|       |   |   |       
+|       |   |   +---P20.files
+|       |   |   |       bground.gif
+|       |   |   |       
+|       |   |   \---left.files
+|       |   |           bground.gif
+|       |   |           icon_small_01.gif
+|       |   |           icon_small_02.gif
+|       |   |           icon_small_04.gif
+|       |   |           icon_small_06.gif
+|       |   |           icon_small_07.gif
+|       |   |           icon_small_08.gif
+|       |   |           icon_small_09.gif
+|       |   |           icon_small_10.gif
+|       |   |           icon_small_11.gif
+|       |   |           icon_small_12.gif
+|       |   |           icon_small_13.gif
+|       |   |           icon_small_14.gif
+|       |   |           icon_small_17.gif
+|       |   |           icon_small_18.gif
+|       |   |           index.css
+|       |   |           left_arrow_down.gif
+|       |   |           left_background_01.gif
+|       |   |           left_background_02.gif
+|       |   |           menubr.gif
+|       |   |           
+|       |   +---昆钢集团氧气厂1#空分工艺流程简图.files
+|       |   |   |   left.htm
+|       |   |   |   P19.htm
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       background.gif
+|       |   |   |       toplogo.jpg
+|       |   |   |       
+|       |   |   +---P19.files
+|       |   |   |       bground.gif
+|       |   |   |       
+|       |   |   \---left.files
+|       |   |           bground.gif
+|       |   |           icon_small_01.gif
+|       |   |           icon_small_02.gif
+|       |   |           icon_small_04.gif
+|       |   |           icon_small_06.gif
+|       |   |           icon_small_07.gif
+|       |   |           icon_small_08.gif
+|       |   |           icon_small_09.gif
+|       |   |           icon_small_10.gif
+|       |   |           icon_small_11.gif
+|       |   |           icon_small_12.gif
+|       |   |           icon_small_13.gif
+|       |   |           icon_small_14.gif
+|       |   |           icon_small_17.gif
+|       |   |           icon_small_18.gif
+|       |   |           index.css
+|       |   |           left_arrow_down.gif
+|       |   |           left_background_01.gif
+|       |   |           left_background_02.gif
+|       |   |           menubr.gif
+|       |   |           
+|       |   +---昆钢动力厂蒸汽系统流程图.files
+|       |   |   |   di.htm
+|       |   |   |   leftliucheng.htm
+|       |   |   |   liucheng11.gif
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       index_01.gif
+|       |   |   |       index_02.gif
+|       |   |   |       
+|       |   |   \---leftliucheng.files
+|       |   |           index_07.gif
+|       |   |           liucheng.gif
+|       |   |           
+|       |   +---昆钢动力厂电力系统流程图.files
+|       |   |   |   di.htm
+|       |   |   |   leftliucheng.htm
+|       |   |   |   liucheng55.gif
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       index_01.gif
+|       |   |   |       index_02.gif
+|       |   |   |       
+|       |   |   \---leftliucheng.files
+|       |   |           index_07.gif
+|       |   |           liucheng.gif
+|       |   |           
+|       |   +---昆钢动力厂煤气系统流程图.files
+|       |   |   |   di.htm
+|       |   |   |   leftliucheng.htm
+|       |   |   |   liucheng44.gif
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       index_01.gif
+|       |   |   |       index_02.gif
+|       |   |   |       
+|       |   |   \---leftliucheng.files
+|       |   |           index_07.gif
+|       |   |           liucheng.gif
+|       |   |           
+|       |   +---昆钢动力厂压缩空气系统流程图.files
+|       |   |   |   di.htm
+|       |   |   |   leftliucheng.htm
+|       |   |   |   liucheng22.gif
+|       |   |   |   top.htm
+|       |   |   |   
+|       |   |   +---top.files
+|       |   |   |       index_01.gif
+|       |   |   |       index_02.gif
+|       |   |   |       
+|       |   |   \---leftliucheng.files
+|       |   |           index_07.gif
+|       |   |           liucheng.gif
+|       |   |           
+|       |   \---昆钢动力厂供水系统流程图.files
+|       |       |   di.htm
+|       |       |   leftliucheng.htm
+|       |       |   liucheng33.gif
+|       |       |   top.htm
+|       |       |   
+|       |       +---top.files
+|       |       |       index_01.gif
+|       |       |       index_02.gif
+|       |       |       
+|       |       \---leftliucheng.files
+|       |               index_07.gif
+|       |               liucheng.gif
+|       |               
+|       \---轧钢
+|           |   二轧钢工艺流程.htm
+|           |   冷轧横切线主要工艺流程图.htm
+|           |   昆钢冷轧板厂冷轧工艺流程图.htm
+|           |   昆钢冷轧板厂冷轧机工艺流程图.htm
+|           |   昆钢冷轧板厂平整机工艺流程图.htm
+|           |   昆钢冷轧板厂退火工艺流程图.htm
+|           |   昆钢冷轧板厂酸洗线工艺流程图.htm
+|           |   昆钢热轧厂工艺流程.htm
+|           |   昆钢热轧厂生产工艺.htm
+|           |   昆钢第四轧钢厂生产工艺流程图.htm
+|           |   热轧联合生产线主要工艺流程图.htm
+|           |   第一轧钢厂--主要设备介绍.htm
+|           |   薄板工艺流程.htm
+|           |   轧钢工艺流程.swf
+|           |   
+|           +---薄板工艺流程.files
+|           |       115.jpg
+|           |       116.jpg
+|           |       11_r04_c09.gif
+|           |       11_r09_c17.gif
+|           |       11_r09_c20.gif
+|           |       11_r09_c27.gif
+|           |       11_r10_c06.gif
+|           |       
+|           +---第一轧钢厂--主要设备介绍.files
+|           |       001.jpg
+|           |       002.jpg
+|           |       003.jpg
+|           |       004.jpg
+|           |       005.jpg
+|           |       006.jpg
+|           |       007.jpg
+|           |       008.jpg
+|           |       009.jpg
+|           |       010.jpg
+|           |       facility_01.jpg
+|           |       facility_02.jpg
+|           |       facility_03.gif
+|           |       facility_06.gif
+|           |       facility_08.gif
+|           |       facility_10.gif
+|           |       facility_12.gif
+|           |       facility_14.gif
+|           |       spacer.gif
+|           |       
+|           +---热轧联合生产线主要工艺流程图.files
+|           |       0022.gif
+|           |       0062.gif
+|           |       100.jpg
+|           |       101.jpg
+|           |       102.jpg
+|           |       103.jpg
+|           |       104.jpg
+|           |       106.jpg
+|           |       107.jpg
+|           |       109.jpg
+|           |       110.jpg
+|           |       111.jpg
+|           |       113.jpg
+|           |       4.gif
+|           |       
+|           +---昆钢第四轧钢厂生产工艺流程图.files
+|           |       85ls.png
+|           |       cz.png
+|           |       dkj.png
+|           |       dqgz.png
+|           |       flsh.png
+|           |       gpzl.png
+|           |       gylc.png
+|           |       gyms.png
+|           |       gywm.png
+|           |       jj.png
+|           |       jrl.png
+|           |       jsgl.png
+|           |       jt.png
+|           |       jt1.png
+|           |       jt2.png
+|           |       jz.png
+|           |       kt.png
+|           |       pf.png
+|           |       rys.png
+|           |       sbgl.png
+|           |       scgl.png
+|           |       sdfxt.png
+|           |       sl.png
+|           |       sltj.png
+|           |       stm.png
+|           |       sy.png
+|           |       top1-1.gif
+|           |       top1-2.gif
+|           |       top1-3.gif
+|           |       top1-5.gif
+|           |       xjz.png
+|           |       yjz.png
+|           |       zy.png
+|           |       zz.png
+|           |       zzyg.png
+|           |       
+|           +---昆钢热轧厂生产工艺.files
+|           |       022.gif
+|           |       032.gif
+|           |       a81.gif
+|           |       am4.gif
+|           |       bottom3.jpg
+|           |       bottom42_bg.jpg
+|           |       bottom4_bg.jpg
+|           |       contact_us.gif
+|           |       gray.gif
+|           |       gray2_pic01.jpg
+|           |       gray2_pic2.jpg
+|           |       gray2_pic3.jpg
+|           |       gray2_pic4.jpg
+|           |       graybg1.gif
+|           |       grayline1.gif
+|           |       grayline2.gif
+|           |       grayline3.gif
+|           |       grayline4.gif
+|           |       gzhsteel.css
+|           |       menu_bg2.gif
+|           |       menu_bg3.gif
+|           |       menu_bg4.gif
+|           |       menu_bg5.gif
+|           |       menu_bg6.gif
+|           |       menu_bg7.gif
+|           |       menu_bg8.gif
+|           |       menu_line.gif
+|           |       menu_point1.gif
+|           |       submenu3_11.gif
+|           |       submenu3_8.gif
+|           |       submenu3_9.gif
+|           |       t3.gif
+|           |       
+|           +---昆钢热轧厂工艺流程.files
+|           |       022.gif
+|           |       a1.gif
+|           |       b1.gif
+|           |       b2.gif
+|           |       b3.gif
+|           |       b4.gif
+|           |       b5.gif
+|           |       b6.gif
+|           |       back10.gif
+|           |       bottom3.jpg
+|           |       bottom42_bg.jpg
+|           |       bottom4_bg.jpg
+|           |       grayline1.gif
+|           |       tt.gif
+|           |       x1.gif
+|           |       
+|           +---昆钢冷轧板厂酸洗线工艺流程图.files
+|           |   |   backgroud_grid.gif
+|           |   |   di.htm
+|           |   |   gongyi.gif
+|           |   |   leftcpin.htm
+|           |   |   liucheng5.jpg
+|           |   |   top.htm
+|           |   |   
+|           |   +---top.files
+|           |   |       di.gif
+|           |   |       icon_dygz.gif
+|           |   |       icon_home.gif
+|           |   |       index_02.jpg
+|           |   |       index_03.jpg
+|           |   |       index_04.gif
+|           |   |       
+|           |   \---leftcpin.files
+|           |           backgroud_grid.gif
+|           |           tippins.jpg
+|           |           
+|           +---昆钢冷轧板厂退火工艺流程图.files
+|           |   |   backgroud_grid.gif
+|           |   |   di.htm
+|           |   |   gongyi.gif
+|           |   |   leftcpin.htm
+|           |   |   liucheng4.jpg
+|           |   |   top.htm
+|           |   |   
+|           |   +---top.files
+|           |   |       di.gif
+|           |   |       icon_dygz.gif
+|           |   |       icon_home.gif
+|           |   |       index_02.jpg
+|           |   |       index_03.jpg
+|           |   |       index_04.gif
+|           |   |       
+|           |   \---leftcpin.files
+|           |           backgroud_grid.gif
+|           |           tippins.jpg
+|           |           
+|           +---昆钢冷轧板厂平整机工艺流程图.files
+|           |   |   backgroud_grid.gif
+|           |   |   di.htm
+|           |   |   gongyi.gif
+|           |   |   leftcpin.htm
+|           |   |   liucheng2.jpg
+|           |   |   top.htm
+|           |   |   
+|           |   +---top.files
+|           |   |       di.gif
+|           |   |       icon_dygz.gif
+|           |   |       icon_home.gif
+|           |   |       index_02.jpg
+|           |   |       index_03.jpg
+|           |   |       index_04.gif
+|           |   |       
+|           |   \---leftcpin.files
+|           |           backgroud_grid.gif
+|           |           tippins.jpg
+|           |           
+|           +---昆钢冷轧板厂冷轧机工艺流程图.files
+|           |   |   backgroud_grid.gif
+|           |   |   di.htm
+|           |   |   gongyi.gif
+|           |   |   leftcpin.htm
+|           |   |   liucheng3.jpg
+|           |   |   top.htm
+|           |   |   
+|           |   +---top.files
+|           |   |       di.gif
+|           |   |       icon_dygz.gif
+|           |   |       icon_home.gif
+|           |   |       index_02.jpg
+|           |   |       index_03.jpg
+|           |   |       index_04.gif
+|           |   |       
+|           |   \---leftcpin.files
+|           |           backgroud_grid.gif
+|           |           tippins.jpg
+|           |           
+|           +---昆钢冷轧板厂冷轧工艺流程图.files
+|           |   |   backgroud_grid.gif
+|           |   |   di.htm
+|           |   |   gongyi.gif
+|           |   |   leftcpin.htm
+|           |   |   liucheng1.jpg
+|           |   |   top.htm
+|           |   |   
+|           |   +---top.files
+|           |   |       di.gif
+|           |   |       icon_dygz.gif
+|           |   |       icon_home.gif
+|           |   |       index_02.jpg
+|           |   |       index_03.jpg
+|           |   |       index_04.gif
+|           |   |       
+|           |   \---leftcpin.files
+|           |           backgroud_grid.gif
+|           |           tippins.jpg
+|           |           
+|           +---冷轧横切线主要工艺流程图.files
+|           |       0041.gif
+|           |       0062.gif
+|           |       100.jpg
+|           |       101.jpg
+|           |       102.jpg
+|           |       103.jpg
+|           |       104.jpg
+|           |       105.jpg
+|           |       106.jpg
+|           |       107.jpg
+|           |       111.jpg
+|           |       113.jpg
+|           |       4.gif
+|           |       
+|           \---二轧钢工艺流程.files
+|                   22.jpg
+|                   kg1.1.jpg
+|                   
++---IBM报告包
+|   |   IBM-中远物流IT规划项目 V1.0.pdf
+|   |   IBM-中铁快运全面咨询建议书_20040827.pdf
+|   |   
+|   +---浙江移动企业管理信息化规划研究报告
+|   |       浙江移动企业管理信息化规划研究报告（by IBM）－企业管理数据规划介绍.pdf
+|   |       浙江移动企业管理信息化规划研究报告（by IBM）－企业管理流程信息化抽象.pdf
+|   |       浙江移动企业管理信息化规划研究报告（by IBM）－企业管理流程研究.pdf
+|   |       浙江移动企业管理信息化规划研究报告（by IBM）－统一信息平台数据交换规范介绍.pdf
+|   |       浙江移动企业管理信息化规划研究报告（by IBM）－综述.pdf
+|   |       
+|   +---天津移动市场计划项目-IBM
+|   |       MP01-客户服务.doc
+|   |       mp02-品牌.doc
+|   |       mp03 customer data model.doc
+|   |       mp04 segment.doc
+|   |       MP05-渠道.doc
+|   |       
+|   +---IBM-中国移动做 知识管理
+|   |       中国移动MIS、OA和员工信息门户集成架构及流程接口的详细设计1220V1.ppt
+|   |       中国移动MIS、OA和员工信息门户集成架构及流程接口的详细设计报告.pdf
+|   |       中国移动知识管理总体规划报告.pdf
+|   |       
+|   +---IBM-上海财税
+|   |       IBM与上海财税进行的规划交流文档.ppt
+|   |       IT运维管理体系（IBM）.ppt
+|   |       中国地方税务信息化建设.ppt
+|   |       
+|   \---IBM-三重一工项目
+|           组织结构详细设计报告final.pdf
+|           
++---oracle做的华为项目建议书
+|   |   oracle做的华为项目建议书.doc
+|   |   
+|   +---华为3Com培训大纲
+|   |       华为3Com培训大纲.doc
+|   |       
+|   +---oracle做的华为项目建议书7
+|   |       oracle做的华为项目建议书7.pdf
+|   |       東莞E化網節介.doc
+|   |       
+|   +---oracle做的华为项目建议书6
+|   |       oracle做的华为项目建议书6.pdf
+|   |       
+|   +---oracle做的华为项目建议书5
+|   |       oracle做的华为项目建议书5.pdf
+|   |       
+|   +---oracle做的华为项目建议书3
+|   |       oracle做的华为项目建议书3.pdf
+|   |       
+|   +---oracle做的华为项目建议书2
+|   |       oracle做的华为项目建议书2.pdf
+|   |       東莞E化網節介.doc
+|   |       
+|   \---oracle做的华为项目建议书1
+|           oracle做的华为项目建议书1.pdf
+|           東莞E化網節介.doc
+|           
++---IBM-华为项目 604MB
+|   +---华为人力资源
+|   |   |   华为KPI设计培训教程（B）.pdf
+|   |   |   华为内部员工股权分配政策.doc
+|   |   |   华为员工手册.doc
+|   |   |   华为的人员的培养与指导.ppt
+|   |   |   华为的营销培训教材.ppt
+|   |   |   华为研发模式.ppt
+|   |   |   华为项目管理培训.ppt
+|   |   |   国工业企业1000大之通信业-华为技术有限公司.doc
+|   |   |   走出华为.doc
+|   |   |   华为的目标设定.ppt
+|   |   |   
+|   |   +---华为部分内部管理规章
+|   |   |       POWERPOINT电子件-03.doc
+|   |   |       POWERPOINT电子件-04.doc
+|   |   |       POWERPOINT电子件-05.doc
+|   |   |       POWERPOINT电子件-06.doc
+|   |   |       POWERPOINT电子件-07.doc
+|   |   |       POWERPOINT电子件-09.doc
+|   |   |       WORD电子件2003-08.doc
+|   |   |       POWERPOINT电子件-01.doc
+|   |   |       
+|   |   \---华为人力资源全部资料
+|   |           2002109114918.doc
+|   |           2002109120518.doc
+|   |           一周出差预定报告表.doc
+|   |           业务人员出差报告书.doc
+|   |           业务人员考核表.doc
+|   |           业务员工作日报.doc
+|   |           个人外部培训申请表.doc
+|   |           个人外部训练申请表.doc
+|   |           个人训练.doc
+|   |           个人训练教学记录表.doc
+|   |           中层领导年度工作考核.doc
+|   |           主管人员服务成绩考核.doc
+|   |           主管人员考核表.doc
+|   |           主管助理奖金核定表.doc
+|   |           人事考评表.doc
+|   |           人员出勤表.doc
+|   |           人员试用标准.doc
+|   |           人员调动申请单.doc
+|   |           人员调职申请书.doc
+|   |           件薪核定通知单.doc
+|   |           件薪计算表.doc
+|   |           休假程序.doc
+|   |           会计部门业务能力分析.doc
+|   |           会议管理规定.doc
+|   |           保密制度.doc
+|   |           公司劳动工资结构.doc
+|   |           公司奖励种类一览表.doc
+|   |           公司工资制度方案.doc
+|   |           公司纪律规定.doc
+|   |           出差旅费报销清单.doc
+|   |           出差旅费清单.doc
+|   |           出差用品检查重点.doc
+|   |           出差申请单.doc
+|   |           出差申请单（一）.doc
+|   |           出差申请单（二）.doc
+|   |           利润中心奖金分配表.doc
+|   |           办公室物资管理条例.doc
+|   |           办公行为规范.doc
+|   |           加班申请单.doc
+|   |           加班管理制度.doc
+|   |           加班费申请单.doc
+|   |           劳务合同书范本.htm
+|   |           劳动合同管理规定.doc
+|   |           医疗及人身意外伤害保险管理办法.doc
+|   |           印章管理办法.doc
+|   |           变更工资申请单.doc
+|   |           变更工资申请表.doc
+|   |           各级培训机构工作职责.doc
+|   |           员工专项考核表.doc
+|   |           员工书面表扬申请单.doc
+|   |           员工任免通知书.doc
+|   |           员工出勤工薪记算表.doc
+|   |           员工到职单.doc
+|   |           员工在职训练制度.doc
+|   |           员工培训反馈信息.doc
+|   |           员工培训成绩评核表.doc
+|   |           员工培训报告书.doc
+|   |           员工培训报告表.doc
+|   |           员工培训档案.doc
+|   |           员工培训考核表.doc
+|   |           员工培训计划表.doc
+|   |           员工培训需求调查表.doc
+|   |           员工处罚条件参照表.doc
+|   |           员工奖惩建议申请表.doc
+|   |           员工奖惩月报表.doc
+|   |           员工奖惩登记表.doc
+|   |           员工奖金合计表.doc
+|   |           员工岗位变动通知书.doc
+|   |           员工工时记录簿.doc
+|   |           员工工资单.doc
+|   |           员工工资变动申请表.doc
+|   |           员工工资职级核定表.doc
+|   |           员工工资表.doc
+|   |           员工工资调整表.doc
+|   |           员工手册.doc
+|   |           员工抚恤申请表.doc
+|   |           员工离职单.doc
+|   |           员工离职移交手续清单.doc
+|   |           员工离职管理办法.htm
+|   |           员工签到卡.doc
+|   |           员工考勤记录表.doc
+|   |           员工考勤记录表（第一页）.doc
+|   |           员工考勤记录表（第二页）.doc
+|   |           员工聘用制度.doc
+|   |           员工自我鉴定表.doc
+|   |           员工自评表.doc
+|   |           员工薪金单.doc
+|   |           员工请假公出单.doc
+|   |           员工请假单.doc
+|   |           员工辞职管理办法.doc
+|   |           员工辞职（退）通知书.doc
+|   |           员工通用项目考核表.doc
+|   |           团体培训申请表.doc
+|   |           图书、报刊管理办法.doc
+|   |           在职员工受训意见调查.doc
+|   |           在职员工培训测验成绩.doc
+|   |           在职技能培训计划申请.doc
+|   |           在职训练学员意见调查.doc
+|   |           在职训练实施结果表.doc
+|   |           在职训练测验成绩表.doc
+|   |           在职训练费用申请表.doc
+|   |           培训流程图.doc
+|   |           培训管理制度.doc
+|   |           奖惩登记表.doc
+|   |           定期考绩汇总表.doc
+|   |           工作内容调查日报表.doc
+|   |           工作奖金核定表（一）.doc
+|   |           工作奖金核定表（二）.doc
+|   |           工作说明书.doc
+|   |           工资分析表.doc
+|   |           工资扣缴表.doc
+|   |           工资标准表.doc
+|   |           工资登记表.doc
+|   |           工资统计表.doc
+|   |           工资调整申请书.doc
+|   |           工资调整表.doc
+|   |           年工资基金使用计划表.doc
+|   |           年度培训计划.doc
+|   |           年度招聘计划报批表.doc
+|   |           年度考绩表.doc
+|   |           引荐担保书.doc
+|   |           录用员工报到通知书.doc
+|   |           总务部门业务能力分析.doc
+|   |           技术人员能力考核表.doc
+|   |           招聘（录用）通知单.doc
+|   |           提高能力方法表.doc
+|   |           提高能力的对策表.doc
+|   |           操作员奖金分配表.doc
+|   |           文书管理办法.doc
+|   |           新员工培训成绩评核表.doc
+|   |           新员工培训计划表.doc
+|   |           新员工工资核定表.doc
+|   |           新员工甄选报告表.doc
+|   |           新员工甄选比较表.doc
+|   |           新员工职务工资标准表.doc
+|   |           新员工试用申请核定表.doc
+|   |           新员工试用考察表.doc
+|   |           新员工试用表.doc
+|   |           新进职员教育.doc
+|   |           新进职员教育成果检测.doc
+|   |           普通员工服务成绩考核.doc
+|   |           普通员工考核表.doc
+|   |           普遍员工工资计算表.doc
+|   |           暂借款管理办法.doc
+|   |           月度考勤统计表.doc
+|   |           档案管理规定.doc
+|   |           法律工作制度.doc
+|   |           津贴申请单.doc
+|   |           物资管理办法.doc
+|   |           生产人员工资提成计算.doc
+|   |           生产奖金核定表.doc
+|   |           生产部门业务能力分析.doc
+|   |           相互评价表.doc
+|   |           短程旅费申请表.doc
+|   |           离职申请书.doc
+|   |           离职通知书.doc
+|   |           移交清册（一）.doc
+|   |           移交清册（二）.doc
+|   |           移交清单.doc
+|   |           管理员工考核表.doc
+|   |           管理才能考核表.doc
+|   |           纪律处分通知书.doc
+|   |           经济合同管理办法.doc
+|   |           经理人员综合素质考核.doc
+|   |           经理人员能力考核表.doc
+|   |           绩效考核面谈表.doc
+|   |           绩效考评制度.doc
+|   |           绩效考评样本.doc
+|   |           综合工作情况表.doc
+|   |           综合能力考核表.doc
+|   |           缺勤处理办法.doc
+|   |           考勤制度.doc
+|   |           考核制度.doc
+|   |           考核流程图.doc
+|   |           考核表范例.doc
+|   |           考核面谈表.doc
+|   |           职务分配表.doc
+|   |           职员具体工作能力考核.doc
+|   |           职员品行分析表.doc
+|   |           职员品行考核表.doc
+|   |           职员品行评定表.doc
+|   |           职员签到簿.doc
+|   |           职员统一薪金等级表.doc
+|   |           职员考核表.doc
+|   |           职员试用通知单.doc
+|   |           职员阶段考绩表.doc
+|   |           聘任书.doc
+|   |           聘约人员任用核定表.doc
+|   |           自我报告书.doc
+|   |           自我鉴定表.doc
+|   |           营业部门业务能力分析.doc
+|   |           营销人员能力考核表.doc
+|   |           薪资、奖金及奖惩制度.doc
+|   |           薪资制度.doc
+|   |           薪酬制度.doc
+|   |           观摩报告书.doc
+|   |           规范化管理实施大纲.doc
+|   |           计件工资计算表.doc
+|   |           计算机管理规定.doc
+|   |           训练成效调查表.doc
+|   |           试用保证书.doc
+|   |           试用合同书.doc
+|   |           试用员工考核表.doc
+|   |           试用察看通知单.doc
+|   |           试用查看通知.doc
+|   |           财务管理规定.doc
+|   |           费用开支管理办法.doc
+|   |           费用报销规定.doc
+|   |           软件工程师考评表.doc
+|   |           辞职申请书.doc
+|   |           辞职申请表.doc
+|   |           选拔干部候选人评分表.doc
+|   |           部属行为意识分析表.doc
+|   |           部门工作分类表.doc
+|   |           部门工作综合测量表.doc
+|   |           重要任务考评表.doc
+|   |           销售人员工资提成计算.doc
+|   |           间接人员奖金核定.doc
+|   |           间接人员奖金核定表.doc
+|   |           间接员工考绩表.doc
+|   |           面试评价表.doc
+|   |           面谈构成表.doc
+|   |           预支工资申请书.doc
+|   |           餐饮业人事管理规章.doc
+|   |           
+|   +---IBM—华为PDM
+|   |   |   C_tempPHASE 1 FINAL REPORT - 093099.zip
+|   |   |   D_Old fileIPDBRDeliveryIPD-DL-1and IT reqMBI理论（全）.zip
+|   |   |   D_Old fileIPDBRTrainIPD Overview,MBI Introduction and IPD Plan 19990309C.zip
+|   |   |   huawei plan detail 7.18.00 del master.vsd
+|   |   |   HW IPD Dvlp Detail 9.10.00 del master copy.zip
+|   |   |   IPD process.zip
+|   |   |   IPD-CY-20010213-01 Qualify Phase Detail.vsd
+|   |   |   IPD-DL-1and IT req.zip
+|   |   |   IPD-DL-20000223-1.vsd
+|   |   |   IPD-DL-20000516-01 Concept Detailed Process v4.vsd
+|   |   |   IPD-DL-20000909-01 Develop Role Descriptions.zip
+|   |   |   任 务 汇 总 表.doc
+|   |   |   任务管理.doc
+|   |   |   文档计划.doc
+|   |   |   软件开发质量保证体系.doc
+|   |   |   软件需求管理.doc
+|   |   |   项目计划.doc
+|   |   |   风险缓解、监控及管理计划.doc
+|   |   |   
+|   |   +---华为IT规划文档，IBM
+|   |   |       IBM IT安全组织参考.PRZ
+|   |   |       IT 业务管治咨询建议.lwp
+|   |   |       IT 主项目规划报告.PRZ
+|   |   |       IT 管治策略、组织、流程建议.PRZ
+|   |   |       IT基本原则.PRZ
+|   |   |       IT技术与产品标准.lwp
+|   |   |       IT流程体系.doc
+|   |   |       RFP模板.lwp
+|   |   |       SOW模板.lwp
+|   |   |       华为IT规划最终报告－phase1.PRZ
+|   |   |       可行性分析报告模板.lwp
+|   |   |       软件包选型标准.lwp
+|   |   |       集成IT项目管理咨询建议.PRZ
+|   |   |       
+|   |   +---Train
+|   |   |   |   IPD Overview, MBI Introduction and Project Plan 19990309.prz
+|   |   |   |   IPD Overview,MBI Introduction and IPD Plan 19990309C.prz
+|   |   |   |   IPD Overview.prz
+|   |   |   |   MBI Introduction (Chinese).PRZ
+|   |   |   |   MBI中文翻译.PRZ
+|   |   |   |   华为产品开发与IPD（新员工）20000125.zip
+|   |   |   |   微软MSF资料.PDF
+|   |   |   |   
+|   |   |   \---华为产品开发与IPD（新员工）20000125
+|   |   |           华为产品开发与IPD（新员工）20000125.PRZ
+|   |   |           
+|   |   +---Procurement
+|   |   |       Appendix A.rtf
+|   |   |       Appendix B.rtf
+|   |   |       
+|   |   +---phase3
+|   |   |   +---English
+|   |   |   |       BR01. IPD 0205.doc
+|   |   |   |       BR02. Market Management 0205.doc
+|   |   |   |       BR03. MRPII Enhancement 0205.doc
+|   |   |   |       BR04. Total Supply Chain Mgmt 0205.doc
+|   |   |   |       BR05. Post Sales Customer Services 0205.doc
+|   |   |   |       BR06. Project Investment Management 0205.doc
+|   |   |   |       BR07. Costing 0205.doc
+|   |   |   |       BR08. Budgeting & Forecasting 0205.doc
+|   |   |   |       Implementation Progress Monitor Framework 0205.doc
+|   |   |   |       IT01. IT Processes 0205.doc
+|   |   |   |       IT02. Technology and Product Standards 0205.doc
+|   |   |   |       IT03. Network Infrastructure 0205.doc
+|   |   |   |       IT04. Business recovery 0205.doc
+|   |   |   |       IT05. Enterprise Data Model 0205.doc
+|   |   |   |       Phase 3 - Cover 0205.doc
+|   |   |   |       Phase 3 - Introduction 0205.PRZ
+|   |   |   |       Phase 3 - Project Dependencies and Master Implementation Plan 0205.PRZ
+|   |   |   |       
+|   |   |   \---china
+|   |   |           HW P2 1110b china-0107-汇报.PRZ
+|   |   |           P3 BR01- Integrated Product Development CHINA 0304.lwp
+|   |   |           P3 BR02-Maket Management CHINA 0304.lwp
+|   |   |           P3 BR03-MRPII enhancement CHINA O304.lwp
+|   |   |           P3 BR04-Total Supply Chain Manaemnet Feasibility CHIAN 0304.rtf
+|   |   |           P3 BR05-Post sales Customer Services CHINA 0309.lwp
+|   |   |           P3 BR06-Project Investment Management CHIAN 0304.lwp
+|   |   |           P3 BR07-Costing CHINA 0304.lwp
+|   |   |           P3 BR08-budgeting & forcasting china 0304.lwp
+|   |   |           P3 IMPLEMENTATION MANAGEMENT FRAMEWORK CHINA 0304.lwp
+|   |   |           P3 Introduction china 0304.PRZ
+|   |   |           P3 IT01-it process CHINA 0309.lwp
+|   |   |           P3 IT02-Technology and Product Standards CHINA 0304.lwp
+|   |   |           P3 IT03-NETWORK INFRASTRUCTURE CHINA 0304.lwp
+|   |   |           P3 IT04-Business recovery CHINA 0304.lwp
+|   |   |           P3 IT05-Enterprise data Model CHINA 0304.lwp
+|   |   |           P3 PJ DEP& MAS IMP PLAN CHINA O3O4.PRZ
+|   |   |           pebt1.PRZ
+|   |   |           
+|   |   +---phase2
+|   |   |       Huawei ITS&P Phase 2 981217.PRZ
+|   |   |       HW P2 1110b china-1230-last-1.PRZ
+|   |   |       HW P2 1110b china-1230-last.PRZ
+|   |   |       
+|   |   +---phase1
+|   |   |   |   Huawei ITS&P P1 Report Chinese - ITSTF092901-1.PRZ
+|   |   |   |   Huawei ITS&P P1 Report Chinese - ITSTF092901.PRZ
+|   |   |   |   Huawei ITS&P P1 Report English - ITSTF092901.PRZ
+|   |   |   |   IT 业务管治咨询建议.LWP
+|   |   |   |   IT 主项目规划报告.PRZ
+|   |   |   |   IT 管治策略、组织、流程建议.PRZ
+|   |   |   |   IT基本原则.PRZ
+|   |   |   |   IT流程体系.doc
+|   |   |   |   
+|   |   |   +---IT项目管理
+|   |   |   |       RFP模板.lwp
+|   |   |   |       SOW模板.lwp
+|   |   |   |       可行性分析报告模板.lwp
+|   |   |   |       软件包选型标准.lwp
+|   |   |   |       集成IT项目管理咨询建议.PRZ
+|   |   |   |       
+|   |   |   +---IT标准
+|   |   |   |       IT技术与产品标准.lwp
+|   |   |   |       
+|   |   |   \---IT安全
+|   |   |           IBM IT安全组织参考1.PRZ
+|   |   |           
+|   |   +---PDM WPD
+|   |   |   |   Coding Guidelines.pdf
+|   |   |   |   Configuration Parameters.pdf
+|   |   |   |   Current IT Environment.pdf
+|   |   |   |   Data Migration Maps.pdf
+|   |   |   |   Data Migration Programs.pdf
+|   |   |   |   Deployment Plan.pdf
+|   |   |   |   Detailed Gap Analysis.pdf
+|   |   |   |   Detailed Test Plan.pdf
+|   |   |   |   Education and Training Specifications and Materials.pdf
+|   |   |   |   Future Process Function Attributes.pdf
+|   |   |   |   High Level Gap Analysis.pdf
+|   |   |   |   Interface Programs.pdf
+|   |   |   |   Interface Specifications.pdf
+|   |   |   |   Network Node Design.pdf
+|   |   |   |   Network Requirements.pdf
+|   |   |   |   Operational Model.pdf
+|   |   |   |   Package Extensions Specifications.pdf
+|   |   |   |   Process Definition.pdf
+|   |   |   |   Project Management Schedule.pdf
+|   |   |   |   Project Quality Plan.pdf
+|   |   |   |   Report Specifications.pdf
+|   |   |   |   System Context.pdf
+|   |   |   |   Test Report.pdf
+|   |   |   |   Test Specification.pdf
+|   |   |   |   Use Case Model.pdf
+|   |   |   |   User Support Materials.pdf
+|   |   |   |   User Support Specifications.pdf
+|   |   |   |   
+|   |   |   \---PMP
+|   |   |           Risk Definition.pdf
+|   |   |           
+|   |   +---PDM
+|   |   |   |   Freelance Graphics - PDM培训教材20000417_1.pdf
+|   |   |   |   Freelance Graphics - PDM培训材料99－10－13.pdf
+|   |   |   |   Freelance Graphics - PDM选型SDRC20000124-1.pdf
+|   |   |   |   HW_PDM evaluation report0619.prz
+|   |   |   |   IBM Global Services Industrial Sectir Solution20000118_01.PRZ
+|   |   |   |   Implemention.pre
+|   |   |   |   IPD-IT相关工具介绍20000215.PRZ
+|   |   |   |   IPD计划与PDM交流总结.lwp
+|   |   |   |   IT&PDM汇报材料991119－01.lwp
+|   |   |   |   PDM培训教材20000417_1.PRZ
+|   |   |   |   PDM培训材料99－10－13.PRZ
+|   |   |   |   PDM工作问题汇报1105.PRZ
+|   |   |   |   PDM综合评价0610.lwp
+|   |   |   |   PDM评价得分情况20000612.123
+|   |   |   |   PDM评估问题参考.lwp
+|   |   |   |   PMFunc.PRZ
+|   |   |   |   PTC产品介绍总结.lwp
+|   |   |   |   PTC研讨会总结.lwp
+|   |   |   |   SK, IT, DEPL, PREP Phase 2 Detailed Plan (intermediate of 10-20-99).xls
+|   |   |   |   
+|   |   |   +---sdrc
+|   |   |   |   |   PDM选型SDRC20000125-1.PRZ
+|   |   |   |   |   SDRC介绍总结.PRZ
+|   |   |   |   |   
+|   |   |   |   \---SDRC19991229
+|   |   |   |           EstOfImpleExpense_19991227.doc
+|   |   |   |           EstOfSoftLicense_19991227.doc
+|   |   |   |           huaweiHWConfig (3)_19991227.doc
+|   |   |   |           ReasonWhyTheySelMS_19991227.doc
+|   |   |   |           RevOfProposal02_19991229.doc
+|   |   |   |           RevOfProposal_19991227.doc
+|   |   |   |           
+|   |   |   +---Report
+|   |   |   |   |   PDM汇报材料架构20000129_1.lwp
+|   |   |   |   |   PDM选型工作汇报20000110.PRZ
+|   |   |   |   |   PDM选型工作汇报20000220-1.PRZ
+|   |   |   |   |   PDM选型汇报20000125.zip
+|   |   |   |   |   
+|   |   |   |   \---PDM选型汇报20000125
+|   |   |   |       |   IBM实施人员简历表(新).lwp
+|   |   |   |       |   IBM实施人员简历表_2.lwp
+|   |   |   |       |   SDRC实施人员简历表.lwp
+|   |   |   |       |   
+|   |   |   |       +---对SDRC及IBM的PDM产品评估汇报
+|   |   |   |       |       IBM内部的PDM系统01212000_1.PRZ
+|   |   |   |       |       IBM内部的PDM系统20000121_2.PRZ
+|   |   |   |       |       PDM选型IBM20000124-1.PRZ
+|   |   |   |       |       pdm选型ibm20000125-1.prz
+|   |   |   |       |       PDM选型SDRC20000124-1.PRZ
+|   |   |   |       |       PDM选型SDRC20000125-1.PRZ
+|   |   |   |       |       PDM选型SDRC在Ericsson的实施案例20000225_1.PRZ
+|   |   |   |       |       
+|   |   |   |       \---PDM选型标准-细化的需求20000125
+|   |   |   |               PDM选型标准20000123-1（CMM的需求）.PRZ
+|   |   |   |               PDM选型标准20000123-2.PRZ
+|   |   |   |               PDM选型标准20000124-2（MRPII需求）.PRZ
+|   |   |   |               PDM选型标准20000124-2（物理层需求）.PRZ
+|   |   |   |               PDM选型标准20000125-2（实施需求）.PRZ
+|   |   |   |               PDM选型标准20000125-2（维护需求）.PRZ
+|   |   |   |               
+|   |   |   +---Management
+|   |   |   |   |   PDM小组工作计划.123
+|   |   |   |   |   PDM小组计划（11月08～11月13日）.123
+|   |   |   |   |   PDM小组计划（11月份）.123
+|   |   |   |   |   
+|   |   |   |   \---Communication
+|   |   |   |           rfp_huawei_pdm4.lwp
+|   |   |   |           与Anand交流总结1112－01.lwp
+|   |   |   |           与Anand交流的总结.PRZ
+|   |   |   |           与Anand的沟通总结.lwp
+|   |   |   |           与IPD顾问交流计划11－10.lwp
+|   |   |   |           
+|   |   |   +---IBM
+|   |   |   |       IBMDec30.PRZ
+|   |   |   |       IpdChina 011200 subset.prz
+|   |   |   |       IpdYmtE.ppt
+|   |   |   |       pdm选型ibm20000125-1.prz
+|   |   |   |       s80.doc
+|   |   |   |       Sdwb.prz
+|   |   |   |       SP.doc
+|   |   |   |       Yamato.ppt
+|   |   |   |       
+|   |   |   \---Bisiness
+|   |   |       |   Concept & Plan subprocess1115-01.PRZ
+|   |   |       |   High Level IPD IT Architecture draft.PRZ
+|   |   |       |   IPD PDM position20000320.PRZ
+|   |   |       |   IPD-Subprocess 111199.pre
+|   |   |       |   PDM Criteria.lwp
+|   |   |       |   PDM业务需求20000104.lwp
+|   |   |       |   PDM业务需求991211.lwp
+|   |   |       |   PDM标杆20000111_1.lwp
+|   |   |       |   PDM需求讨论19991228_1.lwp
+|   |   |       |   
+|   |   |       \---Function
+|   |   |               pdm2exc4.ppt
+|   |   |               PdmII.ppt
+|   |   |               vpm_ets.ppt
+|   |   |               
+|   |   +---IPD-DL-1and IT req
+|   |   |       End to End IT Requirements v2 3.9.00 del rev.xls
+|   |   |       MBI理论（全）.ppt
+|   |   |       
+|   |   +---education
+|   |   |   |   Cost Management.PRZ
+|   |   |   |   e-business Introduction 981014.PRZ
+|   |   |   |   HW ITS&P Phase 2 Methodology 1013.PRZ
+|   |   |   |   IBM_Internal_IT.rtf
+|   |   |   |   pebt1.PRZ
+|   |   |   |   PEBT方法论.ppt
+|   |   |   |   PEBT方法论95.ppt
+|   |   |   |   PEBT方法论95.zip
+|   |   |   |   Projet Mangement95.ppt
+|   |   |   |   汇报118.prz
+|   |   |   |   
+|   |   |   \---network
+|   |   |           Huawei - MDNS Design 1098.PRZ
+|   |   |           Huawei - MDNS NW Mgmt 1098.PRZ
+|   |   |           Huawei - NW technologies 1098.ppt
+|   |   |           Huawei - VPN 1098.PRZ
+|   |   |           
+|   |   +---BluePrint
+|   |   |   |   Blueprint工作计划与总结_20010111.PRZ
+|   |   |   |   Document Mapping_20010119.123
+|   |   |   |   End User Scenario by IPD roles - Concept Phase.PRZ
+|   |   |   |   End User Scenario by IPD roles - Develop Phase.PRZ
+|   |   |   |   End User Scenario by IPD roles - Plan Phase.PRZ
+|   |   |   |   IT Requirements for huawei80 3.08.00 SW-0223.xls
+|   |   |   |   SIC ARC_Blueprint Report Meeting Minutes(C)_20001219.lwp
+|   |   |   |   SIC ARC_End User Scenario by IPD roles (Concept Phase)_20001225.PRZ
+|   |   |   |   SIC ARC_End User Scenario by IPD roles (Develop Phase)_20001225.PRZ
+|   |   |   |   SIC ARC_End User Scenario by IPD roles (Plan Phase)_20001225.PRZ
+|   |   |   |   SIC ARC_End User Scenario by IPD roles - Concept Phase_20001128.PRZ
+|   |   |   |   SIC ARC_IPD IT Integration BluePrint_20001220B.PRZ
+|   |   |   |   SIC ARC_IPD IT Integration BluePrint_20001226.PRZ
+|   |   |   |   SIC ARC_IPD IT Integration Scenario Description_20010115.PRZ
+|   |   |   |   SIC ARC_IPD IT Integration Scenario(Refined)_20001222.PRZ
+|   |   |   |   SIC ARC_IPD IT Integration Scenario_20001124.PRZ
+|   |   |   |   SIC ARC_IT Requirements Matrix_20001201.xls
+|   |   |   |   SIC SA_IPD IT Integration Scenario_20001219.PRZ
+|   |   |   |   
+|   |   |   \---MatrixDB
+|   |   |           Activity.ADX
+|   |   |           Activity.APR
+|   |   |           Activity.dbf
+|   |   |           Activity_old.APR
+|   |   |           Activity_Task_Subtask.ADX
+|   |   |           ACTIVITY_TASK_SUBTASK.APR
+|   |   |           Activity_Task_Subtask.dbf
+|   |   |           IT_Application_Area.ADX
+|   |   |           IT_APPLICATION_AREA.APR
+|   |   |           IT_Application_Area.dbf
+|   |   |           IT_Application_Area.DBT
+|   |   |           Phase.ADX
+|   |   |           Phase.APR
+|   |   |           Phase.dbf
+|   |   |           Phase_Responsibility.ADX
+|   |   |           PHASE_RESPONSIBILITY.APR
+|   |   |           Phase_Responsibility.dbf
+|   |   |           Phase_Responsibility.DBT
+|   |   |           Role.ADX
+|   |   |           Role.APR
+|   |   |           Role.dbf
+|   |   |           Subtask.ADX
+|   |   |           Subtask.APR
+|   |   |           Subtask.dbf
+|   |   |           Task.ADX
+|   |   |           Task.APR
+|   |   |           Task.dbf
+|   |   |           task_subtask.ADX
+|   |   |           TASK_SUBTASK.APR
+|   |   |           task_subtask.dbf
+|   |   |           
+|   |   \---18-华为IT规划－IBM
+|   |       |   Huawei ITS&P P1 Report Chinese - ITSTF092901.PRZ
+|   |       |   HW P2 1110b china-1230-last.PRZ
+|   |       |   IT 业务管治咨询建议.lwp
+|   |       |   IT 主项目规划报告.PRZ
+|   |       |   IT基本原则.PRZ
+|   |       |   可行性分析报告模板.lwp
+|   |       |   软件包选型标准.lwp
+|   |       |   
+|   |       +---华为
+|   |       \---phase3
+|   |               HW P2 1110b china-0107-汇报.PRZ
+|   |               P3 BR01- Integrated Product Development CHINA 0304.lwp
+|   |               P3 BR02-Maket Management CHINA 0304.lwp
+|   |               P3 BR03-MRPII enhancement CHINA O304.lwp
+|   |               P3 BR04-Total Supply Chain Manaemnet Feasibility CHIAN 0304.rtf
+|   |               P3 BR05-Post sales Customer Services CHINA 0309.lwp
+|   |               P3 BR06-Project Investment Management CHIAN 0304.lwp
+|   |               P3 BR07-Costing CHINA 0304.lwp
+|   |               P3 BR08-budgeting & forcasting china 0304.lwp
+|   |               P3 IMPLEMENTATION MANAGEMENT FRAMEWORK CHINA 0304.lwp
+|   |               P3 Introduction china 0304.PRZ
+|   |               P3 IT01-it process CHINA 0309.lwp
+|   |               P3 IT02-Technology and Product Standards CHINA 0304.lwp
+|   |               P3 IT03-NETWORK INFRASTRUCTURE CHINA 0304.lwp
+|   |               P3 IT04-Business recovery CHINA 0304.lwp
+|   |               
+|   +---IBM-华为业务智能系统项目（BO-GIUDE，68M）
+|   |       BIS系统应用统计分析流程1.0.doc
+|   |       BIS系统推行后统计分析流程与相关支持文档.zip
+|   |       HWBIS前端架构详细设计文档-040326v2.0.doc
+|   |       HWBIS前端用户操作指南-040331v1.6.doc
+|   |       HWBIS前端管理者用户操作指导v1.0.doc
+|   |       HWBIS前端统计分析应用设计模板 v1.0.doc
+|   |       HWBIS前端设计指导原则V1.0doc.doc
+|   |       Supervisor操作指南.pdf
+|   |       Universe设计人员操作指南.pdf
+|   |       统计分析需求分析报告模板 v1.0-HWBIS-20040527.doc
+|   |       
+|   +---IBM-华为SCP项目(20M,4FILE)
+|   |       FP流程培训教材.ppt
+|   |       SCP_OM_V1.1.doc
+|   |       SCP模块培训材料(EU)_V1.0.ppt
+|   |       FP OM  20030728.doc
+|   |       
+|   +---IBM-华为ISC项目（54M,75FILE）
+|   |   |   ISC CRB 会议纪要 ISC-INT-XHZ-20030828.doc
+|   |   |   ISC-F1 ISC流程图Level 1 Final V2.0 ISC-INT-ZXP-20030901-C（中文）.ppt
+|   |   |   ISC-F1 ISC流程图Level 1 Final V2.0 ISC-INT-ZXP-20030901.ppt
+|   |   |   ISC-F1-1 ISC流程图Level 2 Final V1.0（上网流程图-2003-05-28）.PDF
+|   |   |   ISC-F1-1 ISC流程图Level 2 Final V1.0（上网流程图-2003-05-28）.vsd
+|   |   |   ISC-F1-1 ISC流程图Level 2 Final V2.0 ISC-INT-ZXP-20030901-C（中文）.PDF
+|   |   |   ISC-F1-1 ISC流程图Level 2 Final V2.0 ISC-INT-ZXP-20030901-C（中文）.vsd
+|   |   |   ISC-F1-1 ISC流程图Level 2 Final V2.0 ISC-INT-ZXP-20030901.PDF
+|   |   |   ISC-F1-1 ISC流程图Level 2 Final V2.0 ISC-INT-ZXP-20030901.vsd
+|   |   |   ISC推行第2阶段（20030328）.PRZ
+|   |   |   ISC销售模块办事处培训教材20020702A.PRZ
+|   |   |   Process Reference Manual SCM V1.0 ISC-SC-AK-C-20020530-ZXP.lwp
+|   |   |   Process Reference Manual SCM V1.0 ISC-SC-EAS-ENG-20020530-ZXP.lwp
+|   |   |   Proposal HuaWei（hp）.doc
+|   |   |   华为集成供应链KPI Final V2.1 ISC-INT-ZXP-20030910.doc
+|   |   |   华为集成供应链KPI审视汇报材料 ISC-INT-ZXP-20030624.ppt
+|   |   |   
+|   |   +---MARKET
+|   |   +---SOURCE
+|   |   |       SOURCE ISC-PG-JZ-20020413.lwp
+|   |   |       采购流程参考手册 ISC-PG-20020415.lwp
+|   |   |       
+|   |   +---SALES
+|   |   |       04年营销培训年刊.doc
+|   |   |       Sell Goods Process Description L4 Final Draft V1.0 ISC-SG-WY20020322(Chinese).lwp
+|   |   |       Sell Goods Process Description L4 Final Draft V1.0 ISC-SG-WY20020322.lwp
+|   |   |       
+|   |   +---PLAN
+|   |   |       PRM EP.10 Assess Demand Performance Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.3 Prepare Domestic Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.3.1Develop Regional Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.3.3 Develop Customer Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.3.4 Develop Baseline Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.3.5 Develop Channel Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.3.6 Produce Product Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM O2.5 Publish Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.3.1.1-6 Develop Regional Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.3.2.1-4 Develop Market Analysis Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.3.3.1-3 Develop Customer Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.3.4.1-4 Develop Baseline Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.3.5.1-5 Develop Channel Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.3.6.1-7 Produce Product Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4 Develop Overseas Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4.1.1-10 Overseas regional forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4.2.1-4 Overseas Market analysis forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4.3.1-3 Overseas Operater forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4.4.1-4 Overseas Baseline forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4.5.1-4 Overseas Channel forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.4.6.1-4 Produce Overseas Product forecasts Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.5.1.1-2 Publish Sales Forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.5.2.1-5 Develop demand forecast Final Draft V1.0 ISC-PS-DM-20020415(E-C).lwp
+|   |   |       PRM PS-O2.5.3.1-4 Assess Forecast Final Draft V1.0 ISC-FR-DM-20020415(E-C).lwp
+|   |   |       Process Reference Manual PS V1.0 ISC-SC-MKH-20020423.lwp
+|   |   |       流程参考手册 PSV1.0 ISC-SC-MKH-20020430(Chinese).zip
+|   |   |       
+|   |   +---MAKE
+|   |   |       Make_Process Reference Manual 20020527.lwp
+|   |   |       制造流程参考手册 20020527.lwp
+|   |   |       
+|   |   \---LOGISTIC
+|   |           D1.8 PRM 20020328.zip
+|   |           D1.8 PRM-c.zip
+|   |           D1.9 PRM 20020328.zip
+|   |           D1.9 PRM-c.zip
+|   |           D2.4 PRM 20020328.zip
+|   |           D2.4 PRM-c.zip
+|   |           D2.5 PRM 20020328.zip
+|   |           D2.5 PRM-c.zip
+|   |           D2.6 DELIVER ISC-SC-JC-20020129.lwp
+|   |           D2.6 PRM-c.zip
+|   |           D2.7 PRM 20020328.zip
+|   |           D2.7 PRM-c.zip
+|   |           D2.8 PRM 20020328.zip
+|   |           D2.8 PRM-c.zip
+|   |           D2.9 PRM-c.zip
+|   |           Deliver PRM 20020328.lwp
+|   |           ED.2 Assess Delivery Performance 20020328.lwp
+|   |           ED.2 PRM-c.lwp
+|   |           ED.4 DELIVER ISC-ML-DL-20020328.lwp
+|   |           ED.4 PRM-c.lwp
+|   |           ED.6 DELIVER ML-AL-20020328.lwp
+|   |           ED.6 PRM-c.lwp
+|   |           ES.4 DELIVER ISC-ML-DL-20020328.lwp
+|   |           ES.4 PRM-c.lwp
+|   |           S2.4 PRM 20020328.zip
+|   |           S2.4 PRM-c.zip
+|   |           
+|   +---IBM-华为APS项目（48M,35FILE）
+|   |   |   ap_training.ppt
+|   |   |   AR培训.ppt
+|   |   |   ASMS系统培训资料.zip
+|   |   |   Bom.prz
+|   |   |   Eng.zip
+|   |   |   FA_training.ppt
+|   |   |   gl培训.ppt
+|   |   |   NOTES开发规范.lwp
+|   |   |   Oracle 11i性能问题和方案汇总.xls
+|   |   |   Oracle Inventory Training.zip
+|   |   |   performance.doc
+|   |   |   PO_lgx.prz
+|   |   |   report培训资料.zip
+|   |   |   Solaris使用入门.lwp
+|   |   |   SQL Tuning.ppt
+|   |   |   U02_Order.ppt
+|   |   |   web sphere培训手册.pdf
+|   |   |   WIP Train V1.0.zip
+|   |   |   业务流程优化-V2.PRZ
+|   |   |   事件管理与服务意识.ppt
+|   |   |   华为APS系统总体架构介绍.ppt
+|   |   |   华为Oracle 11i系统架构及容量规划方法.ppt
+|   |   |   华为公司ERP简介.zip
+|   |   |   培训教材1.zip
+|   |   |   性能测试工具应用指导书－LoadRunner.lwp
+|   |   |   成本培训教材.zip
+|   |   |   流程审计方法与实务0817.PRZ
+|   |   |   流程管理简介-V2.PRZ
+|   |   |   系统分析培训教材－200403.ppt
+|   |   |   系统设计培训教材－200403.ppt
+|   |   |   组织变革管理.PRZ
+|   |   |   网络知识培训.PRZ
+|   |   |   计划模块.zip
+|   |   |   项目管理培训教材-V2.PRZ
+|   |   |   项目管理培训教材-V4.PRZ
+|   |   |   
+|   |   \---IBM-华为APS项目（48M,35FILE）
+|   +---IBM—华为供应链咨询项目（ 6.25MB）
+|   |       APS Testing Resource Pool.xls
+|   |       APS_Core_SIT_Test Cases - Chinese V1.0 (20021112).doc
+|   |       FP-PRM030228.doc
+|   |       FP-UAT-CASE-first draft.doc
+|   |       FP_business_requirement_v2.1.doc
+|   |       FP_e2e_case38.doc
+|   |       i2 Integrated Testing Strategy.doc
+|   |       i2PM Business Analysis Huawei FP v5.0.doc
+|   |       i2PM IT Environment Specification Huawei v1.doc
+|   |       ISC专刊第一期.doc
+|   |       Solution Architecture Specification Huawei FP v6.8.doc
+|   |       Test Case Form DP 2 updated.doc
+|   |       Test Case Form DP 2.doc
+|   |       Test Case Form FN.doc
+|   |       Test Case Form-MRP-MRP-option&launch-sample.doc
+|   |       Testing Strategy.xls
+|   |       Test_Strategy_Details.xls
+|   |       UI报表需求列表030313.xls
+|   |       WEEKLY TIMESHEET FP 20020823.XLS
+|   |       五、变革管理.doc
+|   |       华为ORACLE11i与i2的逻辑关系图.doc
+|   |       华为重点业务问题及Oracle 10[1].7未用功能及 11i新功能解决方案.doc
+|   |       
+|   \---IBM-华为PM项目咨询全案（106M）
+|       |   03-26(组织结构).doc
+|       |   04-09（AD任命）.doc
+|       |   04-10（SO任命）.doc
+|       |   04-16(IT市场部).doc
+|       |   2004年BR&IT年度规划培训材料_V1.2.ppt
+|       |   IT-Process-Model.PRZ
+|       |   IT预算管理课程介绍.lwp
+|       |   Method Blue方法论培训之一：概况.PRZ
+|       |   METHOD PAS培训材料—BR MODEL.PRZ
+|       |   METHOD PAS培训材料—基础建设MODEL.PRZ
+|       |   METHOD PAS培训材料—应用开发MODEL.PRZ
+|       |   METHOD PAS培训材料—总体.PRZ
+|       |   METHOD PAS培训材料—软件包MODEL.PRZ
+|       |   organization(new).ppt
+|       |   osp结构及流程.doc
+|       |   《计划与控制》2000.4.3.PRZ
+|       |   产品经理培训教材.lwp
+|       |   产品经理意识指南（胶片2版）.PRZ
+|       |   华为公司2003年BR&IT年度规划报告.ppt
+|       |   华为公司2004年IT业务手册V3.doc
+|       |   培训资料（IT应用类小项目管理）.PRZ
+|       |   培训资料（交付件）.PRZ
+|       |   培训资料（定制软件项目外包）.PRZ
+|       |   培训资料（总）.PRZ
+|       |   小项目管理流程培训（主流程）.PRZ
+|       |   小项目管理流程培训（技术评审）.PRZ
+|       |   小项目管理流程培训（转产流程）.PRZ
+|       |   小项目管理流程培训（软件外包）.PRZ
+|       |   新员工软件开发行为规范培训(卞山）.PRZ
+|       |   管理工程部通讯录.doc
+|       |   软件编程规范总则.lwp
+|       |   项目管理.PRZ
+|       |   项目管理工具--wbs.prz
+|       |   项目质量管理培训（杨梅）.PRZ
+|       |   预算与成本管理.PRZ
+|       |   风险管理课程介绍.lwp
+|       |   风险管理课程介绍.PRZ
+|       |   
+|       +---OSPII培训教材
+|       |       CCDP制定操作指导书.lwp
+|       |       OSP合同匹配操作手册（2.0).0）
+|       |       OSP操作手册-欠料处理.lwp
+|       |       OSP操作手册-计划分料日期.lwp
+|       |       OSP操作手册-预欠料处理.lwp
+|       |       OSP操作手册-预欠料处理逻辑.lwp
+|       |       OSP操作手册（制造发放）.lwp
+|       |       OSP操作手册（发货通知单）.lwp
+|       |       OSP操作手册（数据倒入）.lwp
+|       |       OSP操作手册（订单录入）.lwp
+|       |       OSP操作手册（订单更改）.lwp
+|       |       OSP订单拆分详细设计1217.doc
+|       |       POC匹配操作指导书.lwp
+|       |       特殊物料_操作指导书(V2.0).lwp
+|       |       订单入库审批操作指导书.lwp
+|       |       调度信息平台应用管理规范(V3.0).lwp
+|       |       调度平台系统操作手册(合同调测).lwp
+|       |       调度平台系统操作手册(总装任务分配).lwp
+|       |       调度平台系统操作手册(总装任务处理).lwp
+|       |       调度平台系统操作手册(总装调度处理).lwp
+|       |       调度平台系统操作手册(自动报欠).lwp
+|       |       
+|       +---toletter
+|       |       letter1.doc
+|       |       letter2.doc
+|       |       Letter3.doc
+|       |       letter4.doc
+|       |       letter4.htm
+|       |       letter5.doc
+|       |       
+|       \---职位说明
+|               AD总监.lwp
+|               BR总监.lwp
+|               CIO（管理工程部总裁）.lwp
+|               IT控制主任工程师.lwp
+|               IT控制处经理.lwp
+|               IT控制工程师.lwp
+|               IT控制高级工程师.lwp
+|               IT架构高级工程师.lwp
+|               IT热线支持工程师.LWP
+|               IT规划主任工程师.LWP
+|               IT规划处经理.lwp
+|               IT规划工程师.lwp
+|               IT规划高级工程师.LWP
+|               IT资产管理工程师.lwp
+|               PC总监.lwp
+|               PO总监职位.lwp
+|               SIC 总监职位说明书.lwp
+|               SIC项目经理.lwp
+|               SO总监.lwp
+|               ××项目部经理.lwp
+|               业务分析员.lwp
+|               信息安全技术处经理.lwp
+|               信息安全技术处经理0718.lwp
+|               信息安全技术工程师0718.lwp
+|               信息安全技术高级工程师0718.lwp
+|               信息安全管理处经理0718.lwp
+|               信息安全管理工程师0718.lwp
+|               信息安全管理高级工程师.lwp
+|               信息安全管理高级工程师0718.lwp
+|               信息安全部总监.lwp
+|               信息安全部总监职位说明书.lwp
+|               制造采购项目部经理.lwp
+|               变革项目管理办公室成员（大）.lwp
+|               变革项目管理办成员（小）.lwp
+|               安全控制处处长.lwp
+|               安全管理工程师.lwp
+|               安全管理高级工程师.LWP
+|               应用推广处处长.lwp
+|               应用推广工程师.lwp
+|               应用推广高级工程师.LWP
+|               技术支持主任工程师.lwp
+|               技术支持工程师.LWP
+|               技术支持部经理.LWP
+|               技术支持高级工程师.lwp
+|               技术支持高级工程师0529.lwp
+|               技术研究处经理.lwp
+|               技术研究工程师.lwp
+|               技术研究高级工程师.lwp
+|               数据管理部经理.lwp
+|               机房管理员.lwp
+|               桌面支持工程师.lwp
+|               桌面支持高级工程师.LWP
+|               流程优化专员.lwp
+|               流程优化项目处处长.lwp
+|               流程优化高级专员.lwp
+|               用户服务部经理.lwp
+|               系统分析主任工程师.lwp
+|               系统分析部经理.lwp
+|               系统分析高级工程师.lwp
+|               维护工程师.LWP
+|               网络管理主任高级工程师.lwp
+|               网络管理工程师.LWP
+|               网络管理部经理.LWP
+|               网络管理高级工程师.LWP
+|               职位清单20010531.lwp
+|               质量认证专员.lwp
+|               质量认证部经理.lwp
+|               项目接口处处长.lwp
+|               项目接口处工程师职位说明书.LWP
+|               项目管理工程师.lwp
+|               项目组工程师.lwp
+|               项目组高级工程师.lwp
+|               项目部高级工程师.lwp
+|               驻外IT管理工程师.LWP
+|               驻外IT管理高级工程师.LWP
+|               驻外区域IT管理处处长.LWP
+|               驻外机构管理部经理.LWP
+|               （改）项目部工程师.lwp
+|               
++---IBM-2006年-新奥IT战略规划(最终报告完整版）42MB
+|       01 战略理解与现状分析报告.ppt
+|       02 管理体系框架设计报告.ppt
+|       03 核心流程设计报告.ppt
+|       04 部门职责优化建议报告.ppt
+|       05 绩效指标优化建议报告.ppt
+|       06 项目实施报告.ppt
+|       060114新奥_现状分析报告XA_CONTRACT_060114_V2.0.pdf
+|       060324核心流程报告XA_REPORT_060324_V2.1.pdf
+|       060406管控模式与组织职能调整方案XA_REPORT_060406_V2.0.pdf
+|       060424业绩指标体系优化设计报告XA_CONTRACT_060424_V5.0.pdf
+|       新奥IT战略规划-架构设计报告（）.pdf
+|       P1-新奥IT战略规划-现状分析与需求总结报告.ppt
+|       P2-新奥IT战略规划-架构设计报告.ppt
+|       P3-新奥IT战略规划-实施计划报告.ppt
+|       新奥IT战略规划-实施计划报告（）.pdf
+|       新奥IT战略规划-现状分析与需求总结报告-V3.0（）.pdf
+|       
+\---IBM-2005年-中国移动_企业信息化系统安全加固方案设计(66M)
+    |   中国移动信息系统安全加固方案和实施计划.doc
+    |   安全汇报1222.ppt
+    |   
+    +---02 安全手册
+    |   |   中国移动电子邮件安全配置手册.doc
+    |   |   中国移动WEB服务器安全配置手册.doc
+    |   |   
+    |   +---门户系统安全配置手册 (WebSphere Portal BEA WebLogic Sun One Portal Oracle AS Portal MS SharePoint)
+    |   |       中国移动ORACLEPortal安全配置手册.doc
+    |   |       中国移动SharePoint Portal Server2003门户系统安全配置手册.doc
+    |   |       中国移动SunOnePortal门户系统安全配置手册.doc
+    |   |       中国移动WebLogic Portal安全配置手册.doc
+    |   |       中国移动WebSpherePortal门户系统安全配置手册.doc
+    |   |       
+    |   +---网络安全配置手册（DNS,FTP,防病毒，VPN，防火墙，交换机，路由器）
+    |   |   +---中国移动网络安全配置手册－防病毒
+    |   |   |       中国移动SAV For Domino防病毒安全配置手册.doc
+    |   |   |       中国移动SCS 防病毒产品安全配置手册.doc
+    |   |   |       中国移动企业信息化系统TRENDMICRO防病毒系统安全配置手册.doc
+    |   |   |       中国移动瑞星防病毒产品防病毒安全配置手册.doc
+    |   |   |       
+    |   |   +---中国移动网络安全配置手册－防火墙
+    |   |   |       中国移动Checkpoint防火墙安全配置手册V0.1.doc
+    |   |   |       中国移动Netscreen防火墙安全配置手册V0.1.doc
+    |   |   |       中国移动PIX防火墙安全配置手册V0.1.doc
+    |   |   |       
+    |   |   +---中国移动网络安全配置手册－vpn
+    |   |   |       中国移动CheckPoint VPN安全配置手册.doc
+    |   |   |       中国移动IBM VPN安全配置手册.doc
+    |   |   |       中国移动Nortel Contivity1700 VPN产品安全配置手册.doc
+    |   |   |       
+    |   |   +---中国移动网络安全配置手册－switch and router
+    |   |   |       reference中国移动通信集团网络设备安全配置规范 －思科pix分册.doc
+    |   |   |       reference中国移动通信集团网络设备安全配置规范－思科catalyst交换机分册.doc
+    |   |   |       reference中国移动通信集团网络设备安全配置规范－思科路由器分册.doc
+    |   |   |       中国移动华为路由器交换机安全配置手册.doc
+    |   |   |       中国移动通信集团网络设备安全配置规范－总则.doc
+    |   |   |       
+    |   |   \---中国移动网络安全配置手册－ftp&dns
+    |   |           中国移动DNS服务器安全配置手册.doc
+    |   |           中国移动FTP服务器安全配置手册.doc
+    |   |           
+    |   +---数据库安全配置手册（Oracle DB2 Sql Server  Domino Exchange）
+    |   |       中国移动DB2数据库安全配置手册.doc
+    |   |       中国移动Domino数据库安全配置手册.doc
+    |   |       中国移动Oracle数据库安全配置手册.doc
+    |   |       中国移动SQLServer2000数据库安全配置手册.doc
+    |   |       
+    |   \---操作系统安全配置手册(SUN SOLARISIBM AIXHP UX WIN 2000)
+    |           中国移动操作系统安全配置手册V0.1.doc
+    |           
+    \---01 安全规范
+        +---防火墙安全规范
+        |       中国移动企业信息化防火墙安全规范.doc
+        |       中国移动防病毒安全规范.doc
+        |       
+        +---网络设备安全
+        |       中国移动企业信息化网络设备安全规范.doc
+        |       
+        +---数据库安全规范
+        |       中国移动企业信息化数据库安全规范.doc
+        |       
+        \---安全域划分
+                中国移动企业信息化安全域规范.doc
+                

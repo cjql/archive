@@ -1,0 +1,3046 @@
+卷 管理资料 的文件夹 PATH 列表
+卷序列号为 8336-2F21
+E:.
+|   文件列表输出.bat
+|   文档目录结构.xls
+|   文档目录结构.txt
+|   
++---汉普-光明乳业HelpDesk咨询全案 7MB
+|   +---上线支持
+|   |       光明乳业 Help Desk业务用户FAQ.doc
+|   |       管理员日常维护内容.doc
+|   |       
+|   +---客户化开发
+|   |       AK Developer.zip
+|   |       服务请求访问权限客户化开发.doc
+|   |       
+|   +---系统培训与用户手册
+|   |       光明乳业 Help Desk业务用户手册.doc
+|   |       光明乳业 Help Desk客户代表培训.ppt
+|   |       光明乳业 Help Desk客户代表用户手册.doc
+|   |       光明乳业 Help Desk系统管理员用户手册.doc
+|   |       
+|   +---系统设置
+|   |       光明乳业 Help Desk 系统设置.doc
+|   |       光明乳业HelpDesk ERP相关模块系统设置.doc
+|   |       
+|   +---问题解决
+|   |       BD_SysTest_ProRep_20020809.doc
+|   |       光明乳业HelpDesk系统实施主要问题及解决方案.doc
+|   |       
+|   +---项目实施备忘录
+|   |       BD_HelpDesk_PM20020719.doc
+|   |       BD_HelpDesk_PM20020727.doc
+|   |       BD_HelpDesk_PM20020803.doc
+|   |       BD_HelpDesk_PM20020809.doc
+|   |       BD_HelpDesk_PM20020816.doc
+|   |       BD_HelpDesk_PM20020823.doc
+|   |       BD_HelpDesk_PM20020830.doc
+|   |       
+|   +---项目方案与实施计划
+|   |       光明乳业HelpDesk实施方案.doc
+|   |       光明乳业HelpDesk解决方案.doc
+|   |       光明乳业HelpDesk项目实施计划.mpp
+|   |       
+|   \---验收文档
+|           光明乳业HelpDesk系统验收.doc
+|           
++---汉普-内蒙古北方重型汽车股份公司业务流程设计与ERP系统实施 28MB
+|   +---01_项目计划
+|   |       周工作计划_2000-0901.doc
+|   |       周工作计划_2000-0911.doc
+|   |       周工作计划_2000-0918.doc
+|   |       周工作计划_2000-0925.doc
+|   |       周工作计划_2000-1008.doc
+|   |       周工作计划_2000-1015.doc
+|   |       周工作计划_2000-1022.doc
+|   |       周工作计划_2000-1101.doc
+|   |       项目建议书（北京汉普提供）.doc
+|   |       项目总体计划.doc
+|   |       
+|   +---02_售前需求
+|   |       24materials.html
+|   |       aim.doc
+|   |       Bom.txt
+|   |       fqss.doc
+|   |       Jgt.doc
+|   |       Jianyi.doc
+|   |       Network.doc
+|   |       target.doc
+|   |       Wlsyt.gif
+|   |       ynwt.doc
+|   |       人事管理要求.doc
+|   |       制造部工作.doc
+|   |       售后索赔工作.gif
+|   |       售后索赔年统计.doc
+|   |       售后索赔表1.txt
+|   |       售后索赔表2.txt
+|   |       售后索赔表3.txt
+|   |       售后索赔说明.doc
+|   |       国产化流程.doc
+|   |       国产化要求.doc
+|   |       客户及项目档案.doc
+|   |       库房管理.doc
+|   |       技术保证部流程.doc
+|   |       技术保证部要求.doc
+|   |       计划部门要求.doc
+|   |       说明.doc
+|   |       财务管理.doc
+|   |       质保部工作程序.doc
+|   |       采购管理.doc
+|   |       
+|   +---03_企业基本信息
+|   |       企业图标.gif
+|   |       企业现状结构图.doc
+|   |       关于成立北重ERP项目实施机构的通知.doc
+|   |       反映企业现状的一些数据资料.doc
+|   |       项目基本信息介绍.doc
+|   |       项目目标.doc
+|   |       
+|   +---04_咨询顾问人员管理
+|   |   |   BPR北重工作日统计.xls
+|   |   |   
+|   |   +---团队记录
+|   |   |       关赫顾问工作日历.xls
+|   |   |       周月蟾顾问工作日历.xls
+|   |   |       姚泽朋顾问工作日历.xls
+|   |   |       孔宇顾问工作日历.xls
+|   |   |       张桓顾问工作日历.xls
+|   |   |       张荣贵顾问工作日历.xls
+|   |   |       曹金乔顾问工作日历.xls
+|   |   |       王玉荣顾问工作日历.xls
+|   |   |       贺之涛顾问工作日历.xls
+|   |   |       赵斌顾问工作日历.xls
+|   |   |       顾问工作日历.xls
+|   |   |       
+|   |   \---成员简历
+|   |           CResume_赵斌.doc
+|   |           周月蟾0828.doc
+|   |           姚泽朋-Resume.doc
+|   |           
+|   +---05_会议纪要
+|   |       管理模式设计讨论记要.doc
+|   |       项目经理沟通会议纪要.doc
+|   |       
+|   +---06_备忘事项
+|   |       典雅型备忘录.dot
+|   |       典雅型备忘录2.doc
+|   |       北方汽车项目启动前的准备.doc
+|   |       
+|   +---08_BPR阶段向企业提出的工作要求
+|   |       Mail from Sinohelp_001030.doc
+|   |       YQ_01调研问卷答卷要求.doc
+|   |       YQ_02业务流程现状描述要求.doc
+|   |       YQ_03BPR阶段工作要求.doc
+|   |       对企业方项目组人员构成提出的建议.doc
+|   |       要求模板.doc
+|   |       附件1：关于咨询顾问工作环境配置.doc
+|   |       附件2：关于项目组结构.doc
+|   |       附件3：业务流程重组与ERP应用培训大纲.doc
+|   |       
+|   +---09_调查问卷
+|   |       NHL问卷.doc
+|   |       调查问卷.doc
+|   |       
+|   +---10_调研记录
+|   |   |   z1.zip
+|   |   |   z2.zip
+|   |   |   z3.zip
+|   |   |   北重提供的现状综合问题汇总.doc
+|   |   |   北重访谈.zip
+|   |   |   访谈纪录1.doc
+|   |   |   调研记录10.doc
+|   |   |   调研记录2.doc
+|   |   |   调研记录3.doc
+|   |   |   调研记录4.doc
+|   |   |   调研记录5.doc
+|   |   |   调研记录6.doc
+|   |   |   调研记录7.doc
+|   |   |   调研记录8.doc
+|   |   |   调研记录9.doc
+|   |   |   
+|   |   \---09_调查问卷
+|   |           NHL问卷.doc
+|   |           调查问卷.doc
+|   |           
+|   +---11_目标业务流程设计
+|   |   |   ~$L业务处理流程优化设计报告v1.0.doc
+|   |   |   
+|   |   +---10_18过渡流程
+|   |   |       优化流程-财务.vsd
+|   |   |       偏差.vsd
+|   |   |       库存流程.vsd
+|   |   |       技术管理流程.vsd
+|   |   |       生产流程.vsd
+|   |   |       销售流程.vsd
+|   |   |       
+|   |   \---最终目标流程优化文档
+|   |       |   06_北重目标业务流程优化封面.doc
+|   |       |   NHL目标业务流程优化设计报告.doc
+|   |       |   
+|   |       \---目标业务流程设计
+|   |               其他管理流程.vsd
+|   |               库存流程.vsd
+|   |               技术管理流程.vsd
+|   |               流程封面.doc
+|   |               生产流程.vsd
+|   |               目标流程清单.xls
+|   |               财务流程.vsd
+|   |               采购流程.vsd
+|   |               销售流程.vsd
+|   |               
+|   +---12_管理模式设计
+|   |   |   北重业务流程优化设计报告纲要(周月蟾9-20).doc
+|   |   |   北重企业信息系统建设成熟度.xls
+|   |   |   北重提供的现状综合综合问题汇总.doc
+|   |   |   
+|   |   \---最终管理模式文档
+|   |           北重信息系统建设成熟度分析.xls
+|   |           北重管理模式封面.doc
+|   |           北重管理模式设计正文.doc
+|   |           北重管理模式设计讲解图.ppt
+|   |           
+|   +---13_岗位职责
+|   |   |   岗位职责、管理制度格式参数.doc
+|   |   |   
+|   |   \---岗位职责
+|   |           07_北重岗位职责封面.doc
+|   |           北重岗位职责.doc
+|   |           
+|   +---14_绩效考核
+|   |       101_企业绩效考核封面.doc
+|   |       102_绩效考核指标体系封面.doc
+|   |       10_北重绩效考核封面.doc
+|   |       ~$考核指标体系_000829.doc
+|   |       北重绩效考核指标体系_001106.doc
+|   |       北重考核管理制度.doc
+|   |       备注--管理制度、岗位职责、部门职责.doc
+|   |       
+|   +---15_部门职责
+|   |       08_北重部门职责封面.doc
+|   |       部门职责.doc
+|   |       
+|   +---16_管理制度
+|   |       091_北重管理制度封面.doc
+|   |       092_北重管理制度框架封面.doc
+|   |       09_北重管理制度.doc
+|   |       NHL管理制度.doc
+|   |       新管理制度体系.xls
+|   |       
+|   +---17_文档模板
+|   |       beizh 模板（竖式）_000803.doc
+|   |       NGC文档模板.doc
+|   |       word 文档模板（竖式）_000803.doc
+|   |       ~$rd 文档模板（竖式）_000803.doc
+|   |       复件 word 文档模板（竖式）_000803.doc
+|   |       岗位职责、管理制度格式参数.doc
+|   |       岗位职责模板9.dot
+|   |       文档说明示范.doc
+|   |       管理制度模板.dot
+|   |       
+|   +---18_现状描述流程
+|   |   +---供应部
+|   |   |       2、计划流程.vsd
+|   |   |       供应部总流程.vsd
+|   |   |       保税库入库流程.vsd
+|   |   |       保税库出库流程图.vsd
+|   |   |       国外采购流程.vsd
+|   |   |       外托加工流程.vsd
+|   |   |       库房部产品出库流程图.vsd
+|   |   |       物资入库流程图.vsd
+|   |   |       采购部业务流程图二.vsd
+|   |   |       非产品辅料计划流程.vsd
+|   |   |       
+|   |   +---制造部
+|   |   |       军品部流程-1.vsd
+|   |   |       总装生产.VSD
+|   |   |       总装结构机加车间.vsd
+|   |   |       生技部.vsd
+|   |   |       结构机加车间.vsd
+|   |   |       设备部.vsd
+|   |   |       
+|   |   +---商务部
+|   |   |       Drawing1.vsd
+|   |   |       业务流程.vsd
+|   |   |       备件.VSD
+|   |   |       备件部.vsd
+|   |   |       市场预测.VSD
+|   |   |       市场预测流程.vsd
+|   |   |       总流程.vsd
+|   |   |       技术准备部流程图.vsd
+|   |   |       
+|   |   +---国产化部
+|   |   |       GCHLC.VSD
+|   |   |       国产化.vsd
+|   |   |       
+|   |   +---技术中心
+|   |   |       技术中心技术引进和开发流程.vsd
+|   |   |       
+|   |   +---技术保证部
+|   |   |       售后服务索赔管理流程.vsd
+|   |   |       售后服务部信息反馈流程.vsd
+|   |   |       售后服务部工作流程.vsd
+|   |   |       技术准备部流程图.vsd
+|   |   |       服务培训流程.vsd
+|   |   |       质量保证部流程图.vsd
+|   |   |       
+|   |   +---流程图
+|   |   +---行政部
+|   |   |       养老保险.vsd
+|   |   |       招聘业务流程.vsd
+|   |   |       核定生产制造部门直接工人和间接.vsd
+|   |   |       考核业务流程.vsd
+|   |   |       
+|   |   \---财务部
+|   |           固定资产报废流程.vsd
+|   |           固定资产购置.vsd
+|   |           流程.vsd
+|   |           贷款流程.vsd
+|   |           送车报帐就流程.vsd
+|   |           银行付款.vsd
+|   |           银行收款.vsd
+|   |           销售收款流程.vsd
+|   |           
+|   +---19_北重各部门对ERP的要求
+|   |       aim.doc
+|   |       beiqi proposal.doc
+|   |       beiqi.doc
+|   |       Bom.txt
+|   |       materials.zip
+|   |       nmaterials-0.zip
+|   |       nmaterials.zip
+|   |       question.doc
+|   |       target.doc
+|   |       人事管理要求.doc
+|   |       国产化流程.doc
+|   |       国产化要求.doc
+|   |       客户及项目档案.doc
+|   |       技术保证部流程.doc
+|   |       技术保证部要求.doc
+|   |       管理制度情况说明.doc
+|   |       财务管理.doc
+|   |       质保部工作程序.doc
+|   |       
+|   +---20_发出文档
+|   |       北重1.zip
+|   |       北重设计.zip
+|   |       
+|   +---21_BPR阶段确认书
+|   |       项目阶段确认书BPR.doc
+|   |       
+|   +---22_55个改进点解决途径与接口
+|   |       05_55个改进点解决途径与接口封面.doc
+|   |       55个改进点问题解决途径与接口.xls
+|   |       
+|   +---26_提交给北重的电子文档001110
+|   |   +---企业管理模式文档
+|   |   |       北重信息系统建设成熟度分析.xls
+|   |   |       北重管理模式封面.doc
+|   |   |       北重管理模式设计正文.doc
+|   |   |       
+|   |   \---企业管理白皮书文档
+|   |       |   00_北重管理白皮书封面.doc
+|   |       |   01_北重管理白皮书综述.doc
+|   |       |   02_北重企业理念与定位.doc
+|   |       |   
+|   |       +---03_BPR原则与内容
+|   |       |       03_业务流程重组（BPR）实现原则与内容介绍封面.doc
+|   |       |       北重BPR工作原理与内容介绍 1print.ppt
+|   |       |       
+|   |       +---04_BPR阶段计划
+|   |       |   |   04_北重BPR计划封面.doc
+|   |       |   |   
+|   |       |   \---BPR周计划
+|   |       |           周工作计划_2000-0901.doc
+|   |       |           周工作计划_2000-0911.doc
+|   |       |           周工作计划_2000-0918.doc
+|   |       |           周工作计划_2000-0925.doc
+|   |       |           周工作计划_2000-1008.doc
+|   |       |           周工作计划_2000-1015.doc
+|   |       |           周工作计划_2000-1022.doc
+|   |       |           周工作计划_2000-1101.doc
+|   |       |           
+|   |       +---05_55个改进点解决途径与接口
+|   |       |       05_55个改进点解决途径与接口封面.doc
+|   |       |       55个改进点问题解决途径与接口.xls
+|   |       |       
+|   |       +---06_目标流程优化
+|   |       |   |   06_北重目标业务流程优化封面.doc
+|   |       |   |   NHL目标业务流程优化设计报告.doc
+|   |       |   |   
+|   |       |   \---目标业务流程设计
+|   |       |           其他管理流程.vsd
+|   |       |           库存流程.vsd
+|   |       |           技术管理流程.vsd
+|   |       |           流程封面.doc
+|   |       |           生产流程.vsd
+|   |       |           目标流程清单.xls
+|   |       |           财务流程.vsd
+|   |       |           采购流程.vsd
+|   |       |           销售流程.vsd
+|   |       |           
+|   |       +---07_岗位职责
+|   |       |       07_北重岗位职责封面.doc
+|   |       |       北重岗位职责.doc
+|   |       |       
+|   |       +---08_部门职责
+|   |       |       08_北重部门职责封面.doc
+|   |       |       部门职责.doc
+|   |       |       
+|   |       +---09_企业管理制度
+|   |       |       091_北重管理制度封面.doc
+|   |       |       092_北重管理制度框架封面.doc
+|   |       |       09_北重管理制度.doc
+|   |       |       NHL管理制度.doc
+|   |       |       新管理制度体系.xls
+|   |       |       
+|   |       \---10_绩效考核体系
+|   |               101_企业绩效考核封面.doc
+|   |               102_绩效考核指标体系封面.doc
+|   |               10_北重绩效考核封面.doc
+|   |               北重绩效考核指标体系_001106.doc
+|   |               北重考核管理制度.doc
+|   |               
+|   \---目标业务流程设计
+|           其他管理流程.vsd
+|           库存流程.vsd
+|           技术管理流程.vsd
+|           流程封面.doc
+|           现有分销制造类流程汇集清单.xls
+|           现有财务类流程汇集清单.XLS
+|           生产流程.vsd
+|           目标流程清单.xls
+|           财务流程.vsd
+|           采购流程.vsd
+|           销售流程.vsd
+|           
++---汉普-广州地铁企业管理信息系统规划全案 154MB
+|   |   CRM调查报告.doc
+|   |   HuaweiIT规划阶段汇报—IBM.PRZ
+|   |   IT技术调研问卷.doc
+|   |   _Pannyshare公司介绍.doc
+|   |   中英文缩写词条备注.doc
+|   |   印刷厂联系方式.txt
+|   |   地铁流程描述与分析报告演示.ppt
+|   |   大型信息系统工程建设经验总结.doc
+|   |   审批流程.doc
+|   |   广州地铁ITIS能力评估.ppt
+|   |   广州地铁ITIS能力评估报告-cjx.doc
+|   |   广州地铁的调研笔记120.doc
+|   |   广州地铁解决方案-Ver2.0.doc
+|   |   广州移动业务愿景与建议.ppt
+|   |   应标陈述-1-公司及人员简介.ppt
+|   |   应标陈述-2-总体实施方案.ppt
+|   |   应标陈述-3-财务管理系统解决方案.ppt
+|   |   应标陈述-4-人力资源管理系统解决方案.ppt
+|   |   应标陈述-5-工程设计管理系统解决方案.ppt
+|   |   应标陈述-6-办公及信息门户解决方案.ppt
+|   |   应标陈述-7-项目施工管理系统解决方案.ppt
+|   |   应标陈述-8-系统集成技术解决方案.ppt
+|   |   流程举例-资格预审.vsd
+|   |   流程清单.xls
+|   |   简历模板.doc
+|   |   调研提纲.doc
+|   |   财务总部组织架构图.vsd
+|   |   费用报销表格.xls
+|   |   部门描述问题清单.xls
+|   |   长沙卷烟_BPR&ERP项目最终汇报.ppt
+|   |   长烟流程现状问题分析cjx.doc
+|   |   项目成果汇报.ppt
+|   |   项目报告综述ver2.0.doc
+|   |   
+|   +---Base informations
+|   |   |   4月份咨询公司午餐表.xls
+|   |   |   6月份咨询公司午餐表.xls
+|   |   |   BASE INFORMATIONS.doc
+|   |   |   Buying into trouble.htm
+|   |   |   IT战略目标图.vsd
+|   |   |   meeting.txt
+|   |   |   results2000c.pdf
+|   |   |   Stencil5.vss
+|   |   |   世界地铁网上行.htm
+|   |   |   中旅电话表.xls
+|   |   |   五月份汉普咨询公司午餐表.xls
+|   |   |   午餐.xls
+|   |   |   基建.doc
+|   |   |   大型信息系统工程建设经验总结.doc
+|   |   |   广州地铁SOA.doc
+|   |   |   广州地铁的调研笔记120.doc
+|   |   |   汉普ERP咨询顾问调查表.doc
+|   |   |   汉普公司业务流程描述指南.doc
+|   |   |   汉普流程描述符号.vss
+|   |   |   考察流程的两个角度.doc
+|   |   |   规划组织.doc
+|   |   |   访谈工作记录.xls
+|   |   |   
+|   |   +---世界地铁网上行.files
+|   |   |       berlin.jpg
+|   |   |       boston.gif
+|   |   |       cn.css
+|   |   |       hkmtr.gif
+|   |   |       Image10.jpg
+|   |   |       Image11.jpg
+|   |   |       Image12.gif
+|   |   |       Image13.jpg
+|   |   |       Image14.jpg
+|   |   |       Image15.jpg
+|   |   |       Image16.jpg
+|   |   |       Image17.jpg
+|   |   |       Image18.jpg
+|   |   |       Image19.jpg
+|   |   |       Image20.jpg
+|   |   |       Image21.jpg
+|   |   |       Image22.jpg
+|   |   |       Image23.jpg
+|   |   |       Image24.jpg
+|   |   |       Image25.jpg
+|   |   |       Image26.jpg
+|   |   |       Image27.jpg
+|   |   |       Image9.jpg
+|   |   |       smrt.gif
+|   |   |       washington.jpg
+|   |   |       
+|   |   \---其他
+|   |           业务流程调查说明.doc
+|   |           流程回收情况表.xls
+|   |           财务总部其他所需资料.doc
+|   |           问题汇集清单-刘颖婷.xls
+|   |           
+|   +---HR
+|   |       人事档案管理制度.doc
+|   |       人力资源信息管理制度.doc
+|   |       人才库工作流程.doc
+|   |       内部机构和岗位职责.doc
+|   |       制定人力资源规划流程.doc
+|   |       印章使用流程.doc
+|   |       培训管理流程.doc
+|   |       总部发文流程.doc
+|   |       职改工作流程.doc
+|   |       薪酬工作流程.xls
+|   |       
+|   +---HR Management article
+|   |   |   进行绩效考评内容及流程设计时应该注意什么？.htm
+|   |   |   
+|   |   \---进行绩效考评内容及流程设计时应该注意什么？.files
+|   |           BLANK.gif
+|   |           CECOL_CASE_B.gif
+|   |           CECOL_LIFE_B.gif
+|   |           CJ.jpg
+|   |           HEAD_ADVSEARCH.gif
+|   |           HEAD_CECLOGO.gif
+|   |           HEAD_SUBSEARCH.gif
+|   |           IN-EXPORTER-D.gif
+|   |           LEFT_DOWN.gif
+|   |           LEFT_LINE.gif
+|   |           LEFT_UP.gif
+|   |           LOGO_CJ.gif
+|   |           MAIN_BLUEARROW.gif
+|   |           MAIN_DOT.gif
+|   |           MAIN_MARK.gif
+|   |           NEW_LINE.gif
+|   |           RIGHT_QUERY.gif
+|   |           STYLE.css
+|   |           TOP_CENTER.gif
+|   |           TOP_LEFT.gif
+|   |           TOP_RIGHT.gif
+|   |           
+|   +---Logo
+|   |       HAN Logo.bmp
+|   |       HAN Logo.doc
+|   |       Metro Logo.bmp
+|   |       
+|   +---shangwu
+|   |       Backup-规划--第四部分-需求4.doc
+|   |       招标澄清三.doc
+|   |       规划--第四部分-需求4.doc
+|   |       规划——第一部分-邀函5.doc
+|   |       规划——第三部分-合同5第二次.doc
+|   |       规划——第二部分-须知5第二次.doc
+|   |       规划——第五部分-格式5第二次.doc
+|   |       附件01-08 商务卷.doc
+|   |       附件A 方案建议书A.doc
+|   |       
+|   +---会议
+|   |       会议-0316.doc
+|   |       会议纪要-0316(周例会).doc
+|   |       会议纪要-0323(周例会).doc
+|   |       会议纪要-0330(周例会).doc
+|   |       会议纪要-0406(周例会).doc
+|   |       会议纪要-0413(周例会).doc
+|   |       会议纪要-0424(周例会).doc
+|   |       会议纪要-0430(周例会).doc
+|   |       会议纪要-0511(周例会).doc
+|   |       会议纪要-0601(周例会).doc
+|   |       会议纪要-0615(周例会).doc
+|   |       
+|   +---周例会记录
+|   |       会议提出意见615.txt
+|   |       会议纪要-0316(周例会).doc
+|   |       会议纪要-0323(周例会).doc
+|   |       会议纪要-0330(周例会).doc
+|   |       会议纪要-0406(周例会).doc
+|   |       会议纪要-0413(周例会).doc
+|   |       会议纪要-0424(周例会).doc
+|   |       会议纪要-0430(周例会).doc
+|   |       会议纪要-0511(周例会).doc
+|   |       会议纪要-0601(周例会).doc
+|   |       会议纪要-0615(周例会).doc
+|   |       
+|   +---培训
+|   |       0004.HTM
+|   |       2001年5月广州地铁BPR培训.ppt
+|   |       A.ZIP
+|   |       Adv-Fin Mgmt Seminar.ppt
+|   |       APPS OVERVIEW.ppt
+|   |       BPR理论简介.ppt
+|   |       CONTRACT.HTM
+|   |       CRM.PPT
+|   |       EIP示意图1.gif
+|   |       EIP示意图2.jpg
+|   |       EIP简要.doc
+|   |       ERP.PPT
+|   |       
+|   +---工作单
+|   |       HAN-TIMESHEET(1).doc
+|   |       HAN-TIMESHEET-刘颖婷 324-331.doc
+|   |       HAN-TIMESHEET-刘颖婷 401-407.doc
+|   |       HAN-TIMESHEET-刘颖婷 408-414.doc
+|   |       HAN-TIMESHEET-刘颖婷 415-421.doc
+|   |       HAN_Resume_刘颖婷.doc
+|   |       Resume_Han_顾有功.doc
+|   |       timesheet 刘颖婷 310-316.doc
+|   |       timesheet 刘颖婷 319-323.doc
+|   |       timesheet 顾有功 0401-0407.doc
+|   |       timesheet 顾有功 310-316.doc
+|   |       timesheet 顾有功 317-323.doc
+|   |       timesheet 顾有功 324-331.doc
+|   |       timesheet 顾有功 W15.doc
+|   |       timesheet 顾有功 W16.doc
+|   |       周工作单-孙启群-0310-0316.doc
+|   |       周工作单-孙启群-0317-0323.doc
+|   |       周工作单-孙启群-0324-0331.doc
+|   |       周工作单-孙启群-0401-0407.doc
+|   |       周工作单-孙启群-0408-0414.doc
+|   |       周工作单-孙启群-0415-0421.doc
+|   |       工作单-王世军0310-0316.doc
+|   |       工作单-王世军0317-0323.doc
+|   |       工作单-王世军0324-0331.doc
+|   |       工作单-王世军0401-0407.doc
+|   |       工作单-王世军0408-0414.doc
+|   |       工作单-王世军0415-0421.doc
+|   |       汉普项目组工作天.xls
+|   |       简历-王世军.doc
+|   |       
+|   +---广州地铁部门描述
+|   |   |   封面-人力资源总部.doc
+|   |   |   封面-企管总部.doc
+|   |   |   封面-办公室.doc
+|   |   |   封面-建设事业总部.doc
+|   |   |   封面-总工程师室.doc
+|   |   |   封面-技术委员会.doc
+|   |   |   封面-监察审计部.doc
+|   |   |   封面-财务总部.doc
+|   |   |   封面-资源开发总部.doc
+|   |   |   封面-运营事业总部.doc
+|   |   |   监察审计部组织结构图.vsd
+|   |   |   财务总部部门描述.doc
+|   |   |   部门描述-人力资源总部.doc
+|   |   |   部门描述-企管总部.doc
+|   |   |   部门描述-办公室.doc
+|   |   |   部门描述-建设事业总部.doc
+|   |   |   部门描述-总工程师室.doc
+|   |   |   部门描述-技术委员会.doc
+|   |   |   部门描述-监查审计部(原版).doc
+|   |   |   部门描述-监查审计部.doc
+|   |   |   部门描述-财务总部.doc
+|   |   |   部门描述-资源开发总部.doc
+|   |   |   部门描述-运营事业总部.doc
+|   |   |   
+|   |   \---组织架构图-运营事业总部
+|   |           0800_运营事业总部组织架构图.vsd
+|   |           0801_车务部组织架构图.vsd
+|   |           0802_维修工程部组织架构图.vsd
+|   |           0803_车辆部组织架构图.vsd
+|   |           0806_营销调控部组织架构图.vsd
+|   |           0807_技术安全部组织架构图.vsd
+|   |           0808_物资部组织架构图.vsd
+|   |           
+|   +---报告附件
+|   |   |   基建工程核算附件.xls
+|   |   |   部门描述问题清单.xls
+|   |   |   
+|   |   +---现状调查及分析报告附件B
+|   |   |       人力资源总部流程汇总.vsd
+|   |   |       人力资源总部流程汇总（横）.vsd
+|   |   |       企划部流程.vsd
+|   |   |       信息中心流程.vsd
+|   |   |       办公室流程汇总.vsd
+|   |   |       合同部建设流程汇总.vsd
+|   |   |       市场部流程图.vsd
+|   |   |       建设总部流程汇总.vsd
+|   |   |       总公司诉讼案件处理流程.vsd
+|   |   |       总工室流程汇总.vsd
+|   |   |       新线策划流程.vsd
+|   |   |       职能部门合同流程汇总.vsd
+|   |   |       财务流程-预算分析部.vsd
+|   |   |       财务流程.vsd
+|   |   |       资源-外其他付款.vsd
+|   |   |       资源总部流程汇总.vsd
+|   |   |       运营总部流程汇总.vsd
+|   |   |       运营总部流程汇总（横）.vsd
+|   |   |       
+|   |   \---附A_已排版
+|   |           部门描述-人力资源总部.doc
+|   |           部门描述-企管总部.doc
+|   |           部门描述-党群工作总部.doc
+|   |           部门描述-办公室.doc
+|   |           部门描述-建设事业总部.doc
+|   |           部门描述-总工程师室.doc
+|   |           部门描述-技术委员会.doc
+|   |           部门描述-监察审计部.doc
+|   |           部门描述-财务总部.doc
+|   |           部门描述-资源开发总部.doc
+|   |           部门描述-运营事业总部.doc
+|   |           
+|   +---提交客户报告
+|   |       人力资源总部流程汇总.vsd
+|   |       人力资源总部流程汇总（横）.vsd
+|   |       企划部流程.vsd
+|   |       信息中心流程.vsd
+|   |       办公室流程汇总.vsd
+|   |       合同部建设流程汇总.vsd
+|   |       市场部流程图.vsd
+|   |       广州地铁ITIS能力评估报告.doc
+|   |       广州地铁信息管理系统需求报告.doc
+|   |       建设总部流程汇总.vsd
+|   |       总公司诉讼案件处理流程.vsd
+|   |       总工室流程汇总.vsd
+|   |       新线策划流程.vsd
+|   |       现状调查及分析报告.doc
+|   |       职能部门合同流程汇总.vsd
+|   |       财务流程-预算分析部.vsd
+|   |       财务流程.vsd
+|   |       资源-外其他付款.vsd
+|   |       资源总部流程汇总.vsd
+|   |       运营总部流程汇总.vsd
+|   |       运营总部流程汇总（横）.vsd
+|   |       
+|   +---提交报告
+|   +---文件签收记录
+|   |       报告回收情况表.xls
+|   |       文件签收记录单.doc
+|   |       
+|   +---文档模板
+|   |       word 文档模板（横式）_000803.doc
+|   |       word 文档模板（竖式）_000803.doc
+|   |       文件签收记录单-模板.doc
+|   |       部门描述模版.doc
+|   |       部门描述示例.doc
+|   |       
+|   +---汉普合同
+|   |       汉普合同.doc
+|   |       附件A方案建议书.doc
+|   |       附件B价格清单.doc
+|   |       附件C进度安排.doc
+|   |       
+|   +---流程清单
+|   |       Workflow.xls
+|   |       
+|   +---王玉荣培训
+|   |   |   2001年7月广州地铁BPR培训.ppt
+|   |   |   2001年第12期-----ERP在我国实施中的八大误区.htm
+|   |   |   2001年第12期-----十四顶帽子.htm
+|   |   |   广州地铁7月ERP发展历史培训.ppt
+|   |   |   广州地铁7月培训ERP实施方法论.ppt
+|   |   |   
+|   |   +---2001年第12期-----ERP在我国实施中的八大误区.files
+|   |   |       4-5.gif
+|   |   |       biaoshi.gif
+|   |   |       email.gif
+|   |   |       emkt1.gif
+|   |   |       imgr_logo.gif
+|   |   |       logo.gif
+|   |   |       
+|   |   +---2001年第12期-----十四顶帽子.files
+|   |   |       biaoshi.gif
+|   |   |       email.gif
+|   |   |       emkt1.gif
+|   |   |       imgr_logo.gif
+|   |   |       logo.gif
+|   |   |       
+|   |   \---Zip
+|   |           ITIS管理体系设计报告V2.0.zip
+|   |           业务流程优化报告-Ver2.0.zip
+|   |           广州地铁ITIS能力评估报告Ver2.0.zip
+|   |           广州地铁信息管理系统规划报告Ver-2.0.zip
+|   |           广州地铁信息管理系统需求报告Ver-2.0.zip
+|   |           广州地铁现状调查及分析报告-Ver2.0.zip
+|   |           广州地铁管理信息系统实施计划Ver2.0.zip
+|   |           广州地铁解决方案-Ver2.0.zip
+|   |           解决方案附件A系统功能及配置说明-Ver2.0.zip
+|   |           项目报告综述ver2.0.zip
+|   |           
+|   +---管理制度
+|   |   |   2000年年报资料（汇总）修.doc
+|   |   |   营销管理办法(最终版）.doc
+|   |   |   
+|   |   +---HR
+|   |   |       1附考评制度.doc
+|   |   |       
+|   |   +---人力资源
+|   |   |       人事档案管理制度.doc
+|   |   |       人力资源信息管理制度.doc
+|   |   |       人力资源总部职责和任职2.ppt
+|   |   |       人才库工作流程.doc
+|   |   |       保卫.doc
+|   |   |       内保工作制度.doc
+|   |   |       内部机构和岗位职责.doc
+|   |   |       内部检查与考核.doc
+|   |   |       制定人力资源规划流程.doc
+|   |   |       前言与目录.doc
+|   |   |       办理生育指标流程.doc
+|   |   |       印章使用流程.doc
+|   |   |       培训管理流程.doc
+|   |   |       外事流程图.xls
+|   |   |       工作宗旨和行为准则.doc
+|   |   |       工作联系单1.xls
+|   |   |       工作联系单2.xls
+|   |   |       工作联系单（空表）.xls
+|   |   |       广州地铁总公司人员职级设置表2.doc
+|   |   |       总部发文流程.doc
+|   |   |       招聘.ppt
+|   |   |       招聘调配制度.doc
+|   |   |       收文处理流程.doc
+|   |   |       文档及人事档案管理工作流程.doc
+|   |   |       第一部分.doc
+|   |   |       第三部分.doc
+|   |   |       职改工作流程.doc
+|   |   |       薪酬工作流程.xls
+|   |   |       计划生育管理制度.doc
+|   |   |       车辆使用流程.doc
+|   |   |       
+|   |   +---企管总部
+|   |   |   |   企业管理总部职责和任职资格.ppt
+|   |   |   |   企划部.doc
+|   |   |   |   信息中心.doc
+|   |   |   |   合同部.doc
+|   |   |   |   市场部.doc
+|   |   |   |   总公司职能部门架构图A4.xls
+|   |   |   |   法律部.doc
+|   |   |   |   
+|   |   |   +---信息
+|   |   |   |       计算机信息管理规定226.doc
+|   |   |   |       计算机编码规则.doc
+|   |   |   |       计算机规定附表.xls
+|   |   |   |       
+|   |   |   +---合同
+|   |   |   |       付款审核表.doc
+|   |   |   |       单 价 分 析 表.doc
+|   |   |   |       合同会签单.doc
+|   |   |   |       合同管理办法附件.ppt
+|   |   |   |       合同管理程序图(举例).doc
+|   |   |   |       总公司招标投标管理实施细则.doc
+|   |   |   |       招标投标法.doc
+|   |   |   |       新合同管理办法.doc
+|   |   |   |       新计量支付(2).doc
+|   |   |   |       附件11.doc
+|   |   |   |       
+|   |   |   +---市场
+|   |   |   |       营销管理办法(最终版）.doc
+|   |   |   |       
+|   |   |   +---法律
+|   |   |   |       定稿的法律管理办法正文.doc
+|   |   |   |       
+|   |   |   \---法律部
+|   |   |           总公司诉讼案件处理流程.vsd
+|   |   |           
+|   |   +---合同管理
+|   |   |   |   0013.doc
+|   |   |   |   Untitled Document.htm
+|   |   |   |   
+|   |   |   \---Untitled Document.files
+|   |   |       |   0003.htm
+|   |   |       |   UntitledFrame-21.htm
+|   |   |       |   
+|   |   |       +---0003.files
+|   |   |       |       bj105.jpg
+|   |   |       |       
+|   |   |       \---UntitledFrame-21.files
+|   |   |               bj105.jpg
+|   |   |               
+|   |   +---建设事业总部
+|   |   |   +---工程管理
+|   |   |   |       下发《建设总部科研工作管理办法及工作程序》的通知.doc
+|   |   |   |       二号线深层搅拌桩（含粉喷桩）质量检测办法.doc
+|   |   |   |       安全生产文明施工管理办法.doc
+|   |   |   |       转发《市安全生产监察条例通知》的通知.doc
+|   |   |   |       转发建委《实行施工机具准用证制度问题的通知》.doc
+|   |   |   |       颁发《二号线土建工程质量管理办法（试行）》.doc
+|   |   |   |       
+|   |   |   \---管理办法
+|   |   |           供电专业经理工作手册.doc
+|   |   |           关于修改及重申地铁工程工伤事故报告程序.doc
+|   |   |           地铁二号线质量管理办法.doc
+|   |   |           安全生产文明施工管理办法.doc
+|   |   |           广州地铁二号线工程投资控制管理制度.doc
+|   |   |           广州市地下铁道总公司建设工程验收管理办法1.doc
+|   |   |           广州市地下铁道总公司建设工程验收管理办法（土建及轨道工程）.doc
+|   |   |           广州市地下铁道总公司验收管理办法目录.doc
+|   |   |           建设事业总部文明办公管理规定.doc
+|   |   |           组织架构.doc
+|   |   |           计划管理办法.doc
+|   |   |           计划管理办法文.doc
+|   |   |           计划管理总框图.xls
+|   |   |           
+|   |   \---招、投标管理
+|   |       |   zhaotoubiao.doc
+|   |       |   建设工程设计招投标管理办法.htm
+|   |       |   总公司招标投标管理实施细则.doc
+|   |       |   
+|   |       +---Bid
+|   |       |   |   工程建设行业标准管理办法.htm
+|   |       |   |   建筑工程设计招标投标管理办法.htm
+|   |       |   |   开标、评标和中标.htm
+|   |       |   |   总则.htm
+|   |       |   |   投标.htm
+|   |       |   |   招标.htm
+|   |       |   |   法律责任.htm
+|   |       |   |   附　则.htm
+|   |       |   |   
+|   |       |   +---工程建设行业标准管理办法.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   +---建筑工程设计招标投标管理办法.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   +---开标、评标和中标.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   +---总则.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   +---投标1.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   +---招标.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   +---法律责任.files
+|   |       |   |       @.gif
+|   |       |   |       cooking.css
+|   |       |   |       h_r2_c1.gif
+|   |       |   |       h_r2_c2.gif
+|   |       |   |       h_r2_c3.gif
+|   |       |   |       h_r2_c4.gif
+|   |       |   |       h_r3_c3.gif
+|   |       |   |       h_r4_c1.gif
+|   |       |   |       shim.gif
+|   |       |   |       
+|   |       |   \---附　则.files
+|   |       |           @.gif
+|   |       |           cooking.css
+|   |       |           h_r2_c1.gif
+|   |       |           h_r2_c2.gif
+|   |       |           h_r2_c3.gif
+|   |       |           h_r2_c4.gif
+|   |       |           h_r3_c3.gif
+|   |       |           h_r4_c1.gif
+|   |       |           shim.gif
+|   |       |           
+|   |       \---Contract
+|   |           |   其他规定.htm
+|   |           |   合同的变更和转让.htm
+|   |           |   合同的履行.htm
+|   |           |   合同的效力.htm
+|   |           |   合同的权利义务终止.htm
+|   |           |   合同的订立.htm
+|   |           |   建设工程合同.htm
+|   |           |   违约责任.htm
+|   |           |   
+|   |           +---其他规定.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           +---合同的变更和转让.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           +---合同的履行.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           +---合同的效力.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           +---合同的权利义务终止.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           +---合同的订立.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           +---建设工程合同.files
+|   |           |       @.gif
+|   |           |       cooking.css
+|   |           |       h_r2_c1.gif
+|   |           |       h_r2_c2.gif
+|   |           |       h_r2_c3.gif
+|   |           |       h_r2_c4.gif
+|   |           |       h_r3_c3.gif
+|   |           |       h_r4_c1.gif
+|   |           |       shim.gif
+|   |           |       
+|   |           \---违约责任.files
+|   |                   @.gif
+|   |                   cooking.css
+|   |                   h_r2_c1.gif
+|   |                   h_r2_c2.gif
+|   |                   h_r2_c3.gif
+|   |                   h_r2_c4.gif
+|   |                   h_r3_c3.gif
+|   |                   h_r4_c1.gif
+|   |                   shim.gif
+|   |                   
+|   +---翻译资料
+|   |       Annex1.doc
+|   |       Annex2.doc
+|   |       Annex3.doc
+|   |       Annex3.zip
+|   |       Annex31.doc
+|   |       Annex3_chinese.doc
+|   |       Annex4.doc
+|   |       annex5.pdf
+|   |       annex6.pdf
+|   |       annex7.pdf
+|   |       Annex8.doc
+|   |       Annex9.doc
+|   |       antisape.ppt
+|   |       lyj.Annex2.doc
+|   |       lyj2.Annex2.doc
+|   |       ORACLE与SAP的对比分析.doc
+|   |       SAP-4.doc
+|   |       sapinternet.pdf
+|   |       sap_replacement.doc
+|   |       Windchill 功能.zip
+|   |       附件四：.doc
+|   |       
+|   +---计划
+|   |       周计划0307-0316.doc
+|   |       周计划0319-0323.doc
+|   |       周计划0323-0330.doc
+|   |       周计划0402-0406.doc
+|   |       周计划0409-0413.doc
+|   |       周计划0416-0420.doc
+|   |       周计划0423-0430.doc
+|   |       周计划0508-0518.doc
+|   |       周计划0521-0525.doc
+|   |       周计划0528-0601.doc
+|   |       周计划0604-0608.doc
+|   |       周计划0611-0615.doc
+|   |       周计划0618-0622.doc
+|   |       周计划0625-0629.doc
+|   |       培训计划.doc
+|   |       部门访谈计划_604-609.doc
+|   |       
+|   +---调研
+|   |   |   IT技术调研问卷.doc
+|   |   |   IT管理访谈提纲.doc
+|   |   |   Workflow lists.xls
+|   |   |   专题调研.doc
+|   |   |   专题调研表-示例.xls
+|   |   |   业务流程调查说明.doc
+|   |   |   人力资源部访谈提纲.doc
+|   |   |   地铁总公司领导访谈.doc
+|   |   |   地铁高层访谈提纲.doc
+|   |   |   培训管理流程.vsd
+|   |   |   机构结构图.vsd
+|   |   |   流程说明示例.doc
+|   |   |   现有流程清单.xls
+|   |   |   调研大纲.xls
+|   |   |   调研记录.doc
+|   |   |   资源总部合同管理流程.ppt
+|   |   |   部门一般信息调研提纲.doc
+|   |   |   部门业务现状调查表.doc
+|   |   |   部门描述模版.doc
+|   |   |   部门描述示例.doc
+|   |   |   
+|   |   \---调研记录
+|   |           办公_档案_张方曙吕玲调研记录.doc
+|   |           建设_总体部_莫中凯调研记录.doc
+|   |           建设_机电部_刘东武调研记录.doc
+|   |           调研记录-人力-薪酬考核部-孙小杰.doc
+|   |           调研记录-人力资源_培训.doc
+|   |           调研记录-企管-总经理黎翔.doc
+|   |           调研记录-企管-综合.doc
+|   |           调研记录-地铁物资公司.doc
+|   |           调研记录-地铁监理公司.doc
+|   |           调研记录-地铁设计院.doc
+|   |           调研记录-建设-土建部.doc
+|   |           调研记录-建设-总体部-计划室.doc
+|   |           调研记录-建设-机电-赖于坚.doc
+|   |           调研记录-建设-机电-马鉴生.doc
+|   |           调研记录-建设-机电部-毛建华.doc
+|   |           调研记录-建设-综合室-陈玲.doc
+|   |           调研记录-建设-综合部-经理.doc
+|   |           调研记录-建设总部-陈碧珩.doc
+|   |           调研记录-总工程师室.doc
+|   |           调研记录-财务-会计核算部.doc
+|   |           调研记录-财务-工程预决算部.doc
+|   |           调研记录-财务-综合部.doc
+|   |           调研记录-财务-预算与分析部.doc
+|   |           调研记录-资源-商贸-朱伟平.doc
+|   |           调研记录-资源-房地产-杨骏.doc
+|   |           调研记录-资源-综合-杨洁.doc
+|   |           调研记录-运营-技安部.doc
+|   |           调研记录-运营-物资部.doc
+|   |           调研记录-运营-维修工程部.doc
+|   |           调研记录-运营-车务部.doc
+|   |           调研记录-运营-车辆部-蒋卫平.doc
+|   |           调研记录3.15-22.3.doc
+|   |           调研记录清单.xls
+|   |           财务_派驻运营_李畅宇调研记录.doc
+|   |           财务调研题纲.doc
+|   |           
+|   +---调研题纲
+|   |       IT技术调研问卷.doc
+|   |       IT管理访谈提纲.doc
+|   |       业务流程调查说明.doc
+|   |       流程说明示例.doc
+|   |       调研大纲.xls
+|   |       调研提纲-wang.doc
+|   |       财务调研题纲.doc
+|   |       软件现状调查表.xls
+|   |       部门业务现状调查表.doc
+|   |       
+|   +---财务管理文章
+|   |   |   不要光靠会计数字1.htm
+|   |   |   以财务为主轴的高效采购1.htm
+|   |   |   以财务为主轴的高效采购2.htm
+|   |   |   企业需要质量评审流程1.htm
+|   |   |   企业需要质量评审流程2.htm
+|   |   |   利润预算管理是个好办法1.htm
+|   |   |   利润预算管理是个好办法2.htm
+|   |   |   利润预算管理是个好办法3.htm
+|   |   |   变能力为优势1.htm
+|   |   |   变能力为优势2.htm
+|   |   |   困境中如何控制成本1.htm
+|   |   |   困境中如何控制成本2.htm
+|   |   |   困境中如何控制成本？1.htm
+|   |   |   困境中如何控制成本？2.htm
+|   |   |   如何有效地为你公司进行融资1.htm
+|   |   |   如何有效地为你公司进行融资2.htm
+|   |   |   小心，会计师！1.htm
+|   |   |   小心，会计师！2.htm
+|   |   |   建立市场资本价值战略1.htm
+|   |   |   建立市场资本价值战略2.htm
+|   |   |   揭开运作成本的真面目1.htm
+|   |   |   揭开运作成本的真面目2.htm
+|   |   |   目标成本，至上选择1.htm
+|   |   |   目标成本，至上选择2.htm
+|   |   |   经理人日志.htm
+|   |   |   让你的预算流程增值1.htm
+|   |   |   让你的预算流程增值2.htm
+|   |   |   资金不足，还是目标不明？1.htm
+|   |   |   资金不足，还是目标不明？2.htm
+|   |   |   轻松有效地预算.doc
+|   |   |   轻松有效地预算1.htm
+|   |   |   轻松有效地预算2.htm
+|   |   |   
+|   |   +---不要光靠会计数字1.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---以财务为主轴的高效采购1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---以财务为主轴的高效采购2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---企业需要质量评审流程1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---企业需要质量评审流程2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---利润预算管理是个好办法1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---利润预算管理是个好办法2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---利润预算管理是个好办法3.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---变能力为优势1.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---变能力为优势2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---困境中如何控制成本1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---困境中如何控制成本2.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---困境中如何控制成本？1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---困境中如何控制成本？2.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---如何有效地为你公司进行融资1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---如何有效地为你公司进行融资2.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---小心，会计师！1.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---小心，会计师！2.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---建立市场资本价值战略1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       MF0082.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---建立市场资本价值战略2.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---揭开运作成本的真面目1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---揭开运作成本的真面目2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---目标成本，至上选择1.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---目标成本，至上选择2.files
+|   |   |       ACECOL_LIFE_B.gif
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---经理人日志.files
+|   |   |       BLANK.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       MAIN_TIPS.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---让你的预算流程增值1.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---让你的预算流程增值2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---资金不足，还是目标不明？1.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---资金不足，还是目标不明？2.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   +---轻松有效地预算1.files
+|   |   |       BLANK.gif
+|   |   |       CECOL_CASE_B.gif
+|   |   |       CECOL_LIFE_B.gif
+|   |   |       HEAD_ADVSEARCH.gif
+|   |   |       HEAD_CECLOGO.gif
+|   |   |       HEAD_SUBSEARCH.gif
+|   |   |       IN-EXPORTER-D.gif
+|   |   |       LEFT_DOWN.gif
+|   |   |       LEFT_LINE.gif
+|   |   |       LEFT_UP.gif
+|   |   |       RIGHT_DOT.gif
+|   |   |       RIGHT_EMAIL.gif
+|   |   |       RIGHT_PRINT.gif
+|   |   |       RIGHT_TOP.gif
+|   |   |       STYLE.css
+|   |   |       TOP_CENTER.gif
+|   |   |       TOP_LEFT.gif
+|   |   |       TOP_RIGHT.gif
+|   |   |       
+|   |   \---轻松有效地预算2.files
+|   |           BLANK.gif
+|   |           CECOL_CASE_B.gif
+|   |           CECOL_LIFE_B.gif
+|   |           HEAD_ADVSEARCH.gif
+|   |           HEAD_CECLOGO.gif
+|   |           HEAD_SUBSEARCH.gif
+|   |           IN-EXPORTER-D.gif
+|   |           LEFT_DOWN.gif
+|   |           LEFT_LINE.gif
+|   |           LEFT_UP.gif
+|   |           RIGHT_DOT.gif
+|   |           RIGHT_EMAIL.gif
+|   |           RIGHT_PRINT.gif
+|   |           RIGHT_TOP.gif
+|   |           STYLE.css
+|   |           TOP_CENTER.gif
+|   |           TOP_LEFT.gif
+|   |           TOP_RIGHT.gif
+|   |           
+|   +---资料
+|   |       改革.doc
+|   |       财务管理改革方案.ppt
+|   |       
+|   +---资源开发总部上交文档
+|   |       业务流程调查表（答卷）.doc
+|   |       公文内签（总公司）流程调查表.doc
+|   |       公文内签（总部）流程调查表.doc
+|   |       公文外签（总公司）流程调查表.doc
+|   |       公文外签（总部）流程调查表.doc
+|   |       合同管理业务流程调查表.doc
+|   |       地铁商铺、商业街火灾处理方案调查表.doc
+|   |       地铁商铺装修业务流程调查表.doc
+|   |       广告媒体管理工艺流程调查表.doc
+|   |       收发文管理制度.doc
+|   |       统计工作流程调查表.doc
+|   |       计划生育管理办法.doc
+|   |       计算机设备管理制度.doc
+|   |       资源总部IT技术调研(答卷).doc
+|   |       资源总部岗位职责（上交）.doc
+|   |       资源总部部门描述.doc
+|   |       部门业务现状调查表.doc
+|   |       部门描述-资源开发总部汇总 (1).doc
+|   |       
+|   +---进度
+|   |       更改请求报告.doc
+|   |       项目进度报告0305-0316.doc
+|   |       项目进度报告0319-0323.doc
+|   |       项目进度报告0326-0330.doc
+|   |       项目进度报告0401-0406.doc
+|   |       项目进度报告0409-0413.doc
+|   |       项目进度报告0416-0424.doc
+|   |       项目进度报告0508-0601.doc
+|   |       项目进度报告0604-0608.doc
+|   |       项目进度报告0611-0615.doc
+|   |       项目进度报告0618-0622.doc
+|   |       风险和问题报告001.doc
+|   |       
+|   +---金蝶软件
+|   |       Oracle.doc
+|   |       Oracle.zip
+|   |       网络财务9.0安装指南.doc
+|   |       金蝶k3系统8.8版评测(NEW).doc
+|   |       金蝶k3系统8.8版评测(NEW).zip
+|   |       
+|   +---阶段报告-Ver1.2印刷版
+|   |   |   项目成果汇报1.ppt
+|   |   |   
+|   |   +---The cover
+|   |   |       okfmcdr.cdr
+|   |   |       
+|   |   +---实施计划报告
+|   |   |       广州地铁管理信息系统实施计划Ver2.0.doc
+|   |   |       广州地铁管理信息系统实施计划Ver2.0封面.ppt
+|   |   |       
+|   |   +---战略规划报告
+|   |   |       广州地铁信息管理系统规划报告Ver-2.0.doc
+|   |   |       广州地铁信息管理系统规划报告Ver-2.0封面.ppt
+|   |   |       
+|   |   +---报告综述
+|   |   |       复件 项目报告综述ver2.0.doc
+|   |   |       项目报告综述ver2.0.doc
+|   |   |       项目报告综述封面.ppt
+|   |   |       
+|   |   +---流程优化报告
+|   |   |       The Cover2-1.ppt
+|   |   |       业务流程优化报告-Ver2.0上.doc
+|   |   |       业务流程优化报告-Ver2.0下.doc
+|   |   |       地铁公司目标优化流程_V2.0.vsd
+|   |   |       封面.doc
+|   |   |       打印要求.txt
+|   |   |       流程优化报告.zip
+|   |   |       
+|   |   +---现状调查分析报告
+|   |   |       广州地铁现状调查及分析报告-Ver2.0.doc
+|   |   |       广州地铁现状调查及分析报告-Ver2.0.zip
+|   |   |       广州地铁现状调查及分析报告-Ver2.0封面.ppt
+|   |   |       
+|   |   +---现状调查报告附件
+|   |   |   +---现状调查及分析报告附件A
+|   |   |   |   +---部门描述-人力资源总部
+|   |   |   |   |       部门描述-人力资源总部.doc
+|   |   |   |   |       部门描述人力资源总部－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-企管总部
+|   |   |   |   |       部门描述-企管总部.doc
+|   |   |   |   |       部门描述企管总部－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-党群工作总部
+|   |   |   |   |       部门描述-党群工作总部.doc
+|   |   |   |   |       部门描述党群工作总部－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-办公室
+|   |   |   |   |       部门描述-办公室.doc
+|   |   |   |   |       部门描述办公室－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-建设事业总部
+|   |   |   |   |       部门描述-建设事业总部.doc
+|   |   |   |   |       部门描述建设事业总部－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-总工程师室
+|   |   |   |   |       部门描述-总工程师室.doc
+|   |   |   |   |       部门描述总工程师室－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-技术委员会
+|   |   |   |   |       部门描述-技术委员会.doc
+|   |   |   |   |       部门描述技术委员会－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-监察审计部
+|   |   |   |   |       部门描述-监察审计部.doc
+|   |   |   |   |       部门描述监察审计部－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-财务总部
+|   |   |   |   |       部门描述-财务总部.doc
+|   |   |   |   |       部门描述财务总部－封面.doc
+|   |   |   |   |       
+|   |   |   |   +---部门描述-资源开发总部
+|   |   |   |   |       部门描述-资源开发总部.doc
+|   |   |   |   |       部门描述资源开发总部－封面.doc
+|   |   |   |   |       
+|   |   |   |   \---部门描述-运营事业总部
+|   |   |   |           部门描述-运营事业总部.doc
+|   |   |   |           部门描述运营事业总部－封面.doc
+|   |   |   |           
+|   |   |   \---现状调查及分析报告附件B
+|   |   |           人力资源总部流程汇总.vsd
+|   |   |           人力资源总部流程汇总（横）.vsd
+|   |   |           企划部流程.vsd
+|   |   |           信息中心流程.vsd
+|   |   |           办公室流程汇总.vsd
+|   |   |           合同部建设流程汇总.vsd
+|   |   |           市场部流程图.vsd
+|   |   |           建设总部流程汇总.vsd
+|   |   |           总公司诉讼案件处理流程.vsd
+|   |   |           总工室流程汇总.vsd
+|   |   |           新线策划流程.vsd
+|   |   |           职能部门合同流程汇总.vsd
+|   |   |           财务流程-预算分析部.vsd
+|   |   |           财务流程.vsd
+|   |   |           资源-外其他付款.vsd
+|   |   |           资源总部流程汇总.vsd
+|   |   |           运营总部流程汇总.vsd
+|   |   |           运营总部流程汇总（横）.vsd
+|   |   |           
+|   |   +---管理体系设计报告
+|   |   |       ITIS管理体系设计报告V2.0上.doc
+|   |   |       ITIS管理体系设计报告V2.0下.doc
+|   |   |       ITIS管理体系设计报告封面.ppt
+|   |   |       打印要求.txt
+|   |   |       
+|   |   +---能力评估报告
+|   |   |       广州地铁ITIS能力评估报告Ver2.0.doc
+|   |   |       广州地铁ITIS能力评估报告Ver2.0封面.ppt
+|   |   |       
+|   |   +---解决方案报告
+|   |   |       广州地铁解决方案-Ver2.0.doc
+|   |   |       广州地铁解决方案-Ver2.0封面.ppt
+|   |   |       解决方案附件A系统功能及配置说明-Ver2.0.doc
+|   |   |       
+|   |   \---需求报告
+|   |           广州地铁信息管理系统需求报告Ver-2.0.doc
+|   |           广州地铁信息管理系统需求报告Ver-2.0封面.ppt
+|   |           
+|   \---领导汇报
+|           业务流程优化报告领导汇报_刘颖婷.ppt
+|           对解决方案的意见hxx.doc
+|           广州地铁ITIS能力评估.ppt
+|           广州地铁项目结束领导汇报-能力评估管理体系.ppt
+|           最终汇报-需求及方案.ppt
+|           最终汇报-需求及方案new.ppt
+|           汉普新模板.ppt
+|           演示文稿1.ppt
+|           现状调查.ppt
+|           规划.ppt
+|           阶段工作汇报演示-能力评估报告-0513.ppt
+|           阶段工作汇报演示.ppt
+|           需求报告汇报演示.ppt
+|           项目成果汇报.ppt
+|           项目成果汇报1.ppt
+|           
++---汉普-长沙卷烟厂集团业务流程重组及ERP实施项目全案 32MB
+|   \---01 汉普-长沙卷烟BPR
+|           BDBinDoc.doc
+|           v长沙卷烟_BPR&ERP项目_长烟流程现状问题分析V4.doc
+|           产供销辅助流程02.vsd
+|           品牌运作流程4.vsd
+|           承德钢铁公司来长烟交流基本情况.doc
+|           白沙集团信息化规划（草案）.mht
+|           财务流程0530.vsd
+|           长沙卷烟_BPR&ERP项目_2001年多元化产业效益奖评奖方案.doc
+|           长沙卷烟_BPR&ERP项目_2001年方针目标计划.xls
+|           长沙卷烟_BPR&ERP项目_R03 组织职能调整.doc
+|           长沙卷烟_BPR&ERP项目_业务流程重组阶段工作思路.doc
+|           长沙卷烟_BPR&ERP项目_产品开发评估、调整程序.doc
+|           长沙卷烟_BPR&ERP项目_产品设计.doc
+|           长沙卷烟_BPR&ERP项目_价格管理流程.doc
+|           长沙卷烟_BPR&ERP项目_供应商管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_原烟采购计划分解，合同签订，合同执行.doc
+|           长沙卷烟_BPR&ERP项目_品牌规划市场调研程序文件.doc
+|           长沙卷烟_BPR&ERP项目_品牌运作评估、调整程序.doc
+|           长沙卷烟_BPR&ERP项目_售后服务.doc
+|           长沙卷烟_BPR&ERP项目_固定资产管理程序文件.doc
+|           长沙卷烟_BPR&ERP项目_备件采购付款管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_小结 .doc
+|           长沙卷烟_BPR&ERP项目_工程技术部业务总流程.vsd
+|           长沙卷烟_BPR&ERP项目_工程技术部流程清单.doc
+|           长沙卷烟_BPR&ERP项目_工程技术部流程清单.xls
+|           长沙卷烟_BPR&ERP项目_市场分析及意向合同预测.doc
+|           长沙卷烟_BPR&ERP项目_年度计划管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_库存盘点程序文件.doc
+|           长沙卷烟_BPR&ERP项目_建议书_V1.zip
+|           长沙卷烟_BPR&ERP项目_成品烟入库.doc
+|           长沙卷烟_BPR&ERP项目_技改工程管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_文件及档案管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_文档说明.doc
+|           长沙卷烟_BPR&ERP项目_概念处理及论证程序.doc
+|           长沙卷烟_BPR&ERP项目_物资采购计划与请购流程.doc
+|           长沙卷烟_BPR&ERP项目_状态监测管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_生产计划编制流程.doc
+|           长沙卷烟_BPR&ERP项目_目标业务流程设计2.doc
+|           长沙卷烟_BPR&ERP项目_目标流程设计汇报0625.ppt
+|           长沙卷烟_BPR&ERP项目_目标流程设计阶段联合小组工作方法.doc
+|           长沙卷烟_BPR&ERP项目_目标管理模式设计、目标流程设计、制度设计的工作路线表.doc
+|           长沙卷烟_BPR&ERP项目_管理诊断报告(修订).doc
+|           长沙卷烟_BPR&ERP项目_管理诊断报告(最终报告).doc
+|           长沙卷烟_BPR&ERP项目_管理诊断汇报(演示版).ppt
+|           长沙卷烟_BPR&ERP项目_组织职能调整（最终报告） v2.doc
+|           长沙卷烟_BPR&ERP项目_综述.doc
+|           长沙卷烟_BPR&ERP项目_营销策划执行管理程序.doc
+|           长沙卷烟_BPR&ERP项目_计量数据管理流程no.vsd
+|           长沙卷烟_BPR&ERP项目_设备停用管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备到货管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备后期管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备安装、调试、验收管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备报废管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备润滑管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备调拨管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备购置管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备转固管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备转移管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_设备运行监控管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_试销程序文件.doc
+|           长沙卷烟_BPR&ERP项目_试销策划程序文件.doc
+|           长沙卷烟_BPR&ERP项目_财务管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_车间作业管理流程.doc
+|           长沙卷烟_BPR&ERP项目_过程维修管理流程.vsd
+|           长沙卷烟_BPR&ERP项目_配套措施设计之一：计划.doc
+|           长沙卷烟_BPR&ERP项目_配套措施设计之三：制度.doc
+|           长沙卷烟_BPR&ERP项目_配套措施设计之二：岗位职能与绩效.doc
+|           长沙卷烟_BPR&ERP项目_配套措施设计之五：IT.doc
+|           长沙卷烟_BPR&ERP项目_配套措施设计之四：报表.doc
+|           长沙卷烟_BPR&ERP项目_采购接收、到料、检验、入库流程.doc
+|           长沙卷烟_BPR&ERP项目_采购询价及报价处理流程.doc
+|           长沙卷烟_BPR&ERP项目_销售需求计划确定程序.doc
+|           长沙卷烟_BPR&ERP项目_长烟BPR最终报告简化本0703.doc
+|           长沙卷烟_BPR&ERP项目_长烟BPR项目制度设计_程序文件.doc
+|           长沙卷烟_BPR&ERP项目_长烟BPR项目最终汇报.ppt
+|           长沙卷烟_BPR&ERP项目_附件 .doc
+|           长沙卷烟_BPR&ERP项目_零星工程管理流程（no).vsd
+|           长沙卷烟_BPR&ERP项目_预防维修管理流程.vsd
+|           长沙卷烟培训费用明细.doc
+|           长烟IT重建计划信息化培训-第一部分.ppt
+|           长烟IT重建计划信息化培训-第二部分.ppt
+|           长烟IT重建计划信息化培训.pdf
+|           长烟项目各部门调研问卷.doc
+|           
++---汉普-长沙卷烟_BPR&ERP项目咨询全案（2001年 123M）
+|   |   Copy of 长烟SOA.doc
+|   |   文件列表输出.bat
+|   |   文档目录结构.txt
+|   |   文档目录结构.xls
+|   |   长沙卷烟厂业务流程重组与ERP实施项目.ppt
+|   |   长烟项目案例资料.doc
+|   |   
+|   +---BPR培训
+|   |       长沙卷烟_BPR&ERP项目_BPR培训.ppt
+|   |       长沙卷烟_BPR&ERP项目_业务流程描述培训.ppt
+|   |       长沙卷烟_BPR&ERP项目_业务流程描述培训的考试.doc
+|   |       长沙卷烟_BPR&ERP项目_业务流程描述培训的考试.vsd
+|   |       长沙卷烟_BPR&ERP项目_业务流程描述示例.vsd
+|   |       长沙卷烟_BPR&ERP项目_创建“企业流水线”.ppt
+|   |       长沙卷烟_BPR&ERP项目_培训提纲.doc
+|   |       长沙卷烟_BPR&ERP项目_没有管理的管理.ppt
+|   |       长沙卷烟_BPR&ERP项目_目标流程设计阶段 联合小组工作方法.ppt
+|   |       长沙卷烟_BPR&ERP项目_长烟项目目标流程设计阶段方法介绍.ppt
+|   |       长沙卷烟_BPR&ERP项目_集团管理模式与供应链设计内部培训.ppt
+|   |       
+|   +---企业资料
+|   |       长沙卷烟_BPR&ERP项目_2001新定岗定员表.XLS
+|   |       长沙卷烟_BPR&ERP项目_企业框架图.vsd
+|   |       长沙卷烟_BPR&ERP项目_部门领导及职责.xls
+|   |       长沙卷烟_BPR&ERP项目_长烟徽标.gif
+|   |       
+|   +---公共文件夹
+|   |       员工满意度调查问卷.doc
+|   |       杜邦财务分析.doc
+|   |       现状问题及描述.doc
+|   |       访谈纪要.doc
+|   |       调研问卷-业绩理念-结果.doc
+|   |       调研问卷-业绩理念-结果分析.doc
+|   |       调研问卷-业绩理念-过程.doc
+|   |       长烟企业绩效模型框架指标.doc
+|   |       高层访谈.doc
+|   |       
+|   +---湖南烟草新结构
+|   |   +---管理咨询文档
+|   |   |   +---流程
+|   |   |   |       湖南烟草_BPR项目_专卖流程.vsd
+|   |   |   |       湖南烟草_BPR项目_入库流程.vsd
+|   |   |   |       湖南烟草_BPR项目_内部调拨.vsd
+|   |   |   |       湖南烟草_BPR项目_出库流程.vsd
+|   |   |   |       湖南烟草_BPR项目_卷烟工厂入库.vsd
+|   |   |   |       湖南烟草_BPR项目_新库存流程.doc
+|   |   |   |       湖南烟草_BPR项目_湖南烟草营销流程（二）.doc
+|   |   |   |       湖南烟草_BPR项目_湖南烟草采购流程（一）.doc
+|   |   |   |       湖南烟草_BPR项目_湖南烟草采购流程（二）.doc
+|   |   |   |       湖南烟草_BPR项目_湖南烟草销售流程图1 .vsd
+|   |   |   |       湖南烟草_BPR项目_湖南烟草销售流程图2 .vsd
+|   |   |   |       湖南烟草_BPR项目_湖南烟草销售流程图3 .vsd
+|   |   |   |       湖南烟草_BPR项目_湖南烟草销售流程图4 .vsd
+|   |   |   |       湖南烟草_BPR项目_湖南烟草销售流程图5.vsd
+|   |   |   |       湖南烟草_BPR项目_湖南省烟草公司营销流程（一）.doc
+|   |   |   |       湖南烟草_BPR项目_营销管理系统单据描述.doc
+|   |   |   |       湖南烟草_BPR项目_配送流程.vsd
+|   |   |   |       湖南烟草_BPR项目_采购 流程图2.doc
+|   |   |   |       湖南烟草_BPR项目_采购流程图1.doc
+|   |   |   |       
+|   |   |   \---调研报告
+|   |   |           湖南烟草_BPR项目_岳阳调研报告.doc
+|   |   |           湖南烟草_BPR项目_株洲县烟草公司营销系统.doc
+|   |   |           湖南烟草_BPR项目_湘南调研报告.doc
+|   |   |           湖南烟草_BPR项目_省公司销售流程调研报告.doc
+|   |   |           湖南烟草_BPR项目_长沙卷烟厂调拨站调研报告.doc
+|   |   |           
+|   |   \---项目管理
+|   |           湖南烟草_BPR项目_湖南烟草CRM.doc
+|   |           湖南烟草_BPR项目_项目实施心得.doc
+|   |           
+|   +---白沙集团
+|   |   |   ChengSha_Clip.zip
+|   |   |   
+|   |   +---BPR
+|   |   |   |   R00 文档说明.doc
+|   |   |   |   R01 综述.doc
+|   |   |   |   R02 目标业务流程设计.doc
+|   |   |   |   R03 组织职能调整 v2 p.doc
+|   |   |   |   R04 配套措施设计之一：计划.doc
+|   |   |   |   R05 配套措施设计之二：岗位职能与绩效.doc
+|   |   |   |   R06 配套措施设计之三：制度.doc
+|   |   |   |   R07 配套措施设计之四：报表.doc
+|   |   |   |   R08 配套措施设计之五：IT .doc
+|   |   |   |   R09 小结 print.doc
+|   |   |   |   R10 附件 print.doc
+|   |   |   |   目标流程设计汇报0702.ppt
+|   |   |   |   程序文件.doc
+|   |   |   |   简化本0703.doc
+|   |   |   |   
+|   |   |   \---流程
+|   |   |           产供销流程v02-0607.vsd
+|   |   |           产供销辅助流程02.vsd
+|   |   |           品牌运作流程4.vsd
+|   |   |           财务流程0530.vsd
+|   |   |           
+|   |   \---ERP
+|   |       \---BPR程序文件
+|   |               产供销辅助流程02.vsd
+|   |               财务流程0530.vsd
+|   |               
+|   +---目标流程设计
+|   |   \---3_目标流程设计
+|   |       |   Acceptance_certificate_长烟_设计.doc
+|   |       |   优化方案0518.doc
+|   |       |   部门领导及职责.xls
+|   |       |   
+|   |       +---IT组工作文档
+|   |       |       IT调查.xls
+|   |       |       企业信息化体系结构.ppt
+|   |       |       全厂网络管理.xls
+|   |       |       
+|   |       +---制度组
+|   |       |       企业文件体系框架设计.doc
+|   |       |       制度制（修）订小组运作方案.doc
+|   |       |       制度清单整理一览表.doc
+|   |       |       对制度的理解.doc
+|   |       |       文件体系.vsd
+|   |       |       程序文件格式 修订.doc
+|   |       |       程序文件格式.doc
+|   |       |       
+|   |       +---品牌组工作文档
+|   |       |       产品开发线总流程_.doc
+|   |       |       产品设~1.VSD
+|   |       |       产品设~2.DOC
+|   |       |       产品设计.DOC
+|   |       |       产品设计.vsd
+|   |       |       品牌运作流程说明.doc
+|   |       |       品牌链培训.ppt
+|   |       |       宝洁部门及职能.doc
+|   |       |       工作文档qin-.doc
+|   |       |       幻灯讲稿.doc
+|   |       |       
+|   |       +---实施策略
+|   |       |       0.项目实施方案目录.doc
+|   |       |       1.实施步骤表.PDF
+|   |       |       2.配套工作清单.doc
+|   |       |       3.实施步骤表.doc
+|   |       |       4.项目实施管理制度.doc
+|   |       |       5.项目实施风险防范.doc
+|   |       |       6.项目实施相关要求.doc
+|   |       |       中层及管理骨干培训计划表.doc
+|   |       |       十个小组人员名单.doc
+|   |       |       项目实施启动方案.doc
+|   |       |       高层管理人员培训计划表.doc
+|   |       |       
+|   |       +---方法
+|   |       |       业务流程重组阶段工作思路_010417.doc
+|   |       |       目标流程设计阶段 联合小组工作方法.doc
+|   |       |       目标流程设计阶段 联合小组工作方法.ppt
+|   |       |       目标管理模式设计、目标流程设计、制度设计的工作路线表.doc
+|   |       |       长烟项目目标流程设计阶段方法介绍.ppt
+|   |       |       
+|   |       +---最终报告 V1
+|   |       |   |   R00 文档说明 p.doc
+|   |       |   |   R01 综述 v2 p.doc
+|   |       |   |   R02 目标业务流程设计 v2 p.doc
+|   |       |   |   R03 组织职能调整 v2 p.doc
+|   |       |   |   R04 配套措施设计之一：计划 p s.doc
+|   |       |   |   R05 配套措施设计之二：岗位职能与绩效V2 p S.doc
+|   |       |   |   R06 配套措施设计之三：制度 p.doc
+|   |       |   |   R07 配套措施设计之四：报表 p.doc
+|   |       |   |   R08 配套措施设计之五：IT p q.doc
+|   |       |   |   R09 小结 p.doc
+|   |       |   |   R10 附件 p.doc
+|   |       |   |   打印装订说明.doc
+|   |       |   |   程序文件－1 p s.doc
+|   |       |   |   
+|   |       |   +---分析表
+|   |       |   |       BR.doc
+|   |       |   |       FR.doc
+|   |       |   |       FR1效益预算流程分析.doc
+|   |       |   |       OP.doc
+|   |       |   |       OP21销售发运.doc
+|   |       |   |       OP23售后服务.doc
+|   |       |   |       OP6辅料采购计划与请购.doc
+|   |       |   |       OP8采购订单确认.doc
+|   |       |   |       
+|   |       |   \---流程
+|   |       |           产供销流程v02-0607.vsd
+|   |       |           产供销辅助流程02.vsd
+|   |       |           品牌运作流程4.vsd
+|   |       |           财务流程0530.vsd
+|   |       |           
+|   |       +---最终报告 v4
+|   |       |   |   R00 文档说明.doc
+|   |       |   |   R01 综述.doc
+|   |       |   |   R02 目标业务流程设计2.doc
+|   |       |   |   R03 组织职能调整（最终报告）.doc
+|   |       |   |   R04 配套措施设计之一：计划.doc
+|   |       |   |   R05 配套措施设计之二：岗位职能与绩效.doc
+|   |       |   |   R06 配套措施设计之三：制度.doc
+|   |       |   |   R07 配套措施设计之四：报表.doc
+|   |       |   |   R08 配套措施设计之五：IT.doc
+|   |       |   |   R09 小结 print.doc
+|   |       |   |   R10 附件 print.doc
+|   |       |   |   流程.zip
+|   |       |   |   目标流程设计汇报0702.ppt
+|   |       |   |   程序文件.doc
+|   |       |   |   简化本0703.doc
+|   |       |   |   
+|   |       |   \---流程
+|   |       |           产供销流程v02-0607.vsd
+|   |       |           产供销辅助流程02.vsd
+|   |       |           品牌运作流程4.vsd
+|   |       |           财务流程0530.vsd
+|   |       |           
+|   |       \---绩效组
+|   |               KPI评价参照表1.doc
+|   |               performance.ppt
+|   |               岗位与KPI2.doc
+|   |               岗位职责与KPI指标填写方法.doc
+|   |               权重测量表.doc
+|   |               绩效培训.ppt
+|   |               
+|   +---访谈纪要
+|   |       长沙卷烟_BPR&ERP项目_2.15访谈记录.doc
+|   |       长沙卷烟_BPR&ERP项目_2.16访谈.doc
+|   |       长沙卷烟_BPR&ERP项目_2.19访谈纪要.doc
+|   |       长沙卷烟_BPR&ERP项目_2.20访谈纪要.doc
+|   |       
+|   +---软件选型 建议书
+|   |       长沙卷烟_BPR&ERP项目_解决方案.doc
+|   |       长沙卷烟_BPR&ERP项目_解决方案附件.doc
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_IT组工作文档
+|   |       长沙卷烟_BPR&ERP项目_IT调查.xls
+|   |       长沙卷烟_BPR&ERP项目_企业信息化体系结构.ppt
+|   |       长沙卷烟_BPR&ERP项目_全厂网络管理.xls
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_企业制度现状
+|   |       长沙卷烟_BPR&ERP项目_全厂管理制度一览表.xls
+|   |       长沙卷烟_BPR&ERP项目_长烟各部门提交制度文件一览表.xls
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_品牌组工作文档
+|   |       长沙卷烟_BPR&ERP项目_产品开发线总流程.doc
+|   |       长沙卷烟_BPR&ERP项目_产品设1.VSD
+|   |       长沙卷烟_BPR&ERP项目_产品设2.DOC
+|   |       长沙卷烟_BPR&ERP项目_产品设计.DOC
+|   |       长沙卷烟_BPR&ERP项目_产品设计.vsd
+|   |       长沙卷烟_BPR&ERP项目_品牌运作流程说明.doc
+|   |       长沙卷烟_BPR&ERP项目_宝洁部门及职能.doc
+|   |       长沙卷烟_BPR&ERP项目_工作文档.doc
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_数据采集
+|   |       长沙卷烟_BPR&ERP项目_产品价格清单.doc
+|   |       长沙卷烟_BPR&ERP项目_产品结构清单.doc
+|   |       长沙卷烟_BPR&ERP项目_原烟库存数据采集.xls
+|   |       长沙卷烟_BPR&ERP项目_客户数据清单.xls
+|   |       长沙卷烟_BPR&ERP项目_物资数据采集.xls
+|   |       长沙卷烟_BPR&ERP项目_生产车间（工作中心）信息数据收集.doc
+|   |       长沙卷烟_BPR&ERP项目_财务数据表.xls
+|   |       长沙卷烟_BPR&ERP项目_采购数据采集.xls
+|   |       长沙卷烟_BPR&ERP项目_销售业务员表.xls
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_目标业务流程设计方法
+|   |       长沙卷烟_BPR&ERP项目_业务流程重组阶段工作思路.doc
+|   |       长沙卷烟_BPR&ERP项目_目标流程设计阶段联合小组工作方法.doc
+|   |       长沙卷烟_BPR&ERP项目_目标管理模式设计、目标流程设计、制度设计的工作路线表.doc
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_管理诊断报告及阶段确认书
+|   |       长沙卷烟_BPR&ERP项目_管理诊断报告(修订).doc
+|   |       长沙卷烟_BPR&ERP项目_管理诊断报告(最终报告).doc
+|   |       长沙卷烟_BPR&ERP项目_管理诊断汇报(演示版).ppt
+|   |       长沙卷烟_BPR&ERP项目_长烟流程现状问题分析.doc
+|   |       长沙卷烟_BPR&ERP项目_长烟流程现状问题分析V1.doc
+|   |       长沙卷烟_BPR&ERP项目_长烟流程现状问题分析V4.doc
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_绩效组文档
+|   |       汉普-绩效管理培训教材.ppt
+|   |       长沙卷烟_BPR&ERP项目_KPI评价参照表1.doc
+|   |       长沙卷烟_BPR&ERP项目_岗位与KPI2.doc
+|   |       长沙卷烟_BPR&ERP项目_岗位职责与KPI指标填写方法.doc
+|   |       长沙卷烟_BPR&ERP项目_权重测量表.doc
+|   |       长沙卷烟_BPR&ERP项目_绩效培训.ppt
+|   |       长沙卷烟_BPR&ERP项目_绩效管理.ppt
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_调研问卷
+|   |       长沙卷烟_BPR&ERP项目_2车间调研问卷.DOC
+|   |       长沙卷烟_BPR&ERP项目_5车间调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_6车间调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_7车间部门调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_AR调研.doc
+|   |       长沙卷烟_BPR&ERP项目_FA调研.doc
+|   |       长沙卷烟_BPR&ERP项目_GL调研.doc
+|   |       长沙卷烟_BPR&ERP项目_INV调研.doc
+|   |       长沙卷烟_BPR&ERP项目_OE调研.doc
+|   |       长沙卷烟_BPR&ERP项目_人力资源部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_企业管理统计报表(外报）表名1-2.doc
+|   |       长沙卷烟_BPR&ERP项目_企业管理部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_动力车间调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_原烟部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_品牌办调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_团委调研问卷.DOC
+|   |       长沙卷烟_BPR&ERP项目_基建部门调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_安全保卫部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_审计部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_工会调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_工程部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_工艺质量部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_幼儿园调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_政工部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_文化宣传部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_机修车间部门调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_物资经理部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_生产部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_生活部调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_科研中心调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_财务部部门调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_质检站调研问卷.doc
+|   |       长沙卷烟_BPR&ERP项目_部门调研问卷汇总.doc
+|   |       长沙卷烟_BPR&ERP项目_问题提炼和统计.xls
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_财务组工作文档
+|   |       长沙卷烟_BPR&ERP项目_4-18与会通讯表.xls
+|   |       长沙卷烟_BPR&ERP项目_会计报表归集.xls
+|   |       长沙卷烟_BPR&ERP项目_财务小组组织结构及工作安排.doc
+|   |       长沙卷烟_BPR&ERP项目_财务目标流程.vsd
+|   |       
+|   +---长沙卷烟_BPR&ERP项目_高层访谈
+|   |       长沙卷烟_BPR&ERP项目_访刘主席.doc
+|   |       长沙卷烟_BPR&ERP项目_访刘厂长.doc
+|   |       长沙卷烟_BPR&ERP项目_访刘学鲁.doc
+|   |       长沙卷烟_BPR&ERP项目_访刘明华.doc
+|   |       长沙卷烟_BPR&ERP项目_访卢厂长.doc
+|   |       长沙卷烟_BPR&ERP项目_访涂厂长.doc
+|   |       长沙卷烟_BPR&ERP项目_访谢总.doc
+|   |       长沙卷烟_BPR&ERP项目_访黄昂.doc
+|   |       长沙卷烟_BPR&ERP项目_长烟厂高层访谈提纲 .doc
+|   |       
+|   +---集团和供应链
+|   |   +---1_计划任务
+|   |   |       集团管理模式及供应链总体设计阶段任务.doc
+|   |   |       集团管理模式及供应链总体设计阶段任务（内部资料）.doc
+|   |   |       集团管理模式及供应链总体设计阶段计划.doc
+|   |   |       
+|   |   +---2_调研情况
+|   |   |       2001年各公司目标责任书.doc
+|   |   |       2001年多元化产业效益奖评奖方案.doc
+|   |   |       2001年方针目标计划.xls
+|   |   |       三产老总座谈会主要议题.doc
+|   |   |       供应链合作伙伴座谈会的主要议题.doc
+|   |   |       典型供应链合作伙伴选择原则.doc
+|   |   |       基本情况介绍（三产老总访谈-万沙）.doc
+|   |   |       子公司情况.xls
+|   |   |       生产线各车间设备产能指标.doc
+|   |   |       长沙卷烟厂下属公司基本情况一览表11.doc
+|   |   |       长沙卷烟厂多元化情况汇报(2000).doc
+|   |   |       长烟发展战略研究6.doc
+|   |   |       集团及供应链总体情况介绍会需要准备的资料-工程.doc
+|   |   |       集团及供应链总体情况介绍会需要准备的资料-物资.doc
+|   |   |       集团及供应链总体情况介绍会需要准备的资料-生产.doc
+|   |   |       集团及供应链总体情况介绍会需要准备的资料_原烟.doc
+|   |   |       集团管理模式及长烟厂供应链数据.doc
+|   |   |       集团管理模式及长烟厂供应链数据_.doc
+|   |   |       
+|   |   +---3_培训
+|   |   |       集团和供应链内部培训.ppt
+|   |   |       
+|   |   \---4_集团报告
+|   |           白沙集团管理模式与长烟供应链设计 最终报告2.doc
+|   |           白沙集团管理模式与长烟供应链设计报告  最终报告.doc
+|   |           集团与供应链汇报 最终汇报.ppt
+|   |           集团管理模式与长烟供应链设计完整报告.doc
+|   |           
+|   +---项目管理
+|   |   |   长沙卷烟_BPR&ERP项目_周计划.zip
+|   |   |   长沙卷烟_BPR&ERP项目_项目进度报告.zip
+|   |   |   
+|   |   +---长沙卷烟_BPR&ERP项目_项目组照片
+|   |   |       DSCF0003.JPG
+|   |   |       DSCF0004.JPG
+|   |   |       DSCF0006.JPG
+|   |   |       DSCF0007.JPG
+|   |   |       DSCF0008.JPG
+|   |   |       DSCF0009.JPG
+|   |   |       DSCF0010.JPG
+|   |   |       DSCF0011.JPG
+|   |   |       logo.jpg
+|   |   |       
+|   |   \---项目管理文档
+|   |           长沙卷烟_BPR&ERP项目_3月16日BPR与ERP项目组例会议程.doc
+|   |           长沙卷烟_BPR&ERP项目_业务流程描述与管理诊断阶段计划 .doc
+|   |           长沙卷烟_BPR&ERP项目_会议纪要(周例会).doc
+|   |           长沙卷烟_BPR&ERP项目_合同转让协议 1.doc
+|   |           长沙卷烟_BPR&ERP项目_合同转让协议.doc
+|   |           长沙卷烟_BPR&ERP项目_目标管理模式与业务流程设计阶段.doc
+|   |           长沙卷烟_BPR&ERP项目_讨论纪录.doc
+|   |           长沙卷烟_BPR&ERP项目_长沙卷烟厂BPR与ERP实施项目  人员安排补充说明.doc
+|   |           长沙卷烟_BPR&ERP项目_长烟ERP项目计划.mpp
+|   |           长沙卷烟_BPR&ERP项目_长烟SOA.doc
+|   |           长沙卷烟_BPR&ERP项目_集团管理模式及供应链总体设计阶段任务.doc
+|   |           长沙卷烟_BPR&ERP项目_集团管理模式及供应链总体设计阶段计划.doc
+|   |           长沙卷烟_BPR&ERP项目_项目合同2.doc
+|   |           长沙卷烟_BPR&ERP项目_风险和问题报告.doc
+|   |           长沙卷烟_BPR&ERP项目_风险和问题报告2.doc
+|   |           
+|   \---项目资料
+|       +---合同
+|       |       Assignment of contract -长沙卷烟 (1).doc
+|       |       Assignment of contract -长沙卷烟 (2).doc
+|       |       baisha proposalv6.doc
+|       |       last contractv2.doc
+|       |       proposal attachment.doc
+|       |       合同转让协议_长烟.doc
+|       |       长烟SOA.doc
+|       |       长烟实际的SOA及人员安排.doc
+|       |       风险和问题报告.doc
+|       |       风险和问题报告2.doc
+|       |       
+|       +---计划及进度报告
+|       |   |   0903采访话题.doc
+|       |   |   三月16日BPR与ERP项目组例会议程.doc
+|       |   |   目标管理模式与业务流程设计阶段.doc
+|       |   |   长沙卷烟厂BPR与ERP实施项目  人员安排补充说明.doc
+|       |   |   
+|       |   +---工作周计划
+|       |   |       ERP周计划0702-0708.doc
+|       |   |       ERP周计划0709-0715.doc
+|       |   |       业务流程描述与管理诊断阶段计划 .doc
+|       |   |       周计划 0514-0518.doc
+|       |   |       周计划 0521-0525.doc
+|       |   |       周计划 0528-0601.doc
+|       |   |       周计划0226-0302.doc
+|       |   |       周计划0305-0309 v2.doc
+|       |   |       周计划0305-0309.doc
+|       |   |       周计划0312-0316.doc
+|       |   |       周计划0319-0323.doc
+|       |   |       周计划0319-03231 v2.doc
+|       |   |       周计划0326-0330 V2.doc
+|       |   |       周计划0326-0330 V3.doc
+|       |   |       周计划0326-0330.doc
+|       |   |       周计划0402-0406.doc
+|       |   |       周计划0409-0413.doc
+|       |   |       周计划0416-0420.doc
+|       |   |       周计划0423-0429.doc
+|       |   |       周计划0507-0511.doc
+|       |   |       周计划0603-0608.doc
+|       |   |       周计划0611-0615.doc
+|       |   |       周计划0618-0622.doc
+|       |   |       周计划1031-1121.doc
+|       |   |       周计划212-228.doc
+|       |   |       目标管理模式与业务流程设计阶段.doc
+|       |   |       长烟ERP项目计划.mpp
+|       |   |       集团管理模式及供应链总体设计阶段计划.doc
+|       |   |       
+|       |   \---项目进度
+|       |           7月工作汇报.doc
+|       |           HAN-QM-SVR-CCF-010829.pdf
+|       |           weekmeeting-0223.doc
+|       |           复件 项目进度报告0316.doc
+|       |           长烟项目状况及问题.doc
+|       |           项目进度报告0216.doc
+|       |           项目进度报告0223.doc
+|       |           项目进度报告0302.doc
+|       |           项目进度报告0309.doc
+|       |           项目进度报告0316.doc
+|       |           项目进度报告0323.doc
+|       |           项目进度报告0330.doc
+|       |           项目进度报告0406.doc
+|       |           项目进度报告0413.doc
+|       |           项目进度报告0420.doc
+|       |           项目进度报告0427.doc
+|       |           项目进度报告0511.doc
+|       |           项目进度报告0518.doc
+|       |           项目进度报告0525.doc
+|       |           项目进度报告0530.doc
+|       |           项目进度报告0608.doc
+|       |           项目进度报告0615.doc
+|       |           
+|       \---资料
+|           |   ERP系统绩效监控指标体系.doc
+|           |   NGC管理模式内文.doc
+|           |   关于BPR和ERP的关系思考.doc
+|           |   关于长烟项目如何进展的思考.doc
+|           |   北重管理模式设计正文.doc
+|           |   华胜制度目录.doc
+|           |   哈啤投标书1.doc
+|           |   哈啤管理模式设计正文1-6.doc
+|           |   哈尔滨啤酒有限公司新组织.doc
+|           |   实达管理模式.doc
+|           |   模板_010428.ppt
+|           |   汉普研发流程_010307(草案).vsd
+|           |   知识管理制度.doc
+|           |   研发管理制度_010307.doc
+|           |   研发部门与岗位职责与绩效指标 010307.doc
+|           |   研发项目成果进展报告_BPR创新.doc
+|           |   研发项目成果预测与资源分析报告_BPR创新.doc
+|           |   管理模式优缺点比较.doc
+|           |   管理诊断资料研究_010302.doc
+|           |   
+|           +---各种模板
+|           |       SOA模板.doc
+|           |       培 训 记 录.doc
+|           |       资料搜集与学习笔记模板_000803.doc
+|           |       问题归集表模板.doc
+|           |       
+|           \---调研问卷模板
+|               |   北重调查问卷.doc
+|               |   哈啤项目调研问卷.doc
+|               |   实达调研问卷.doc
+|               |   开行业务流程现状描述.doc
+|               |   开行业务流程现状描述范本.doc
+|               |   松下电工ERP财务问卷.doc
+|               |   海信部门调研说明.doc
+|               |   精伦调研问卷.doc
+|               |   精伦调研问卷附件.doc
+|               |   造币财务需求.zip
+|               |   部门调研问卷-长烟.doc
+|               |   长沙卷烟厂部门访谈问卷设计.doc
+|               |   问卷研究_010302.doc
+|               |   
+|               \---scan
+|                       样本01.bmp
+|                       
++---汉普-云天化信息咨询项目（6M）
+|   |   云天化信息化之路.doc
+|   |   云天化集团管控体制设计（战略、IT）.ppt
+|   |   云天化集团绩效设计报告v2[1].0.rar
+|   |   人力资源流程.rar
+|   |   岗位职责－信息中心.rar
+|   |   岗位职责－战略发展部.rar
+|   |   意见.xls
+|   |   
+|   +---信息中心
+|   |       1软件开发流程岗位职责表.doc
+|   |       2网络管理员流程岗位职责表.doc
+|   |       3运维工程师流程岗位职责表.doc
+|   |       4信息中心信息资源管理岗位职责表.doc
+|   |       5信息中心主任岗位职责表.doc
+|   |       6信息中心部门职责表.doc
+|   |       
+|   \---信息中心流程
+|           1信息规划流程.vsd
+|           2项目立项与管理流程.vsd
+|           3管理规范制订与维护流程.vsd
+|           4信息处理流程.vsd
+|           5运维流程.vsd
+|           外部信息处理流程.vsd
+|           
+\---汉普-东风汽车公司IT信息系统十五规划全案
+    |   00-东风汽车公司IT规划项目总体.mpp
+    |   东风信息系统规划（2002-2003）（最终主报 告）2.0.doc
+    |   
+    +---会议记录
+    |   \---会议记录
+    |           0831项目启动会材料.ppt
+    |           0928例会.txt
+    |           东风汽车项目会议纪要-0829-项目启动准备会.doc
+    |           东风汽车项目会议纪要-0831-项目启动会.doc
+    |           东风汽车项目会议纪要-0921-周例会.doc
+    |           东风汽车项目会议纪要-0927-阶段汇报会.doc
+    |           东风汽车项目会议纪要-0928-周例会.doc
+    |           国债提交报告讨论0918.doc
+    |           访谈记录10-17周处长.doc
+    |           
+    +---参考资料
+    |   +---ERP
+    |   |       CRM与ERP的集成.doc
+    |   |       ERP 与SCM“比并看”.doc
+    |   |       ERP与PDM集成需要考虑的问题.doc
+    |   |       ERP应用的目标、监理与评价指标.doc
+    |   |       ERP技术方案及软件选型.doc
+    |   |       ERP的主要功能模块简介.doc
+    |   |       ERP系统的概念及其管理思想.doc
+    |   |       G ERP选型看什么.doc
+    |   |       G 如何选择正确的ERP系统.doc
+    |   |       G 如何选购 ERP.htm
+    |   |       G 怎样选择合适的ERP系统.doc
+    |   |       G 生产的类型及其与ＥＲＰ选型的关系.doc
+    |   |       PDM和ERP的集成.doc
+    |   |       PDM系统集成ERP.doc
+    |   |       中国汽车企业需要ERP.doc
+    |   |       佳通轮胎_ERP项目_解决方案.zip
+    |   |       天津磁卡财务项目建议书.doc
+    |   |       我国企业实施ERP的必要性.doc
+    |   |       
+    |   +---LP精益生产
+    |   |       汽车工业的精益生产xxxxx.doc
+    |   |       精益生产体系的结构与特征.doc
+    |   |       精益生产及制造资源计划管理思想综述与实施分析.doc
+    |   |       精益生产的营销策略.doc
+    |   |       精益生产过程的管理.doc
+    |   |       
+    |   +---office
+    |   |   |   B2B电子商务与企业供应链管理.doc
+    |   |   |   B2C物流瓶颈有所松动.doc
+    |   |   |   “向市场融资”策略对供应链的影响.doc
+    |   |   |   一体化物流与供应链管理.doc
+    |   |   |   从CIMS到供应链的动态优化.doc
+    |   |   |   从物流管理到供应链整合.doc
+    |   |   |   企业供应链管理和第三方物流外包服务.doc
+    |   |   |   供应链管理中的不确定性.doc
+    |   |   |   供应链管理改善商品流通业务交易.doc
+    |   |   |   供应链管理的本质.doc
+    |   |   |   信息流、货币支付流、物流一个不能少.doc
+    |   |   |   反应快速的供应链体系与运作.doc
+    |   |   |   后勤信息系统及全球供应链管理.doc
+    |   |   |   基于产品的供应链设计.doc
+    |   |   |   基于供应链管理的现代企业管理新模式.doc
+    |   |   |   实达质量管理制度.doc
+    |   |   |   敏捷供需链管理系统的可重构性研究.doc
+    |   |   |   物流-经济增长的“黑暗大陆”.doc
+    |   |   |   物流与信息流的技术应用.doc
+    |   |   |   电子商务物流解决方案.doc
+    |   |   |   进入供应链系统的物流.doc
+    |   |   |   需求的多样性不确定性给供应链管理带来的问题浅析.doc
+    |   |   |   面向成本核算的生产管理系统.doc
+    |   |   |   
+    |   |   \---精伦核心解决方案
+    |   |           jinglun_INV_Solution.doc
+    |   |           jinglun_OE_Solution.doc
+    |   |           jinglun_PO_Solution.doc
+    |   |           JL-bom-solutiong.rtf
+    |   |           jl-fa-_Solution.rtf
+    |   |           jl-gl-_Soluion.rtf
+    |   |           jl-mrp-solution.doc
+    |   |           jl-wip-solutionq.doc
+    |   |           JL_AP_Solution.rtf
+    |   |           编码规则（总）.doc
+    |   |           问题.doc
+    |   |           
+    |   +---全面质量管理
+    |   |       TQM理论要点与实施步骤.doc
+    |   |       五种全面质量管理工具.doc
+    |   |       全创质量方案.doc
+    |   |       利玛质量.htm
+    |   |       成功之道（全面质量管理）.doc
+    |   |       用图表提高顾客满意度.doc
+    |   |       衡钢质量解决方案.doc
+    |   |       质量模块介绍和需求调查会议纪要.doc
+    |   |       
+    |   +---制造
+    |   |       JIT的研究现状与发展趋势.doc
+    |   |       以ERP为中枢，融入约束精益的哲学.doc
+    |   |       准时化生产方式的技术支撑体系xxxxxxxxxx.doc
+    |   |       在ERP的运用中实现JIT生产.doc
+    |   |       
+    |   +---大规模定制
+    |   |       从成组技术到大规模定制生产.caj
+    |   |       何为大规模定制.doc
+    |   |       大规模定制下的产品设计技术.caj
+    |   |       大规模定制组织设计三大原则.doc
+    |   |       
+    |   +---电子商务
+    |   |       电子商务的本质.doc
+    |   |       电子数据交换.doc
+    |   |       
+    |   \---集团财务资料
+    |       |   企业集团财务公司管理办法.doc
+    |       |   全方位透视母子公司管理.doc
+    |       |   集团公司货币资金控制的五种模式.doc
+    |       |   集团财务管理模式设计v1.doc
+    |       |   
+    |       \---集团财务资料
+    |               企业集团财务公司管理办法.doc
+    |               全方位透视母子公司管理.doc
+    |               集团公司货币资金控制的五种模式.doc
+    |               集团财务管理模式设计v1.doc
+    |               
+    +---培训文档
+    |   +---幻灯
+    |   |       09INV.ppt
+    |   |       13CST.ppt
+    |   |       21世纪企业竞争前沿.ppt
+    |   |       BOM_Training.ppt
+    |   |       ERP如何选型.ppt
+    |   |       inv-train.ppt
+    |   |       MRP_Train_c.ppt
+    |   |       MRP基本原理_培训资料.ppt
+    |   |       OE_train_nj.ppt
+    |   |       PO_train_nj.ppt
+    |   |       WIP_Training.ppt
+    |   |       库存培训.ppt
+    |   |       成本管理_培训资料.ppt
+    |   |       第七章供应链管理.ppt
+    |   |       系统管理.ppt
+    |   |       计划概念培训.ppt
+    |   |       计划管理模块界面.ppt
+    |   |       车间概念培训.ppt
+    |   |       采购与库存管理实务.ppt
+    |   |       采购管理.ppt
+    |   |       销售、采购数据数据处理流程图.ppt
+    |   |       
+    |   \---理念培训
+    |       |   业务流程描述讲座.ppt
+    |       |   第一讲：BPR理论(上).ppt
+    |       |   第三讲：历史演变、管理内核与最新发展.ppt
+    |       |   第二讲：BPR理论(下).ppt
+    |       |   第五讲（下）：C公司案例分析资料1.doc
+    |       |   第五讲：ERP实施模式与风险防范.ppt
+    |       |   第四讲：生产类型与ERP应用的关系.ppt
+    |       |   第四讲：生产类型与ERP应用的关系1.ppt
+    |       |   
+    |       \---课堂使用的资料
+    |               1998年第九版APICS词典序言.htm
+    |               案例现场.ppt
+    |               第一讲（下）：汉普管理咨询有限公司简介_000706.ppt
+    |               第五讲（下）：C公司EIS的失败案例分析.ppt
+    |               课堂穿插设计.ppt
+    |               
+    +---工作单
+    |   |   费用报销表格(李爱民819-825).xls
+    |   |   费用报销表格(李爱民826-901).xls
+    |   |   费用报销表格(李爱民916-922).xls
+    |   |   费用报销表格(李爱民923-929).xls
+    |   |   
+    |   +---Expense
+    |   |   |   黄庆铭.xls
+    |   |   |   
+    |   |   \---李霄
+    |   |           Expense_lixiao_Sep.16.xls
+    |   |           Expense_lixiao_Sep.23.xls
+    |   |           
+    |   +---ppr
+    |   |       ppr东风汽车0921.doc
+    |   |       ppr东风汽车0928.doc
+    |   |       ppr东风汽车1013.doc
+    |   |       ppr东风汽车1020.doc
+    |   |       ppr东风汽车1027.doc
+    |   |       
+    |   +---TimeSheet
+    |   |   |   第一二周工时总表.xls
+    |   |   |   
+    |   |   +---0828-0901
+    |   |   |       吴芳.doc
+    |   |   |       夏鹏涛.doc
+    |   |   |       孙启群.doc
+    |   |   |       朱播.doc
+    |   |   |       李爱民.doc
+    |   |   |       涂纪文.doc
+    |   |   |       顾有功.doc
+    |   |   |       黄庆铭.doc
+    |   |   |       
+    |   |   +---0902-0908
+    |   |   |       吴芳.doc
+    |   |   |       夏鹏涛.doc
+    |   |   |       孙启群.doc
+    |   |   |       朱播.doc
+    |   |   |       李爱民.doc
+    |   |   |       涂纪文.doc
+    |   |   |       顾有功.doc
+    |   |   |       黄庆铭.doc
+    |   |   |       
+    |   |   +---0909-0915
+    |   |   |       吴芳.doc
+    |   |   |       夏鹏涛.doc
+    |   |   |       孙启群.doc
+    |   |   |       朱播.doc
+    |   |   |       李爱民.doc
+    |   |   |       李霄0916.doc
+    |   |   |       涂纪文.doc
+    |   |   |       顾有功.doc
+    |   |   |       黄庆铭.doc
+    |   |   |       
+    |   |   +---0916-0922
+    |   |   |       Timesheet-李霄-0916-0923.doc
+    |   |   |       TimeSheet涂纪文0910-0915.doc
+    |   |   |       吴芳.doc
+    |   |   |       夏鹏涛.doc
+    |   |   |       孙启群.doc
+    |   |   |       朱播.doc
+    |   |   |       李爱民.doc
+    |   |   |       李霄0923.doc
+    |   |   |       顾有功.doc
+    |   |   |       黄庆铭.doc
+    |   |   |       
+    |   |   +---0923-0928
+    |   |   |       Timesheet-吴芳-0923-0929.doc
+    |   |   |       TimeSheet-孙启群-0923-0929.doc
+    |   |   |       TimeSheet-李爱民-0923-0929.doc
+    |   |   |       Timesheet-李霄-0923-0929.doc
+    |   |   |       TimeSheet-涂纪文0923-0929.doc
+    |   |   |       TimeSheet-顾有功-0923-0929.doc
+    |   |   |       TimeSheet-黄庆铭-0923-0929.doc
+    |   |   |       夏鹏涛.doc
+    |   |   |       朱播.doc
+    |   |   |       李爱民.doc
+    |   |   |       李霄0929.doc
+    |   |   |       
+    |   |   +---1007-1013
+    |   |   |       Timesheet-吴芳-1007-1013.doc
+    |   |   |       TimeSheet-孙启群-1007-1013.doc
+    |   |   |       Timesheet-李霄-1007-1013.doc
+    |   |   |       TimeSheet-涂纪文1007-1013.doc
+    |   |   |       timesheet-顾有功-1007-1013.doc
+    |   |   |       TimeSheet-黄庆铭1007-1013.doc
+    |   |   |       
+    |   |   +---1014-1020
+    |   |   |       Timesheet-吴芳-1014-1020.doc
+    |   |   |       TimeSheet-孙启群-1014-1020.doc
+    |   |   |       Timesheet-李霄-1014-1020.doc
+    |   |   |       Timesheet-涂纪文-1014-1020.doc
+    |   |   |       timesheet-雷拥军-1014-1020.doc
+    |   |   |       Timesheet-黄庆铭-1014-1020.doc
+    |   |   |       
+    |   |   +---1021-1027
+    |   |   |       Timesheet-吴芳-1021-1027.doc
+    |   |   |       TimeSheet-孙启群-1021-1027.doc
+    |   |   |       Timesheet-李霄-1021-1027.doc
+    |   |   |       Timesheet-涂纪文-1021-1027.doc
+    |   |   |       Timesheet-雷拥军-1021-1027.doc
+    |   |   |       Timesheet-顾有功-1021-1027.doc
+    |   |   |       Timesheet-黄庆铭-1021-1027.doc
+    |   |   |       
+    |   |   \---1028-1103
+    |   |           Timesheet-李霄-1028-1103.doc
+    |   |           Timesheet-涂纪文-1028-1103.doc
+    |   |           Timesheet-雷拥军-1028-1103.doc
+    |   |           Timesheet-顾有功-1028-1103.doc
+    |   |           
+    |   \---Travel
+    +---工作计划
+    |       00-东风IT十五规划项目SOA.doc
+    |       00-东风汽车公司IT规划项目总体.mpp
+    |       00-总体工作列表.xls
+    |       00-总体工作列表10-12.xls
+    |       0907周例会.ppt
+    |       0914周例会.ppt
+    |       0921周例会.ppt
+    |       
+    +---提交报告
+    |   |   第一阶段工作汇报（927汇报稿）.ppt
+    |   |   
+    |   +---总体规划报告
+    |   |       IT体系及运作模式.ppt
+    |   |       IT体系及运作模式（顾）new.ppt
+    |   |       东风信息系统规划（2002-2003）（最终主报 告）2.0.doc
+    |   |       东风信息系统规划（2002-2003）（最终主报 告）2.1.doc
+    |   |       东风信息系统规划（2002-2003）（最终主报 告）3.0.doc
+    |   |       最终汇报-人力资源管理 总公司.ppt
+    |   |       最终汇报-研发1026.ppt
+    |   |       最终汇报-营销管理1030.ppt
+    |   |       最终汇报－制造部分3.ppt
+    |   |       最终汇报－总体框架.ppt
+    |   |       最终汇报－财务报告1030.ppt
+    |   |       
+    |   +---调研小结
+    |   |       第一周调研小结0909.doc
+    |   |       调研报告1.ppt
+    |   |       
+    |   \---项目0928
+    |           东风信息系统规划（2002-2003）（完稿）.doc
+    |           东风汽车CPC解决方案_顾修改.doc
+    |           东风汽车有限公司营销管理系统解决方案0926.doc
+    |           东风汽车财务信息化方案.doc
+    |           东风股份ERP建设方案.doc
+    |           协同办公及知识管理平台.doc
+    |           
+    +---文档模板
+    |       expense.xls
+    |       PPT模板.ppt
+    |       timesheet.doc
+    |       东风汽车项目会议纪要-0829-项目启动准备会.doc
+    |       企业高层领导访谈大纲范例.doc
+    |       周计划.doc
+    |       报告模板.doc
+    |       访谈记录.doc
+    |       调研记录分析整理-人力资源行政部分.doc
+    |       调研记录分析整理-发展战略部分.doc
+    |       调研记录分析整理-市场营销部分.doc
+    |       调研记录分析整理-生产制造部分.doc
+    |       调研记录分析整理-研发技术工艺部分.doc
+    |       调研记录分析整理-财务部分.doc
+    |       调研记录分析整理-采购供应部分.doc
+    |       调研记录清单.xls
+    |       部门描述模版.doc
+    |       项目进度报告.doc
+    |       
+    \---调研
+        +---调研记录
+        |   \---调研记录
+        |           08-31-综合管理部单部长访谈记录.doc
+        |           09-04东风汽车贸易公司.doc
+        |           09-04市场部陈处长.doc
+        |           09-05零部件事业部营销经理.doc
+        |           09-06-协作配套部访谈记录.doc
+        |           09-06-材料供应部访谈记录.doc
+        |           09-12-计划财务部访谈记录.doc
+        |           10-09东风公司周总会议纪要.doc
+        |           10-22东风裕隆IT访谈.doc
+        |           10-22风神汽车IT访谈.doc
+        |           10-23神龙公司访谈记录.doc
+        |           2001.9.11东风公司技术中心访谈记录.doc
+        |           2001.9.3东风公司规划部访谈记录.doc
+        |           2001.9.7东风公司制造技术部访谈记录.doc
+        |           9.10载重车生产经营部、装配厂.doc
+        |           人力资源部访谈记录10-18.doc
+        |           访谈记录-08-30-周毅.doc
+        |           调研记录清单.xls
+        |           
+        \---调研问卷
+            |   IT调研总结.xls
+            |   业务现状与问题调查表-通用.doc
+            |   业务现状与问题调查表-风神.doc
+            |   东风公司协作配套部访谈提纲.doc
+            |   东风公司市场部访谈提纲.doc
+            |   东风公司材料供应部访谈提纲.doc
+            |   东风公司财务访谈提纲-计划财务部.doc
+            |   东风公司财务访谈提纲-载重车财务部.doc
+            |   东风汽车项目会议纪要-0829-项目启动准备会既要.doc
+            |   东风裕隆访谈提纲.doc
+            |   人力资源部访谈提纲.doc
+            |   企业高层领导访谈大纲.doc
+            |   信息系统及技术调研问卷.doc
+            |   信息系统及技术调研问卷附表.xls
+            |   神龙访谈提纲.doc
+            |   神龙访谈提纲1.doc
+            |   规划发展部访谈提纲.doc
+            |   调查问卷通知.doc
+            |   调研问卷发放单位统计表.xls
+            |   载重车销售部访谈大纲.doc
+            |   
+            +---IT现状调研附件
+            |       IT技术调研问卷---硬件设施及其他.xls
+            |       应用系统调查表.xls
+            |       应用系统需求调查表.xls
+            |       
+            \---回收调研问卷
+                |   东风单位情况.xls
+                |   问卷回收情况.doc
+                |   
+                +---朝柴
+                |       企业现状调查表.doc
+                |       系统调查表.xls
+                |       系统调查表2.xls
+                |       系统调查表3.xls
+                |       
+                +---柳汽
+                |       业务现状与问题调查表1.doc
+                |       信息系统及技术调研问卷1.doc
+                |       信息系统及技术调研问卷附表.xls
+                |       
+                \---神龙
+                        神龙公司现状调查.doc
+                        神龙调查表.xls
+                        
