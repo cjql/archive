@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-applications-with-ibeacon/

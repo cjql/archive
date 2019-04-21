@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-project-2019-for-dummies/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/json-quick-syntax-reference/

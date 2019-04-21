@@ -1,1 +1,0 @@
-http://www.allitebooks.com/clearly-visual-basic-2nd-edition/

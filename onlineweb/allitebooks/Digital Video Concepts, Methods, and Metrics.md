@@ -1,1 +1,0 @@
-http://www.allitebooks.com/digital-video-concepts-methods-and-metrics/

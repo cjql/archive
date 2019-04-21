@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rstudio-for-r-statistical-computing-cookbook/

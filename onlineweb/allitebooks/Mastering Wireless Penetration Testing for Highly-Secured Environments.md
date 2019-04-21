@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-wireless-penetration-testing-for-highly-secured-environments/

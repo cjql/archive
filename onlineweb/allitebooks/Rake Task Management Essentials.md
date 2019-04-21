@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rake-task-management-essentials/

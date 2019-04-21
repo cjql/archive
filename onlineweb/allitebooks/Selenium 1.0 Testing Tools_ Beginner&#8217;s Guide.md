@@ -1,1 +1,0 @@
-http://www.allitebooks.com/selenium-1-0-testing-tools-beginners-guide/

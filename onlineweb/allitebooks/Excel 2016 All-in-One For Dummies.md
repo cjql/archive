@@ -1,1 +1,0 @@
-http://www.allitebooks.com/excel-2016-all-in-one-for-dummies/

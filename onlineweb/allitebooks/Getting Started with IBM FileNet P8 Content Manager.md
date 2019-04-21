@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-ibm-filenet-p8-content-manager/

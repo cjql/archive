@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scene-vision-making-sense-of-what-we-see/

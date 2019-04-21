@@ -1,1 +1,0 @@
-http://www.allitebooks.com/deploying-raspberry-pi-in-the-classroom-2/

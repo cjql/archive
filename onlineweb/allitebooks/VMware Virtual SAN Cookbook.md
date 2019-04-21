@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vmware-virtual-san-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/directx-11-1-game-programming/

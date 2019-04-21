@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-t-sql-programmers-guide-4th-edition/

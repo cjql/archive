@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sudoku-programming-with-c/

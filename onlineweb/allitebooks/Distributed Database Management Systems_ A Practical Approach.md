@@ -1,1 +1,0 @@
-http://www.allitebooks.com/distributed-database-management-systems-a-practical-approach/

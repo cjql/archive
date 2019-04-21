@@ -1,1 +1,0 @@
-http://www.allitebooks.com/phonegap-4-mobile-application-development-cookbook/

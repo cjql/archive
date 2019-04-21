@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-visio-2016-step-by-step/

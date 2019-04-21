@@ -1,1 +1,0 @@
-http://www.allitebooks.com/aptana-radrails-an-ide-for-rails-development/

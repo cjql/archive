@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introduction-to-image-processing-using-r/

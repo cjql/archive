@@ -1,1 +1,0 @@
-http://www.allitebooks.com/google-apps-script-for-beginners/

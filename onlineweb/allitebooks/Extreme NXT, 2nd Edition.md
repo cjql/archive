@@ -1,1 +1,0 @@
-http://www.allitebooks.com/extreme-nxt-2nd-edition/

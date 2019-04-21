@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-visual-studio-lightswitch-business-application-development/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-photoshop-cs6-top-100-simplified-tips-and-tricks/

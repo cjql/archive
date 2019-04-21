@@ -1,1 +1,0 @@
-http://www.allitebooks.com/teach-yourself-visually-iphone-8-iphone-8-plus-and-iphone-x/

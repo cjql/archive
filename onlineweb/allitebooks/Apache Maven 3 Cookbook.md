@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-maven-3-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/accelerated-c-2010/

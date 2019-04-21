@@ -1,1 +1,0 @@
-http://www.allitebooks.com/essential-c-6-0-5th-edition/

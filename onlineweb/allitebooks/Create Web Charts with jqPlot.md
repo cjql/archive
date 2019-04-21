@@ -1,1 +1,0 @@
-http://www.allitebooks.com/create-web-charts-with-jqplot/

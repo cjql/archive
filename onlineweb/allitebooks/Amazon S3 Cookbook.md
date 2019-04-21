@@ -1,1 +1,0 @@
-http://www.allitebooks.com/amazon-s3-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/swift-2-blueprints/

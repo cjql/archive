@@ -1,1 +1,0 @@
-http://www.allitebooks.com/embedded-systems-architecture-for-agile-development-2/

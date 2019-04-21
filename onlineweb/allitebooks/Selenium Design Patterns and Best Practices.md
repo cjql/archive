@@ -1,1 +1,0 @@
-http://www.allitebooks.com/selenium-design-patterns-and-best-practices/

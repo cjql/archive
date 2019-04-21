@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-hacker-playbook-2-practical-guide-to-penetration-testing/

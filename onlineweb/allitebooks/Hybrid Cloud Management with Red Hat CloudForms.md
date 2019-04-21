@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hybrid-cloud-management-with-red-hat-cloudforms/

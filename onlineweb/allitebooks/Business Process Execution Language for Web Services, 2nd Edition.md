@@ -1,1 +1,0 @@
-http://www.allitebooks.com/business-process-execution-language-for-web-services-2nd-edition/

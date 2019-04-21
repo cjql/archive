@@ -1,1 +1,0 @@
-http://www.allitebooks.com/liferay-portal-6-2-enterprise-intranets/

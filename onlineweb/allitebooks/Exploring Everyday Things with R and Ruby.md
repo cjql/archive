@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exploring-everyday-things-with-r-and-ruby/

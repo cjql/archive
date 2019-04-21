@@ -1,1 +1,0 @@
-http://www.allitebooks.com/lpic-2-linux-professional-institute-certification-study-guide/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-windows-8-1-apps-from-the-ground-up/

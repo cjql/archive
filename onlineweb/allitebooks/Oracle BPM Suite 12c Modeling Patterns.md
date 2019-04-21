@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-bpm-suite-12c-modeling-patterns/

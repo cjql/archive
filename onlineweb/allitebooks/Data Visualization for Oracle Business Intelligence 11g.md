@@ -1,1 +1,0 @@
-http://www.allitebooks.com/data-visualization-for-oracle-business-intelligence-11g/

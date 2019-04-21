@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mdx-with-microsoft-sql-server-2008-r2-analysis-services-cookbook/

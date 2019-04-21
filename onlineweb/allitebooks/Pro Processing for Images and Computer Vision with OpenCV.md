@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-processing-for-images-and-computer-vision-with-opencv/

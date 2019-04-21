@@ -1,1 +1,0 @@
-http://www.allitebooks.com/nosql-web-development-with-apache-cassandra/

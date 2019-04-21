@@ -1,1 +1,0 @@
-http://www.allitebooks.com/agile-project-management-using-team-foundation-server-2015/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-visual-studio-2015-unleashed-3rd-edition/

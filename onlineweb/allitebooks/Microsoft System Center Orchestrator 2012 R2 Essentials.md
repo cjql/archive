@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-system-center-orchestrator-2012-r2-essentials/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/yii2-by-example/

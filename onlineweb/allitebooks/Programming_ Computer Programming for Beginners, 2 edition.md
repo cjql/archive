@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-computer-programming-for-beginners-2-edition/

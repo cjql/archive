@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-dynamics-crm-2015-dashboards-with-power-bi/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cloud-development-and-deployment-with-cloudbees/

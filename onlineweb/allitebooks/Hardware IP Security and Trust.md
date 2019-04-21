@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hardware-ip-security-and-trust/

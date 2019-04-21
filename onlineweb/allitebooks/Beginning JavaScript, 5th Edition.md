@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-javascript-5th-edition/

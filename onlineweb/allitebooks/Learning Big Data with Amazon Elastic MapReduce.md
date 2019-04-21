@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-big-data-with-amazon-elastic-mapreduce/

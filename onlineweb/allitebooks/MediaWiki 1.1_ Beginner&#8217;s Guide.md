@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mediawiki-1-1-beginners-guide/

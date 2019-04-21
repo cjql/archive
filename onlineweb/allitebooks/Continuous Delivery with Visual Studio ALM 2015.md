@@ -1,1 +1,0 @@
-http://www.allitebooks.com/continuous-delivery-with-visual-studio-alm-2015/

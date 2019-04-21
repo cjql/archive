@@ -1,1 +1,0 @@
-http://www.allitebooks.com/machine-learning-for-audio-image-and-video-analysis-2nd-edition/

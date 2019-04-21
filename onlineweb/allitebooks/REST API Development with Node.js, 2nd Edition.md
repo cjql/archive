@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rest-api-development-with-node-js-2nd-edition/

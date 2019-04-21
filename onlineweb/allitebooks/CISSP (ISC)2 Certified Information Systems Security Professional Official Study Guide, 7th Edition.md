@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cissp-isc2-certified-information-systems-security-professional-official-study-guide-7th-edition/

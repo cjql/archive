@@ -1,1 +1,0 @@
-http://www.allitebooks.com/group-search-optimization-for-applications-in-structural-design/

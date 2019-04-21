@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apis-a-strategy-guide/

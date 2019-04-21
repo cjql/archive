@@ -1,1 +1,0 @@
-http://www.allitebooks.com/foundations-of-pygtk-development%ef%bc%8c2nd-edition/

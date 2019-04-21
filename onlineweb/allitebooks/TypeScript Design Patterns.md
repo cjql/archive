@@ -1,1 +1,0 @@
-http://www.allitebooks.com/typescript-design-patterns/

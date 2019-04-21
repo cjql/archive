@@ -1,1 +1,0 @@
-http://www.allitebooks.com/excel-power-pivot-and-power-query-for-dummies/

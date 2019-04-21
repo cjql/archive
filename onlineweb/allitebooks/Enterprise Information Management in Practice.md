@@ -1,1 +1,0 @@
-http://www.allitebooks.com/enterprise-information-management-in-practice/

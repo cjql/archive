@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-solid-principles-and-design-patterns-for-asp-net-developers/

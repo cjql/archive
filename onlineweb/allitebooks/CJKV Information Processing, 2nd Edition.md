@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cjkv-information-processing-2nd-edition/

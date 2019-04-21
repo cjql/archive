@@ -1,1 +1,0 @@
-http://www.allitebooks.com/interaction-design-for-3d-user-interfaces/

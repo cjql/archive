@@ -1,1 +1,0 @@
-http://www.allitebooks.com/creating-mac-widgets-with-dashcode/

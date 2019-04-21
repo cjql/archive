@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cissp-in-21-days-second-edition/

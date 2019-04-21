@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-amazon-ec2-sqs-kinesis-and-s3/

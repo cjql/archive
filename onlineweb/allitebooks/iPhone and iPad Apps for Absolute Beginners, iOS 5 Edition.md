@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-and-ipad-apps-for-absolute-beginners-ios-5-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-practical-guide-to-tpm-2-0/

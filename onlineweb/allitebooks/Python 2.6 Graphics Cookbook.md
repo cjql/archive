@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-2-6-graphics-cookbook/

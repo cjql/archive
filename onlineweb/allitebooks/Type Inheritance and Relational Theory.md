@@ -1,1 +1,0 @@
-http://www.allitebooks.com/type-inheritance-and-relational-theory/

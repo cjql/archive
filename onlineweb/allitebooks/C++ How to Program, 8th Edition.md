@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-how-to-program-8th-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/r-deep-learning-essentials/

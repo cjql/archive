@@ -1,1 +1,0 @@
-http://www.allitebooks.com/quickbooks-2019-all-in-one-for-dummies/

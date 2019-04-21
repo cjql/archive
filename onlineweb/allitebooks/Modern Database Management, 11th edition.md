@@ -1,1 +1,0 @@
-http://www.allitebooks.com/modern-database-management-11th-edition/

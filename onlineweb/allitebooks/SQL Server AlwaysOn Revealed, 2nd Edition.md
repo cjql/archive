@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sql-server-alwayson-revealed-2nd-edition/

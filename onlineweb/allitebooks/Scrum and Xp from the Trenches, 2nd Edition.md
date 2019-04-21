@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scrum-and-xp-from-the-trenches-2nd-edition/

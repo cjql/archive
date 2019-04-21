@@ -1,1 +1,0 @@
-http://www.allitebooks.com/foundations-of-statistical-algorithms/

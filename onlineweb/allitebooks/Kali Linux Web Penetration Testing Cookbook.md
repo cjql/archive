@@ -1,1 +1,0 @@
-http://www.allitebooks.com/kali-linux-web-penetration-testing-cookbook/

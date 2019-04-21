@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wicket-in-action/

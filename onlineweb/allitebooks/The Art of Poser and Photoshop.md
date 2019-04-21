@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-art-of-poser-and-photoshop/

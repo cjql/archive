@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sql-and-relational-theory-3rd-edition/

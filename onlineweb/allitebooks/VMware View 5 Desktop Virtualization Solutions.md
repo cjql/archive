@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vmware-view-5-desktop-virtualization-solutions/

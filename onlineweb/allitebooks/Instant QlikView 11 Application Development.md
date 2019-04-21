@@ -1,1 +1,0 @@
-http://www.allitebooks.com/instant-qlikview-11-application-development/

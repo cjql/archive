@@ -1,1 +1,0 @@
-http://www.allitebooks.com/entity-framework-tutorial-2nd-edition/

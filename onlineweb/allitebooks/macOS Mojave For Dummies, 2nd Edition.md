@@ -1,1 +1,0 @@
-http://www.allitebooks.com/macos-mojave-for-dummies-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-qlik-sense-the-official-guide-second-edition/

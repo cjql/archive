@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-microservices-with-spring-boot/

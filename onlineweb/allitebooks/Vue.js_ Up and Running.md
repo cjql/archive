@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vue-js-up-and-running/

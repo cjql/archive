@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-sap-scripts-smartforms-and-data-migration/

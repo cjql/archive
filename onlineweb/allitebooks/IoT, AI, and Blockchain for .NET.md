@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iot-ai-and-blockchain-for-net/

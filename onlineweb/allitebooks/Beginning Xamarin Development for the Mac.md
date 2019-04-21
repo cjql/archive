@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-xamarin-development-for-the-mac/

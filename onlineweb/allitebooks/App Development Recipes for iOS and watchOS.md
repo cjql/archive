@@ -1,1 +1,0 @@
-http://www.allitebooks.com/app-development-recipes-for-ios-and-watchos/

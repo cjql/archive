@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hlsl-and-pixel-shaders-for-xaml-developers/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-windows-azure-development-cookbook-second-edition/

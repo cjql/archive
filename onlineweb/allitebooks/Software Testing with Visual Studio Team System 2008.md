@@ -1,1 +1,0 @@
-http://www.allitebooks.com/software-testing-with-visual-studio-team-system-2008/

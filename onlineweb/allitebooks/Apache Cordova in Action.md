@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-cordova-in-action/

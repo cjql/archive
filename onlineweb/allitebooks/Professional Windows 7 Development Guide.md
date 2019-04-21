@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-windows-7-development-guide/

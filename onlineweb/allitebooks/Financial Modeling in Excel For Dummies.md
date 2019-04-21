@@ -1,1 +1,0 @@
-http://www.allitebooks.com/financial-modeling-in-excel-for-dummies/

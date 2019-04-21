@@ -1,1 +1,0 @@
-http://www.allitebooks.com/boost-asio-c-network-programming-cookbook/

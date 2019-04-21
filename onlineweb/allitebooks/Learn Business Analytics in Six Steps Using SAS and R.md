@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-business-analytics-in-six-steps-using-sas-and-r/

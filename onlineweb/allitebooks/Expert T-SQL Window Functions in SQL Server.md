@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-t-sql-window-functions-in-sql-server/

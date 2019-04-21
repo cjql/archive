@@ -1,1 +1,0 @@
-http://www.allitebooks.com/representing-and-reasoning-with-qualitative-preferences/

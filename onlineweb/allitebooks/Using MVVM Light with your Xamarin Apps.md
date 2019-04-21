@@ -1,1 +1,0 @@
-http://www.allitebooks.com/using-mvvm-light-with-your-xamarin-apps/

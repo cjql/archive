@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ios-wow-factor-apps-and-ux-design-techniques-for-iphone-and-ipad/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-for-dummies-8th-edition/

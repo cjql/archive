@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-responsive-data-visualization-for-the-web/

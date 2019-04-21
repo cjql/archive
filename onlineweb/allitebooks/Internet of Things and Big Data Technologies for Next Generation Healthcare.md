@@ -1,1 +1,0 @@
-http://www.allitebooks.com/internet-of-things-and-big-data-technologies-for-next-generation-healthcare/

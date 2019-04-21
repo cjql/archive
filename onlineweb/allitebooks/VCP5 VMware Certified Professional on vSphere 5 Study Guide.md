@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vcp5-vmware-certified-professional-on-vsphere-5-study-guide/

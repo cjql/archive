@@ -1,1 +1,0 @@
-http://www.allitebooks.com/javascript-for-kids-for-dummies/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exam-70-410-installing-and-configuring-windows-server-2012/

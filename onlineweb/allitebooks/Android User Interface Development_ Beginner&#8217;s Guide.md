@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-user-interface-development-beginners-guide/

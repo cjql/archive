@@ -1,1 +1,0 @@
-http://www.allitebooks.com/business-case-analysis-with-r/

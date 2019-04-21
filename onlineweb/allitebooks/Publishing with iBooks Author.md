@@ -1,1 +1,0 @@
-http://www.allitebooks.com/publishing-with-ibooks-author/

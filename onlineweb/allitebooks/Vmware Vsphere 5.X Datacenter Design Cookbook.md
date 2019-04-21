@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vmware-vsphere-5-x-datacenter-design-cookbook/

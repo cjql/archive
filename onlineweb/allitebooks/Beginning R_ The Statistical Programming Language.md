@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-r-the-statistical-programming-language/

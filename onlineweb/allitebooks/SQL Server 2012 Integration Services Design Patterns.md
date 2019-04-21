@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sql-server-2012-integration-services-design-patterns/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jdbc-metadata-mysql-and-oracle-recipes/

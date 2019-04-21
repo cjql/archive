@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-blackberry-10-app-development/

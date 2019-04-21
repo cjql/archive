@@ -1,1 +1,0 @@
-http://www.allitebooks.com/financial-modeling-for-business-owners-and-entrepreneurs/

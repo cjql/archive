@@ -1,1 +1,0 @@
-http://www.allitebooks.com/agile-office-365/

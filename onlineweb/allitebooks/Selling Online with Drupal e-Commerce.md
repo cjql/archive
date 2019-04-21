@@ -1,1 +1,0 @@
-http://www.allitebooks.com/selling-online-with-drupal-e-commerce/

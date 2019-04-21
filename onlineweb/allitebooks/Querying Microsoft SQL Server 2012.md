@@ -1,1 +1,0 @@
-http://www.allitebooks.com/querying-microsoft-sql-server-2012/

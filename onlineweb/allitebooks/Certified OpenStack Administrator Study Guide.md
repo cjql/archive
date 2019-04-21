@@ -1,1 +1,0 @@
-http://www.allitebooks.com/certified-openstack-administrator-study-guide/

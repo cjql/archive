@@ -1,1 +1,0 @@
-http://www.allitebooks.com/how-to-do-everything-adobe-illustrator-cs4/

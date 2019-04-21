@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipod-touch-made-simple-ios-5-edition/

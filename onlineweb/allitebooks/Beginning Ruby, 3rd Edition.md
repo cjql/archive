@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-ruby-3rd-edition/

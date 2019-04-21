@@ -1,1 +1,0 @@
-http://www.allitebooks.com/service-quality-of-cloud-based-applications/

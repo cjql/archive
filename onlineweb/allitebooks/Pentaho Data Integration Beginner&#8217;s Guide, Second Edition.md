@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pentaho-data-integration-beginners-guide-second-edition/

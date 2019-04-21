@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exam-ref-70-762-developing-sql-databases/

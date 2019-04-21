@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-postgresql-on-the-cloud/

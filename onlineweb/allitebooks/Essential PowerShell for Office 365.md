@@ -1,1 +1,0 @@
-http://www.allitebooks.com/essential-powershell-for-office-365/

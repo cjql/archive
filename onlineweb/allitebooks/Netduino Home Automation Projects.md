@@ -1,1 +1,0 @@
-http://www.allitebooks.com/netduino-home-automation-projects/

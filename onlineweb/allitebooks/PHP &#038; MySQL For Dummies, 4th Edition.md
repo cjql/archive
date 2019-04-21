@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-mysql-for-dummies-4th-edition/

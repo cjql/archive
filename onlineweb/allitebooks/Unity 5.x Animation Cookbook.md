@@ -1,1 +1,0 @@
-http://www.allitebooks.com/unity-5-x-animation-cookbook/

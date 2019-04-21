@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scala-for-the-impatient-2nd-edition/

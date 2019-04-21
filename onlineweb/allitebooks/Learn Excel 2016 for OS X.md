@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-excel-2016-for-os-x/

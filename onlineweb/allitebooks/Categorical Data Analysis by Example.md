@@ -1,1 +1,0 @@
-http://www.allitebooks.com/categorical-data-analysis-by-example/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cms-made-simple-development-cookbook/

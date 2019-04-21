@@ -1,1 +1,0 @@
-http://www.allitebooks.com/koha-3-library-management-system/

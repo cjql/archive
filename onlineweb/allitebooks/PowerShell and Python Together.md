@@ -1,1 +1,0 @@
-http://www.allitebooks.com/powershell-and-python-together/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/good-habits-for-great-coding/

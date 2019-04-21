@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-in-a-nutshell-2nd-edition/

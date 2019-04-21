@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-iphone-game-development-with-cocos2d-3-0/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-consolidation-in-oracle-database-12c/

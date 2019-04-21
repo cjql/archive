@@ -1,1 +1,0 @@
-http://www.allitebooks.com/business-in-real-time-using-azure-iot-and-cortana-intelligence-suite/

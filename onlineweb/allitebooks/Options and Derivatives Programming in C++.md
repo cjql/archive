@@ -1,1 +1,0 @@
-http://www.allitebooks.com/options-and-derivatives-programming-in-c/

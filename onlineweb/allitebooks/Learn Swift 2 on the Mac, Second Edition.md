@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-swift-2-on-the-mac-2nd-edition/

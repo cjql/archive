@@ -1,1 +1,0 @@
-http://www.allitebooks.com/html5-game-engines-app-development-and-distribution/

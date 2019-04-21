@@ -1,1 +1,0 @@
-http://www.allitebooks.com/metro-revealed-building-windows-8-apps-with-xaml-and-c/

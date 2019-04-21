@@ -1,1 +1,0 @@
-http://www.allitebooks.com/citrix-xenapp-7-5-desktop-virtualization-solutions/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/amazing-android-apps-for-dummies/

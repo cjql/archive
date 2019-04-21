@@ -1,1 +1,0 @@
-http://www.allitebooks.com/gnome-3-application-development-beginners-guide/

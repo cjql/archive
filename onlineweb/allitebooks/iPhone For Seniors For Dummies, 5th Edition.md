@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-for-seniors-for-dummies-5th-edition/

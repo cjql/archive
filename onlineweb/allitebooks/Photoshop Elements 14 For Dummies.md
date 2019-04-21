@@ -1,1 +1,0 @@
-http://www.allitebooks.com/photoshop-elements-14-for-dummies/

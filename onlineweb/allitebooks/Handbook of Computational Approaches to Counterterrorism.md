@@ -1,1 +1,0 @@
-http://www.allitebooks.com/handbook-of-computational-approaches-to-counterterrorism/

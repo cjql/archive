@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-net-for-financial-markets/

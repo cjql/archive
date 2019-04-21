@@ -1,1 +1,0 @@
-http://www.allitebooks.com/software-reading-techniques/

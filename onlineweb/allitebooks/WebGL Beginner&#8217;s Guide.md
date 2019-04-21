@@ -1,1 +1,0 @@
-http://www.allitebooks.com/webgl-beginners-guide/

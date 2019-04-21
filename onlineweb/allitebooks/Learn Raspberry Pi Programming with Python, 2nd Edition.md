@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-raspberry-pi-programming-with-python-2nd-edition/

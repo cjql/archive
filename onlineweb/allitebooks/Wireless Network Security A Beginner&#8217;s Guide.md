@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wireless-network-security-a-beginners-guide/

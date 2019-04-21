@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introduction-to-machine-learning-with-python/

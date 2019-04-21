@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-persistence-with-hibernate-second-edition/

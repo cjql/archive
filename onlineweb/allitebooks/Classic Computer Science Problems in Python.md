@@ -1,1 +1,0 @@
-http://www.allitebooks.com/classic-computer-science-problems-in-python/

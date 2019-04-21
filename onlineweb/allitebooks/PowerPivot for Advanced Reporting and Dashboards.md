@@ -1,1 +1,0 @@
-http://www.allitebooks.com/powerpivot-for-advanced-reporting-and-dashboards/

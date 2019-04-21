@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wicked-cool-shell-scripts-2nd-edition/

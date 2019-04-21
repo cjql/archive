@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-lpic-1-linux-certification-study-guide/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/starting-out-with-python-2nd-edition/

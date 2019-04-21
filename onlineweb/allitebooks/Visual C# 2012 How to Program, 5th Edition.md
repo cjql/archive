@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visual-c-2012-how-to-program-5th-edition/

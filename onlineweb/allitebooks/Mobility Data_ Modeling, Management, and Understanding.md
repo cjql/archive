@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mobility-data-modeling-management-and-understanding/

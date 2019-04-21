@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-perl-7th-edition/

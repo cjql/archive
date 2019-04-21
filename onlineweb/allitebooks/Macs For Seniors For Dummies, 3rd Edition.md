@@ -1,1 +1,0 @@
-http://www.allitebooks.com/macs-for-seniors-for-dummies-3rd-edition/

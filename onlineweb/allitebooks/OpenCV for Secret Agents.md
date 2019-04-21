@@ -1,1 +1,0 @@
-http://www.allitebooks.com/opencv-for-secret-agents/

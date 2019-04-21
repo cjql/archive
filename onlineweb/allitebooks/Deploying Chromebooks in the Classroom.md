@@ -1,1 +1,0 @@
-http://www.allitebooks.com/deploying-chromebooks-in-the-classroom/

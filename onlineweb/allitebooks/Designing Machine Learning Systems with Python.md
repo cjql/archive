@@ -1,1 +1,0 @@
-http://www.allitebooks.com/designing-machine-learning-systems-with-python/

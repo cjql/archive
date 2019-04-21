@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-students-guide-to-python-for-physical-modeling/

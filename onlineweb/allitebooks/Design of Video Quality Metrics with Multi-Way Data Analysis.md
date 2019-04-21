@@ -1,1 +1,0 @@
-http://www.allitebooks.com/design-of-video-quality-metrics-with-multi-way-data-analysis/

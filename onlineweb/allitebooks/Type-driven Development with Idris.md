@@ -1,1 +1,0 @@
-http://www.allitebooks.com/type-driven-development-with-idris/

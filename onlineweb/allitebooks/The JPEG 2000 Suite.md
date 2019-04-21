@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-jpeg-2000-suite/

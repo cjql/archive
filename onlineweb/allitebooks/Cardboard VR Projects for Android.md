@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cardboard-vr-projects-for-android/

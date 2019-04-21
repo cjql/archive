@@ -1,1 +1,0 @@
-http://www.allitebooks.com/yocto-for-raspberry-pi/

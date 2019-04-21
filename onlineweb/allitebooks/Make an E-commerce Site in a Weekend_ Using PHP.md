@@ -1,1 +1,0 @@
-http://www.allitebooks.com/make-an-e-commerce-site-in-a-weekend-using-php/

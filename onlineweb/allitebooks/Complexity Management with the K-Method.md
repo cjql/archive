@@ -1,1 +1,0 @@
-http://www.allitebooks.com/complexity-management-with-the-k-method/

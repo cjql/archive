@@ -1,1 +1,0 @@
-http://www.allitebooks.com/creating-mobile-apps-with-appcelerator-titanium/

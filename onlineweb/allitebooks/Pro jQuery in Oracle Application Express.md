@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-jquery-in-oracle-application-express/

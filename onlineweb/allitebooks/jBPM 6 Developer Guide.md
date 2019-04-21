@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jbpm-6-developer-guide/

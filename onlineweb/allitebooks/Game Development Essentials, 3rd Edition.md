@@ -1,1 +1,0 @@
-http://www.allitebooks.com/game-development-essentials-3rd-edition/

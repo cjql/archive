@@ -1,1 +1,0 @@
-http://www.allitebooks.com/physics-for-flash-games-animation-and-simulations/

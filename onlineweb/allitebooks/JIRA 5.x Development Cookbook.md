@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jira-5-x-development-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ccna-data-center-dcicn-200-150-official-cert-guide/

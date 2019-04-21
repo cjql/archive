@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-in-24-hours-sams-teach-yourself-covering-java-9-8th-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-excel-vba-programming-for-the-absolute-beginner-3rd-edition/

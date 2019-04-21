@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ws-bpel-2-0-for-soa-composite-applications-with-oracle-soa-suite-11g/

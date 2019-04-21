@@ -1,1 +1,0 @@
-http://www.allitebooks.com/use-case-driven-object-modeling-with-uml/

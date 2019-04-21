@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-maintainable-software-java-edition/

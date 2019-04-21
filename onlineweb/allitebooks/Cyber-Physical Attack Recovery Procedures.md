@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cyber-physical-attack-recovery-procedures/

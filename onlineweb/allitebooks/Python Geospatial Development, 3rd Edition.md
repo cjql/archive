@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-geospatial-development-3rd-edition/

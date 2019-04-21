@@ -1,1 +1,0 @@
-http://www.allitebooks.com/empirical-research-in-software-engineering/

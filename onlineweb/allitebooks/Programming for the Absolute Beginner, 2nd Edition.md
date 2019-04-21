@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-for-the-absolute-beginner-2nd-edition/

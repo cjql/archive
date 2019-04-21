@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-3cx-ip-pbx-tutorial/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/os-x-mavericks-for-dummies/

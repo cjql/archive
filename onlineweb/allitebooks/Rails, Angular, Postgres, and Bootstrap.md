@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rails-angular-postgres-and-bootstrap/

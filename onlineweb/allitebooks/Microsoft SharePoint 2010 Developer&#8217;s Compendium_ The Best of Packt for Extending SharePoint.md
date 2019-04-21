@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-sharepoint-2010-developers-compendium-the-best-of-packt-for-extending-sharepoint/

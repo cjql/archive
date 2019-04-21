@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-bayesian-models-with-r/

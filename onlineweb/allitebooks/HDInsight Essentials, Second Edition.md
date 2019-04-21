@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hdinsight-essentials-second-edition/

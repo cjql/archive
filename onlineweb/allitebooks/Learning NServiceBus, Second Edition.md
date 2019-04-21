@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-nservicebus-second-edition/

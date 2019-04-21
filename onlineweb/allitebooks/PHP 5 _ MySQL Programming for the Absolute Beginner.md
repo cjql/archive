@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-5-mysql-programming-for-the-absolute-beginner/

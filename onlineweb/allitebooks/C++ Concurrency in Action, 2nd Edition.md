@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-concurrency-in-action-2nd-edition/

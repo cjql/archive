@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-microservices-with-asp-net-core/

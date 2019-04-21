@@ -1,1 +1,0 @@
-http://www.allitebooks.com/refactoring-with-microsoft-visual-studio-2010/

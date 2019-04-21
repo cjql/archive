@@ -1,1 +1,0 @@
-http://www.allitebooks.com/migrating-large-scale-services-to-the-cloud/

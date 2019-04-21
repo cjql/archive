@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wireless-all-in-one-for-dummies-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-raspberry-pi-2-with-linux-and-windows-10-2nd-edition/

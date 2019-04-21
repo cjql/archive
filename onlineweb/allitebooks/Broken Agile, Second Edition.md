@@ -1,1 +1,0 @@
-http://www.allitebooks.com/broken-agile-second-edition/

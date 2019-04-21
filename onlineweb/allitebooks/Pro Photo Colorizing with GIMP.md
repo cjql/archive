@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-photo-colorizing-with-gimp/

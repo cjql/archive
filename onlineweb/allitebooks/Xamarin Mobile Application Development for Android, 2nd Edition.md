@@ -1,1 +1,0 @@
-http://www.allitebooks.com/xamarin-mobile-application-development-for-android-2nd-edition/

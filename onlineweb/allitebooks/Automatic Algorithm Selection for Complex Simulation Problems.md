@@ -1,1 +1,0 @@
-http://www.allitebooks.com/automatic-algorithm-selection-for-complex-simulation-problems/

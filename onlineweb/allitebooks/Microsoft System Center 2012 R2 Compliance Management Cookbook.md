@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-system-center-2012-r2-compliance-management-cookbook/

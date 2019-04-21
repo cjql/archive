@@ -1,1 +1,0 @@
-http://www.allitebooks.com/arch-linux-environment-set-up-how-to/

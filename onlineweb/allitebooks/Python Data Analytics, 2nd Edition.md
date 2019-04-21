@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-data-analytics-2nd-edition/

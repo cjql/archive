@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipv6-address-planning/

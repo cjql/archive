@@ -1,1 +1,0 @@
-http://www.allitebooks.com/swift-development-for-the-apple-watch/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/high-impact-data-visualization-in-excel-with-power-view-3d-maps-get-transform-and-power-bi-2nd-edition-2/

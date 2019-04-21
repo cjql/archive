@@ -1,1 +1,0 @@
-http://www.allitebooks.com/asp-net-2-0-all-in-one-desk-reference-for-dummies/

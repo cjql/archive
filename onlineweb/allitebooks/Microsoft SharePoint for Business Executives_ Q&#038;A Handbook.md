@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-sharepoint-for-business-executives-qa-handbook/

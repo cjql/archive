@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rapid-game-development-using-cocos2d-js/

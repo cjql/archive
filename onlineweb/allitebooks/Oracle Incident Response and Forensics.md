@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-incident-response-and-forensics/

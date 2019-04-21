@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-powerpivot-dax-formulas-for-excel-2010/

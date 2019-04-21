@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-sharepoint-2013-governance/

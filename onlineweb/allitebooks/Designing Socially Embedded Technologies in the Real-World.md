@@ -1,1 +1,0 @@
-http://www.allitebooks.com/designing-socially-embedded-technologies-in-the-real-world/

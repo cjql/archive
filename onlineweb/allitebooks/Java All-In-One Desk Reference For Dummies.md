@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-all-in-one-desk-reference-for-dummies/

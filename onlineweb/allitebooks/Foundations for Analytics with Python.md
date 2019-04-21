@@ -1,1 +1,0 @@
-http://www.allitebooks.com/foundations-for-analytics-with-python/

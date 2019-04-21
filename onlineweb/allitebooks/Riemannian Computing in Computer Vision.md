@@ -1,1 +1,0 @@
-http://www.allitebooks.com/riemannian-computing-in-computer-vision/

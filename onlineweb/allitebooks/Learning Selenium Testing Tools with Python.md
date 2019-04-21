@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-selenium-testing-tools-with-python/

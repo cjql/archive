@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hardening-azure-applications-2nd-edition/

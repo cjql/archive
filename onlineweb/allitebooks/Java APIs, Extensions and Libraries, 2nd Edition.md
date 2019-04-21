@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-apis-extensions-and-libraries-2nd-edition/

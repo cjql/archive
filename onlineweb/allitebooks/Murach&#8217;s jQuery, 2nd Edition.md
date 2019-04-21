@@ -1,1 +1,0 @@
-http://www.allitebooks.com/murachs-jquery-2nd-edition/

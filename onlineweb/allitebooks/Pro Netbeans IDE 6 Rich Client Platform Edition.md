@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-netbeans-ide-6-rich-client-platform-edition/

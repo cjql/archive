@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-oracle-application-express-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ibm-cognos-8-planning/

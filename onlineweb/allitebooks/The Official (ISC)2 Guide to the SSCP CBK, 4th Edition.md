@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-official-isc2-guide-to-the-sscp-cbk-4th-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-ios-game-center-and-game-kit/

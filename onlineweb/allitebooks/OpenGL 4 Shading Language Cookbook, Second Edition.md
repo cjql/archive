@@ -1,1 +1,0 @@
-http://www.allitebooks.com/opengl-4-shading-language-cookbook-second-edition/

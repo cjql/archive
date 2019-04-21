@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-robot-design-game-playing-robots/

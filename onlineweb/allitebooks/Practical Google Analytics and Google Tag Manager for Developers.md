@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-google-analytics-and-google-tag-manager-for-developers/

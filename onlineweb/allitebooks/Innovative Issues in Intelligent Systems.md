@@ -1,1 +1,0 @@
-http://www.allitebooks.com/innovative-issues-in-intelligent-systems/

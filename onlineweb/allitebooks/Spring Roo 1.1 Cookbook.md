@@ -1,1 +1,0 @@
-http://www.allitebooks.com/spring-roo-1-1-cookbook/

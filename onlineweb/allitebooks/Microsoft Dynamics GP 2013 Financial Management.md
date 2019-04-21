@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-dynamics-gp-2013-financial-management/

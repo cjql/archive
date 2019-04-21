@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jboss-tools-3-developers-guide/

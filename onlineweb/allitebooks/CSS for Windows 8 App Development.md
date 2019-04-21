@@ -1,1 +1,0 @@
-http://www.allitebooks.com/css-for-windows-8-app-development/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mathematical-structures-for-computer-graphics/

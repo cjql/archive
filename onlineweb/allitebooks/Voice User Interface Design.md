@@ -1,1 +1,0 @@
-http://www.allitebooks.com/voice-user-interface-design/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-python-3-standard-library-by-example/

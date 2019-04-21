@@ -1,1 +1,0 @@
-http://www.allitebooks.com/xcode-6-essentials/

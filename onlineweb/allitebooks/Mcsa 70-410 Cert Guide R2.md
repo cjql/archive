@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mcsa-70-410-cert-guide-r2/

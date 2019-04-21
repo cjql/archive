@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adempiere-3-6-cookbook/

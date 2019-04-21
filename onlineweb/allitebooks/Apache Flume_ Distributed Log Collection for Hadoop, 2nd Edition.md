@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-flume-distributed-log-collection-for-hadoop-2nd-edition/

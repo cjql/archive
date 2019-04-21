@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hadoop-operations-and-cluster-management-cookbook/

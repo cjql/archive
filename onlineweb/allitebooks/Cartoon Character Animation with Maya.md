@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cartoon-character-animation-with-maya/

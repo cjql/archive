@@ -1,1 +1,0 @@
-http://www.allitebooks.com/livecode-mobile-development-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/groovy-in-action-second-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-jquery-1-3/

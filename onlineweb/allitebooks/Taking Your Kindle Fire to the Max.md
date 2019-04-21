@@ -1,1 +1,0 @@
-http://www.allitebooks.com/taking-your-kindle-fire-to-the-max/

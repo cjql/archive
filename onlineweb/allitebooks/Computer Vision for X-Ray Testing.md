@@ -1,1 +1,0 @@
-http://www.allitebooks.com/computer-vision-for-x-ray-testing/

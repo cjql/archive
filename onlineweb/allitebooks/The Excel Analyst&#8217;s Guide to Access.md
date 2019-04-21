@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-excel-analysts-guide-to-access/

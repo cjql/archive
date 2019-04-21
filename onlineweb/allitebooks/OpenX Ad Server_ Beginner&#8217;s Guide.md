@@ -1,1 +1,0 @@
-http://www.allitebooks.com/openx-ad-server-beginners-guide/

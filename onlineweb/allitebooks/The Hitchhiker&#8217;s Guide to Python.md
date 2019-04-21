@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-hitchhikers-guide-to-python/

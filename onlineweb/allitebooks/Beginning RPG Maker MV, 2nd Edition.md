@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-rpg-maker-mv-2nd-edition/
