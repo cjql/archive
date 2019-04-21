@@ -1,0 +1,1 @@
+http://www.allitebooks.com/developing-microsoft-dynamics-gp-business-applications/

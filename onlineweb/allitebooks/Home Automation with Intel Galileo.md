@@ -1,0 +1,1 @@
+http://www.allitebooks.com/home-automation-with-intel-galileo/

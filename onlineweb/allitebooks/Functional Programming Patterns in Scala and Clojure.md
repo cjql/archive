@@ -1,0 +1,1 @@
+http://www.allitebooks.com/functional-programming-patterns-in-scala-and-clojure/

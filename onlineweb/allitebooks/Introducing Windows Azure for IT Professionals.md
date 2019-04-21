@@ -1,0 +1,1 @@
+http://www.allitebooks.com/introducing-windows-azure-for-it-professionals/

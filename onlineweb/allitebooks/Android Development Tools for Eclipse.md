@@ -1,0 +1,1 @@
+http://www.allitebooks.com/android-development-tools-for-eclipse/

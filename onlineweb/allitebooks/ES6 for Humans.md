@@ -1,0 +1,1 @@
+http://www.allitebooks.com/es6-for-humans/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/implementing-microsoft-dynamics-nav-2013/

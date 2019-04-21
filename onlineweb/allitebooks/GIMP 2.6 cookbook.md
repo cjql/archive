@@ -1,0 +1,1 @@
+http://www.allitebooks.com/gimp-2-6-cookbook/

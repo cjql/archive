@@ -1,0 +1,1 @@
+http://www.allitebooks.com/bayesian-networks-with-examples-in-r/

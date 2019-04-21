@@ -1,0 +1,1 @@
+http://www.allitebooks.com/image-and-video-processing-in-the-compressed-domain/

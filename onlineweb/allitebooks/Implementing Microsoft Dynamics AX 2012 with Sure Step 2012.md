@@ -1,0 +1,1 @@
+http://www.allitebooks.com/implementing-microsoft-dynamics-ax-2012-with-sure-step-2012/

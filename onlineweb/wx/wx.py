@@ -3,6 +3,3 @@
     for line in lines:
         with open(line.strip(),'w',encoding='utf8') as f1:
             f1.write('')
-
-    
-    

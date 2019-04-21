@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-jquery-2nd-edition/

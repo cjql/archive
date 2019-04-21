@@ -1,0 +1,1 @@
+http://www.allitebooks.com/drupal-7-multi-sites-configuration/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-microsoft-sql-server-2012-programming/

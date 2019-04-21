@@ -1,0 +1,1 @@
+http://www.allitebooks.com/apache-solr-3-enterprise-search-server/

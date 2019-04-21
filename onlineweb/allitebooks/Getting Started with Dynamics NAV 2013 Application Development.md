@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-dynamics-nav-2013-application-development/

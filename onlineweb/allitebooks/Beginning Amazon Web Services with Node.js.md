@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-amazon-web-services-with-node-js/

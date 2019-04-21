@@ -1,0 +1,1 @@
+http://www.allitebooks.com/clojure-for-data-science/

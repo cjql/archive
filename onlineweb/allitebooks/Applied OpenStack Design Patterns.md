@@ -1,0 +1,1 @@
+http://www.allitebooks.com/applied-openstack-design-patterns/

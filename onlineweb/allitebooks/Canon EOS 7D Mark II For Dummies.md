@@ -1,0 +1,1 @@
+http://www.allitebooks.com/canon-eos-7d-mark-ii-for-dummies/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/gamemaker-game-programming-with-gml/

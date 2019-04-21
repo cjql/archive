@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-entity-framework-core-2-0/

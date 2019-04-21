@@ -1,0 +1,1 @@
+http://www.allitebooks.com/implementing-cloud-storage-with-openstack-swift/

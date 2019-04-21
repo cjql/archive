@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ibooks-and-eperiodicals-on-the-ipad-the-mini-missing-manual/

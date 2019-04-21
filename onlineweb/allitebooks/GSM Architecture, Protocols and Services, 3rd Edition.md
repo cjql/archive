@@ -1,0 +1,1 @@
+http://www.allitebooks.com/gsm-architecture-protocols-and-services-3rd-edition/

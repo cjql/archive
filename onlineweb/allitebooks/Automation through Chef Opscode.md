@@ -1,0 +1,1 @@
+http://www.allitebooks.com/automation-through-chef-opscode/

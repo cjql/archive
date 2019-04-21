@@ -1,0 +1,1 @@
+http://www.allitebooks.com/guide-to-security-assurance-for-cloud-computing/

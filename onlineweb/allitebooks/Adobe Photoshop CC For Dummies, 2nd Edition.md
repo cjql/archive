@@ -1,0 +1,1 @@
+http://www.allitebooks.com/adobe-photoshop-cc-for-dummies-2nd-edition/

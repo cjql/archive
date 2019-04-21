@@ -1,0 +1,1 @@
+http://www.allitebooks.com/expert-sql-server-in-memory-oltp/

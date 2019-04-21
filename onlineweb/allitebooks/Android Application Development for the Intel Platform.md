@@ -1,0 +1,1 @@
+http://www.allitebooks.com/android-application-development-for-the-intel-platform/

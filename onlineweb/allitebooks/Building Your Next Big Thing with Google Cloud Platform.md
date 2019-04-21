@@ -1,0 +1,1 @@
+http://www.allitebooks.com/building-your-next-big-thing-with-google-cloud-platform/

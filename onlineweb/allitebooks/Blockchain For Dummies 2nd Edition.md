@@ -1,0 +1,1 @@
+http://www.allitebooks.com/blockchain-for-dummies-2nd-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/cassandra-data-modeling-and-analysis/

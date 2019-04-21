@@ -1,0 +1,1 @@
+http://www.allitebooks.com/embedded-linux-development-with-yocto-project/

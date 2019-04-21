@@ -1,0 +1,1 @@
+http://www.allitebooks.com/core-data-2nd-edition/

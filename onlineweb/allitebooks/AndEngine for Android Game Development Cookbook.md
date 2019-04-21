@@ -1,0 +1,1 @@
+http://www.allitebooks.com/andengine-for-android-game-development-cookbook/

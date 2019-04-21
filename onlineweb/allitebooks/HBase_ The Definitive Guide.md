@@ -1,0 +1,1 @@
+http://www.allitebooks.com/hbase-the-definitive-guide/

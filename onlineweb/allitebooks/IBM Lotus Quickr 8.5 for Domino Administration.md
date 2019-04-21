@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ibm-lotus-quickr-8-5-for-domino-administration/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/design-patterns-in-modern-c/

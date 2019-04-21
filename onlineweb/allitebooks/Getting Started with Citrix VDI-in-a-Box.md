@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-citrix-vdi-in-a-box/

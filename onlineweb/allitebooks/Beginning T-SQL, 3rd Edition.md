@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-t-sql-3rd-edition/

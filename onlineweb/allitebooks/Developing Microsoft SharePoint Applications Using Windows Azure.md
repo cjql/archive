@@ -1,0 +1,1 @@
+http://www.allitebooks.com/developing-microsoft-sharepoint-applications-using-windows-azure/

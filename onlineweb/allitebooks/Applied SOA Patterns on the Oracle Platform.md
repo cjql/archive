@@ -1,0 +1,1 @@
+http://www.allitebooks.com/applied-soa-patterns-on-the-oracle-platform/

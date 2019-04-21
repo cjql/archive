@@ -1,0 +1,1 @@
+http://www.allitebooks.com/expert-sharepoint-2010-practices/

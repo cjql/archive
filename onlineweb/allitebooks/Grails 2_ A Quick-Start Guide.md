@@ -1,0 +1,1 @@
+http://www.allitebooks.com/grails-2-a-quick-start-guide/

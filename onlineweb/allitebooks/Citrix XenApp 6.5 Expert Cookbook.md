@@ -1,0 +1,1 @@
+http://www.allitebooks.com/citrix-xenapp-6-5-expert-cookbook/

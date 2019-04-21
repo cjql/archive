@@ -1,0 +1,1 @@
+http://www.allitebooks.com/effective-c-2nd-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-sql-server-2014-administration/

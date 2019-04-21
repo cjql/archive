@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-django-e-commerce/

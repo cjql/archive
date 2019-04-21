@@ -1,0 +1,1 @@
+http://www.allitebooks.com/algorithms-and-ordering-heuristics-for-distributed-constraint-satisfaction-problems/

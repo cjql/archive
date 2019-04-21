@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ejb-3-0-database-persistence-with-oracle-fusion-middleware-11g/

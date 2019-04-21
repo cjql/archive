@@ -1,0 +1,1 @@
+http://www.allitebooks.com/android-application-development-with-maven/

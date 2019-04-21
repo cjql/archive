@@ -1,0 +1,1 @@
+http://www.allitebooks.com/blend-for-visual-studio-2012-by-example-beginners-guide/

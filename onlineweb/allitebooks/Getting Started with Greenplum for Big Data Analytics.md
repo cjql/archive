@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-greenplum-for-big-data-analytics/

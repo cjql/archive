@@ -1,0 +1,1 @@
+http://www.allitebooks.com/a-developers-guide-to-data-modeling-for-sql-server/

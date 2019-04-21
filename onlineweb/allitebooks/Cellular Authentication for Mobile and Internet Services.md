@@ -1,0 +1,1 @@
+http://www.allitebooks.com/cellular-authentication-for-mobile-and-internet-services/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ada-2012-rationale/

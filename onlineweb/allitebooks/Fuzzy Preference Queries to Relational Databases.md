@@ -1,0 +1,1 @@
+http://www.allitebooks.com/fuzzy-preference-queries-to-relational-databases/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/building-dashboards-with-microsoft-dynamics-gp-2013-and-excel-2013/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/effective-team-management-with-vsts-and-tfs/

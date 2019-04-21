@@ -1,0 +1,1 @@
+http://www.allitebooks.com/citrix-xendesktop-7-cookbook/

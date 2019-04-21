@@ -1,0 +1,1 @@
+http://www.allitebooks.com/force-com-development-blueprints/

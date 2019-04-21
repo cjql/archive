@@ -1,0 +1,1 @@
+http://www.allitebooks.com/expert-performance-indexing-for-sql-server-2012/

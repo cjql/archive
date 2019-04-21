@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-citrix-provisioning-services-7-0/

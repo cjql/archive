@@ -1,0 +1,1 @@
+http://www.allitebooks.com/elasticsearch-server-2nd-edition/

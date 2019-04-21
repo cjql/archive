@@ -1,0 +1,1 @@
+http://www.allitebooks.com/blackberry-enterprise-server-5-implementation-guide/

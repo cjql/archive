@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ccsp-isc2-certified-cloud-security-professional-official-study-guide/

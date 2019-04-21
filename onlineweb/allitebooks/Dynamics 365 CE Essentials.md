@@ -1,0 +1,1 @@
+http://www.allitebooks.com/dynamics-365-ce-essentials/

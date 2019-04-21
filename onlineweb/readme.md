@@ -43,4 +43,5 @@ https://en.wikibooks.org/wiki/Subject:Python_programming_language
 https://www.wq1.net/  
 http://www.wzbook.xyz/  
 
+http://www.panduoduo.net/  
 https://www.douban.com/group/topic/27717353/  

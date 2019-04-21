@@ -1,0 +1,1 @@
+http://www.allitebooks.com/building-modular-cloud-apps-with-osgi/

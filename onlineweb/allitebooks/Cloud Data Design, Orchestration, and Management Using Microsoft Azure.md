@@ -1,0 +1,1 @@
+http://www.allitebooks.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/

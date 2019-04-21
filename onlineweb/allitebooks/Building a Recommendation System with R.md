@@ -1,0 +1,1 @@
+http://www.allitebooks.com/building-a-recommendation-system-with-r/

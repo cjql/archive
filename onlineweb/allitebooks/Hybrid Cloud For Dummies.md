@@ -1,0 +1,1 @@
+http://www.allitebooks.com/hybrid-cloud-for-dummies/

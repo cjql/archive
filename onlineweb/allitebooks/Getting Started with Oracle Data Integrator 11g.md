@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-oracle-data-integrator-11g/

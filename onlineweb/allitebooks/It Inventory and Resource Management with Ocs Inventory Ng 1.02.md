@@ -1,0 +1,1 @@
+http://www.allitebooks.com/it-inventory-and-resource-management-with-ocs-inventory-ng-1-02/

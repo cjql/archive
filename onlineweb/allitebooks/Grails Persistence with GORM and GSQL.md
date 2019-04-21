@@ -1,0 +1,1 @@
+http://www.allitebooks.com/grails-persistence-with-gorm-and-gsql/

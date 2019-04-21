@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-sql-server-for-developers-4th-edition/

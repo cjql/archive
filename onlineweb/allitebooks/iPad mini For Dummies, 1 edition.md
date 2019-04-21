@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ipad-mini-for-dummies/

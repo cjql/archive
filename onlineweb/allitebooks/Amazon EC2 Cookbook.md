@@ -1,0 +1,1 @@
+http://www.allitebooks.com/amazon-ec2-cookbook/

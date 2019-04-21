@@ -1,0 +1,1 @@
+http://www.allitebooks.com/deep-learning-with-python/

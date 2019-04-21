@@ -1,0 +1,1 @@
+http://www.allitebooks.com/do-more-with-soa-integration-best-of-packt/

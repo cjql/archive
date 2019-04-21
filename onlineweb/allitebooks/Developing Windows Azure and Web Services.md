@@ -1,0 +1,1 @@
+http://www.allitebooks.com/developing-windows-azure-and-web-services/

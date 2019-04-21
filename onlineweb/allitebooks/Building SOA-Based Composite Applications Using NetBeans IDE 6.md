@@ -1,0 +1,1 @@
+http://www.allitebooks.com/building-soa-based-composite-applications-using-netbeans-ide-6/

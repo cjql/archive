@@ -1,0 +1,1 @@
+http://www.allitebooks.com/hadoop-mapreduce-v2-cookbook-2nd-edition/

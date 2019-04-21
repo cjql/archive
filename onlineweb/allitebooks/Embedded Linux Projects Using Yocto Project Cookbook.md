@@ -1,0 +1,1 @@
+http://www.allitebooks.com/embedded-linux-projects-using-yocto-project-cookbook/

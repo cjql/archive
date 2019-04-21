@@ -1,0 +1,1 @@
+http://www.allitebooks.com/building-mapping-applications-with-qgis/

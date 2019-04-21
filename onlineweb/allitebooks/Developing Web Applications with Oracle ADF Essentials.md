@@ -1,0 +1,1 @@
+http://www.allitebooks.com/developing-web-applications-with-oracle-adf-essentials/

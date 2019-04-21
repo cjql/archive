@@ -1,0 +1,1 @@
+http://www.allitebooks.com/build-mobile-apps-with-ionic-2-and-firebase/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/developing-restful-web-services-with-jersey-2-0/

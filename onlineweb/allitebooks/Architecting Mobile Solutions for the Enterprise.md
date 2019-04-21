@@ -1,0 +1,1 @@
+http://www.allitebooks.com/architecting-mobile-solutions-for-the-enterprise/

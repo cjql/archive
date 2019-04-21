@@ -1,0 +1,1 @@
+http://www.allitebooks.com/drupal-development-tricks-for-designers/

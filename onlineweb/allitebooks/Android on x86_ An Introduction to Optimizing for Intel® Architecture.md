@@ -1,0 +1,1 @@
+http://www.allitebooks.com/android-on-x86-an-introduction-to-optimizing-for-intel-architecture/

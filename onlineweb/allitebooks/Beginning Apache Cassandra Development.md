@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-apache-cassandra-development/

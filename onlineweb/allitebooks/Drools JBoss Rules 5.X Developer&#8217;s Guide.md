@@ -1,0 +1,1 @@
+http://www.allitebooks.com/drools-jboss-rules-5-x-developers-guide/

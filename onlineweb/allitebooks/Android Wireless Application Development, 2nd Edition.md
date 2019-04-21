@@ -1,0 +1,1 @@
+http://www.allitebooks.com/android-wireless-application-development-2nd-edition/

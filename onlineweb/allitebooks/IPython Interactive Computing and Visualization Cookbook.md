@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ipython-interactive-computing-and-visualization-cookbook/
