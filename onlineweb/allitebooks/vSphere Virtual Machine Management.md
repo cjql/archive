@@ -1,0 +1,1 @@
+http://www.allitebooks.com/vsphere-virtual-machine-management/

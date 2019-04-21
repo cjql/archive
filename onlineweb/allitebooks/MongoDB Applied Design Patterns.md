@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mongodb-applied-design-patterns/

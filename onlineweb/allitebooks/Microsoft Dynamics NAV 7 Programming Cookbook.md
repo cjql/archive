@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-dynamics-nav-7-programming-cookbook/

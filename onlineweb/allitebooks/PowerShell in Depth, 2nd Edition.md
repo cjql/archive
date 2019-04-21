@@ -1,0 +1,1 @@
+http://www.allitebooks.com/powershell-in-depth-2nd-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-joomla-3-extension-development-3rd-edition/

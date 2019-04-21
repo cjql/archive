@@ -1,0 +1,1 @@
+http://www.allitebooks.com/rails-4-in-action-second-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sql-for-dummies-8th-edition/

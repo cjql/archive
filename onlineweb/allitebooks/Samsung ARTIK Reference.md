@@ -1,0 +1,1 @@
+http://www.allitebooks.com/samsung-artik-reference/

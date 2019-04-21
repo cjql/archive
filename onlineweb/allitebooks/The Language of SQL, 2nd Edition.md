@@ -1,0 +1,1 @@
+http://www.allitebooks.com/the-language-of-sql-2nd-edition/

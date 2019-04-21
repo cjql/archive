@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-ipython-for-interactive-computing-and-data-visualization/

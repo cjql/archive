@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-image-processing-with-opencv/

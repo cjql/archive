@@ -1,0 +1,1 @@
+http://www.allitebooks.com/the-python-quick-syntax-reference/

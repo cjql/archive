@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-adf-enterprise-application-development-made-simple/

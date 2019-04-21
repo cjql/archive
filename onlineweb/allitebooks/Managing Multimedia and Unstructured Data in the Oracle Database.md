@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managing-multimedia-and-unstructured-data-in-the-oracle-database/

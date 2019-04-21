@@ -1,0 +1,1 @@
+http://www.allitebooks.com/thoughtful-machine-learning-with-python/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-windows-communication-foundation-4-0-cookbook-for-developing-soa-applications/

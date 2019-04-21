@@ -1,0 +1,1 @@
+http://www.allitebooks.com/javascript-pocket-reference-3rd-edition/

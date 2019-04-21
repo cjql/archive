@@ -1,0 +1,1 @@
+http://www.allitebooks.com/java-ee-6-pocket-guide/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/practical-web-development-with-haskell/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/panda3d-1-6-game-engine/

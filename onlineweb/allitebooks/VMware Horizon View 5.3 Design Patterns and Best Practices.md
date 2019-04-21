@@ -1,0 +1,1 @@
+http://www.allitebooks.com/vmware-horizon-view-5-3-design-patterns-and-best-practices/

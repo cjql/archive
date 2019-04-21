@@ -1,0 +1,1 @@
+http://www.allitebooks.com/parallel-programming-with-intel-parallel-studio-xe/

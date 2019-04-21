@@ -1,0 +1,1 @@
+http://www.allitebooks.com/practical-sharepoint-2010-branding-and-customization/

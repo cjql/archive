@@ -1,0 +1,1 @@
+http://www.allitebooks.com/windows-powershell-best-practices/

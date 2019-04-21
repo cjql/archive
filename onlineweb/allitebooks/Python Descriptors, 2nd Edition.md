@@ -1,0 +1,1 @@
+http://www.allitebooks.com/python-descriptors-2nd-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sscp-systems-security-certified-practitioner-all-in-one-exam-guide-2nd-edition/

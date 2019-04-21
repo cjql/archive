@@ -1,0 +1,1 @@
+http://www.allitebooks.com/modern-data-access-with-entity-framework-core/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/the-rails-4-way/

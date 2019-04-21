@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-database-and-powershell-how-to/

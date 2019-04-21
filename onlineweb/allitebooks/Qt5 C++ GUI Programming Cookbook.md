@@ -1,0 +1,1 @@
+http://www.allitebooks.com/qt5-c-gui-programming-cookbook/

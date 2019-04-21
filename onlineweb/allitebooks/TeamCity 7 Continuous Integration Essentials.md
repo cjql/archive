@@ -1,0 +1,1 @@
+http://www.allitebooks.com/teamcity-7-continuous-integration-essentials/

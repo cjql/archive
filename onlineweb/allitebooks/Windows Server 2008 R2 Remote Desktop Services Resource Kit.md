@@ -1,0 +1,1 @@
+http://www.allitebooks.com/windows-server-2008-r2-remote-desktop-services-resource-kit/

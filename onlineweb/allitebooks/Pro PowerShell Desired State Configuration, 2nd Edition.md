@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-powershell-desired-state-configuration-2nd-edition/

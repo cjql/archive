@@ -1,0 +1,1 @@
+http://www.allitebooks.com/jquery-mobile-web-development-essentials-2nd-edition/

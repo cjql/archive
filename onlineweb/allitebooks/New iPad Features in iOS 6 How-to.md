@@ -1,0 +1,1 @@
+http://www.allitebooks.com/new-ipad-features-in-ios-6-how-to/

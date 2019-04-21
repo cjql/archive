@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-sql-tuning-pocket-reference/

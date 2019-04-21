@@ -1,0 +1,1 @@
+http://www.allitebooks.com/physics-for-game-developers-2nd-edition/

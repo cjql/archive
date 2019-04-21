@@ -1,0 +1,1 @@
+http://www.allitebooks.com/two-scoops-of-django-best-practices-for-django-1-5/

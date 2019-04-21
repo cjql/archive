@@ -1,0 +1,1 @@
+http://www.allitebooks.com/kindle-paperwhite-for-dummies-2nd-edition/

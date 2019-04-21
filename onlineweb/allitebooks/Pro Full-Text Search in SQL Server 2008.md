@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-full-text-search-in-sql-server-2008/

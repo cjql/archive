@@ -1,0 +1,1 @@
+http://www.allitebooks.com/linq-to-objects-using-c-4-0/

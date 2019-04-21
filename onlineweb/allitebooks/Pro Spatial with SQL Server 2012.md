@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-spatial-with-sql-server-2012/

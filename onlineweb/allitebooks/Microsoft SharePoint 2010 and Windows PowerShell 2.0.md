@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-sharepoint-2010-and-windows-powershell-2-0/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/using-yocto-project-with-beaglebone-black/

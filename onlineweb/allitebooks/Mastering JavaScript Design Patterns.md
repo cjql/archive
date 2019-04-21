@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-javascript-design-patterns/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/practical-statistics-for-data-scientists/

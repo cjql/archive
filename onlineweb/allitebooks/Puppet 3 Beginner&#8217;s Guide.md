@@ -1,0 +1,1 @@
+http://www.allitebooks.com/puppet-3-beginners-guide/

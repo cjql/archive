@@ -1,0 +1,1 @@
+http://www.allitebooks.com/jquery-2-0-development-cookbook/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-database-transactions-and-locking-revealed/

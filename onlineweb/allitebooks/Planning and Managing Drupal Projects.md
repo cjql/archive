@@ -1,0 +1,1 @@
+http://www.allitebooks.com/planning-and-managing-drupal-projects/

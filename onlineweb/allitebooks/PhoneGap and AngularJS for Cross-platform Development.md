@@ -1,0 +1,1 @@
+http://www.allitebooks.com/phonegap-and-angularjs-for-cross-platform-development/

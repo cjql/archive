@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managing-and-implementing-microsoft-sharepoint-2010-projects/

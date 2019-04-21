@@ -1,0 +1,1 @@
+http://www.allitebooks.com/perceptual-image-coding-with-discrete-cosine-transform/

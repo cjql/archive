@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sql-server-2008-transact-sql-recipes/

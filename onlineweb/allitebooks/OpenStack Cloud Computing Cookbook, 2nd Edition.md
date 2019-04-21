@@ -1,0 +1,1 @@
+http://www.allitebooks.com/openstack-cloud-computing-cookbook-2nd-edition/

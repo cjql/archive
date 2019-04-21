@@ -1,0 +1,1 @@
+http://www.allitebooks.com/you-dont-know-js-scope-closures/

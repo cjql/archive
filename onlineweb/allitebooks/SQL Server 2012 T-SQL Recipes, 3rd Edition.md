@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sql-server-2012-t-sql-recipes-3rd-edition/

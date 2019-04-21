@@ -1,0 +1,1 @@
+http://www.allitebooks.com/java-se-8-for-the-really-impatient/

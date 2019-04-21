@@ -1,0 +1,1 @@
+http://www.allitebooks.com/probabilistic-graphical-models-principles-and-applications/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/joomla-mobile-development/

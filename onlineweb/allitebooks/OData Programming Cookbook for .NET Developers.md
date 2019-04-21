@@ -1,0 +1,1 @@
+http://www.allitebooks.com/odata-programming-cookbook-for-net-developers/

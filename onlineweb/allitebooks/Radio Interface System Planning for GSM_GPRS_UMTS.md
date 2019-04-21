@@ -1,0 +1,1 @@
+http://www.allitebooks.com/radio-interface-system-planning-for-gsmgprsumts/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managing-virtual-infrastructure-with-veeam-one/

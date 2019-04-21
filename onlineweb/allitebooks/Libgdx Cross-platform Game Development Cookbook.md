@@ -1,0 +1,1 @@
+http://www.allitebooks.com/libgdx-cross-platform-game-development-cookbook/

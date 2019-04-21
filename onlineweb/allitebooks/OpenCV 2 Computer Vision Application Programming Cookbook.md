@@ -1,0 +1,1 @@
+http://www.allitebooks.com/opencv-2-computer-vision-application-programming-cookbook/

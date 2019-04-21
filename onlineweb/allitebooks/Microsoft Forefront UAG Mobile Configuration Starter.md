@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-forefront-uag-mobile-configuration-starter/

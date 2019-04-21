@@ -1,0 +1,1 @@
+http://www.allitebooks.com/wcf-4-5-multi-layer-services-development-with-entity-framework-3rd-edition/

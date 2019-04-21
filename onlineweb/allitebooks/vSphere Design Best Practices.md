@@ -1,0 +1,1 @@
+http://www.allitebooks.com/vsphere-design-best-practices/

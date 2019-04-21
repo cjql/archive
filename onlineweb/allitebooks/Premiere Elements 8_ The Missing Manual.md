@@ -1,0 +1,1 @@
+http://www.allitebooks.com/premiere-elements-8-the-missing-manual/

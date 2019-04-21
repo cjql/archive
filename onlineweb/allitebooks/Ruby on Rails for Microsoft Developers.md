@@ -1,0 +1,1 @@
+http://www.allitebooks.com/ruby-on-rails-for-microsoft-developers/

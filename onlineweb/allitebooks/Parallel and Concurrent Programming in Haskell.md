@@ -1,0 +1,1 @@
+http://www.allitebooks.com/parallel-and-concurrent-programming-in-haskell/

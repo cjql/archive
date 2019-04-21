@@ -1,0 +1,1 @@
+http://www.allitebooks.com/java-game-development-with-libgdx-2nd-edition/

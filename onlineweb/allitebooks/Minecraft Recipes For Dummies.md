@@ -1,0 +1,1 @@
+http://www.allitebooks.com/minecraft-recipes-for-dummies/

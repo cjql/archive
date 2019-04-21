@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-sharepoint-2010-development-for-office-365/

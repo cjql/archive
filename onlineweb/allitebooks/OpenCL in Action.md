@@ -1,0 +1,1 @@
+http://www.allitebooks.com/opencl-in-action/

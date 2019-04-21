@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sharepoint-2010-as-a-development-platform/

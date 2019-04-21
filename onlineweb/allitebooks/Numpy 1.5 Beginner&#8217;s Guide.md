@@ -1,0 +1,1 @@
+http://www.allitebooks.com/numpy-1-5-beginners-guide/

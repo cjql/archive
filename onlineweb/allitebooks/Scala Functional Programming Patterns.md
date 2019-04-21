@@ -1,0 +1,1 @@
+http://www.allitebooks.com/scala-functional-programming-patterns/

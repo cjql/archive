@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mcts-self-paced-training-kit-exam-70-642-configuring-windows-server-2008-network-infrastructure-2nd-edition/

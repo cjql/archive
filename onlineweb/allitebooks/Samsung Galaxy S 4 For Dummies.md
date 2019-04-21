@@ -1,0 +1,1 @@
+http://www.allitebooks.com/samsung-galaxy-s-4-for-dummies/

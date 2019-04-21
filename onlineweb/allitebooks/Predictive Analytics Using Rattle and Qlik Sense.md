@@ -1,0 +1,1 @@
+http://www.allitebooks.com/predictive-analytics-using-rattle-and-qlik-sense/

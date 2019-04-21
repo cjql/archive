@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-e-business-suite-12-financials-cookbook/

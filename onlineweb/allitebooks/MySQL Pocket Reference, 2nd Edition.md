@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mysql-pocket-reference-2nd-edition/

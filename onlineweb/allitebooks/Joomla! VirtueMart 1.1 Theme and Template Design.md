@@ -1,0 +1,1 @@
+http://www.allitebooks.com/joomla-virtuemart-1-1-theme-and-template-design/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/opensuse-11-0-and-suse-linux-enterprise-server-bible/

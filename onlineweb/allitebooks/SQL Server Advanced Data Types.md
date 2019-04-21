@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sql-server-advanced-data-types/

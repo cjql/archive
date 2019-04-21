@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-e-business-suite-r12-integration-and-oa-framework-development-and-extension-cookbook/

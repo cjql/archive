@@ -1,0 +1,1 @@
+http://www.allitebooks.com/vmware-horizon-6-desktop-virtualization-solutions/

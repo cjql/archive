@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-system-center-2012-service-manager-cookbook/

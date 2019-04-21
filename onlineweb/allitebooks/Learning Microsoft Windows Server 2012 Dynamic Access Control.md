@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-microsoft-windows-server-2012-dynamic-access-control/

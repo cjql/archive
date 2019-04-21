@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mysql-in-a-nutshell-2nd-edition/

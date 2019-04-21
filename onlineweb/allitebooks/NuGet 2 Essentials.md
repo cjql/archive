@@ -1,0 +1,1 @@
+http://www.allitebooks.com/nuget-2-essentials/

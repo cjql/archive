@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sams-teach-yourself-microsoft-dynamics-crm-2011-in-24-hours/

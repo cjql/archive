@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sql-server-2012-query-performance-tuning-3rd-edition/

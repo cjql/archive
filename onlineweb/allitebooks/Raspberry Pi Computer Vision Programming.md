@@ -1,0 +1,1 @@
+http://www.allitebooks.com/raspberry-pi-computer-vision-programming/

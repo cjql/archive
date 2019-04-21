@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-sql-server-2008-management-and-administration/

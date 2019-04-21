@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-sql-server-2012-high-performance-t-sql-using-window-functions/

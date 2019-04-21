@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-phpmyadmin-3-4-for-effective-mysql-management/

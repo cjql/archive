@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-jd-edwards-enterpriseone-9-0-supply-chain-management-cookbook/

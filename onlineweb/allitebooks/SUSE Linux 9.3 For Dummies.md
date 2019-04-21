@@ -1,0 +1,1 @@
+http://www.allitebooks.com/suse-linux-9-3-for-dummies/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/laravel-application-development-cookbook/

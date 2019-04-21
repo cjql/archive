@@ -1,0 +1,1 @@
+http://www.allitebooks.com/phparchitects-guide-to-php-design-patterns/

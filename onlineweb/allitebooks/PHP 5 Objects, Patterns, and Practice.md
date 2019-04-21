@@ -1,0 +1,1 @@
+http://www.allitebooks.com/php-5-objects-patterns-and-practice/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/understanding-and-using-c-pointers/

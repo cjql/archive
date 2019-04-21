@@ -1,0 +1,1 @@
+http://www.allitebooks.com/the-c-standard-library-2nd-edition/

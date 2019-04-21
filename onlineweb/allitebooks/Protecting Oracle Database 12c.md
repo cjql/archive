@@ -1,0 +1,1 @@
+http://www.allitebooks.com/protecting-oracle-database-12c/

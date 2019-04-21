@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-application-virtualization-advanced-guide/

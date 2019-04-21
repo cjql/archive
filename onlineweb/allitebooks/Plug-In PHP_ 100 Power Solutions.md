@@ -1,0 +1,1 @@
+http://www.allitebooks.com/plug-in-php-100-power-solutions/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/problem-solving-and-data-analysis-using-minitab/

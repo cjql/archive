@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managing-infrastructure-with-puppet/

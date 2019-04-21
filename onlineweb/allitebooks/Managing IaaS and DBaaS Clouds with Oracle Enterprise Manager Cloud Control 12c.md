@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managing-iaas-and-dbaas-clouds-with-oracle-enterprise-manager-cloud-control-12c/

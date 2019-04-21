@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sscp-isc2-systems-security-certified-practitioner-official-study-guide/

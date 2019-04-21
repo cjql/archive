@@ -1,0 +1,1 @@
+http://www.allitebooks.com/using-r-for-introductory-statistics-2nd-edition/

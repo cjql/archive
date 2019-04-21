@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oauth-2-0-identity-and-access-management-patterns/

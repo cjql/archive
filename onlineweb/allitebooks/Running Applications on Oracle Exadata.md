@@ -1,0 +1,1 @@
+http://www.allitebooks.com/running-applications-on-oracle-exadata/

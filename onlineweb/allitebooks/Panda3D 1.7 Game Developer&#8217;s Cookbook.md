@@ -1,0 +1,1 @@
+http://www.allitebooks.com/panda3d-1-7-game-developers-cookbook/

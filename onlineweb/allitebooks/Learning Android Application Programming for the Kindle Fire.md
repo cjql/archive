@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-android-application-programming-for-the-kindle-fire/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/opencv-computer-vision-with-python/

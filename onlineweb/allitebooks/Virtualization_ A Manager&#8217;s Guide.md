@@ -1,0 +1,1 @@
+http://www.allitebooks.com/virtualization-a-managers-guide/

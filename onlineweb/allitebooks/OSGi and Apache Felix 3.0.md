@@ -1,0 +1,1 @@
+http://www.allitebooks.com/osgi-and-apache-felix-3-0/

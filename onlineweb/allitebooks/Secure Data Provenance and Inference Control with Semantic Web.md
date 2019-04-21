@@ -1,0 +1,1 @@
+http://www.allitebooks.com/secure-data-provenance-and-inference-control-with-semantic-web/

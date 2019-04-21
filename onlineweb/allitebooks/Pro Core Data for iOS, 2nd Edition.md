@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-core-data-for-ios-2nd-edition/

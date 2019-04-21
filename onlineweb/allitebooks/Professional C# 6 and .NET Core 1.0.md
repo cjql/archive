@@ -1,0 +1,1 @@
+http://www.allitebooks.com/professional-c-6-and-net-core-1-0/

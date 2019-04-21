@@ -1,0 +1,1 @@
+http://www.allitebooks.com/nagios-core-administration-cookbook/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/visual-studio-2012-and-net-4-5-expert-development-cookbook/

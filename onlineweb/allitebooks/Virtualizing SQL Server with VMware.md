@@ -1,0 +1,1 @@
+http://www.allitebooks.com/virtualizing-sql-server-with-vmware/

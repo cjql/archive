@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-ninject-for-dependency-injection/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-typescript-2nd-edition/

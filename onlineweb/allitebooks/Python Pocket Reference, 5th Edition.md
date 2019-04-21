@@ -1,0 +1,1 @@
+http://www.allitebooks.com/python-pocket-reference-5th-edition/

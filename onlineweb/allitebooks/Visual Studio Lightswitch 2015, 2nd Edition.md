@@ -1,0 +1,1 @@
+http://www.allitebooks.com/visual-studio-lightswitch-2015-2nd-edition/

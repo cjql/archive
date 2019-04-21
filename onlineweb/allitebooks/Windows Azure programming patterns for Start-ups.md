@@ -1,0 +1,1 @@
+http://www.allitebooks.com/windows-azure-programming-patterns-for-start-ups/

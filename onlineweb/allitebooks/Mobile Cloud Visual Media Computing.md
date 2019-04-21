@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mobile-cloud-visual-media-computing/

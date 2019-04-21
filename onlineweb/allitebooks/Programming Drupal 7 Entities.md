@@ -1,0 +1,1 @@
+http://www.allitebooks.com/programming-drupal-7-entities/

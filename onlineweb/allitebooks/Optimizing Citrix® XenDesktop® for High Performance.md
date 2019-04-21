@@ -1,0 +1,1 @@
+http://www.allitebooks.com/optimizing-citrix-xendesktop-for-high-performance/

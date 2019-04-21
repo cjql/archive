@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-nuget-2nd-edition/

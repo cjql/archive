@@ -1,0 +1,1 @@
+http://www.allitebooks.com/web2py-application-development-cookbook/

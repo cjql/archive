@@ -1,0 +1,1 @@
+http://www.allitebooks.com/scrum-shortcuts-without-cutting-corners/

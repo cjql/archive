@@ -1,0 +1,1 @@
+http://www.allitebooks.com/parallel-programming-with-microsoft-visual-c/

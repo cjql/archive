@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-concurrent-programming-in-scala-2nd-edition/

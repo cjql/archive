@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-sharepoint-2013-planning-for-adoption-and-governance/

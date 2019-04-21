@@ -1,0 +1,1 @@
+http://www.allitebooks.com/php-quick-scripting-reference/

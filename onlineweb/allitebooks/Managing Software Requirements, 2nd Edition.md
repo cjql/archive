@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managing-software-requirements-2nd-edition/

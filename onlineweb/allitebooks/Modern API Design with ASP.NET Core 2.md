@@ -1,0 +1,1 @@
+http://www.allitebooks.com/modern-api-design-with-asp-net-core-2/

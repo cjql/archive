@@ -1,0 +1,1 @@
+http://www.allitebooks.com/jira-7-administration-cookbook-second-edition/

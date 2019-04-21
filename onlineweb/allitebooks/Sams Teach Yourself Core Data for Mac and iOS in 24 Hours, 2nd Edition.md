@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sams-teach-yourself-core-data-for-mac-and-ios-in-24-hours-2nd-edition/

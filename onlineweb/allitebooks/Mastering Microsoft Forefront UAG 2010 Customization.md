@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-microsoft-forefront-uag-2010-customization/

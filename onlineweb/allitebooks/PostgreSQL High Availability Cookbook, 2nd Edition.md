@@ -1,0 +1,1 @@
+http://www.allitebooks.com/postgresql-high-availability-cookbook-2nd-edition/

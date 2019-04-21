@@ -1,0 +1,1 @@
+http://www.allitebooks.com/jquery-1-4-reference-guide/

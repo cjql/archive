@@ -1,0 +1,1 @@
+http://www.allitebooks.com/xmpp-the-definitive-guide/

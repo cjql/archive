@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-dynamics-ax-2009-development-cookbook/

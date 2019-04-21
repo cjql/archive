@@ -1,0 +1,1 @@
+http://www.allitebooks.com/virtual-character-design-for-games-and-interactive-media/

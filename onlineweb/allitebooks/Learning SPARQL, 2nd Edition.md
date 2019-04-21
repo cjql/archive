@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-sparql-2nd-edition/

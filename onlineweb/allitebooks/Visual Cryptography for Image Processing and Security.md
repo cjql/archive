@@ -1,0 +1,1 @@
+http://www.allitebooks.com/visual-cryptography-for-image-processing-and-security/

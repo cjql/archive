@@ -1,0 +1,1 @@
+http://www.allitebooks.com/using-chef-with-microsoft-azure/

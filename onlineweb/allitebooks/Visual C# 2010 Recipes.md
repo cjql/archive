@@ -1,0 +1,1 @@
+http://www.allitebooks.com/visual-c-2010-recipes/
