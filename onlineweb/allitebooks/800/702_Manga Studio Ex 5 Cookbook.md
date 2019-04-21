@@ -1,0 +1,1 @@
+http://www.allitebooks.com/manga-studio-ex-5-cookbook/

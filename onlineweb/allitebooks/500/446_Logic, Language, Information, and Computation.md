@@ -1,0 +1,1 @@
+http://www.allitebooks.com/logic-language-information-and-computation/

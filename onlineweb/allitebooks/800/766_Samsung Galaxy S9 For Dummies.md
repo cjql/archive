@@ -1,0 +1,1 @@
+http://www.allitebooks.com/samsung-galaxy-s9-for-dummies/

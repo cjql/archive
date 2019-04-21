@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-database-xe-11gr2-jump-start-guide/

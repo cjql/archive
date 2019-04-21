@@ -1,0 +1,1 @@
+http://www.allitebooks.com/opencv-android-programming-by-example/

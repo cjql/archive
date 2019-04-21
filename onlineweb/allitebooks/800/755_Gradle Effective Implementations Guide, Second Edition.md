@@ -1,0 +1,1 @@
+http://www.allitebooks.com/gradle-effective-implementations-guide-second-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/haskell-high-performance-programming/

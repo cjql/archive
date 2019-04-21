@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-sql-queries-from-novice-to-professional/

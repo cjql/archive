@@ -1,0 +1,1 @@
+http://www.allitebooks.com/asp-net-core-recipes-2nd-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/azure-automation-using-the-arm-model/

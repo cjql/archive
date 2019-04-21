@@ -1,0 +1,1 @@
+http://www.allitebooks.com/hudson-continuous-integration-in-practice/

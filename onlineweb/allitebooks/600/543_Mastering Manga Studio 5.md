@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-manga-studio-5/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-jquery-2-0-2nd-edition/

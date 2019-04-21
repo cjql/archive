@@ -1,0 +1,1 @@
+http://www.allitebooks.com/two-styles-of-database-development/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/xquery-2nd-edition/

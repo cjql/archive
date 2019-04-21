@@ -1,0 +1,1 @@
+http://www.allitebooks.com/essential-angular-for-asp-net-core-mvc/

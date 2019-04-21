@@ -1,0 +1,1 @@
+http://www.allitebooks.com/object-oriented-javascript-2nd-edition/

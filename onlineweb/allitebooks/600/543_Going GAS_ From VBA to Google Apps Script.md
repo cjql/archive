@@ -1,0 +1,1 @@
+http://www.allitebooks.com/going-gas-from-vba-to-google-apps-script/

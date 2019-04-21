@@ -1,0 +1,1 @@
+http://www.allitebooks.com/memory-allocation-problems-in-embedded-systems-optimization-method/

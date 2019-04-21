@@ -1,0 +1,1 @@
+http://www.allitebooks.com/agile-project-management-for-dummies-2nd-edition/

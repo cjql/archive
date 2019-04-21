@@ -1,0 +1,1 @@
+http://www.allitebooks.com/the-d-programming-language/

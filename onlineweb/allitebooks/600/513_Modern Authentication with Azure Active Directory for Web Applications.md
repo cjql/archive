@@ -1,0 +1,1 @@
+http://www.allitebooks.com/modern-authentication-with-azure-active-directory-for-web-applications/

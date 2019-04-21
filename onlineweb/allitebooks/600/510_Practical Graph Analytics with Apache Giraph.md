@@ -1,0 +1,1 @@
+http://www.allitebooks.com/practical-graph-analytics-with-apache-giraph/

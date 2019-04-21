@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-sql-server-always-on-availability-groups/

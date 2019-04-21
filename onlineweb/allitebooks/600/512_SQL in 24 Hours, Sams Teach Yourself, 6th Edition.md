@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sql-in-24-hours-sams-teach-yourself-6th-edition/

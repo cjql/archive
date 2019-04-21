@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-ejb-in-java-ee-8-3rd-edition/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/eclipse-plug-in-development-beginners-guide-second-edition/

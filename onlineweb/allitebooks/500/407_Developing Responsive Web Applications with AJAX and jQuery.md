@@ -1,0 +1,1 @@
+http://www.allitebooks.com/developing-responsive-web-applications-with-ajax-and-jquery/

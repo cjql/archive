@@ -1,0 +1,1 @@
+http://www.allitebooks.com/creating-blogs-with-jekyll/

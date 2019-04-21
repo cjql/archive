@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-geospatial-analysis-with-python-second-edition/

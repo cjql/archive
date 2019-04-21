@@ -1,0 +1,1 @@
+http://www.allitebooks.com/professional-eclipse-3-for-java-developers/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-puppet-4/

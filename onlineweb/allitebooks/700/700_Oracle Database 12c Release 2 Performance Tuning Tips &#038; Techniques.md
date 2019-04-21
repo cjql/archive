@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-database-12c-release-2-performance-tuning-tips-techniques/

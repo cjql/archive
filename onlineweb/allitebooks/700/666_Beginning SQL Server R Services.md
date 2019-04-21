@@ -1,0 +1,1 @@
+http://www.allitebooks.com/beginning-sql-server-r-services/

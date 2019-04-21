@@ -1,0 +1,1 @@
+http://www.allitebooks.com/backbone-js-patterns-and-best-practices/

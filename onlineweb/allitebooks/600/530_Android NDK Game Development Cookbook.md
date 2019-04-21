@@ -1,0 +1,1 @@
+http://www.allitebooks.com/android-ndk-game-development-cookbook/

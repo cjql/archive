@@ -1,0 +1,1 @@
+http://www.allitebooks.com/processing-big-data-with-azure-hdinsight/

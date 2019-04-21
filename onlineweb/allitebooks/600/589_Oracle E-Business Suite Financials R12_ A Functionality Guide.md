@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-e-business-suite-financials-r12-a-functionality-guide/

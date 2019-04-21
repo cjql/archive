@@ -1,0 +1,1 @@
+http://www.allitebooks.com/instant-effective-caching-with-ehcache/

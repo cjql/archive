@@ -1,0 +1,1 @@
+http://www.allitebooks.com/professional-android-open-accessory-programming-with-arduino/

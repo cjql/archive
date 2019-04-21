@@ -1,0 +1,1 @@
+http://www.allitebooks.com/think-python-2nd-edition/

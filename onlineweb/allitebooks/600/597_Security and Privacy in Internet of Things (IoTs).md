@@ -1,0 +1,1 @@
+http://www.allitebooks.com/security-and-privacy-in-internet-of-things-iots/

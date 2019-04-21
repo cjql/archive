@@ -1,0 +1,1 @@
+http://www.allitebooks.com/java-lambdas-and-parallel-streams/

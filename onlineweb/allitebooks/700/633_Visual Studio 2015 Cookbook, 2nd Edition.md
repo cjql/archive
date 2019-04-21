@@ -1,0 +1,1 @@
+http://www.allitebooks.com/visual-studio-2015-cookbook-2nd-edition/

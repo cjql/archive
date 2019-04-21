@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mdx-with-ssas-2012-cookbook/

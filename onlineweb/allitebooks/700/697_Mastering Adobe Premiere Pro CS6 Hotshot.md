@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-adobe-premiere-pro-cs6-hotshot/

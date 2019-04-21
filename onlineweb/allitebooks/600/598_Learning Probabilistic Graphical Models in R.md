@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-probabilistic-graphical-models-in-r/

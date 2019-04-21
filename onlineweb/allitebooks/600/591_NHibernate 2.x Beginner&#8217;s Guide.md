@@ -1,0 +1,1 @@
+http://www.allitebooks.com/nhibernate-2-x-beginners-guide/

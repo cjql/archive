@@ -1,0 +1,1 @@
+http://www.allitebooks.com/django-by-example/

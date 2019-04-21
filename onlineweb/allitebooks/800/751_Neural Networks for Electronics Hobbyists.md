@@ -1,0 +1,1 @@
+http://www.allitebooks.com/neural-networks-for-electronics-hobbyists/

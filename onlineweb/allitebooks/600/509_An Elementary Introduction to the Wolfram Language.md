@@ -1,0 +1,1 @@
+http://www.allitebooks.com/an-elementary-introduction-to-the-wolfram-language/

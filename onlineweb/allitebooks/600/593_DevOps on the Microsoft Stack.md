@@ -1,0 +1,1 @@
+http://www.allitebooks.com/devops-on-the-microsoft-stack/

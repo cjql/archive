@@ -1,0 +1,1 @@
+http://www.allitebooks.com/cosmos-db-for-mongodb-developers/

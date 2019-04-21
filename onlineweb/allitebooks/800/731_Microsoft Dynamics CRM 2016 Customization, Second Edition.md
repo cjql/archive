@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-dynamics-crm-2016-customization-second-edition/

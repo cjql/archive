@@ -1,0 +1,1 @@
+http://www.allitebooks.com/functional-interfaces-in-java/

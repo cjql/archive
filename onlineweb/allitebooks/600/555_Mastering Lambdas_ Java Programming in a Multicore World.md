@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-lambdas-java-programming-in-a-multicore-world/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learn-rpgs-in-gamemaker-studio/

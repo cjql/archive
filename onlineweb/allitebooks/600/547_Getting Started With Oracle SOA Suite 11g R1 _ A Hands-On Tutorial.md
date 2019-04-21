@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-oracle-soa-suite-11g-r1-a-hands-on-tutorial/

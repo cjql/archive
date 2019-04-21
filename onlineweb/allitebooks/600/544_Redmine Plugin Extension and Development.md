@@ -1,0 +1,1 @@
+http://www.allitebooks.com/redmine-plugin-extension-and-development/

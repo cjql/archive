@@ -1,0 +1,1 @@
+http://www.allitebooks.com/game-programming-using-qt-beginners-guide/

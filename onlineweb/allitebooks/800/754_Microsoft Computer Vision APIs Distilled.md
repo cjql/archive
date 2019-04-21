@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-computer-vision-apis-distilled/

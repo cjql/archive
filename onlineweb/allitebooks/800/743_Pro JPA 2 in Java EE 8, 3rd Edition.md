@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-jpa-2-in-java-ee-8-3rd-edition/

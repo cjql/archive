@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-sql-server-2005-service-broker/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/managers-guide-to-sharepoint-server-2016/

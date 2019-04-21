@@ -1,0 +1,1 @@
+http://www.allitebooks.com/programming-microsoft-dynamics-nav/

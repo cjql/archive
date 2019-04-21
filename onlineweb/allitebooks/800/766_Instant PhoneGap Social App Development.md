@@ -1,0 +1,1 @@
+http://www.allitebooks.com/instant-phonegap-social-app-development/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/r-statistical-application-development-by-example-beginners-guide/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/canvas-lms-course-design/

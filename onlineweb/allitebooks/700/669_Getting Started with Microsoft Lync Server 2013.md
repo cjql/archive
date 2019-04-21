@@ -1,0 +1,1 @@
+http://www.allitebooks.com/getting-started-with-microsoft-lync-server-2013/

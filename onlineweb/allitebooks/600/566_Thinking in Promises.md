@@ -1,0 +1,1 @@
+http://www.allitebooks.com/thinking-in-promises/

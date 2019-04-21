@@ -1,0 +1,1 @@
+http://www.allitebooks.com/manga-studio-for-dummies/

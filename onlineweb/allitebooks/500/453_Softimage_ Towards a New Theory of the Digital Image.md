@@ -1,0 +1,1 @@
+http://www.allitebooks.com/softimage-towards-a-new-theory-of-the-digital-image/

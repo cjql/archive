@@ -1,0 +1,1 @@
+http://www.allitebooks.com/mastering-phonegap-mobile-application-development/

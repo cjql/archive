@@ -1,0 +1,1 @@
+http://www.allitebooks.com/wcf-4-0-multi-tier-services-development-with-linq-to-entities/

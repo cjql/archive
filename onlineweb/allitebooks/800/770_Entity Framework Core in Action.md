@@ -1,0 +1,1 @@
+http://www.allitebooks.com/entity-framework-core-in-action-2/

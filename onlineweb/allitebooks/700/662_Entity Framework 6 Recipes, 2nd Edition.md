@@ -1,0 +1,1 @@
+http://www.allitebooks.com/entity-framework-6-recipes-2nd-edition/

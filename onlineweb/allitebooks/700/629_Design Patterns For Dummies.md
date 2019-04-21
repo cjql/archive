@@ -1,0 +1,1 @@
+http://www.allitebooks.com/design-patterns-for-dummies/

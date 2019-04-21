@@ -1,0 +1,1 @@
+http://www.allitebooks.com/intelligent-systems-approximation-by-artificial-neural-networks/

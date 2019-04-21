@@ -1,0 +1,1 @@
+http://www.allitebooks.com/introduction-to-scientific-programming-and-simulation-using-r/

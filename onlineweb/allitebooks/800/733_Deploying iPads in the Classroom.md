@@ -1,0 +1,1 @@
+http://www.allitebooks.com/deploying-ipads-in-the-classroom/

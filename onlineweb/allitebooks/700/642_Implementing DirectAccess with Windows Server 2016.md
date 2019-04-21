@@ -1,0 +1,1 @@
+http://www.allitebooks.com/implementing-directaccess-with-windows-server-2016/

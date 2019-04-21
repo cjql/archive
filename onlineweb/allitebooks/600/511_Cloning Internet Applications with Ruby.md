@@ -1,0 +1,1 @@
+http://www.allitebooks.com/cloning-internet-applications-with-ruby/

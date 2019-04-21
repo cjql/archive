@@ -1,0 +1,1 @@
+http://www.allitebooks.com/formalizing-data-centric-web-services/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/blackberry-for-dummies-2nd-edition/

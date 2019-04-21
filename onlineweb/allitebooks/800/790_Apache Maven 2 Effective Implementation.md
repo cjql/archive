@@ -1,0 +1,1 @@
+http://www.allitebooks.com/apache-maven-2-effective-implementation/

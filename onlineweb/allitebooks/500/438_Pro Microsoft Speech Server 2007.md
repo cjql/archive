@@ -1,0 +1,1 @@
+http://www.allitebooks.com/pro-microsoft-speech-server-2007/

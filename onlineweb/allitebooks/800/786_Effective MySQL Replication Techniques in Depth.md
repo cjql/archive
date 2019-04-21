@@ -1,0 +1,1 @@
+http://www.allitebooks.com/effective-mysql-replication-techniques-in-depth/

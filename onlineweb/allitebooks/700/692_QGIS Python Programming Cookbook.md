@@ -1,0 +1,1 @@
+http://www.allitebooks.com/qgis-python-programming-cookbook/

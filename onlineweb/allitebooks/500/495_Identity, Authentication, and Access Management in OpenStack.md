@@ -1,0 +1,1 @@
+http://www.allitebooks.com/identity-authentication-and-access-management-in-openstack/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/microsoft-dynamics-ax-2012-financial-management/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/javascript-and-ajax-for-dummies/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/hands-on-programming-with-r/

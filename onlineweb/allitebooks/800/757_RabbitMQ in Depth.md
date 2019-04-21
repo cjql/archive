@@ -1,0 +1,1 @@
+http://www.allitebooks.com/rabbitmq-in-depth/

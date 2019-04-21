@@ -1,0 +1,1 @@
+http://www.allitebooks.com/apache-solr-for-indexing-data/

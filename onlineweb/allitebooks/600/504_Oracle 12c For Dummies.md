@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-12c-for-dummies/

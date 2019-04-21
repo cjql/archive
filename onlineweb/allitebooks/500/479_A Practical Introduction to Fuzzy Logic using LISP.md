@@ -1,0 +1,1 @@
+http://www.allitebooks.com/a-practical-introduction-to-fuzzy-logic-using-lisp/

@@ -1,0 +1,1 @@
+http://www.allitebooks.com/docker-management-design-patterns/

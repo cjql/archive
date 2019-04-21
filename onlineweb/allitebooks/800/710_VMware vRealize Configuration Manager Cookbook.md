@@ -1,0 +1,1 @@
+http://www.allitebooks.com/vmware-vrealize-configuration-manager-cookbook/

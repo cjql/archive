@@ -1,0 +1,1 @@
+http://www.allitebooks.com/play-framework-cookbook-2nd-edition/

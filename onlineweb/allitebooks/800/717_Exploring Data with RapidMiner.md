@@ -1,0 +1,1 @@
+http://www.allitebooks.com/exploring-data-with-rapidminer/

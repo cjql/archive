@@ -1,0 +1,1 @@
+http://www.allitebooks.com/complete-guide-to-open-source-big-data-stack/

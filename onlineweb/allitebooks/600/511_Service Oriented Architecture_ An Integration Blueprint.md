@@ -1,0 +1,1 @@
+http://www.allitebooks.com/service-oriented-architecture-an-integration-blueprint/

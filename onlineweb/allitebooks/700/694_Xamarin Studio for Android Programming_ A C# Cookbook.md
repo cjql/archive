@@ -1,0 +1,1 @@
+http://www.allitebooks.com/xamarin-studio-for-android-programming-a-c-cookbook/

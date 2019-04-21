@@ -1,0 +1,1 @@
+http://www.allitebooks.com/professional-sql-server-2005-performance-tuning-2/

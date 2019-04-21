@@ -1,0 +1,1 @@
+http://www.allitebooks.com/advanced-topics-in-computer-vision/

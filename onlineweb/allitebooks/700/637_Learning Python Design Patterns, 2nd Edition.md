@@ -1,0 +1,1 @@
+http://www.allitebooks.com/learning-python-design-patterns-2nd-edition/

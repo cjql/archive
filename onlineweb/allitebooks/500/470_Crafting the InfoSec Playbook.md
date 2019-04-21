@@ -1,0 +1,1 @@
+http://www.allitebooks.com/crafting-the-infosec-playbook/

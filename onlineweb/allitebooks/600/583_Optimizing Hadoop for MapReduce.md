@@ -1,0 +1,1 @@
+http://www.allitebooks.com/optimizing-hadoop-for-mapreduce/

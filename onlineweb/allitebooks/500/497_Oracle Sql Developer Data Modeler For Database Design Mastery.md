@@ -1,0 +1,1 @@
+http://www.allitebooks.com/oracle-sql-developer-data-modeler-for-database-design-mastery/

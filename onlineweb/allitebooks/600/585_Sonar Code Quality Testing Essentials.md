@@ -1,0 +1,1 @@
+http://www.allitebooks.com/sonar-code-quality-testing-essentials/

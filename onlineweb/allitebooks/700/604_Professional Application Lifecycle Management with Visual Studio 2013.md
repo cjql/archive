@@ -1,0 +1,1 @@
+http://www.allitebooks.com/professional-application-lifecycle-management-with-visual-studio-2013/
