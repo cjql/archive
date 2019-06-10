@@ -35,8 +35,10 @@ http://www.oapen.org/
 https://www.openbookpublishers.com/section/2/1   
 http://www.pythondoc.com/  
 http://www.qianduandaxue.com/ziliaofenxiang/  
-http://www.rejoiceblog.com/    
+http://www.rejoiceblog.com/  
+https://salttiger.com/    
 http://www.seosee.info/  
+http://tieba.github.io/cpp/#books  
 http://www.xuexi111.org/  
 http://www.xzpc6.com/  
 http://www.weibaiyue.com/  
