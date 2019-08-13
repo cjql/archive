@@ -48,3 +48,9 @@ http://www.wzbook.xyz/
 
 http://www.panduoduo.net/  
 https://www.douban.com/group/topic/27717353/  
+
+## English Readings
+https://www.gutenberg.org/  
+https://www.hathitrust.org/  
+http://promo.net/pg  
+https://standardebooks.org/  
