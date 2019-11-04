@@ -12,6 +12,7 @@ https://www.gitenberg.org/browse
 https://greenteapress.com/wp/    
 https://www.guhai.com.cn/html/zgsj/    
 http://m.gutenberg.org/ebooks/search.mobile/?sort_order=downloads  
+https://www.jiumodiary.com/ 鸠摩搜索
 http://hejizhan.com/bbs/  
 https://haobook.org/  
 http://hejizhan.com/bbs/  
@@ -36,6 +37,7 @@ http://www.oapen.org/
 https://www.openbookpublishers.com/section/2/1   
 http://www.pythondoc.com/  
 http://www.qianduandaxue.com/ziliaofenxiang/  
+https://www.qingwei.tech/category/resource-sharing/ebook    
 http://www.rejoiceblog.com/  
 https://salttiger.com/    
 http://www.seosee.info/  
@@ -46,7 +48,6 @@ http://www.weibaiyue.com/
 https://en.wikibooks.org/wiki/Subject:Python_programming_language   
 https://www.wq1.net/  
 http://www.wzbook.xyz/  
-
 http://www.panduoduo.net/  
 https://www.douban.com/group/topic/27717353/  
 
