@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-e-commerce-sites-with-drupal-commerce-cookbook/

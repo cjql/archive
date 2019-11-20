@@ -1,1 +1,0 @@
-http://www.allitebooks.com/extgwt-rich-internet-application-cookbook/

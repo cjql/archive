@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-vb-2008-business-objects/

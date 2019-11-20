@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-way-to-go-a-thorough-introduction-to-the-go-programming-language/

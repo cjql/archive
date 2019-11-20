@@ -1,1 +1,0 @@
-http://www.allitebooks.com/laravel-design-patterns-and-best-practices/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-suse-linux-from-novice-to-professional/

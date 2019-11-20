@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-phone-7-programming-for-android-and-ios-developers/

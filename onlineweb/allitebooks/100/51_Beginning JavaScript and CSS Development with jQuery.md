@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-javascript-and-css-development-with-jquery/

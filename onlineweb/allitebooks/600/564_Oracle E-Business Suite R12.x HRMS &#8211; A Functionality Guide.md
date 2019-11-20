@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-e-business-suite-r12-x-hrms-a-functionality-guide/

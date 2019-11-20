@@ -1,1 +1,0 @@
-http://www.allitebooks.com/javascript-for-dummies-4th-edition/

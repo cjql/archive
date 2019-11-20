@@ -1,1 +1,0 @@
-http://www.allitebooks.com/inkscape-0-48-illustrators-cookbook/

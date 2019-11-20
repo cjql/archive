@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-entity-framework-code-first/

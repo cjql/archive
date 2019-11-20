@@ -1,1 +1,0 @@
-http://www.allitebooks.com/modern-c-quick-syntax-reference-2nd-edition/

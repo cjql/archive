@@ -1,1 +1,0 @@
-http://www.allitebooks.com/drawing-for-dummies-2nd-edition/

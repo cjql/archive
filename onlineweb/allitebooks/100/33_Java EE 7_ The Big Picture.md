@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-ee-7-the-big-picture/

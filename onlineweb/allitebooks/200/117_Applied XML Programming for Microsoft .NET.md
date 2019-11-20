@@ -1,1 +1,0 @@
-http://www.allitebooks.com/applied-xml-programming-for-microsoft-net/

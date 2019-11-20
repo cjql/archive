@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-applications-for-the-mac-app-store/

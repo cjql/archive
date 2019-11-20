@@ -1,1 +1,0 @@
-http://www.allitebooks.com/phonegap-3-x-mobile-application-development-hotshot/

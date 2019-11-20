@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-10-development-with-xaml-and-c-7-2nd-edition/

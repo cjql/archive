@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-app-development-with-parse-and-phonegap/

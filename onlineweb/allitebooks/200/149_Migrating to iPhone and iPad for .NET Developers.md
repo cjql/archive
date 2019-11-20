@@ -1,1 +1,0 @@
-http://www.allitebooks.com/migrating-to-iphone-and-ipad-for-net-developers/

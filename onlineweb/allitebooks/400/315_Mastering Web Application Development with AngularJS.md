@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-web-application-development-with-angularjs/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/real-world-adobe-indesign-cs6/

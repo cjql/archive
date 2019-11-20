@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introducing-the-mysql-8-document-store/

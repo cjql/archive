@@ -1,1 +1,0 @@
-http://www.allitebooks.com/phparchitects-zend-php-5-certification-study-guide/

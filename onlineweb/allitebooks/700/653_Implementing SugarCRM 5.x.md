@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-sugarcrm-5-x/

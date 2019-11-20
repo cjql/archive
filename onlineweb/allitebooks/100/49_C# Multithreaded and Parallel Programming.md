@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-multithreaded-and-parallel-programming/

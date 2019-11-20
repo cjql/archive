@@ -1,1 +1,0 @@
-http://www.allitebooks.com/progressive-web-apps/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/development-with-the-force-com-platform-3rd-edition/

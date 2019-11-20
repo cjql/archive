@@ -1,1 +1,0 @@
-http://www.allitebooks.com/gradle-recipes-for-android/

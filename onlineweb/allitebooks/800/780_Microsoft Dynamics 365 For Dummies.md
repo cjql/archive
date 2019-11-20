@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-dynamics-365-for-dummies/

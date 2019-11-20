@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-single-page-application-development/

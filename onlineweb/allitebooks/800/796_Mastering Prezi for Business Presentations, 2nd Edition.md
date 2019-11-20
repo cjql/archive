@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-prezi-for-business-presentations-2nd-edition/

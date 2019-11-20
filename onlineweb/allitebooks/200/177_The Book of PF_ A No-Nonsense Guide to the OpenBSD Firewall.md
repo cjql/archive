@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-book-of-pf-a-no-nonsense-guide-to-the-openbsd-firewall/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-and-flex-integration-bible/

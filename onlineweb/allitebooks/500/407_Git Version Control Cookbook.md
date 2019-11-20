@@ -1,1 +1,0 @@
-http://www.allitebooks.com/git-version-control-cookbook/

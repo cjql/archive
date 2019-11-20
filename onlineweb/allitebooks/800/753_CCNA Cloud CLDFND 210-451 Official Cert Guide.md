@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ccna-cloud-cldfnd-210-451-official-cert-guide/

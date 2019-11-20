@@ -1,1 +1,0 @@
-http://www.allitebooks.com/linear-and-nonlinear-programming-4-edition/

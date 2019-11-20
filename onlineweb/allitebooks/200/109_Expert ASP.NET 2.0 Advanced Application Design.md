@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-asp-net-2-0-advanced-application-design/

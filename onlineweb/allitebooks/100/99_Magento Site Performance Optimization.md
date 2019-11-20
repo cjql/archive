@@ -1,1 +1,0 @@
-http://www.allitebooks.com/magento-site-performance-optimization/

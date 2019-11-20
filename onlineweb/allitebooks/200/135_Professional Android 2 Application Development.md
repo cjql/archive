@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-android-2-application-development/

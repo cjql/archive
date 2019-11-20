@@ -1,1 +1,0 @@
-http://www.allitebooks.com/xml-pocket-reference-3rd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/crowdsourcing-cloud-based-software-development/

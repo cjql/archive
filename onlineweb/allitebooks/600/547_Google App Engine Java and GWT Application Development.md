@@ -1,1 +1,0 @@
-http://www.allitebooks.com/google-app-engine-java-and-gwt-application-development/

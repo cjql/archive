@@ -1,1 +1,0 @@
-http://www.allitebooks.com/starting-out-with-visual-c-2010-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/enterprise-osgi-in-action/

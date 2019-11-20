@@ -1,1 +1,0 @@
-http://www.allitebooks.com/disaster-recovery-using-vmware-vsphere-replication-and-vcenter-site-recovery-manager/

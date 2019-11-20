@@ -1,1 +1,0 @@
-http://www.allitebooks.com/applying-and-extending-oracle-spatial/

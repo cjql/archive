@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-sharepoint-2010-enterprise-applications-on-windows-phone-7/

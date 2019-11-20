@@ -1,1 +1,0 @@
-http://www.allitebooks.com/fuelphp-application-development-blueprints/

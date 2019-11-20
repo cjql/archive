@@ -1,1 +1,0 @@
-http://www.allitebooks.com/dynamic-documents-with-r-and-knitr-2nd-edition/

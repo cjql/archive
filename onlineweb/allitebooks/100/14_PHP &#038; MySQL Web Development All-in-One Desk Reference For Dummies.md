@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-mysql-web-development-all-in-one-desk-reference-for-dummies/

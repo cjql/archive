@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-iphone-apps-with-html-css-and-javascript/

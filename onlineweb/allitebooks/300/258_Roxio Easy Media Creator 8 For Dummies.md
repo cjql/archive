@@ -1,1 +1,0 @@
-http://www.allitebooks.com/roxio-easy-media-creator-8-for-dummies/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-text-processing-with-nltk-2-0-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-scala-2nd-edition/

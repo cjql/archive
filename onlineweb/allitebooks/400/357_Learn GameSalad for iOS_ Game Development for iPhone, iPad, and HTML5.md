@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-gamesalad-for-ios-game-development-for-iphone-ipad-and-html5/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/unity-5-x-shaders-and-effects-cookbook-second-edition/

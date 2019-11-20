@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-iaas-quick-reference-guide-to-cloud-solutions/

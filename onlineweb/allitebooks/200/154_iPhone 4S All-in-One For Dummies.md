@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-4s-all-in-one-for-dummies/

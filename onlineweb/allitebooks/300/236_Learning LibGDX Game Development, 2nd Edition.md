@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-libgdx-game-development-2nd-edition/

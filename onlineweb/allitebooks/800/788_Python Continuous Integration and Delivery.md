@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-continuous-integration-and-delivery/

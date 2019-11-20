@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introduction-to-design-patterns-in-c-with-qt-2nd-edition/

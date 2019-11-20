@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-sharepoint-designer-2010-step-by-step/

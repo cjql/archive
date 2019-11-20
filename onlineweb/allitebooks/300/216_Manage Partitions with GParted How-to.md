@@ -1,1 +1,0 @@
-http://www.allitebooks.com/manage-partitions-with-gparted-how-to/

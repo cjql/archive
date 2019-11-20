@@ -1,1 +1,0 @@
-http://www.allitebooks.com/data-science-in-the-cloud-with-microsoft-azure-machine-learning-and-r/

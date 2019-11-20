@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-ruby-1-9-2-0-4th-edition/

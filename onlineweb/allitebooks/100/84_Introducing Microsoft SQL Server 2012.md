@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introducing-microsoft-sql-server-2012/

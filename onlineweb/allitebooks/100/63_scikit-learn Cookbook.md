@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scikit-learn-cookbook/

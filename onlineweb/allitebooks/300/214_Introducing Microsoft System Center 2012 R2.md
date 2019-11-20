@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introducing-microsoft-system-center-2012-r2/

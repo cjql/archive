@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-web-2-0-mashup-projects/

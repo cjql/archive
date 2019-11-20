@@ -1,1 +1,0 @@
-http://www.allitebooks.com/developing-mobile-games-with-moai-sdk/

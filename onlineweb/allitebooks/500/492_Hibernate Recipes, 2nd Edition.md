@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hibernate-recipes-2nd-edition/

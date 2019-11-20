@@ -1,1 +1,0 @@
-http://www.allitebooks.com/automating-microsoft-azure-infrastructure-services/

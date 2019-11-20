@@ -1,1 +1,0 @@
-http://www.allitebooks.com/database-systems-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/procedural-content-generation-for-c-game-development/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/next-generation-databases-nosql-newsql-and-big-data/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-in-depth-2nd-edition/

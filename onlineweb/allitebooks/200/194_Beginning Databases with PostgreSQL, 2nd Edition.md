@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-databases-with-postgresql-2nd-edition/

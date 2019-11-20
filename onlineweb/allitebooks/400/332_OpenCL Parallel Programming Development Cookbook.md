@@ -1,1 +1,0 @@
-http://www.allitebooks.com/opencl-parallel-programming-development-cookbook/

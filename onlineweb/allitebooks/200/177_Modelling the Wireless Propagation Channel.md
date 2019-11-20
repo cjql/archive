@@ -1,1 +1,0 @@
-http://www.allitebooks.com/modelling-the-wireless-propagation-channel/

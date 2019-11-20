@@ -1,1 +1,0 @@
-http://www.allitebooks.com/system-center-2012-r2-virtual-machine-manager-cookbook-second-edition/

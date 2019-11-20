@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-red-hat-linux-9/

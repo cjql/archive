@@ -1,1 +1,0 @@
-http://www.allitebooks.com/head-first-iphone-and-ipad-development-3rd-edition/

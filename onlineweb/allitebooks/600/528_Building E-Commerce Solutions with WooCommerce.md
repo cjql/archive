@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-e-commerce-solutions-with-woocommerce/

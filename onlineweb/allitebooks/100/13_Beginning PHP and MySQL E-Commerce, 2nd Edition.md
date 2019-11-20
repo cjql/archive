@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-php-and-mysql-e-commerce-2nd-edition/

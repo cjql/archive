@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-asp-net-2-0-server-control-and-component-development/

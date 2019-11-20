@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cloud-database-development-and-management/

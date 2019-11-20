@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipad-application-development-for-dummies-2nd-edition/

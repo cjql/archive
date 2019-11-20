@@ -1,1 +1,0 @@
-http://www.allitebooks.com/real-world-instrumentation-with-python/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/spatial-database-systems/

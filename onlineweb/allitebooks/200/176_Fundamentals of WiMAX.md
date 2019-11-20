@@ -1,1 +1,0 @@
-http://www.allitebooks.com/fundamentals-of-wimax/

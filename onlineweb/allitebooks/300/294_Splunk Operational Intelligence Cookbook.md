@@ -1,1 +1,0 @@
-http://www.allitebooks.com/splunk-operational-intelligence-cookbook/

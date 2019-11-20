@@ -1,1 +1,0 @@
-http://www.allitebooks.com/linux-cookbook-2nd-edition/

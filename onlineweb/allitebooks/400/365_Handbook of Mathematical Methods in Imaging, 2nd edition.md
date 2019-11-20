@@ -1,1 +1,0 @@
-http://www.allitebooks.com/handbook-of-mathematical-methods-in-imaging-2nd-edition/

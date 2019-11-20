@@ -1,1 +1,0 @@
-http://www.allitebooks.com/magento-1-4-development-cookbook/

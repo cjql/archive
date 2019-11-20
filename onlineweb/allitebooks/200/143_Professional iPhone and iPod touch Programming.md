@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-iphone-and-ipod-touch-programming/

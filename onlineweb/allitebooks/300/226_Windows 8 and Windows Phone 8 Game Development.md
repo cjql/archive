@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-8-and-windows-phone-8-game-development/

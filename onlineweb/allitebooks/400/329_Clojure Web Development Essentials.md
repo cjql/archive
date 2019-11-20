@@ -1,1 +1,0 @@
-http://www.allitebooks.com/clojure-web-development-essentials/

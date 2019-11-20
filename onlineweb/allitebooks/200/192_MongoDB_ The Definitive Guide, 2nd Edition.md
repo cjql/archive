@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mongodb-the-definitive-guide-2nd-edition/

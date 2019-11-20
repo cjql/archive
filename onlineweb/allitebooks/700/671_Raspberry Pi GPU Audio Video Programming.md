@@ -1,1 +1,0 @@
-http://www.allitebooks.com/raspberry-pi-gpu-audio-video-programming/

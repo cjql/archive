@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-sql-queries-for-sap-business-one/

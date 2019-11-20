@@ -1,1 +1,0 @@
-http://www.allitebooks.com/teach-yourself-visually-iphone-5s-and-iphone-5c/

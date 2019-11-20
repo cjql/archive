@@ -1,1 +1,0 @@
-http://www.allitebooks.com/how-to-master-ccnp-switch/

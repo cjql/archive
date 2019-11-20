@@ -1,1 +1,0 @@
-http://www.allitebooks.com/bayesian-natural-language-semantics-and-pragmatics/

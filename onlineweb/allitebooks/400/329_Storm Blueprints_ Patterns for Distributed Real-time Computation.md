@@ -1,1 +1,0 @@
-http://www.allitebooks.com/storm-blueprints-patterns-for-distributed-real-time-computation/

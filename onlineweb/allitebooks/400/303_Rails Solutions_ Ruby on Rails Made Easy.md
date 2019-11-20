@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rails-solutions-ruby-on-rails-made-easy/

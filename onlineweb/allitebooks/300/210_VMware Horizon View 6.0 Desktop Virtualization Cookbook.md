@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vmware-horizon-view-6-0-desktop-virtualization-cookbook/

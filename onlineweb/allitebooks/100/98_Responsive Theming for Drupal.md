@@ -1,1 +1,0 @@
-http://www.allitebooks.com/responsive-theming-for-drupal/

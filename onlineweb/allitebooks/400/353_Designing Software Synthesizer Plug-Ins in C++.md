@@ -1,1 +1,0 @@
-http://www.allitebooks.com/designing-software-synthesizer-plug-ins-in-c/

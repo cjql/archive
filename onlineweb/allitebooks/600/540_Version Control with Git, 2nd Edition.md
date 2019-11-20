@@ -1,1 +1,0 @@
-http://www.allitebooks.com/version-control-with-git-2nd-edition/

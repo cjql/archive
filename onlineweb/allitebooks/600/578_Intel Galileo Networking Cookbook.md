@@ -1,1 +1,0 @@
-http://www.allitebooks.com/intel-galileo-networking-cookbook/

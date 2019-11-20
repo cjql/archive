@@ -1,1 +1,0 @@
-http://www.allitebooks.com/couchdb-the-definitive-guide/

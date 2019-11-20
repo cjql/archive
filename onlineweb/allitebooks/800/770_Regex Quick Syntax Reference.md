@@ -1,1 +1,0 @@
-http://www.allitebooks.com/regex-quick-syntax-reference/

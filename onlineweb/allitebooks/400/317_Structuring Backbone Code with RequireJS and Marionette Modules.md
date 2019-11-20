@@ -1,1 +1,0 @@
-http://www.allitebooks.com/structuring-backbone-code-with-requirejs-and-marionette-modules/

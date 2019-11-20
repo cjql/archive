@@ -1,1 +1,0 @@
-http://www.allitebooks.com/aws-certified-advanced-networking-official-study-guide/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-web-design-for-absolute-beginners/

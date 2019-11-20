@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-ee-8-recipes-2nd-edition/

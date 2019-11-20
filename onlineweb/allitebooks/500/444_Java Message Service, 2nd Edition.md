@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-message-service-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/angularjs-javascript-and-jquery-all-in-one-sams-teach-yourself/

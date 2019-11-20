@@ -1,1 +1,0 @@
-http://www.allitebooks.com/customer-analytics-for-dummies/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/photoshop-cs6-the-missing-manual/

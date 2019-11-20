@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-ado-net-entity-framework-step-by-step/

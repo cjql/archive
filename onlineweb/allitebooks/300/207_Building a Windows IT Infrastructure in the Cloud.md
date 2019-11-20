@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-a-windows-it-infrastructure-in-the-cloud/

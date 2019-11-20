@@ -1,1 +1,0 @@
-http://www.allitebooks.com/understanding-lte-and-its-performance/

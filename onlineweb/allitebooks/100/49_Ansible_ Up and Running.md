@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ansible-up-and-running/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-programming-24-hour-trainer/

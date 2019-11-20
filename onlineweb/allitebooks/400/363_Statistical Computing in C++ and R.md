@@ -1,1 +1,0 @@
-http://www.allitebooks.com/statistical-computing-in-c-and-r/

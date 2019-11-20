@@ -1,1 +1,0 @@
-http://www.allitebooks.com/asp-net-jquery-cookbook-second-edition/

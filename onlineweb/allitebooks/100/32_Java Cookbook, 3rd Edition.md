@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-cookbook-3rd-edition/

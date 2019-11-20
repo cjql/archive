@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hacking-2nd-edition/

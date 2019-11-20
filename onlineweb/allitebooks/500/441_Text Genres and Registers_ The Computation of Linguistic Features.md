@@ -1,1 +1,0 @@
-http://www.allitebooks.com/text-genres-and-registers-the-computation-of-linguistic-features/

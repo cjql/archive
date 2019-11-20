@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-cocos2d-2/

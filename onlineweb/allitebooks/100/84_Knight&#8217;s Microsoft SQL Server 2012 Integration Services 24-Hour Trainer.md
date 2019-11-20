@@ -1,1 +1,0 @@
-http://www.allitebooks.com/knights-microsoft-sql-server-2012-integration-services-24-hour-trainer/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-php-applications-with-symfony-cakephp-and-zend-framework/

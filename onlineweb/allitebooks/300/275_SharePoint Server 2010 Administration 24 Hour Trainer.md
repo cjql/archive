@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sharepoint-server-2010-administration-24-hour-trainer/

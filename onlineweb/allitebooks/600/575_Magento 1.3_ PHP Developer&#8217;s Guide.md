@@ -1,1 +1,0 @@
-http://www.allitebooks.com/magento-1-3-php-developers-guide/

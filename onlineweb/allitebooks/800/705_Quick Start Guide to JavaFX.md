@@ -1,1 +1,0 @@
-http://www.allitebooks.com/quick-start-guide-to-javafx/

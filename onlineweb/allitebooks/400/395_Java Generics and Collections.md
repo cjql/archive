@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-generics-and-collections/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/raspberry-pi-supercomputing-and-scientific-programming/

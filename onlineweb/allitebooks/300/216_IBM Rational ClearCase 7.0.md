@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ibm-rational-clearcase-7-0/

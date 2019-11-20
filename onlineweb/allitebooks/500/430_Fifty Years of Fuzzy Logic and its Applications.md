@@ -1,1 +1,0 @@
-http://www.allitebooks.com/fifty-years-of-fuzzy-logic-and-its-applications/

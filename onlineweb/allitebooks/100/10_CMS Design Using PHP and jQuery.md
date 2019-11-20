@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cms-design-using-php-and-jquery/

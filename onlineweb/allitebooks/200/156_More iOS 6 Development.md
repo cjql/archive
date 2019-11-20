@@ -1,1 +1,0 @@
-http://www.allitebooks.com/more-ios-6-development/

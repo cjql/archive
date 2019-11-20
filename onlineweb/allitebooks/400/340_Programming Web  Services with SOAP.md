@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-web-services-with-soap/

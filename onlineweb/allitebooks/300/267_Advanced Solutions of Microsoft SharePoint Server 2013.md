@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-solutions-of-microsoft-sharepoint-server-2013/

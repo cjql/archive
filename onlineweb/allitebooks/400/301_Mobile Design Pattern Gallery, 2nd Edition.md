@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mobile-design-pattern-gallery-2nd-edition/

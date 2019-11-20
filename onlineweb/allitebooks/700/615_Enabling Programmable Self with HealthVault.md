@@ -1,1 +1,0 @@
-http://www.allitebooks.com/enabling-programmable-self-with-healthvault/

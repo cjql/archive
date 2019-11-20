@@ -1,1 +1,0 @@
-http://www.allitebooks.com/writing-and-querying-mapreduce-views-in-couchdb/

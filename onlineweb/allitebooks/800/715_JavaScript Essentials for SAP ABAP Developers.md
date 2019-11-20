@@ -1,1 +1,0 @@
-http://www.allitebooks.com/javascript-essentials-for-sap-abap-developers/

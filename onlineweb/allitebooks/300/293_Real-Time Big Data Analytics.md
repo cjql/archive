@@ -1,1 +1,0 @@
-http://www.allitebooks.com/real-time-big-data-analytics/

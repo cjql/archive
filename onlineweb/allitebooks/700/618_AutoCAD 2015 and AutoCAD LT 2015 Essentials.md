@@ -1,1 +1,0 @@
-http://www.allitebooks.com/autocad-2015-and-autocad-lt-2015-essentials/

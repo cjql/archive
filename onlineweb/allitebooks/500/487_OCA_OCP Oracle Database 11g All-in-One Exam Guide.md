@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ocaocp-oracle-database-11g-all-in-one-exam-guide/

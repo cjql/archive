@@ -1,1 +1,0 @@
-http://www.allitebooks.com/teach-yourself-visually-word-2016/

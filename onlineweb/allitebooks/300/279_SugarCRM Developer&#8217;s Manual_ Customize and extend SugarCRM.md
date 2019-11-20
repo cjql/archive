@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sugarcrm-developers-manual-customize-and-extend-sugarcrm/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-google-app-engine-with-python/

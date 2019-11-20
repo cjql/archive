@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-c-programming-language-2nd-edition/

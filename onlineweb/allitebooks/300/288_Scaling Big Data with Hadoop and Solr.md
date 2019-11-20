@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scaling-big-data-with-hadoop-and-solr/

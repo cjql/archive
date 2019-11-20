@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-sharepoint-2010-branding-and-user-interface-design/

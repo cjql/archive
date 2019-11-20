@@ -1,1 +1,0 @@
-http://www.allitebooks.com/powershell-3-0-advanced-administration-handbook/

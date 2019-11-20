@@ -1,1 +1,0 @@
-http://www.allitebooks.com/neural-network-programming-with-java/

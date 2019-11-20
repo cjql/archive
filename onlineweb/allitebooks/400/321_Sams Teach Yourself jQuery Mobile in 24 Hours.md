@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-jquery-mobile-in-24-hours/

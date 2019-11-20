@@ -1,1 +1,0 @@
-http://www.allitebooks.com/codeigniter-1-7/

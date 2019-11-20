@@ -1,1 +1,0 @@
-http://www.allitebooks.com/designing-the-internet-of-things/

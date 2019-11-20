@@ -1,1 +1,0 @@
-http://www.allitebooks.com/moodle-2-for-teaching-7-14-year-olds-beginners-guide-2nd-edition/

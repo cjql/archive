@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-system-center-virtual-machine-manager-2012-cookbook/

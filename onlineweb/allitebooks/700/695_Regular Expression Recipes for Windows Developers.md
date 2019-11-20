@@ -1,1 +1,0 @@
-http://www.allitebooks.com/regular-expression-recipes-for-windows-developers/

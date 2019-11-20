@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-advanced-and-object-oriented-programming-3rd-edition/

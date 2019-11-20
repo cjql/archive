@@ -1,1 +1,0 @@
-http://www.allitebooks.com/postgresql-9-admin-cookbook/

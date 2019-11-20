@@ -1,1 +1,0 @@
-http://www.allitebooks.com/responsive-web-design-with-html5-and-css3-second-edition/

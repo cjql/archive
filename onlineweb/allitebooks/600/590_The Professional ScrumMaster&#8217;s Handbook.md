@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-professional-scrummasters-handbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/creating-iphone-apps-with-cocoa-touch-the-mini-missing-manual/

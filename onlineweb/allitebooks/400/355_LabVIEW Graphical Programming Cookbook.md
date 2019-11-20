@@ -1,1 +1,0 @@
-http://www.allitebooks.com/labview-graphical-programming-cookbook/

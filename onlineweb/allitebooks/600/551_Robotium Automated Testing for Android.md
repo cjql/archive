@@ -1,1 +1,0 @@
-http://www.allitebooks.com/robotium-automated-testing-for-android/

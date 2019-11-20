@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rapidweaver-5-beginners-guide/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/supporting-windows-8-2nd-edition/

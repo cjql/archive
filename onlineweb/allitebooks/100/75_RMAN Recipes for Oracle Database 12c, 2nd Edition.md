@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rman-recipes-for-oracle-database-12c-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-ndk-beginners-guide-second-edition/

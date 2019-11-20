@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-access-2010-vba-programming-inside-out/

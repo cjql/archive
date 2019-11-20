@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-soa-infrastructure-implementation-certification-handbook-1z0-451/

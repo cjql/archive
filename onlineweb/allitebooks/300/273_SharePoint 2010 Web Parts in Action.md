@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sharepoint-2010-web-parts-in-action/

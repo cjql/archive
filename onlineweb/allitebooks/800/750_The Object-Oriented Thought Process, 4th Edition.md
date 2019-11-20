@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-object-oriented-thought-process-4th-edition/

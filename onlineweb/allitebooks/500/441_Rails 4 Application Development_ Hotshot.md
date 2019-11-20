@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rails-4-application-development-hotshot/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/smart-home-automation-with-linux-and-raspberry-pi-2nd-edition/

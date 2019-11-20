@@ -1,1 +1,0 @@
-http://www.allitebooks.com/foundations-of-sql-server-2008-r2-business-intelligence/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-for-absolute-beginners-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wcdma-umts-deployment-handbook/

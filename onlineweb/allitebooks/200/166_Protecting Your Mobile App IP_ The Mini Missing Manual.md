@@ -1,1 +1,0 @@
-http://www.allitebooks.com/protecting-your-mobile-app-ip-the-mini-missing-manual/

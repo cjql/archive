@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-net-architecting-applications-for-the-enterprise-2nd-edition/

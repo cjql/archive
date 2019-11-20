@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hibernate-search-by-example/

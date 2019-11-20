@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-windows-phone-7-development-2nd-edition/

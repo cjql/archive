@@ -1,1 +1,0 @@
-http://www.allitebooks.com/puppet-cookbook-3rd-edition/

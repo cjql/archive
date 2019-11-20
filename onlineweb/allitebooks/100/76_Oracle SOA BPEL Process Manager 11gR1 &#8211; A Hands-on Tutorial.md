@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-soa-bpel-process-manager-11gr1-a-hands-on-tutorial/

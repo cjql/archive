@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-application-express-for-mobile-web-applications/

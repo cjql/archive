@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-dynamic-net-4-0-applications/

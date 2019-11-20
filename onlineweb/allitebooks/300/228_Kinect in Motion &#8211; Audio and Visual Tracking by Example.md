@@ -1,1 +1,0 @@
-http://www.allitebooks.com/kinect-in-motion-audio-and-visual-tracking-by-example/

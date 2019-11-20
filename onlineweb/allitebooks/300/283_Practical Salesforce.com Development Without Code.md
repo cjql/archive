@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-salesforce-com-development-without-code/

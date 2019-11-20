@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ssh-the-secure-shell-2nd-edition/

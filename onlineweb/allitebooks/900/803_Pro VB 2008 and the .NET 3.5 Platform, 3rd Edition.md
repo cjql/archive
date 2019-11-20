@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-vb-2008-and-the-net-3-5-platform-3rd-edition/

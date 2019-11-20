@@ -1,1 +1,0 @@
-http://www.allitebooks.com/agile-data-science-2-0/

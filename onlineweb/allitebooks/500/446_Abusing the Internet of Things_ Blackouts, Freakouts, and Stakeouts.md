@@ -1,1 +1,0 @@
-http://www.allitebooks.com/abusing-the-internet-of-things-blackouts-freakouts-and-stakeouts/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/r-data-analysis-cookbook/

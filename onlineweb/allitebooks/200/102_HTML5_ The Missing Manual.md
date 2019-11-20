@@ -1,1 +1,0 @@
-http://www.allitebooks.com/html5-the-missing-manual/

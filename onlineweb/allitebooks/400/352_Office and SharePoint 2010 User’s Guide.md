@@ -1,1 +1,0 @@
-http://www.allitebooks.com/office-and-sharepoint-2010-users-guide/

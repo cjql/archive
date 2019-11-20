@@ -1,1 +1,0 @@
-http://www.allitebooks.com/word-2007-the-missing-manual/

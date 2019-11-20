@@ -1,1 +1,0 @@
-http://www.allitebooks.com/samsung-gear-s2-for-dummies/

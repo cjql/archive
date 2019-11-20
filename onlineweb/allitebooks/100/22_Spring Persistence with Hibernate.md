@@ -1,1 +1,0 @@
-http://www.allitebooks.com/spring-persistence-with-hibernate/

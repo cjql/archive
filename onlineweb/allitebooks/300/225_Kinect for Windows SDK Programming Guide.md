@@ -1,1 +1,0 @@
-http://www.allitebooks.com/kinect-for-windows-sdk-programming-guide/

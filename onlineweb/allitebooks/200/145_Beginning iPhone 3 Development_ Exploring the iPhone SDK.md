@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-iphone-3-development-exploring-the-iphone-sdk/

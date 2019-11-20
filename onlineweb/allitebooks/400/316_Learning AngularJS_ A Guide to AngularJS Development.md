@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-angularjs-a-guide-to-angularjs-development/

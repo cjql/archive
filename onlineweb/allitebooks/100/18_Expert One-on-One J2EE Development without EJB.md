@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-one-on-one-j2ee-development-without-ejb/

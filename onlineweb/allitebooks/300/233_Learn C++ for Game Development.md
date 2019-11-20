@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-c-for-game-development/

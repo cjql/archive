@@ -1,1 +1,0 @@
-http://www.allitebooks.com/short-message-service-sms/

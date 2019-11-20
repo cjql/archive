@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visio-services-quick-guide/

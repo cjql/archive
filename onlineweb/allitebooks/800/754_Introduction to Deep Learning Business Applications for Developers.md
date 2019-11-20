@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introduction-to-deep-learning-business-applications-for-developers/

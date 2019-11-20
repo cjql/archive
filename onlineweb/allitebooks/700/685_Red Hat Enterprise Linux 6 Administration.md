@@ -1,1 +1,0 @@
-http://www.allitebooks.com/red-hat-enterprise-linux-6-administration/

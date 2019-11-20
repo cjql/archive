@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-web-services-2nd-edition/

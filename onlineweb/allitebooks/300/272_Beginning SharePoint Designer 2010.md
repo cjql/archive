@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-sharepoint-designer-2010/

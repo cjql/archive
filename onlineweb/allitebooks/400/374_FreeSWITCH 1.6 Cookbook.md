@@ -1,1 +1,0 @@
-http://www.allitebooks.com/freeswitch-1-6-cookbook/

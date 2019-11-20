@@ -1,1 +1,0 @@
-http://www.allitebooks.com/samsung-galaxy-tabs-for-dummies/

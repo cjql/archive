@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipad-for-seniors-for-dummies-9th-edition/

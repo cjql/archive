@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-wireless-networks-cognitive-cooperative-opportunistic-4g-technology-2nd-edition/

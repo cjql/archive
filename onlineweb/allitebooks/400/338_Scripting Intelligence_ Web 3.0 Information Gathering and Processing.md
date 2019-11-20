@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scripting-intelligence-web-3-0-information-gathering-and-processing/

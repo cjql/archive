@@ -1,1 +1,0 @@
-http://www.allitebooks.com/google-nexus-6-user-manual/

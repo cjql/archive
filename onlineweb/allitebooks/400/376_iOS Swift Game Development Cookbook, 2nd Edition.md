@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ios-swift-game-development-cookbook-2nd-edition/

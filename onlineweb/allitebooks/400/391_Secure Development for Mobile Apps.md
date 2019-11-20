@@ -1,1 +1,0 @@
-http://www.allitebooks.com/secure-development-for-mobile-apps/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/bpel-pm-and-osb-operational-management-with-oracle-enterprise-manager-10g-grid-control/

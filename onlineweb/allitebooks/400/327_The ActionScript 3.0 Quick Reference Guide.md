@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-actionscript-3-0-quick-reference-guide/

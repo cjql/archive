@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-scipy-for-numerical-and-scientific-computing/

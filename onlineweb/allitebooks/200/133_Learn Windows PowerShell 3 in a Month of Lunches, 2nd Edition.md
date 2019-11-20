@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-windows-powershell-3-in-a-month-of-lunches-2nd-edition/

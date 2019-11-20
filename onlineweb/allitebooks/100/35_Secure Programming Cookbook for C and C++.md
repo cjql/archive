@@ -1,1 +1,0 @@
-http://www.allitebooks.com/secure-programming-cookbook-for-c-and-c/

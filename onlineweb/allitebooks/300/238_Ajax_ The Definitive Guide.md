@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ajax-the-definitive-guide/

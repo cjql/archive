@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-fragmentation-management-how-to/

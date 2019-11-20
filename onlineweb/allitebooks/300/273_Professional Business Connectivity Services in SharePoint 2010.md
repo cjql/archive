@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-business-connectivity-services-in-sharepoint-2010/

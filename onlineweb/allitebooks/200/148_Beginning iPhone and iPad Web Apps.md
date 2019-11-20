@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-iphone-and-ipad-web-apps/

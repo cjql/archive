@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-responsive-theme-design/

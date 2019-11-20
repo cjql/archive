@@ -1,1 +1,0 @@
-http://www.allitebooks.com/configuring-advanced-windows-server-2012-r2-services/

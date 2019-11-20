@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-windows-8-game-development/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ruby-quick-syntax-reference/

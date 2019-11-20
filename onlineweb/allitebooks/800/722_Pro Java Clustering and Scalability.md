@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-java-clustering-and-scalability/

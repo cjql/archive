@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jmonkeyengine-3-0-beginners-guide/

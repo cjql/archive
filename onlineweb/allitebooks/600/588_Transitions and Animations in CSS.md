@@ -1,1 +1,0 @@
-http://www.allitebooks.com/transitions-and-animations-in-css/

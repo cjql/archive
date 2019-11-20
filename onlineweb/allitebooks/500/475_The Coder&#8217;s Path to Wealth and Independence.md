@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-coders-path-to-wealth-and-independence/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-edge-animate-cc-for-dummies/

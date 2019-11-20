@@ -1,1 +1,0 @@
-http://www.allitebooks.com/essential-windows-phone-7-5/

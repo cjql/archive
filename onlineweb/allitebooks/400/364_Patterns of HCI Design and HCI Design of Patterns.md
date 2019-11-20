@@ -1,1 +1,0 @@
-http://www.allitebooks.com/patterns-of-hci-design-and-hci-design-of-patterns/

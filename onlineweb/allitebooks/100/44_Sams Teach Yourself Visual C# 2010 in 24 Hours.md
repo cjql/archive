@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-visual-c-2010-in-24-hours/

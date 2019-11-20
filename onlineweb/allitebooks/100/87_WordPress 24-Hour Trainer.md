@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-24-hour-trainer/

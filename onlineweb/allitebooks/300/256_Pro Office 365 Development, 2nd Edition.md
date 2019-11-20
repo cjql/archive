@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-office-365-development-2nd-edition/

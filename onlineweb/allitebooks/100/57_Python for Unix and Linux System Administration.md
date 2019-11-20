@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-for-unix-and-linux-system-administration/

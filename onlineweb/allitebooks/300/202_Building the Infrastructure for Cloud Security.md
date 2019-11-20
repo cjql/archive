@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-the-infrastructure-for-cloud-security/

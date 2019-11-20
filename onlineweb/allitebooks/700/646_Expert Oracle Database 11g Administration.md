@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-oracle-database-11g-administration/

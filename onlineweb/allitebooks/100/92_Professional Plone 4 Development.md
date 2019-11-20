@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-plone-4-development/

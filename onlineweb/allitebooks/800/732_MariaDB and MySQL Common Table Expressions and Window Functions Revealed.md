@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mariadb-and-mysql-common-table-expressions-and-window-functions-revealed/

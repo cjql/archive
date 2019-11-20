@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-iphone-developers-cookbook-2nd-edition/

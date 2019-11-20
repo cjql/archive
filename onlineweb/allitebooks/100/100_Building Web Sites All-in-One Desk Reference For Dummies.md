@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-web-sites-all-in-one-desk-reference-for-dummies/

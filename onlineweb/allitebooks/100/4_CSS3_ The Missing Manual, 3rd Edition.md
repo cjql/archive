@@ -1,1 +1,0 @@
-http://www.allitebooks.com/css3-the-missing-manual-3rd-edition/

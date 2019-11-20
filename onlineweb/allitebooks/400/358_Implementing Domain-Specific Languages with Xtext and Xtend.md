@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-domain-specific-languages-with-xtext-and-xtend/

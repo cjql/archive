@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-web-design-for-dummies-3rd-edition/

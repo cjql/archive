@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-enterprise-manager-12c-administration-cookbook/

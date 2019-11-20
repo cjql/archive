@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-adf-real-world-developers-guide/

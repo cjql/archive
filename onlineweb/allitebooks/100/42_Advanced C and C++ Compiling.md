@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-c-and-c-compiling/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/radio-resource-management-strategies-in-umts/

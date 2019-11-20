@@ -1,1 +1,0 @@
-http://www.allitebooks.com/gpgpu-programming-for-games-and-science/

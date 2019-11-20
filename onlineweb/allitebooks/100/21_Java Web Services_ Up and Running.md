@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-web-services-up-and-running/

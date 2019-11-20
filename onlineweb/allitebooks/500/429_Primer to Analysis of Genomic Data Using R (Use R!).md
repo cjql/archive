@@ -1,1 +1,0 @@
-http://www.allitebooks.com/primer-to-analysis-of-genomic-data-using-r-use-r/

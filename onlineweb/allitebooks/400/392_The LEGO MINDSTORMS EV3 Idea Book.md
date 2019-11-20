@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-lego-mindstorms-ev3-idea-book/

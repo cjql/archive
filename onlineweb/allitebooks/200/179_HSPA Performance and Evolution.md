@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hspa-performance-and-evolution/

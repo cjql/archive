@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-creative-suite-5-bible/

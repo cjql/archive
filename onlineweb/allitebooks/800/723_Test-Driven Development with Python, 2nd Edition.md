@@ -1,1 +1,0 @@
-http://www.allitebooks.com/test-driven-development-with-python-2nd-edition/

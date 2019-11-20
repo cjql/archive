@@ -1,1 +1,0 @@
-http://www.allitebooks.com/drupal-for-education-and-e-learning-2nd-edition/

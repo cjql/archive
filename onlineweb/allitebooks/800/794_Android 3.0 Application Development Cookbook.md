@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-3-0-application-development-cookbook/

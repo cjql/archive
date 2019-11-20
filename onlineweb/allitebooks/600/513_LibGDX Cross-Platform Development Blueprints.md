@@ -1,1 +1,0 @@
-http://www.allitebooks.com/libgdx-cross-platform-development-blueprints/

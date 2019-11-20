@@ -1,1 +1,0 @@
-http://www.allitebooks.com/joomla-1-5-site-blueprints/

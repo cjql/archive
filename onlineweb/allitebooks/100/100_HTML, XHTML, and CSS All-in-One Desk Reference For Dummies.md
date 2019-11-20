@@ -1,1 +1,0 @@
-http://www.allitebooks.com/html-xhtml-and-css-all-in-one-desk-reference-for-dummies/

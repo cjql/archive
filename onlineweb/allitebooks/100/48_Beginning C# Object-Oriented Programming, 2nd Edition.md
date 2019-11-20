@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-c-object-oriented-programming-2nd-edition/

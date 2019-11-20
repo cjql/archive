@@ -1,1 +1,0 @@
-http://www.allitebooks.com/telecommunications-and-data-communications-handbook/

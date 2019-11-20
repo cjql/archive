@@ -1,1 +1,0 @@
-http://www.allitebooks.com/statistical-analysis-with-excel-for-dummies-2nd-edition/

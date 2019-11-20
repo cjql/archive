@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-scalable-net-2-0-application-designs/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/enterprise-recipes-with-ruby-and-rails/

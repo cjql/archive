@@ -1,1 +1,0 @@
-http://www.allitebooks.com/css-quick-syntax-referencecss-quick-syntax-reference/

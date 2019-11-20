@@ -1,1 +1,0 @@
-http://www.allitebooks.com/erlang-and-elixir-for-imperative-programmers/

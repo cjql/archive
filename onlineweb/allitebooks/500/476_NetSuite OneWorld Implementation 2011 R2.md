@@ -1,1 +1,0 @@
-http://www.allitebooks.com/netsuite-oneworld-implementation-2011-r2/

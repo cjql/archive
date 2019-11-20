@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-the-missing-manual-4th-edition/

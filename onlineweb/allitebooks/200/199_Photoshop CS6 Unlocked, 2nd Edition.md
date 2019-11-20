@@ -1,1 +1,0 @@
-http://www.allitebooks.com/photoshop-cs6-unlocked-2nd-edition/

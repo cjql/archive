@@ -1,1 +1,0 @@
-http://www.allitebooks.com/postgresql-up-and-running-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/optimizing-and-accessing-information-technology/

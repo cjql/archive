@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-oracle-fusion-applications-installation-and-administration/

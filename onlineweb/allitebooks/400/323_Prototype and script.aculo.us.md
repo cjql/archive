@@ -1,1 +1,0 @@
-http://www.allitebooks.com/prototype-and-script-aculo-us/

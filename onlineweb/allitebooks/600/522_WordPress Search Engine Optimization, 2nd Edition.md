@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-search-engine-optimization-2nd-edition/

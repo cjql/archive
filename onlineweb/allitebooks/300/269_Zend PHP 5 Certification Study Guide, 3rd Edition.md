@@ -1,1 +1,0 @@
-http://www.allitebooks.com/zend-php-5-certification-study-guide-3rd-edition/

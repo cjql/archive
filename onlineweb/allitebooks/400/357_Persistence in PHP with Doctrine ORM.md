@@ -1,1 +1,0 @@
-http://www.allitebooks.com/persistence-in-php-with-doctrine-orm/

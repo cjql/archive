@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-linux-philosophy-for-sysadmins/

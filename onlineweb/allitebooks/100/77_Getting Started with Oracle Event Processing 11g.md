@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-oracle-event-processing-11g/

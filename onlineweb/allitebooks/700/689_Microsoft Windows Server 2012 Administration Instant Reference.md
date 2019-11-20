@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-windows-server-2012-administration-instant-reference/

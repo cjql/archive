@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-captivate-7-for-mobile-learning/

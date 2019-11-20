@@ -1,1 +1,0 @@
-http://www.allitebooks.com/restful-java-with-jax-rs-2-0-2nd-edition/

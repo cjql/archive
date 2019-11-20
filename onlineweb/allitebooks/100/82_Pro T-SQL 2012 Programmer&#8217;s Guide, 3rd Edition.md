@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-t-sql-2012-programmers-guide-3rd-edition/

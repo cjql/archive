@@ -1,1 +1,0 @@
-http://www.allitebooks.com/instant-mapreduce-patterns-hadoop-essentials-how-to/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/knoppix-hacks-2nd-edition/

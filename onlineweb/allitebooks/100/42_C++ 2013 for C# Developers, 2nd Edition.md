@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-2013-for-c-developers-2nd-edition/

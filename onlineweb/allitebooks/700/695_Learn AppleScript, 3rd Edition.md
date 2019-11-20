@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-applescript-3rd-edition/

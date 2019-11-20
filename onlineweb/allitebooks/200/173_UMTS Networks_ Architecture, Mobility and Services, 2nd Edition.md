@@ -1,1 +1,0 @@
-http://www.allitebooks.com/umts-networks-architecture-mobility-and-services-2nd-edition/

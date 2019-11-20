@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-wordpress-3rd-edition/

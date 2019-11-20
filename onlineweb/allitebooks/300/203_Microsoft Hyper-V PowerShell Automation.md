@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-hyper-v-powershell-automation/

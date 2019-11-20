@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-phones-for-dummies-4th-edition/

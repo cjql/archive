@@ -1,1 +1,0 @@
-http://www.allitebooks.com/applied-architecture-patterns-on-the-microsoft-platform/

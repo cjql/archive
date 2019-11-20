@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exam-ref-70-533-implementing-microsoft-azure-infrastructure-solutions/

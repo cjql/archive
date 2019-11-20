@@ -1,1 +1,0 @@
-http://www.allitebooks.com/zabbix-1-8-network-monitoring/

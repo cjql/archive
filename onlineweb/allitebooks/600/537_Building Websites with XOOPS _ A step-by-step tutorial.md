@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-websites-with-xoops-a-step-by-step-tutorial/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-ios-7-app-development/

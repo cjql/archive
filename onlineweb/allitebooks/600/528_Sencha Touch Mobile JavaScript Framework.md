@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sencha-touch-mobile-javascript-framework/

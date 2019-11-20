@@ -1,1 +1,0 @@
-http://www.allitebooks.com/citrix-xenserver-6-0-administration-essential-guide/

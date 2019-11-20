@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-sql-server-2008-development/

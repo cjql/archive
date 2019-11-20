@@ -1,1 +1,0 @@
-http://www.allitebooks.com/migrating-to-android-for-ios-developers/

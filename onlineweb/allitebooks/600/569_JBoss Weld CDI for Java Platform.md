@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jboss-weld-cdi-for-java-platform/

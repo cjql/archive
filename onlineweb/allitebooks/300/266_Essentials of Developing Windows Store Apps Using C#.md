@@ -1,1 +1,0 @@
-http://www.allitebooks.com/essentials-of-developing-windows-store-apps-using-c/

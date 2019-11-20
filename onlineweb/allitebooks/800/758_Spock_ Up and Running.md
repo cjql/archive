@@ -1,1 +1,0 @@
-http://www.allitebooks.com/spock-up-and-running/

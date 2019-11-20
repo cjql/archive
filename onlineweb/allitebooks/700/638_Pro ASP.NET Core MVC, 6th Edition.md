@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-asp-net-core-mvc-6th-edition/

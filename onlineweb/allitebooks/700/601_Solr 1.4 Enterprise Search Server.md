@@ -1,1 +1,0 @@
-http://www.allitebooks.com/solr-1-4-enterprise-search-server/

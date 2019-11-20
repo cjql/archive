@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-joy-of-clojure-2nd-edition/

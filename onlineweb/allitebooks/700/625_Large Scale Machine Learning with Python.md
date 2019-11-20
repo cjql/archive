@@ -1,1 +1,0 @@
-http://www.allitebooks.com/large-scale-machine-learning-with-python/

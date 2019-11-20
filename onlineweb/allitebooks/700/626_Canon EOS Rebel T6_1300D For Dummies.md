@@ -1,1 +1,0 @@
-http://www.allitebooks.com/canon-eos-rebel-t61300d-for-dummies/

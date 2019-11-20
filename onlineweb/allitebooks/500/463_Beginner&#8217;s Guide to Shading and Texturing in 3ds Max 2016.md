@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginners-guide-to-shading-and-texturing-in-3ds-max-2016/

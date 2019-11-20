@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-html5-game-programming/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/quickbooks-2015-the-missing-manual/

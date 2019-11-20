@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ggplot2-essentials/

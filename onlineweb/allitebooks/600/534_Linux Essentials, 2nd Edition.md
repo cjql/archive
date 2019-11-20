@@ -1,1 +1,0 @@
-http://www.allitebooks.com/linux-essentials-2nd-edition/

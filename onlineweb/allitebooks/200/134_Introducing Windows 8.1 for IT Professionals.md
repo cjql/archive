@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introducing-windows-8-1-for-it-professionals/

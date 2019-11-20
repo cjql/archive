@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mac-os-x-snow-leopard-pocket-guide/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/open-source-identity-management-patterns-and-practices-using-openam-10-x/

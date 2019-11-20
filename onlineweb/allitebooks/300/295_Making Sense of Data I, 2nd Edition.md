@@ -1,1 +1,0 @@
-http://www.allitebooks.com/making-sense-of-data-i-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/joomla-e-commerce-with-virtuemart/

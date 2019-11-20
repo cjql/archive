@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-f-functional-data-structures-and-algorithms/

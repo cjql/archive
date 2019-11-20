@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipad-in-education-for-dummies/

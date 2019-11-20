@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sphinx-search-beginners-guide/

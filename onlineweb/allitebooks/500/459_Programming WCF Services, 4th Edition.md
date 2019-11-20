@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-wcf-services-4th-edition/

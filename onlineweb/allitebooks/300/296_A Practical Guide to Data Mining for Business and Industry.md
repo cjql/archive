@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-practical-guide-to-data-mining-for-business-and-industry/

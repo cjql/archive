@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cross-platform-localization-for-native-mobile-apps-with-xamarin/

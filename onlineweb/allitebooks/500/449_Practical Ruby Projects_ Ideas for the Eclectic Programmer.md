@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-ruby-projects-ideas-for-the-eclectic-programmer/

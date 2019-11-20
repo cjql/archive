@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-myfaces-1-2-web-application-development/

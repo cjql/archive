@@ -1,1 +1,0 @@
-http://www.allitebooks.com/agent-based-modeling-and-simulation-with-swarm/

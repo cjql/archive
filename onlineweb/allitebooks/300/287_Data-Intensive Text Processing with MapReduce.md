@@ -1,1 +1,0 @@
-http://www.allitebooks.com/data-intensive-text-processing-with-mapreduce/

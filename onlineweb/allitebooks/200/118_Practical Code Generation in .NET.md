@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-code-generation-in-net/

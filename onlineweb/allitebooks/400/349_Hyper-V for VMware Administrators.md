@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hyper-v-for-vmware-administrators/

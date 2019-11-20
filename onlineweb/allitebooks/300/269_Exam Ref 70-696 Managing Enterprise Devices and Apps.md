@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exam-ref-70-696-managing-enterprise-devices-and-apps/

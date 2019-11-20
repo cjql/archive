@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-data-mining-with-python/

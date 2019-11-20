@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-ruby-programming-language/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/django-javascript-integration-ajax-and-jquery/

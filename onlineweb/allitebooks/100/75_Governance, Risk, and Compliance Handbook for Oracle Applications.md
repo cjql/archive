@@ -1,1 +1,0 @@
-http://www.allitebooks.com/governance-risk-and-compliance-handbook-for-oracle-applications/

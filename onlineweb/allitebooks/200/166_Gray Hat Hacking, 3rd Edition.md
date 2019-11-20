@@ -1,1 +1,0 @@
-http://www.allitebooks.com/gray-hat-hacking-3rd-edition/

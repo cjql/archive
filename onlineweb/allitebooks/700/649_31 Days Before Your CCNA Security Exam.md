@@ -1,1 +1,0 @@
-http://www.allitebooks.com/31-days-before-your-ccna-security-exam/

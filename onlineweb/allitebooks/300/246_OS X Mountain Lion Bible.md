@@ -1,1 +1,0 @@
-http://www.allitebooks.com/os-x-mountain-lion-bible/

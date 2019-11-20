@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-plsql-by-example-5th-edition/

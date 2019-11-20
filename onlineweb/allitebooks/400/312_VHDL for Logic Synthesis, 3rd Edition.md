@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vhdl-for-logic-synthesis-3rd-edition/

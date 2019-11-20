@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vmware-thinapp-4-7-essentials/

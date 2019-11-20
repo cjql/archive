@@ -1,1 +1,0 @@
-http://www.allitebooks.com/creating-a-data-driven-organization/

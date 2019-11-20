@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-ios-network-programming/

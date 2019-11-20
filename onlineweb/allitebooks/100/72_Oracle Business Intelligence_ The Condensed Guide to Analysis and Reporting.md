@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-business-intelligence-the-condensed-guide-to-analysis-and-reporting/

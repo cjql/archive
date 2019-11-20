@@ -1,1 +1,0 @@
-http://www.allitebooks.com/digital-lighting-and-rendering-3rd-edition/

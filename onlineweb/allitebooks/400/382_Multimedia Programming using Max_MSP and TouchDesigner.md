@@ -1,1 +1,0 @@
-http://www.allitebooks.com/multimedia-programming-using-maxmsp-and-touchdesigner/

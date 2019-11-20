@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vb-vba-in-a-nutshell-the-language/

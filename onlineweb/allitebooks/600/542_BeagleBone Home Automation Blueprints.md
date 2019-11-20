@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beaglebone-home-automation-blueprints/

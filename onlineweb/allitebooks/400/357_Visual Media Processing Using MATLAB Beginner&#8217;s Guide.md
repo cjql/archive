@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visual-media-processing-using-matlab-beginners-guide/

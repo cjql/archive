@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-play-framework-for-scala/

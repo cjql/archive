@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ionic-building-mobile-apps-with-ionic-framework/

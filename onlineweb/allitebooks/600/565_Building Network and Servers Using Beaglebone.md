@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-network-and-servers-using-beaglebone/

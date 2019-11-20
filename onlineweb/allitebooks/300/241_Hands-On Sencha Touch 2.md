@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hands-on-sencha-touch-2/

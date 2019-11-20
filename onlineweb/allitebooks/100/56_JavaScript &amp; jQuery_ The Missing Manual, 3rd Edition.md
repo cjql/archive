@@ -1,1 +1,0 @@
-http://www.allitebooks.com/javascript-jquery-the-missing-manual-3rd-edition/

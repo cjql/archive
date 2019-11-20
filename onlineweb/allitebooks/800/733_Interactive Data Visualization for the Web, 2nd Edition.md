@@ -1,1 +1,0 @@
-http://www.allitebooks.com/interactive-data-visualization-for-the-web-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/continuous-enterprise-development-in-java/

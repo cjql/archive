@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sharepoint-apps-with-lightswitch/

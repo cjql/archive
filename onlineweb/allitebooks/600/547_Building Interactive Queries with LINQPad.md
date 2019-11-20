@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-interactive-queries-with-linqpad/

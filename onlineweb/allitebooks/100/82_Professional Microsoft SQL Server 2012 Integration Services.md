@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-microsoft-sql-server-2012-integration-services/

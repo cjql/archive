@@ -1,1 +1,0 @@
-http://www.allitebooks.com/applied-cryptography-2nd-edition/

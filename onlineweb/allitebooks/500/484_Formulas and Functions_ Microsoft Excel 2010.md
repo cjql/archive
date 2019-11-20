@@ -1,1 +1,0 @@
-http://www.allitebooks.com/formulas-and-functions-microsoft-excel-2010/

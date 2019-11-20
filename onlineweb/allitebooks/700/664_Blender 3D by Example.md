@@ -1,1 +1,0 @@
-http://www.allitebooks.com/blender-3d-by-example/

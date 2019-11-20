@@ -1,1 +1,0 @@
-http://www.allitebooks.com/objective-c-programmers-reference/

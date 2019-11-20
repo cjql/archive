@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-ios-8-app-development-2nd-edition/

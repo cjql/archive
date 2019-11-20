@@ -1,1 +1,0 @@
-http://www.allitebooks.com/magento-beginners-guide-2nd-edition/

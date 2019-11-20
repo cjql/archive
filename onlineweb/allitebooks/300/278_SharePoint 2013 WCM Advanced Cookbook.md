@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sharepoint-2013-wcm-advanced-cookbook/

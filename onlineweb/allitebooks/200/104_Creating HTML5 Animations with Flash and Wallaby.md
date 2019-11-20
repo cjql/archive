@@ -1,1 +1,0 @@
-http://www.allitebooks.com/creating-html5-animations-with-flash-and-wallaby/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/front-end-development-with-asp-net-core-angular-and-bootstrap/

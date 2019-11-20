@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-plsql-programming-6th-edition/

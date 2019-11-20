@@ -1,1 +1,0 @@
-http://www.allitebooks.com/openstack-object-storage-swift-essentials/

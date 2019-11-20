@@ -1,1 +1,0 @@
-http://www.allitebooks.com/opencv-3-0-computer-vision-with-java/

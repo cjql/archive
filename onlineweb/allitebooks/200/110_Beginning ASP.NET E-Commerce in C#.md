@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-asp-net-e-commerce-in-c/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-oracle-database-11g-administration/

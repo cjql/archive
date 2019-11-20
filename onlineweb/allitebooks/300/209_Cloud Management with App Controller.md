@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cloud-management-with-app-controller/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipad-enterprise-application-development-blueprints/

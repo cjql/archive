@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-axis2-web-services-2nd-edition/

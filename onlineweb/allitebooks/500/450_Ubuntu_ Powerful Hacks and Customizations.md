@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ubuntu-powerful-hacks-and-customizations/

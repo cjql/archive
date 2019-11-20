@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-sharepoint-2013-branding-and-responsive-web-development/

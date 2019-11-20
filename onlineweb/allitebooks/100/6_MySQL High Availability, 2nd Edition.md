@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mysql-high-availability-2nd-edition/

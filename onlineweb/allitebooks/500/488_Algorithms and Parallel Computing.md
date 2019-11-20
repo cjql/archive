@@ -1,1 +1,0 @@
-http://www.allitebooks.com/algorithms-and-parallel-computing/

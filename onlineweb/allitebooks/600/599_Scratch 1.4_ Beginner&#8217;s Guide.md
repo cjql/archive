@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scratch-1-4-beginners-guide/

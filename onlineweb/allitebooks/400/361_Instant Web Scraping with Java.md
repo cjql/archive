@@ -1,1 +1,0 @@
-http://www.allitebooks.com/instant-web-scraping-with-java/

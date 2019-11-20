@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-oracle-sql-for-oracle-database-12c-3rd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jquery-2-recipes/

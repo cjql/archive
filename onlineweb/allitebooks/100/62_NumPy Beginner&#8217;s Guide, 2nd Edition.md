@@ -1,1 +1,0 @@
-http://www.allitebooks.com/numpy-beginners-guide-2nd-edition/

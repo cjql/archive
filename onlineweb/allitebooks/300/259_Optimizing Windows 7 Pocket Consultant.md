@@ -1,1 +1,0 @@
-http://www.allitebooks.com/optimizing-windows-7-pocket-consultant/

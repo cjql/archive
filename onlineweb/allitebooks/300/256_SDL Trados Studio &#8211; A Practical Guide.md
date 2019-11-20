@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sdl-trados-studio-a-practical-guide/

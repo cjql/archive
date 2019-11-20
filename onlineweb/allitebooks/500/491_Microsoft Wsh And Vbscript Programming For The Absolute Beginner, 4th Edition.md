@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-wsh-and-vbscript-programming-for-the-absolute-beginner-4th-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/teach-yourself-visually-laptops-2nd-edition/

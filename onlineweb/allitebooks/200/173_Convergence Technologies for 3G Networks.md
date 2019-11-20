@@ -1,1 +1,0 @@
-http://www.allitebooks.com/convergence-technologies-for-3g-networks/

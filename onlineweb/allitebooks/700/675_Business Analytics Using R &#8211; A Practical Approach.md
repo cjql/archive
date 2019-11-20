@@ -1,1 +1,0 @@
-http://www.allitebooks.com/business-analytics-using-r-a-practical-approach/

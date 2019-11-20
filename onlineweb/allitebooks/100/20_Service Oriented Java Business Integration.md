@@ -1,1 +1,0 @@
-http://www.allitebooks.com/service-oriented-java-business-integration/

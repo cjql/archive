@@ -1,1 +1,0 @@
-http://www.allitebooks.com/configuration-management-with-chef-solo/

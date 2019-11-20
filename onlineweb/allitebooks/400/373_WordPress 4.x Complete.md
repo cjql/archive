@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-4-x-complete/

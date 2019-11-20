@@ -1,1 +1,0 @@
-http://www.allitebooks.com/digital-speech-2nd-edition/

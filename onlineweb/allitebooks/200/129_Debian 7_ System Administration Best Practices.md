@@ -1,1 +1,0 @@
-http://www.allitebooks.com/debian-7-system-administration-best-practices/

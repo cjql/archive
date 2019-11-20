@@ -1,1 +1,0 @@
-http://www.allitebooks.com/deep-belief-nets-in-c-and-cuda-c-volume-3/

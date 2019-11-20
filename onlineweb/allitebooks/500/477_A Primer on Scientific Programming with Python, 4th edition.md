@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-primer-on-scientific-programming-with-python-4th-edition/

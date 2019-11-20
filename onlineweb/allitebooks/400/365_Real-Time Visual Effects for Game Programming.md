@@ -1,1 +1,0 @@
-http://www.allitebooks.com/real-time-visual-effects-for-game-programming/

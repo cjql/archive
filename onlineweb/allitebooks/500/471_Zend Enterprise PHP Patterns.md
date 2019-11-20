@@ -1,1 +1,0 @@
-http://www.allitebooks.com/zend-enterprise-php-patterns/

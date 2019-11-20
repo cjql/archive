@@ -1,1 +1,0 @@
-http://www.allitebooks.com/project-management-with-dotproject/

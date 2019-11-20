@@ -1,1 +1,0 @@
-http://www.allitebooks.com/web-scraping-with-python/

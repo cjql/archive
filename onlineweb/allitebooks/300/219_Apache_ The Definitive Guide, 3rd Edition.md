@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-the-definitive-guide-3rd-edition/

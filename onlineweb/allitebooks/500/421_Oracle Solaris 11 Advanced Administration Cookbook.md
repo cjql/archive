@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-solaris-11-advanced-administration-cookbook/

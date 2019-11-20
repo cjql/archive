@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-game-ai-programming-with-lua/

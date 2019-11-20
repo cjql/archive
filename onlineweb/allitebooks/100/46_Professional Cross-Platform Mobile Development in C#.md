@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-cross-platform-mobile-development-in-c/

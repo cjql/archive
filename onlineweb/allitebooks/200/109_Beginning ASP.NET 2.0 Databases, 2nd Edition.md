@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-asp-net-2-0-databases-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ccnp-routing-and-switching-route-300-101-official-cert-guide/

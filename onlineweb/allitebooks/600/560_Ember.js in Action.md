@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ember-js-in-action/

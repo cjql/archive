@@ -1,1 +1,0 @@
-http://www.allitebooks.com/excel-sales-forecasting-for-dummies-2nd-edition/

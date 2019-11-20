@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-flash-11-stage3d-game-programming/

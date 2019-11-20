@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rethinking-enterprise-storage-a-hybrid-cloud-model/

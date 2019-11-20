@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visual-studio-2013-and-net-4-5-expert-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/moodle-3-administration-third-edition/

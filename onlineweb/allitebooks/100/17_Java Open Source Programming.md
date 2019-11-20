@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-open-source-programming/

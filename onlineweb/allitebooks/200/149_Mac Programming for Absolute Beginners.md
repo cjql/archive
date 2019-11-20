@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mac-programming-for-absolute-beginners/

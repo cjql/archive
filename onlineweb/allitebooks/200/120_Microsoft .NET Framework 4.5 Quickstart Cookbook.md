@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-net-framework-4-5-quickstart-cookbook/

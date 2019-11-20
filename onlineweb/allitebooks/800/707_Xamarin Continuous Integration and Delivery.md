@@ -1,1 +1,0 @@
-http://www.allitebooks.com/xamarin-continuous-integration-and-delivery/

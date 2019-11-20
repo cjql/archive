@@ -1,1 +1,0 @@
-http://www.allitebooks.com/macromedia-studio-8-all-in-one-desk-reference-for-dummies/

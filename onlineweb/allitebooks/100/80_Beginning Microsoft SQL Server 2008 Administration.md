@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-microsoft-sql-server-2008-administration/

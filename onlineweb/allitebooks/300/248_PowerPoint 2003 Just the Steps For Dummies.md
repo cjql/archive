@@ -1,1 +1,0 @@
-http://www.allitebooks.com/powerpoint-2003-just-the-steps-for-dummies/

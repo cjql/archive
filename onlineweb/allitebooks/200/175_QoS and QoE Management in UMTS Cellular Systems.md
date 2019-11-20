@@ -1,1 +1,0 @@
-http://www.allitebooks.com/qos-and-qoe-management-in-umts-cellular-systems/

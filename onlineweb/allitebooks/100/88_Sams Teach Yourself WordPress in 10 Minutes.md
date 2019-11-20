@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-wordpress-in-10-minutes/

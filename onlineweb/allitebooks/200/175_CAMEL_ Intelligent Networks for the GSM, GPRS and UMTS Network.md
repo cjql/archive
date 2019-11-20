@@ -1,1 +1,0 @@
-http://www.allitebooks.com/camel-intelligent-networks-for-the-gsm-gprs-and-umts-network/

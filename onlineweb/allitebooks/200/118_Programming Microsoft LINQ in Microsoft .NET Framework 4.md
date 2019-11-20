@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-microsoft-linq-in-microsoft-net-framework-4/

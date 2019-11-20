@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-game-physics-with-bullet-physics-and-opengl/

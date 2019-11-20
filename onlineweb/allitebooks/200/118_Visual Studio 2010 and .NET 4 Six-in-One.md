@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visual-studio-2010-and-net-4-six-in-one/

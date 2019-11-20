@@ -1,1 +1,0 @@
-http://www.allitebooks.com/freepbx-2-5-powerful-telephony-solutions/

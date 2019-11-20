@@ -1,1 +1,0 @@
-http://www.allitebooks.com/working-with-microsoft-fast-search-server-2010-for-sharepoint/

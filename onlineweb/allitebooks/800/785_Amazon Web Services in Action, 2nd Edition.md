@@ -1,1 +1,0 @@
-http://www.allitebooks.com/amazon-web-services-in-action-2nd-edition/

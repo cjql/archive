@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-silverlight-4-in-c/

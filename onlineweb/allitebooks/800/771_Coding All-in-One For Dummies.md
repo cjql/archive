@@ -1,1 +1,0 @@
-http://www.allitebooks.com/coding-all-in-one-for-dummies/

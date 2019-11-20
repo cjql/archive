@@ -1,1 +1,0 @@
-http://www.allitebooks.com/3d-printing-designs-design-an-sd-card-holder/

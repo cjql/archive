@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-oracle-spatial-for-oracle-database-11g/

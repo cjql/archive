@@ -1,1 +1,0 @@
-http://www.allitebooks.com/latest-advances-in-inductive-logic-programming/

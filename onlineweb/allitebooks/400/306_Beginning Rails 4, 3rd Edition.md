@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-rails-4-3rd-edition/

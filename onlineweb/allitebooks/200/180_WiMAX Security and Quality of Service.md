@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wimax-security-and-quality-of-service/

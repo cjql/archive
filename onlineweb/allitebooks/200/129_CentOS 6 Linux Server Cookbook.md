@@ -1,1 +1,0 @@
-http://www.allitebooks.com/centos-6-linux-server-cookbook/

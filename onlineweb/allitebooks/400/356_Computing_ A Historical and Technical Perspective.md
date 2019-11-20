@@ -1,1 +1,0 @@
-http://www.allitebooks.com/computing-a-historical-and-technical-perspective/

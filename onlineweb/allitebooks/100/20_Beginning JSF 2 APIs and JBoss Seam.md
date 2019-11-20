@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-jsf-2-apis-and-jboss-seam/

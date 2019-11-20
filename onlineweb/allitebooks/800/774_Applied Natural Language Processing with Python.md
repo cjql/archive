@@ -1,1 +1,0 @@
-http://www.allitebooks.com/applied-natural-language-processing-with-python/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-3-for-absolute-beginners/

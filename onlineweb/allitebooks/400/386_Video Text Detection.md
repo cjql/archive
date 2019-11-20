@@ -1,1 +1,0 @@
-http://www.allitebooks.com/video-text-detection/

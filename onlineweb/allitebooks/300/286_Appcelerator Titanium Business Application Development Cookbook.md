@@ -1,1 +1,0 @@
-http://www.allitebooks.com/appcelerator-titanium-business-application-development-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-windows-intune-2-0-quickstart-administration/

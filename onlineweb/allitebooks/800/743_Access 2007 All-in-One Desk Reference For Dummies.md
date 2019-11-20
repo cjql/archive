@@ -1,1 +1,0 @@
-http://www.allitebooks.com/access-2007-all-in-one-desk-reference-for-dummies/

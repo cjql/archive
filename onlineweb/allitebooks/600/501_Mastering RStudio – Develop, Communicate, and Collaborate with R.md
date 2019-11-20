@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-rstudio-develop-communicate-and-collaborate-with-r/

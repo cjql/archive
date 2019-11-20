@@ -1,1 +1,0 @@
-http://www.allitebooks.com/laravel-5-essentials/

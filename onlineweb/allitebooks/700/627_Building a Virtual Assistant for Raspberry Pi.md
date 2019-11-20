@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-a-virtual-assistant-for-raspberry-pi/

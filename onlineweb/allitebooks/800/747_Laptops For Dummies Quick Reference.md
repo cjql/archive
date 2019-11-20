@@ -1,1 +1,0 @@
-http://www.allitebooks.com/laptops-for-dummies-quick-reference/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-practical-guide-to-networking-and-security-in-ios-8/

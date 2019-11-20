@@ -1,1 +1,0 @@
-http://www.allitebooks.com/indoor-radio-planning-a-practical-guide-for-2g-3g-and-4g-3rd-edition/

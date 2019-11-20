@@ -1,1 +1,0 @@
-http://www.allitebooks.com/javafx-1-2-application-development-cookbook/

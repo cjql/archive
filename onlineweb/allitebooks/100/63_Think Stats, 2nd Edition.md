@@ -1,1 +1,0 @@
-http://www.allitebooks.com/think-stats-2nd-edition/

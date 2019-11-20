@@ -1,1 +1,0 @@
-http://www.allitebooks.com/seven-databases-in-seven-weeks/

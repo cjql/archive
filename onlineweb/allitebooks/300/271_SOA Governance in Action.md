@@ -1,1 +1,0 @@
-http://www.allitebooks.com/soa-governance-in-action/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/data-push-apps-with-html5-sse/

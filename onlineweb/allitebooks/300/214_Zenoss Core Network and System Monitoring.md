@@ -1,1 +1,0 @@
-http://www.allitebooks.com/zenoss-core-network-and-system-monitoring/

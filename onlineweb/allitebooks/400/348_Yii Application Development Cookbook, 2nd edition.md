@@ -1,1 +1,0 @@
-http://www.allitebooks.com/yii-application-development-cookbook-2nd-edition/

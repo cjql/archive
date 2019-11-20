@@ -1,1 +1,0 @@
-http://www.allitebooks.com/instant-edgesight-for-xenapp/

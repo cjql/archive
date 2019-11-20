@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-xna-game-studio-4-0-learn-programming-now/

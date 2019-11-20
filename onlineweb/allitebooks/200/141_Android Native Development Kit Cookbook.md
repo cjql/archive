@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-native-development-kit-cookbook/

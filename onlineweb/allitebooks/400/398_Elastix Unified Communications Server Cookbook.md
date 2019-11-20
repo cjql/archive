@@ -1,1 +1,0 @@
-http://www.allitebooks.com/elastix-unified-communications-server-cookbook/

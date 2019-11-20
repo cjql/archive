@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-oauth-2-0/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/whats-new-in-sql-server-2012/

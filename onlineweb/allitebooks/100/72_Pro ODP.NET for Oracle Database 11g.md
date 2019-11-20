@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-odp-net-for-oracle-database-11g/

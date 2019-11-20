@@ -1,1 +1,0 @@
-http://www.allitebooks.com/websocket-essentials-building-apps-with-html5-websockets/

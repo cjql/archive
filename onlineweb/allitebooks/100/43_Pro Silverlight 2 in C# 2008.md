@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-silverlight-2-in-c-2008/

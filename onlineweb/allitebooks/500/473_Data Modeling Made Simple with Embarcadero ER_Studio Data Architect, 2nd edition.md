@@ -1,1 +1,0 @@
-http://www.allitebooks.com/data-modeling-made-simple-with-embarcadero-erstudio-data-architect-2nd-edition/

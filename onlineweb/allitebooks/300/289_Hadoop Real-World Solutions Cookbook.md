@@ -1,1 +1,0 @@
-http://www.allitebooks.com/hadoop-real-world-solutions-cookbook/

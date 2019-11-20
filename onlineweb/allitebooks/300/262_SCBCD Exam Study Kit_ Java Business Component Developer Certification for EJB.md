@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scbcd-exam-study-kit-java-business-component-developer-certification-for-ejb/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-secure-defenses-against-code-reuse-attacks/

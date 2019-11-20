@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-hybrid-mobile-application-development/

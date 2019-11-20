@@ -1,1 +1,0 @@
-http://www.allitebooks.com/voip-for-dummies/

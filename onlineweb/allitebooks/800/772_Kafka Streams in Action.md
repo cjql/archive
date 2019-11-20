@@ -1,1 +1,0 @@
-http://www.allitebooks.com/kafka-streams-in-action/

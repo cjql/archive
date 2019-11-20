@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-peoplesoft-enterprise-financial-management-9-1-implementation/

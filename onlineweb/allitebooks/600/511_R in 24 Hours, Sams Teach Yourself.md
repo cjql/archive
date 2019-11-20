@@ -1,1 +1,0 @@
-http://www.allitebooks.com/r-in-24-hours-sams-teach-yourself/

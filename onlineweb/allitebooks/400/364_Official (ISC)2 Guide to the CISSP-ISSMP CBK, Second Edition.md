@@ -1,1 +1,0 @@
-http://www.allitebooks.com/official-isc2-guide-to-the-cissp-issmp-cbk-second-edition/

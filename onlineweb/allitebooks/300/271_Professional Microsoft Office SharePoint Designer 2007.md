@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-microsoft-office-sharepoint-designer-2007/

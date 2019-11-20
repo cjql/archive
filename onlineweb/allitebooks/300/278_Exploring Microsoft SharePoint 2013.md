@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exploring-microsoft-sharepoint-2013/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-operations-management-suite/

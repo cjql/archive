@@ -1,1 +1,0 @@
-http://www.allitebooks.com/linux-and-solaris-recipes-for-oracle-dbas/

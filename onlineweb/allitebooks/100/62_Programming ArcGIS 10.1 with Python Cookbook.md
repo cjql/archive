@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-arcgis-10-1-with-python-cookbook/

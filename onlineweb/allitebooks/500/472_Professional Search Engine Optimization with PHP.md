@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-search-engine-optimization-with-php/

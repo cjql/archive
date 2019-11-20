@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-android-2nd-edition/

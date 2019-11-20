@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-t-sql-2012-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ibm-cognos-bi-v10-2-administration-essentials/

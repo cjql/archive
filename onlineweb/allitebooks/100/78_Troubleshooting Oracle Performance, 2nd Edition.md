@@ -1,1 +1,0 @@
-http://www.allitebooks.com/troubleshooting-oracle-performance-2nd-edition/

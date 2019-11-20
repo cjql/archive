@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ajax-and-php-building-modern-web-applications-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-windows-phone-7-application-development/

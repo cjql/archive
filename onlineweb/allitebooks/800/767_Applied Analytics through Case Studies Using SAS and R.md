@@ -1,1 +1,0 @@
-http://www.allitebooks.com/applied-analytics-through-case-studies-using-sas-and-r/

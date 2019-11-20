@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-ios-5-application-development-in-24-hours-3rd-edition/

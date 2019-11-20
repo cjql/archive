@@ -1,1 +1,0 @@
-http://www.allitebooks.com/physics-for-javascript-games-animation-and-simulations/

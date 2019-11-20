@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-7-just-the-steps-for-dummies/

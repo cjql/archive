@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-for-data-mining-quick-syntax-reference/

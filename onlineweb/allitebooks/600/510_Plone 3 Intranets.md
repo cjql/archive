@@ -1,1 +1,0 @@
-http://www.allitebooks.com/plone-3-intranets/

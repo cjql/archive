@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-windows-scripting-self-paced-learning-guide/

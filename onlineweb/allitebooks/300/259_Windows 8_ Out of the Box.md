@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-8-out-of-the-box/

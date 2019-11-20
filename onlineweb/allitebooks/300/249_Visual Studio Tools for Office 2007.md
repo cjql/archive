@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visual-studio-tools-for-office-2007/

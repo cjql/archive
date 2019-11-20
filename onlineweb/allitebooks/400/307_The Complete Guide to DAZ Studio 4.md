@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-complete-guide-to-daz-studio-4/

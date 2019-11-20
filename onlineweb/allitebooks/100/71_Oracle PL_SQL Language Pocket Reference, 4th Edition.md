@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-plsql-language-pocket-reference-4th-edition/

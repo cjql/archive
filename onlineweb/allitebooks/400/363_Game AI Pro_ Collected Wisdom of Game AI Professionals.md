@@ -1,1 +1,0 @@
-http://www.allitebooks.com/game-ai-pro-collected-wisdom-of-game-ai-professionals/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/kali-linux-2-windows-penetration-testing/

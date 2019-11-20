@@ -1,1 +1,0 @@
-http://www.allitebooks.com/intel-trusted-execution-technology-for-server-platforms/

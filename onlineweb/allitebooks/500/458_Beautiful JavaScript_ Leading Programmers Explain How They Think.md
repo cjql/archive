@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beautiful-javascript-leading-programmers-explain-how-they-think/

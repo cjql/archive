@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-microsoft-azure-infrastructure-services/

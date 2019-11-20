@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-mysql-javascript-html5-all-in-one-for-dummies/

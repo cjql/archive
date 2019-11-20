@@ -1,1 +1,0 @@
-http://www.allitebooks.com/lte-for-umts-ofdma-and-sc-fdma-based-radio-access/

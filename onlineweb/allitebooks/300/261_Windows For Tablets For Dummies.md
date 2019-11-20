@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-for-tablets-for-dummies/

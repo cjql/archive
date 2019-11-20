@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-cocoa-with-objective-c-2nd-edition/

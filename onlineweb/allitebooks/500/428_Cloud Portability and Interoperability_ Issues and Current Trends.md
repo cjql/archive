@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cloud-portability-and-interoperability-issues-and-current-trends/

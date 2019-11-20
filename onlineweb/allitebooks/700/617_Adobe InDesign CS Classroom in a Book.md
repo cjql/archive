@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-indesign-cs-classroom-in-a-book/

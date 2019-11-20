@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-with-joomla-cms/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-windows-phone-app-development-3rd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/testing-and-validation-of-computer-simulation-models/

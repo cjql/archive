@@ -1,1 +1,0 @@
-http://www.allitebooks.com/automating-actionscript-projects-with-eclipse-and-ant/

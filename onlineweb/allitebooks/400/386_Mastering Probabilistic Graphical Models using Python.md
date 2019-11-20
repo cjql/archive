@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-probabilistic-graphical-models-using-python/

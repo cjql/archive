@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-powerpoint-2013-step-by-step/

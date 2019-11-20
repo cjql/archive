@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-money-2006-for-dummies/

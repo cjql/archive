@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-and-ipad-app-24-hour-trainer/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/usb-complete-3rd-edition/

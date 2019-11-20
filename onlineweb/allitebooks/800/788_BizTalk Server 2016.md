@@ -1,1 +1,0 @@
-http://www.allitebooks.com/biztalk-server-2016/

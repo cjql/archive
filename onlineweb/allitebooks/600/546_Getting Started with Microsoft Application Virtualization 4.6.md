@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-microsoft-application-virtualization-4-6/

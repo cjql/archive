@@ -1,1 +1,0 @@
-http://www.allitebooks.com/application-development-with-parse-using-ios-sdk/

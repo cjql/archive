@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-apache-kafka-2nd-edition/

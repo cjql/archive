@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-exchange-2013-sp1-powershell-administration/

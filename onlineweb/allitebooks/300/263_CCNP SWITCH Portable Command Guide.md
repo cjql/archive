@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ccnp-switch-portable-command-guide/

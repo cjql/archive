@@ -1,1 +1,0 @@
-http://www.allitebooks.com/intermediate-perl-2nd-edition/

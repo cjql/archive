@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-xendesktop-7-x/

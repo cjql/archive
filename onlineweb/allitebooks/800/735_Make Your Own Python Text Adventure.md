@@ -1,1 +1,0 @@
-http://www.allitebooks.com/make-your-own-python-text-adventure/

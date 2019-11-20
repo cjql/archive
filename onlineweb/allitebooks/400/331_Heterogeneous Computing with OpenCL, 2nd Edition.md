@@ -1,1 +1,0 @@
-http://www.allitebooks.com/heterogeneous-computing-with-opencl-2nd-edition/

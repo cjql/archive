@@ -1,1 +1,0 @@
-http://www.allitebooks.com/extending-microsoft-dynamics-ax-2012-cookbook/

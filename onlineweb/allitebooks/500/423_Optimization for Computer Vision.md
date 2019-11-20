@@ -1,1 +1,0 @@
-http://www.allitebooks.com/optimization-for-computer-vision/

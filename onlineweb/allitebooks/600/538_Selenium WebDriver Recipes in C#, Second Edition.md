@@ -1,1 +1,0 @@
-http://www.allitebooks.com/selenium-webdriver-recipes-in-c-second-edition/

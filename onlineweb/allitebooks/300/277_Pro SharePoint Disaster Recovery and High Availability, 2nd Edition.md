@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-sharepoint-disaster-recovery-and-high-availability-2nd-edition/

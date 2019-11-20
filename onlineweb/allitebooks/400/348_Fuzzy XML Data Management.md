@@ -1,1 +1,0 @@
-http://www.allitebooks.com/fuzzy-xml-data-management/

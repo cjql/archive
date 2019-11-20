@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mobile-social-game-design-second-edition/

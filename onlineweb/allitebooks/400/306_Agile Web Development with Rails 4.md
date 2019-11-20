@@ -1,1 +1,0 @@
-http://www.allitebooks.com/agile-web-development-with-rails-4/

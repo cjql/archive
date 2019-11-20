@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-perl-2nd-edition/

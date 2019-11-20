@@ -1,1 +1,0 @@
-http://www.allitebooks.com/crafting-rails-4-applications/

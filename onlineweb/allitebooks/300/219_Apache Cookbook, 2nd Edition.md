@@ -1,1 +1,0 @@
-http://www.allitebooks.com/apache-cookbook-2nd-edition/

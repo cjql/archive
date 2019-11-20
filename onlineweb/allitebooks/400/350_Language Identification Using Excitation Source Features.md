@@ -1,1 +1,0 @@
-http://www.allitebooks.com/language-identification-using-excitation-source-features/

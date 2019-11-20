@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-accidental-sysadmin-handbook-second-edition/

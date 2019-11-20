@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-windows-store-app-development-using-c/

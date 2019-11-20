@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-web-apps-for-google-tv/

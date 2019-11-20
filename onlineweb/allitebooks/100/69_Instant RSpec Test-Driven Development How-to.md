@@ -1,1 +1,0 @@
-http://www.allitebooks.com/instant-rspec-test-driven-development-how-to/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/up-and-running-with-joomla-2nd-edition/

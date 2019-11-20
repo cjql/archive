@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-algorithms-for-3d-computer-graphics-second-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-wireless-communications-4g-cognitive-and-cooperative-broadband-technology-2nd-edition/

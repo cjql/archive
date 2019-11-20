@@ -1,1 +1,0 @@
-http://www.allitebooks.com/excel-2010-the-missing-manual/

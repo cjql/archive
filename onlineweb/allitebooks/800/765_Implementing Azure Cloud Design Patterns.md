@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-azure-cloud-design-patterns/

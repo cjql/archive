@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-24-hour-trainer-2nd-edition/

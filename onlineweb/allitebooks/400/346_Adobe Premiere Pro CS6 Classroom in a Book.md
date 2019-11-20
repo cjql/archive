@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-premiere-pro-cs6-classroom-in-a-book/

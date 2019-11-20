@@ -1,1 +1,0 @@
-http://www.allitebooks.com/start-here-fundamentals-of-microsoft-net-programming/

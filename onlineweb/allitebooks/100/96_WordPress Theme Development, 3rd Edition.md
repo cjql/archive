@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-theme-development-3rd-edition/

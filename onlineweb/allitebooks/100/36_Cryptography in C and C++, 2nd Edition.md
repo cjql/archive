@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cryptography-in-c-and-c-2nd-edition/

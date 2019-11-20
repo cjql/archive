@@ -1,1 +1,0 @@
-http://www.allitebooks.com/formal-methods-for-web-services/

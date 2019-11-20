@@ -1,1 +1,0 @@
-http://www.allitebooks.com/office-2010-simplified/

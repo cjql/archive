@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-vmware-horizon-view-5-2/

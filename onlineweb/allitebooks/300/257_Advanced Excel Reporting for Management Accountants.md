@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-excel-reporting-for-management-accountants/

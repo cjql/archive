@@ -1,1 +1,0 @@
-http://www.allitebooks.com/50-android-hacks/

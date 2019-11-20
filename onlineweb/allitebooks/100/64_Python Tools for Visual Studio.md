@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-tools-for-visual-studio/

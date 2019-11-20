@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-in-easy-steps-2nd-edition/

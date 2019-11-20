@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rethinking-the-internet-of-things/

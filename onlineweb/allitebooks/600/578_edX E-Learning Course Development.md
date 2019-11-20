@@ -1,1 +1,0 @@
-http://www.allitebooks.com/edx-e-learning-course-development/

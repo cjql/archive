@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipad-for-dummies-10th-edition/

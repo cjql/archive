@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ham-radio-for-dummies-3rd-edition/

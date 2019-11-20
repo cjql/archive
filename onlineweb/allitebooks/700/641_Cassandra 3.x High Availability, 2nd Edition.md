@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cassandra-3-x-high-availability-2nd-edition/

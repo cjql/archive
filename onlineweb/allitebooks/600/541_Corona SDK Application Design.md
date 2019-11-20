@@ -1,1 +1,0 @@
-http://www.allitebooks.com/corona-sdk-application-design/

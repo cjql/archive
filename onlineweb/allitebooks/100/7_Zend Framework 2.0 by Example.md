@@ -1,1 +1,0 @@
-http://www.allitebooks.com/zend-framework-2-0-by-example/

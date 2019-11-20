@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-apex-4-0-cookbook/

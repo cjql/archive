@@ -1,1 +1,0 @@
-http://www.allitebooks.com/metaprogramming-ruby-2nd-edition/

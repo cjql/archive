@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-design-patterns-in-swift/

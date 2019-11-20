@@ -1,1 +1,0 @@
-http://www.allitebooks.com/actionscript-for-flash-mx-the-definitive-guide-2nd-edition/

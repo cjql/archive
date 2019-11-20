@@ -1,1 +1,0 @@
-http://www.allitebooks.com/deploying-cisco-wide-area-application-services-2nd-edition/

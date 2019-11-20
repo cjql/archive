@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-lync-2013-unified-communications/

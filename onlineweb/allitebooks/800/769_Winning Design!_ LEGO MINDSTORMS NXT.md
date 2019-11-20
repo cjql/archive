@@ -1,1 +1,0 @@
-http://www.allitebooks.com/winning-design-lego-mindstorms-nxt/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/gnuplot-in-action-2nd-edition/

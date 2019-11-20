@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-object-oriented-programming-with-c/

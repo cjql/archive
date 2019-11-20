@@ -1,1 +1,0 @@
-http://www.allitebooks.com/dns-and-bind-on-ipv6/

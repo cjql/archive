@@ -1,1 +1,0 @@
-http://www.allitebooks.com/linux-bible-2010-edition/

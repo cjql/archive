@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jquery-for-designers-2nd-edition/

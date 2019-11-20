@@ -1,1 +1,0 @@
-http://www.allitebooks.com/photoshop-cs4-all-in-one-for-dummies/

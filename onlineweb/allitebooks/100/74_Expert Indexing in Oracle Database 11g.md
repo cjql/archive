@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-indexing-in-oracle-database-11g/

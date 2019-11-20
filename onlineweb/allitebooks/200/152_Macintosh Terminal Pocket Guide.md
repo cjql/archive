@@ -1,1 +1,0 @@
-http://www.allitebooks.com/macintosh-terminal-pocket-guide/

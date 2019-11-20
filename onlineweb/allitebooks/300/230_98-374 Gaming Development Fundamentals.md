@@ -1,1 +1,0 @@
-http://www.allitebooks.com/98-374-gaming-development-fundamentals/

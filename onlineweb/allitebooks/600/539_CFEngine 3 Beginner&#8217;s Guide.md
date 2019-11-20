@@ -1,1 +1,0 @@
-http://www.allitebooks.com/cfengine-3-beginners-guide/

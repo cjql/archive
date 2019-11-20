@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-google-sketchup-8-in-10-minutes/

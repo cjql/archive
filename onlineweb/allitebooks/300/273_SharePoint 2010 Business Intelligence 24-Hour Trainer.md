@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sharepoint-2010-business-intelligence-24-hour-trainer/

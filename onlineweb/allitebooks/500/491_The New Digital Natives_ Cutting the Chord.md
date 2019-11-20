@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-new-digital-natives-cutting-the-chord/

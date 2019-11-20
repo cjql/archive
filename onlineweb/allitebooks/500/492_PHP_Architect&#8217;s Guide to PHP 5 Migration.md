@@ -1,1 +1,0 @@
-http://www.allitebooks.com/phparchitects-guide-to-php-5-migration/

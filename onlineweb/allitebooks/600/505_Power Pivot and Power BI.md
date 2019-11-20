@@ -1,1 +1,0 @@
-http://www.allitebooks.com/power-pivot-and-power-bi/

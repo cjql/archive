@@ -1,1 +1,0 @@
-http://www.allitebooks.com/iphone-app-development-the-missing-manual/

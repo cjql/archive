@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ios-and-os-x-network-programming-cookbook/

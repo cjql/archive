@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-python-and-raspberry-pi/

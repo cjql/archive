@@ -1,1 +1,0 @@
-http://www.allitebooks.com/coffeescript-application-development-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/unreal-development-kit-game-design-cookbook/

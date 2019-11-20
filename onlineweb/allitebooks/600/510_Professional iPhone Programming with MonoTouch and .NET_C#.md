@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-iphone-programming-with-monotouch-and-netc/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ios-8-app-development-essentials/

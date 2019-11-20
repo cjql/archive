@@ -1,1 +1,0 @@
-http://www.allitebooks.com/devops-troubleshooting-linux-server-best-practices/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/handbook-of-metadata-semantics-and-ontologies/

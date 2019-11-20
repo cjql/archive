@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advances-in-security-of-information-and-communication-networks/

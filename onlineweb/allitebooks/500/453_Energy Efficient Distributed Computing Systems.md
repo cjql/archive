@@ -1,1 +1,0 @@
-http://www.allitebooks.com/energy-efficient-distributed-computing-systems/

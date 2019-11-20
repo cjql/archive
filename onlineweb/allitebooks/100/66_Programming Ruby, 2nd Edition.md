@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-ruby-2nd-edition/

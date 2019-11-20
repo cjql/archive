@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-php-and-jquery-second-edition/

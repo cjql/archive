@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-programming-with-c-for-dummies/

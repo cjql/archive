@@ -1,1 +1,0 @@
-http://www.allitebooks.com/active-directory-for-dummies-2nd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/codeigniter-for-rapid-php-application-development/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/practical-object-oriented-design-in-ruby/

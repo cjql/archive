@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-one-on-one-visual-basic-2005-database-programming/

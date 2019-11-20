@@ -1,1 +1,0 @@
-http://www.allitebooks.com/big-data-in-complex-systems-challenges-and-opportunities/

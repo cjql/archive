@@ -1,1 +1,0 @@
-http://www.allitebooks.com/develop-microsoft-hololens-apps-now/

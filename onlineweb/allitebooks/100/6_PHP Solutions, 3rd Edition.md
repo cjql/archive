@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-solutions-3rd-edition/

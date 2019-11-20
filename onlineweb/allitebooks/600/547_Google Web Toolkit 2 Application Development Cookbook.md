@@ -1,1 +1,0 @@
-http://www.allitebooks.com/google-web-toolkit-2-application-development-cookbook/

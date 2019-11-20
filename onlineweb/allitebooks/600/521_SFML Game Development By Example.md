@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sfml-game-development-by-example/

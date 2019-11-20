@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-oracle-database-12c-administration-2nd-edition/

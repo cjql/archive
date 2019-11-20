@@ -1,1 +1,0 @@
-http://www.allitebooks.com/digital-audio-editing-fundamentals/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introducing-sqlite-for-mobile-developers/

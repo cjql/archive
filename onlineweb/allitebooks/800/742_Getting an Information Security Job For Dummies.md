@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-an-information-security-job-for-dummies/

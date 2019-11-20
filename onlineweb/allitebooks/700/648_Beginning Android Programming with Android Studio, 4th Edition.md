@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-android-programming-with-android-studio-4th-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-ios-5-application-development/

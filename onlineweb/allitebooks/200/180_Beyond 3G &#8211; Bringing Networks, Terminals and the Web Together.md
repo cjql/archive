@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beyond-3g-bringing-networks-terminals-and-the-web-together/

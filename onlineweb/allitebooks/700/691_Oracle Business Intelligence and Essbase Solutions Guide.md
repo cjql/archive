@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-business-intelligence-and-essbase-solutions-guide/

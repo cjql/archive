@@ -1,1 +1,0 @@
-http://www.allitebooks.com/samsung-galaxy-s6-for-dummies/

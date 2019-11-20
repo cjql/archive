@@ -1,1 +1,0 @@
-http://www.allitebooks.com/guide-to-fpga-implementation-of-arithmetic-functions/

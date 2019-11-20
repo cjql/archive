@@ -1,1 +1,0 @@
-http://www.allitebooks.com/database-design-using-entity-relationship-diagrams-second-edition/

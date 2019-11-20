@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ios-sdk-programming-a-beginners-guide/

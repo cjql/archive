@@ -1,1 +1,0 @@
-http://www.allitebooks.com/taking-your-ipad-to-the-max/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/just-say-no-to-microsoft/

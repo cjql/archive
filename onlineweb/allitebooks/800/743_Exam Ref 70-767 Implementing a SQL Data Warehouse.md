@@ -1,1 +1,0 @@
-http://www.allitebooks.com/exam-ref-70-767-implementing-a-sql-data-warehouse/

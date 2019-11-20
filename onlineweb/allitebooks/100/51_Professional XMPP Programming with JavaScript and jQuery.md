@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-xmpp-programming-with-javascript-and-jquery/

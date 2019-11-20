@@ -1,1 +1,0 @@
-http://www.allitebooks.com/decision-theory-with-imperfect-information/

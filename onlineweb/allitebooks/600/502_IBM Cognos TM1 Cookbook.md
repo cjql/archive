@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ibm-cognos-tm1-cookbook/

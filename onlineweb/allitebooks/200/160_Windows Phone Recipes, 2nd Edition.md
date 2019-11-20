@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-phone-recipes-2nd-edition/

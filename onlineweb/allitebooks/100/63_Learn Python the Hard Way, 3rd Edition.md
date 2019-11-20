@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-python-the-hard-way-3rd-edition/

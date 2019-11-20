@@ -1,1 +1,0 @@
-http://www.allitebooks.com/formal-sql-tuning-for-oracle-databases/

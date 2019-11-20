@@ -1,1 +1,0 @@
-http://www.allitebooks.com/epub-3-best-practices/

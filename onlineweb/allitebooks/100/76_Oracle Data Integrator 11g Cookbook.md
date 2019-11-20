@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-data-integrator-11g-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-sql-azure-enterprise-application-development/

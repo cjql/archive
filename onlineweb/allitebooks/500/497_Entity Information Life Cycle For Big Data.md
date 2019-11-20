@@ -1,1 +1,0 @@
-http://www.allitebooks.com/entity-information-life-cycle-for-big-data/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-business-applications-with-silverlight-5-2nd-edition/

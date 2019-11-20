@@ -1,1 +1,0 @@
-http://www.allitebooks.com/designing-hyper-v-solutions/

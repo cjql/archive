@@ -1,1 +1,0 @@
-http://www.allitebooks.com/infinispan-data-grid-platform-definitive-guide/

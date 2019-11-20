@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-web-for-everyone-designing-accessible-user-experiences/

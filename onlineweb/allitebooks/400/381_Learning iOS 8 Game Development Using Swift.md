@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-ios-8-game-development-using-swift/

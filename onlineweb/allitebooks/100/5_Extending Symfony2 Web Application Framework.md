@@ -1,1 +1,0 @@
-http://www.allitebooks.com/extending-symfony2-web-application-framework/

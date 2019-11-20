@@ -1,1 +1,0 @@
-http://www.allitebooks.com/using-drupal-2nd-edition/

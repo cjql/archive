@@ -1,1 +1,0 @@
-http://www.allitebooks.com/training-kit-exam-70-462-administering-microsoft-sql-server-2012-databases/

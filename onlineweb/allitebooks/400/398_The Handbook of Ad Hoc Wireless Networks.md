@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-handbook-of-ad-hoc-wireless-networks/

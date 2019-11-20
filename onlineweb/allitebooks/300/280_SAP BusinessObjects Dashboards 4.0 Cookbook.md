@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sap-businessobjects-dashboards-4-0-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/puppet-2-7-cookbook/

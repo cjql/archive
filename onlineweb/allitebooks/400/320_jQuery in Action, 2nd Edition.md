@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jquery-in-action-2nd-edition/

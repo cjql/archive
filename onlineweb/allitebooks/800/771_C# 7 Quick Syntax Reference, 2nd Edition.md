@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-7-quick-syntax-reference-2nd-edition/

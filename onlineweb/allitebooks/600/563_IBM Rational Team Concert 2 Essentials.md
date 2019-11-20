@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ibm-rational-team-concert-2-essentials/

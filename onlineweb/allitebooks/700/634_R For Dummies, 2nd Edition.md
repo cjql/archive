@@ -1,1 +1,0 @@
-http://www.allitebooks.com/r-for-dummies-2nd-edition/

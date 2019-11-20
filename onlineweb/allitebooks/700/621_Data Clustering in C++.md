@@ -1,1 +1,0 @@
-http://www.allitebooks.com/data-clustering-in-c-an-object-oriented-approach/

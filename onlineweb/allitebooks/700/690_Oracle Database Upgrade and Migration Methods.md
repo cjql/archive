@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-database-upgrade-and-migration-methods/

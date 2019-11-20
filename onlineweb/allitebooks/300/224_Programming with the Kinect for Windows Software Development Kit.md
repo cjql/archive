@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-with-the-kinect-for-windows-software-development-kit/

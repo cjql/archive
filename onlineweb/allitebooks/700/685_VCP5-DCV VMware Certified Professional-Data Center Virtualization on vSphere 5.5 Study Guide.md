@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vcp5-dcv-vmware-certified-professional-data-center-virtualization-on-vsphere-5-5-study-guide/

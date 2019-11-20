@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-integrated-business-intelligence-solutions-with-sql-server-2008-r2-office-2010/

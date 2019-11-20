@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-models-of-financial-derivatives/

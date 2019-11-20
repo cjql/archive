@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-dynamics-ax-2012-r3-reporting-cookbook/

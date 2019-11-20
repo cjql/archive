@@ -1,1 +1,0 @@
-http://www.allitebooks.com/reporting-with-microsoft-sql-server-2012/

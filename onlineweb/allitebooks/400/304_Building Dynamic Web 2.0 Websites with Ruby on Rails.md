@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-dynamic-web-2-0-websites-with-ruby-on-rails/

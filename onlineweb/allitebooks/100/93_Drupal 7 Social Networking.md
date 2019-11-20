@@ -1,1 +1,0 @@
-http://www.allitebooks.com/drupal-7-social-networking/

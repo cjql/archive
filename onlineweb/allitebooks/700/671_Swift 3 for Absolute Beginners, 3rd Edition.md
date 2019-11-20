@@ -1,1 +1,0 @@
-http://www.allitebooks.com/swift-3-for-absolute-beginners-3rd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/collective-intelligence-in-action/

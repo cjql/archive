@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-hibernate-3rd-edition/

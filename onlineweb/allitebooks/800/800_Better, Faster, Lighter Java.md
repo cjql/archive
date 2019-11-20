@@ -1,1 +1,0 @@
-http://www.allitebooks.com/better-faster-lighter-java/

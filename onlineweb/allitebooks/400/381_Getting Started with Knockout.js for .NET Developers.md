@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-knockout-js-for-net-developers/

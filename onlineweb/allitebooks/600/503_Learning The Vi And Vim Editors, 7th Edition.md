@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-the-vi-and-vim-editors-7th-edition/

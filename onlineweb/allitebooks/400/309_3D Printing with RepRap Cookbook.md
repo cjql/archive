@@ -1,1 +1,0 @@
-http://www.allitebooks.com/3d-printing-with-reprap-cookbook/

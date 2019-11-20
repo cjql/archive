@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-t-sql-with-microsoft-sql-server-2005-and-2008/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/force-com-developer-certification-handbook-dev401/

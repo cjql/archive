@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-design-for-ios-development/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/creating-dynamic-ui-with-android-fragments-second-edition/

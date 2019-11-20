@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mos-2010-study-guide-for-microsoft-onenote-exam-mos-study-guide/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-all-in-one-desk-reference-for-dummies-2nd-edition/

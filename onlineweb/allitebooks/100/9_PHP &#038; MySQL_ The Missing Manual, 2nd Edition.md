@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-mysql-the-missing-manual-2nd-edition/

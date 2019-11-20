@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-developers-guide-to-social-programming/

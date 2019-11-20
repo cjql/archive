@@ -1,1 +1,0 @@
-http://www.allitebooks.com/twisted-network-programming-essentials-2nd-edition/

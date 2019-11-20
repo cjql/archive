@@ -1,1 +1,0 @@
-http://www.allitebooks.com/60-recipes-for-apache-cloudstack/

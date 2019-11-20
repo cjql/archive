@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-python-real-time-applications-with-storm/

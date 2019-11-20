@@ -1,1 +1,0 @@
-http://www.allitebooks.com/citrix-xendesktop-cookbook-third-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/java-7-concurrency-cookbook/

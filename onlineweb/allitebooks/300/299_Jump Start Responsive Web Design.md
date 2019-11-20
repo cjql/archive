@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jump-start-responsive-web-design/

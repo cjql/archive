@@ -1,1 +1,0 @@
-http://www.allitebooks.com/designing-evolvable-web-apis-with-asp-net/

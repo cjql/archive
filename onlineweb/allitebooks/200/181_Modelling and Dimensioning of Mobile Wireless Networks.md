@@ -1,1 +1,0 @@
-http://www.allitebooks.com/modelling-and-dimensioning-of-mobile-wireless-networks/

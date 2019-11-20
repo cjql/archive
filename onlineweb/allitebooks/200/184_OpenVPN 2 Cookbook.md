@@ -1,1 +1,0 @@
-http://www.allitebooks.com/openvpn-2-cookbook/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/microsoft-exchange-2010-powershell-cookbook/

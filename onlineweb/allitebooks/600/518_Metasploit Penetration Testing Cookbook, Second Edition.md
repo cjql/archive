@@ -1,1 +1,0 @@
-http://www.allitebooks.com/metasploit-penetration-testing-cookbook-second-edition/

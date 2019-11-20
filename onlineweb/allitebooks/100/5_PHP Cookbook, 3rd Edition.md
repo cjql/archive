@@ -1,1 +1,0 @@
-http://www.allitebooks.com/php-cookbook-3rd-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/web-standards-solutions-the-markup-and-style-handbook/

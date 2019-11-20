@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-c-in-24-hours-5th-edition/

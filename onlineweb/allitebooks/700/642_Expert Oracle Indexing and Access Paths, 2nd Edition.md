@@ -1,1 +1,0 @@
-http://www.allitebooks.com/expert-oracle-indexing-and-access-paths-2nd-edition/

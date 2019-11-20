@@ -1,1 +1,0 @@
-http://www.allitebooks.com/prototype-and-scriptaculous-in-action/

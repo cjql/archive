@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mac-os-x-leopard-for-dummies/

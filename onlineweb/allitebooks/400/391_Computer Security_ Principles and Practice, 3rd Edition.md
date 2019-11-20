@@ -1,1 +1,0 @@
-http://www.allitebooks.com/computer-security-principles-and-practice-3rd-edition/

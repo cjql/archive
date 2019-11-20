@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ios-programming-for-beginners/

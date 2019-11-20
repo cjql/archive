@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ccna-wireless-640-722-official-cert-guide/

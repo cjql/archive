@@ -1,1 +1,0 @@
-http://www.allitebooks.com/lte-the-umts-long-term-evolution/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/moodle-2-5-multimedia-cookbook-second-edition/

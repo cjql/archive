@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programming-cocoa-with-ruby/

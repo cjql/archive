@@ -1,1 +1,0 @@
-http://www.allitebooks.com/scratch-2-0-game-development/

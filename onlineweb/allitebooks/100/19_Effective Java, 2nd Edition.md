@@ -1,1 +1,0 @@
-http://www.allitebooks.com/effective-java-2nd-edition/

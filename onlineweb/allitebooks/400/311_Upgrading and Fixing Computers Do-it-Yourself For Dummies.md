@@ -1,1 +1,0 @@
-http://www.allitebooks.com/upgrading-and-fixing-computers-do-it-yourself-for-dummies/

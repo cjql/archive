@@ -1,1 +1,0 @@
-http://www.allitebooks.com/getting-started-with-oracle-bpm-suite-11gr1/

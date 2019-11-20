@@ -1,1 +1,0 @@
-http://www.allitebooks.com/heroku-cloud-application-development/

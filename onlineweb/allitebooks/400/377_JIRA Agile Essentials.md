@@ -1,1 +1,0 @@
-http://www.allitebooks.com/jira-agile-essentials/

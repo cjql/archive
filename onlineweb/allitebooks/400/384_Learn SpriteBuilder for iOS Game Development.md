@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-spritebuilder-for-ios-game-development/

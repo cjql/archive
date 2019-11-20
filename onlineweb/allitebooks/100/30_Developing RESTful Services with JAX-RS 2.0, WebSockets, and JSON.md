@@ -1,1 +1,0 @@
-http://www.allitebooks.com/developing-restful-services-with-jax-rs-2-0-websockets-and-json/

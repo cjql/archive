@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-sql-tuning-with-oracle-sqltxplain/

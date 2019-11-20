@@ -1,1 +1,0 @@
-http://www.allitebooks.com/blender-for-dummies-3rd-edition/

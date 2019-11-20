@@ -1,1 +1,0 @@
-http://www.allitebooks.com/best-of-ruby-quiz/

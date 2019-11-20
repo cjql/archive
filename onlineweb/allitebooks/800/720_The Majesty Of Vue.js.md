@@ -1,1 +1,0 @@
-http://www.allitebooks.com/the-majesty-of-vue-js/

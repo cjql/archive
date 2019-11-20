@@ -1,1 +1,0 @@
-http://www.allitebooks.com/asp-net-core-1-0-high-performance/

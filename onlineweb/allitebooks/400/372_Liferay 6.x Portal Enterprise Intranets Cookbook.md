@@ -1,1 +1,0 @@
-http://www.allitebooks.com/liferay-6-x-portal-enterprise-intranets-cookbook/

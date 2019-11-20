@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introduction-to-python-programming-and-developing-gui-applications-with-pyqt/

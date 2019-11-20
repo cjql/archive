@@ -1,1 +1,0 @@
-http://www.allitebooks.com/vmware-cookbook-2nd-edition/

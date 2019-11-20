@@ -1,1 +1,0 @@
-http://www.allitebooks.com/rubymotion-ios-development-essentials/

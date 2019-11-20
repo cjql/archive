@@ -1,1 +1,0 @@
-http://www.allitebooks.com/teaching-learning-based-optimization-algorithm/

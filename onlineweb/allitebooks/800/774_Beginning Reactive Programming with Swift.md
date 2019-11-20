@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-reactive-programming-with-swift/

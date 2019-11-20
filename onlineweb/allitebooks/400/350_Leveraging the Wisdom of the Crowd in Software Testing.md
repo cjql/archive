@@ -1,1 +1,0 @@
-http://www.allitebooks.com/leveraging-the-wisdom-of-the-crowd-in-software-testing/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/joomla-for-dummies-2nd-edition/

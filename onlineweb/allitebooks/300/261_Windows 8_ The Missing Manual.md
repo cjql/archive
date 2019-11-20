@@ -1,1 +1,0 @@
-http://www.allitebooks.com/windows-8-the-missing-manual/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/an-introduction-to-html5-game-development-with-phaser-js/

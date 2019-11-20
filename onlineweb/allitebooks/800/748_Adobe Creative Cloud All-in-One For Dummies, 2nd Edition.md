@@ -1,1 +1,0 @@
-http://www.allitebooks.com/adobe-creative-cloud-all-in-one-for-dummies-2nd-edition/

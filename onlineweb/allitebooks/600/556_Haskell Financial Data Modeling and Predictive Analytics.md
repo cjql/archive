@@ -1,1 +1,0 @@
-http://www.allitebooks.com/haskell-financial-data-modeling-and-predictive-analytics/

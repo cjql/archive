@@ -1,1 +1,0 @@
-http://www.allitebooks.com/excel-vba-programming-for-dummies-3rd-edition/

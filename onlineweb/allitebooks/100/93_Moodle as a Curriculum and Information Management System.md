@@ -1,1 +1,0 @@
-http://www.allitebooks.com/moodle-as-a-curriculum-and-information-management-system/

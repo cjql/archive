@@ -1,1 +1,0 @@
-http://www.allitebooks.com/javascript-the-definitive-guide-6th-edition/

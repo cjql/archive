@@ -1,1 +1,0 @@
-http://www.allitebooks.com/raspberry-pi-system-software-reference/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/web-cartography-map-design-for-interactive-and-mobile-devices/

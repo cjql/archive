@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ccentccna-icnd1-100-105-official-cert-guide/

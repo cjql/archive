@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-system-center-app-controller/

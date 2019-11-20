@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-windows-azure-mobile-services-for-windows-8-and-windows-phone-8/

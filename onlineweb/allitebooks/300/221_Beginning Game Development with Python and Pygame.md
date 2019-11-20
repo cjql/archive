@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-game-development-with-python-and-pygame/

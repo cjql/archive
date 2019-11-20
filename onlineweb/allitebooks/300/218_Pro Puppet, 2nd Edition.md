@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-puppet-2nd-edition/

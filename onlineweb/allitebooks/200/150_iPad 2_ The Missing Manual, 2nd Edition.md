@@ -1,1 +1,0 @@
-http://www.allitebooks.com/ipad-2-the-missing-manual-2nd-edition/

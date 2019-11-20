@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mastering-vba-for-microsoft-office-2016-3rd-edition/

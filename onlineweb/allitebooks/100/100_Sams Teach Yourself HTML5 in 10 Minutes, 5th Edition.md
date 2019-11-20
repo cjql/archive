@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sams-teach-yourself-html5-in-10-minutes-5th-edition/

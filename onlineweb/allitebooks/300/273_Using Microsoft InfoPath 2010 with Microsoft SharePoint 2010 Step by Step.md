@@ -1,1 +1,0 @@
-http://www.allitebooks.com/using-microsoft-infopath-2010-with-microsoft-sharepoint-2010-step-by-step/

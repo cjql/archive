@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-django-2nd-edition/

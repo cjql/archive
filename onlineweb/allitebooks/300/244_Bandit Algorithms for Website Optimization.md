@@ -1,1 +1,0 @@
-http://www.allitebooks.com/bandit-algorithms-for-website-optimization/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/a-guide-to-maple/

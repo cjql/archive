@@ -1,1 +1,0 @@
-http://www.allitebooks.com/implementing-a-data-warehouse-with-microsoft-sql-server-2012/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/wordpress-the-missing-manual/

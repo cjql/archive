@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-microsoft-visual-c-2008/

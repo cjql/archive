@@ -1,1 +1,0 @@
-http://www.allitebooks.com/sql-server-analysis-services-2012-cube-development-cookbook/

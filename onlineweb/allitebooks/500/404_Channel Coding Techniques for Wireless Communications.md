@@ -1,1 +1,0 @@
-http://www.allitebooks.com/channel-coding-techniques-for-wireless-communications/

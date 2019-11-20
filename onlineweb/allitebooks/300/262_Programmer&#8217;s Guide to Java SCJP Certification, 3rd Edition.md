@@ -1,1 +1,0 @@
-http://www.allitebooks.com/programmers-guide-to-java-scjp-certification-3rd-edition/

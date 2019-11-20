@@ -1,1 +1,0 @@
-http://www.allitebooks.com/introduction-to-mobile-telephone-systems-2nd-edition/

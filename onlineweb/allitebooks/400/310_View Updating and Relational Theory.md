@@ -1,1 +1,0 @@
-http://www.allitebooks.com/view-updating-and-relational-theory/

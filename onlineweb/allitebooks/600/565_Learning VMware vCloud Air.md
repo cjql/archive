@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-vmware-vcloud-air/

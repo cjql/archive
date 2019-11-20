@@ -1,1 +1,0 @@
-http://www.allitebooks.com/samsung-galaxy-s7-for-dummies/

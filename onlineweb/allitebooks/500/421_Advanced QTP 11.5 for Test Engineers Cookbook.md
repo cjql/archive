@@ -1,1 +1,0 @@
-http://www.allitebooks.com/advanced-qtp-11-5-for-test-engineers-cookbook/

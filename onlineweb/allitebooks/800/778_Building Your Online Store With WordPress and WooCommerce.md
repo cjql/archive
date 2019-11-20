@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-your-online-store-with-wordpress-and-woocommerce/

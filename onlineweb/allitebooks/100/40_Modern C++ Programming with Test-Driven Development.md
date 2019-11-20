@@ -1,1 +1,0 @@
-http://www.allitebooks.com/modern-c-programming-with-test-driven-development/

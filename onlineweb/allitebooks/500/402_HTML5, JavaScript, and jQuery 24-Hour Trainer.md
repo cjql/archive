@@ -1,1 +1,0 @@
-http://www.allitebooks.com/html5-javascript-and-jquery-24-hour-trainer/

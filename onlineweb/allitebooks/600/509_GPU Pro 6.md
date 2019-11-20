@@ -1,1 +1,0 @@
-http://www.allitebooks.com/gpu-pro-6/

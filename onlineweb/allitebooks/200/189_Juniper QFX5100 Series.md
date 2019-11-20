@@ -1,1 +1,0 @@
-http://www.allitebooks.com/juniper-qfx5100-series/

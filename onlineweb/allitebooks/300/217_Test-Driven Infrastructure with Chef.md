@@ -1,1 +1,0 @@
-http://www.allitebooks.com/test-driven-infrastructure-with-chef/

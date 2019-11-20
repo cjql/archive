@@ -1,1 +1,0 @@
-http://www.allitebooks.com/professional-sql-server-2012-internals-and-troubleshooting/

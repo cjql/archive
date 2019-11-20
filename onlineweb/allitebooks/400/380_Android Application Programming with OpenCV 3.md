@@ -1,1 +1,0 @@
-http://www.allitebooks.com/android-application-programming-with-opencv-3/

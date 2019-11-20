@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learn-java-for-android-development-2nd-edition/

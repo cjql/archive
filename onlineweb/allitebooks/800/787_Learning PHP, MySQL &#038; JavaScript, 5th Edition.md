@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-php-mysql-javascript-5th-edition/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/nmap-6-network-exploration-and-security-auditing-cookbook/

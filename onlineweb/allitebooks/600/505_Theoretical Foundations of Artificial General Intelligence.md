@@ -1,1 +1,0 @@
-http://www.allitebooks.com/theoretical-foundations-of-artificial-general-intelligence/

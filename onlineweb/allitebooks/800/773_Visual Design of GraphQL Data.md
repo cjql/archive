@@ -1,1 +1,0 @@
-http://www.allitebooks.com/visual-design-of-graphql-data/

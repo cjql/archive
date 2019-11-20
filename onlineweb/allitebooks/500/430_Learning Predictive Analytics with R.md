@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-predictive-analytics-with-r/

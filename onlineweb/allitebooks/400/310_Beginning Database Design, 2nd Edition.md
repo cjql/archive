@@ -1,1 +1,0 @@
-http://www.allitebooks.com/beginning-database-design-2nd-edition/

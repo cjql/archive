@@ -1,1 +1,0 @@
-http://www.allitebooks.com/c-essentials-2nd-edition/

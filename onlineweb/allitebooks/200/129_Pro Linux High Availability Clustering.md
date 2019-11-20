@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-linux-high-availability-clustering/

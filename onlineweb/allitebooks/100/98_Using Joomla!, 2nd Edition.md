@@ -1,1 +1,0 @@
-http://www.allitebooks.com/using-joomla-2nd-edition/

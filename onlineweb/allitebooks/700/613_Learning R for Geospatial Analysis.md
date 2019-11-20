@@ -1,1 +1,0 @@
-http://www.allitebooks.com/learning-r-for-geospatial-analysis/

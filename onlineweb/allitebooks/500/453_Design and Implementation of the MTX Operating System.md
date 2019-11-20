@@ -1,1 +1,0 @@
-http://www.allitebooks.com/design-and-implementation-of-the-mtx-operating-system/

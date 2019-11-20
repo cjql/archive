@@ -1,1 +1,0 @@
-http://www.allitebooks.com/pro-windows-8-development-with-html5-and-javascript/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-data-guard-11gr2-administration/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/end-to-end-quality-of-service-over-cellular-networks/

@@ -1,1 +1,0 @@
-http://www.allitebooks.com/oracle-soa-suite-11g-r1-developers-guide-2/

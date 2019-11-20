@@ -1,1 +1,0 @@
-http://www.allitebooks.com/python-pygame-and-raspberry-pi-game-development/

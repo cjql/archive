@@ -1,1 +1,0 @@
-http://www.allitebooks.com/mcsa-windows-server-2012-r2-installation-and-configuration-study-guide/

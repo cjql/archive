@@ -1,1 +1,0 @@
-http://www.allitebooks.com/moving-to-responsive-web-design-2/

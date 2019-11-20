@@ -1,1 +1,0 @@
-http://www.allitebooks.com/building-hypermedia-apis-with-html5-and-node/
