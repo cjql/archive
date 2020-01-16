@@ -30,6 +30,6 @@
 4. [各大咨询公司的企业文档目录](文档目录结构/readme.md)
 5. [我的百度网盘资源](list/readme.md)
 6. [学习方法](method/readme.md)
-7. [值得关注的GitHub仓库](overview/mystars)
+7. [值得关注的GitHub仓库](overview/mystars.md)
 
 [仓库网页]:https://cjql.github.io/archive/
