@@ -1,3 +1,9 @@
+# 电子书下载平台
+## 部分电子书
+[99藏书网](99csw.html)    
+[allitebooks](allitebooks.html)   
+[周读网](zdw.html)
+## 
 http://www.1024ebook.com/  
 http://www.allitebooks.com/  
 http://www.baizhionline.com/  

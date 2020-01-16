@@ -1,6 +1,5 @@
-
-这是一个收藏性质的仓库。收录了一些现阶段对我而言比较有用的资源，涵盖了计算机、文史、财经等多个我所感兴趣的领域。\
-最初建仓只是为了跨设备随时随地查询，没有在任何地方发过仓库的链接。没有想到大多数人是从Google、GitHub搜索CFA找到了这个仓库。感谢大家的watch、star和fork。为方便阅读、查询和fork到wiki里面的内容，现开通了 [仓库网页][仓库网页] 、并把Wiki里的内容迁移到Code区。
+这是一个收藏性质的仓库。收录了一些现阶段对我而言比较有用的资源，涵盖了计算机、文史、财经等多个我所感兴趣的领域。   
+最初建仓只是为了跨设备随时随地一站式查询，没有在任何地方发过仓库的链接。没有想到大多数人是从Google、GitHub搜索CFA找到了这个仓库。感谢大家的watch、star和fork。为方便阅读、查询和fork到wiki里面的内容，现开通了[仓库网页][仓库网页]、并把Wiki里的内容迁移到Code区。
 
 ## 收藏的内容
 1. [各大电子书搜索平台](onlineweb/readme.md)
@@ -9,7 +8,8 @@
 4. [各大咨询公司的企业文档目录](文档目录结构/readme.md)
 5. [我的百度网盘资源](list/readme.md)
 6. [学习方法](method/readme.md)
-7. [值得关注的GitHub仓库](overview/mystars.md)
+7. [目前关注的GitHub仓库](overview/mystars.md)
+8. [iamshuaidi提供的计算机类书籍网盘下载](overview/计算机类.md)
 
 [仓库网页]:https://cjql.github.io/archive/
 

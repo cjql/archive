@@ -49,6 +49,7 @@
 - [csaarg/ultimate-resources-zh-hans][csaarg/ultimate-resources-zh-hans] 软件资源及电子书资源
 - [howie6879/owllook][howie6879/owllook] 小说阅读网站&搜索引擎&推荐系统[搜索、追书、收藏、追更、小说API]
 - [hackerkid/Mind-Expanding-Books][hackerkid/Mind-Expanding-Books] 书单
+- [iamshuaidi/CS-Book][iamshuaidi/CS-Book] iamshuaidi整理的电子书
 ## 0.7. 他人笔记
 - [kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap] Roadmap to becoming a web developer in 2020
 - [ossu/computer-science][ossu/computer-science] Path to a free self-taught education in Computer Science!
@@ -331,6 +332,7 @@
 [home-assistant/home-assistant]:https://github.com/home-assistant/home-assistant
 [howie6879/owllook]:https://github.com/howie6879/owllook
 [huggingface/transformers]:https://github.com/huggingface/transformers
+[iamshuaidi/CS-Book]:https://github.com/iamshuaidi/CS-Book
 [itdelatrisu/opsu]:https://github.com/itdelatrisu/opsu
 [jackfrued/Python-100-Days]:https://github.com/jackfrued/Python-100-Days
 [jaywcjlove/linux-command]:https://github.com/jaywcjlove/linux-command
