@@ -1,238 +1,237 @@
 ## 0.1. 精益求精
-[sdmg15/Best-websites-a-programmer-should-visit][sdmg15/Best-websites-a-programmer-should-visit]  useful websites for programmers
-[MunGell/awesome-for-beginners][MunGell/awesome-for-beginners] beginners-friendly projects
-[florinpop17/app-ideas][florinpop17/app-ideas] improve your coding skills.
-[minimaxir/big-list-of-naughty-strings][minimaxir/big-list-of-naughty-strings] high probability of error
+- [sdmg15/Best-websites-a-programmer-should-visit][sdmg15/Best-websites-a-programmer-should-visit]  useful websites for programmers
+- [MunGell/awesome-for-beginners][MunGell/awesome-for-beginners] beginners-friendly projects
+- [florinpop17/app-ideas][florinpop17/app-ideas] improve your coding skills.
+- [minimaxir/big-list-of-naughty-strings][minimaxir/big-list-of-naughty-strings] high probability of error
 ## 0.2. cheatsheet
-[rstacruz/cheatsheets][rstacruz/cheatsheets]
-[OWASP/CheatSheetSeries][OWASP/CheatSheetSeries]
-[FavioVazquez/ds-cheatsheets][FavioVazquez/ds-cheatsheets]
-[abhat222/Data-Science--Cheat-Sheet][abhat222/Data-Science--Cheat-Sheet]
+- [rstacruz/cheatsheets][rstacruz/cheatsheets]
+- [OWASP/CheatSheetSeries][OWASP/CheatSheetSeries]
+- [FavioVazquez/ds-cheatsheets][FavioVazquez/ds-cheatsheets]
+- [abhat222/Data-Science--Cheat-Sheet][abhat222/Data-Science--Cheat-Sheet]
 ## 0.3. awesome
-[ruanyf/weekly][ruanyf/weekly]
-[sindresorhus/awesome][sindresorhus/awesome] 超全的awesome
-[lnishan/awesome-competitive-programming][lnishan/awesome-competitive-programming] 
-[ramitsurana/awesome-kubernetes][ramitsurana/awesome-kubernetes]  kubernetes sources 
-[sbilly/awesome-security][sbilly/awesome-security]
-[Hack-with-Github/Awesome-Hacking][Hack-with-Github/Awesome-Hacking]
-[aalhour/awesome-compilers][aalhour/awesome-compilers]  resources on Compilers, Interpreters and Runtimes
-[Awesome-HarmonyOS/HarmonyOS][Awesome-HarmonyOS/HarmonyOS]
+- [ruanyf/weekly][ruanyf/weekly]
+- [sindresorhus/awesome][sindresorhus/awesome] 超全的awesome
+- [lnishan/awesome-competitive-programming][lnishan/awesome-competitive-programming] 
+- [ramitsurana/awesome-kubernetes][ramitsurana/awesome-kubernetes]  kubernetes sources 
+- [sbilly/awesome-security][sbilly/awesome-security]
+- [Hack-with-Github/Awesome-Hacking][Hack-with-Github/Awesome-Hacking]
+- [aalhour/awesome-compilers][aalhour/awesome-compilers]  resources on Compilers, Interpreters and Runtimes
+- [Awesome-HarmonyOS/HarmonyOS][Awesome-HarmonyOS/HarmonyOS]
 ## 0.4. 数据集
-[awesomedata/awesome-public-datasets][awesomedata/awesome-public-datasets] open datasets
-[chinese-poetry/chinese-poetry][chinese-poetry/chinese-poetry] 中华古诗词数据库
-[eduosi/district][eduosi/district] 中国政区
-[geekinglcq/CDCS][geekinglcq/CDCS]  中国数据竞赛优胜解集锦
+- [awesomedata/awesome-public-datasets][awesomedata/awesome-public-datasets] open datasets
+- [chinese-poetry/chinese-poetry][chinese-poetry/chinese-poetry] 中华古诗词数据库
+- [eduosi/district][eduosi/district] 中国政区
+- [geekinglcq/CDCS][geekinglcq/CDCS]  中国数据竞赛优胜解集锦
 ## 0.5. 课程
-[prakhar1989/awesome-courses][prakhar1989/awesome-courses] 名校计算机课程
-[PKUanonym/REKCARC-TSC-UHT][PKUanonym/REKCARC-TSC-UHT] THU课程
-[lib-pku/libpku][lib-pku/libpku] PKU课程
-[USTC-Resource/USTC-Course][USTC-Resource/USTC-Course] 中国科学技术大学课程资源
-[QSCTech/zju-icicles][QSCTech/zju-icicles] 浙江大学课程攻略共享计划
-[nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan][nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan]
-[kirang89/pycrumbs][kirang89/pycrumbs] Python教程英文
-[d2l-ai/d2l-zh][d2l-ai/d2l-zh] 伯克利“深度学习导论”教材 
-[0voice/from_coder_to_expert][0voice/from_coder_to_expert] 从程序员到CTO，名企内部pdf与PPT
+- [prakhar1989/awesome-courses][prakhar1989/awesome-courses] 名校计算机课程
+- [PKUanonym/REKCARC-TSC-UHT][PKUanonym/REKCARC-TSC-UHT] THU课程
+- [lib-pku/libpku][lib-pku/libpku] PKU课程
+- [USTC-Resource/USTC-Course][USTC-Resource/USTC-Course] 中国科学技术大学课程资源
+- [QSCTech/zju-icicles][QSCTech/zju-icicles] 浙江大学课程攻略共享计划
+- [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan][nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan]
+- [kirang89/pycrumbs][kirang89/pycrumbs] Python教程英文
+- [d2l-ai/d2l-zh][d2l-ai/d2l-zh] 伯克利“深度学习导论”教材 
+- [0voice/from_coder_to_expert][0voice/from_coder_to_expert] 从程序员到CTO，名企内部pdf与PPT
 ## 0.6. 电子书
-[justjavac/free-programming-books-zh_CN][justjavac/free-programming-books-zh_CN]
-[EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]
-[twhite96/js-dev-reads][twhite96/js-dev-reads] web developer books and articles
-[sorenduan/awesome-java-books][sorenduan/awesome-java-books]
-[basarat/typescript-book][basarat/typescript-book]  TypeScript books
-[chai2010/advanced-go-programming-book][chai2010/advanced-go-programming-book] Go books
-[dariubs/GoBooks][dariubs/GoBooks] Go books
-[trimstray/the-book-of-secret-knowledge][trimstray/the-book-of-secret-knowledge]
-[owainlewis/awesome-artificial-intelligence][owainlewis/awesome-artificial-intelligence] AI courses, books, video lectures and papers
-[nakov/Practical-Cryptography-for-Developers-Book][nakov/Practical-Cryptography-for-Developers-Book]
-[waylau/books-collection][waylau/books-collection] 给程序员的开源、免费书籍收集，图书集合。
-[jobbole/awesome-programming-books][jobbole/awesome-programming-books] 编程书
-[programthink/books][programthink/books] 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-[csaarg/ultimate-resources-zh-hans][csaarg/ultimate-resources-zh-hans] 软件资源及电子书资源
-[howie6879/owllook][howie6879/owllook] 小说阅读网站&搜索引擎&推荐系统[搜索、追书、收藏、追更、小说API]
-[hackerkid/Mind-Expanding-Books][hackerkid/Mind-Expanding-Books] 书单
+- [justjavac/free-programming-books-zh_CN][justjavac/free-programming-books-zh_CN]
+- [EbookFoundation/free-programming-books][EbookFoundation/free-programming-books]
+- [twhite96/js-dev-reads][twhite96/js-dev-reads] web developer books and articles
+- [sorenduan/awesome-java-books][sorenduan/awesome-java-books]
+- [basarat/typescript-book][basarat/typescript-book]  TypeScript books
+- [chai2010/advanced-go-programming-book][chai2010/advanced-go-programming-book] Go books
+- [dariubs/GoBooks][dariubs/GoBooks] Go books
+- [trimstray/the-book-of-secret-knowledge][trimstray/the-book-of-secret-knowledge]
+- [owainlewis/awesome-artificial-intelligence][owainlewis/awesome-artificial-intelligence] AI courses, books, video lectures and papers
+- [nakov/Practical-Cryptography-for-Developers-Book][nakov/Practical-Cryptography-for-Developers-Book]
+- [waylau/books-collection][waylau/books-collection] 给程序员的开源、免费书籍收集，图书集合。
+- [jobbole/awesome-programming-books][jobbole/awesome-programming-books] 编程书
+- [programthink/books][programthink/books] 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+- [csaarg/ultimate-resources-zh-hans][csaarg/ultimate-resources-zh-hans] 软件资源及电子书资源
+- [howie6879/owllook][howie6879/owllook] 小说阅读网站&搜索引擎&推荐系统[搜索、追书、收藏、追更、小说API]
+- [hackerkid/Mind-Expanding-Books][hackerkid/Mind-Expanding-Books] 书单
 ## 0.7. 他人笔记
-[kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap] Roadmap to becoming a web developer in 2020
-[ossu/computer-science][ossu/computer-science] Path to a free self-taught education in Computer Science!
-[yangshun/tech-interview-handbook][yangshun/tech-interview-handbook]
-[0voice/interview_internal_reference][0voice/interview_internal_reference]
-[Advanced-Frontend/Daily-Interview-Question][Advanced-Frontend/Daily-Interview-Question]
-[jwasham/coding-interview-university][jwasham/coding-interview-university]
-[CyC2018/CS-Notes][CyC2018/CS-Notes]
-[josonle/Coding-Now][josonle/Coding-Now] 学习笔记
-[ZXZxin/ZXBlog][ZXZxin/ZXBlog] 学习笔记
-[francistao/LearningNotes][francistao/LearningNotes]
-[doocs/advanced-java][doocs/advanced-java] Java知识完全扫盲
-[Snailclimb/JavaGuide][Snailclimb/JavaGuide] Java学习+面试指南
-[xingshaocheng/architect-awesome][xingshaocheng/architect-awesome] 后端架构师技术图谱
+- [kamranahmedse/developer-roadmap][kamranahmedse/developer-roadmap] Roadmap to becoming a web developer in 2020
+- [ossu/computer-science][ossu/computer-science] Path to a free self-taught education in Computer Science!
+- [yangshun/tech-interview-handbook][yangshun/tech-interview-handbook]
+- [0voice/interview_internal_reference][0voice/interview_internal_reference]
+- [Advanced-Frontend/Daily-Interview-Question][Advanced-Frontend/Daily-Interview-Question]
+- [jwasham/coding-interview-university][jwasham/coding-interview-university]
+- [CyC2018/CS-Notes][CyC2018/CS-Notes]
+- [josonle/Coding-Now][josonle/Coding-Now] 学习笔记
+- [ZXZxin/ZXBlog][ZXZxin/ZXBlog] 学习笔记
+- [francistao/LearningNotes][francistao/LearningNotes]
+- [doocs/advanced-java][doocs/advanced-java] Java知识完全扫盲
+- [Snailclimb/JavaGuide][Snailclimb/JavaGuide] Java学习+面试指南
+- [xingshaocheng/architect-awesome][xingshaocheng/architect-awesome] 后端架构师技术图谱
 ## 0.8. 算法
-[apachecn/Interview][apachecn/Interview] 算法
-[MisterBooo/LeetCodeAnimation][MisterBooo/LeetCodeAnimation]
-[algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]
-[ChrisKnott/Algojammer][ChrisKnott/Algojammer] algorithm editor 
-[azl397985856/leetcode][azl397985856/leetcode]
-[haoel/leetcode][haoel/leetcode]
-[keon/algorithms][keon/algorithms] in Python
-[trekhleb/javascript-algorithms][trekhleb/javascript-algorithms] in JavaScript
-[gzc/CLRS][gzc/CLRS] Solutions to Introduction to Algorithms
+- [apachecn/Interview][apachecn/Interview] 算法
+- [MisterBooo/LeetCodeAnimation][MisterBooo/LeetCodeAnimation]
+- [algorithm-visualizer/algorithm-visualizer][algorithm-visualizer/algorithm-visualizer]
+- [ChrisKnott/Algojammer][ChrisKnott/Algojammer] algorithm editor 
+- [azl397985856/leetcode][azl397985856/leetcode]
+- [haoel/leetcode][haoel/leetcode]
+- [keon/algorithms][keon/algorithms] in Python
+- [trekhleb/javascript-algorithms][trekhleb/javascript-algorithms] in JavaScript
+- [gzc/CLRS][gzc/CLRS] Solutions to Introduction to Algorithms
 ## 0.9. API
-[freeCodeCamp/devdocs][freeCodeCamp/devdocs] API Documentation Browser
-[n0shake/Public-APIs][n0shake/Public-APIs]
-[public-apis/public-apis][public-apis/public-apis]
-[tiangolo/fastapi][tiangolo/fastapi] FastAPI framework
-[aimerforreimu/auxpi][aimerforreimu/auxpi] 多家 API 图床
+- [freeCodeCamp/devdocs][freeCodeCamp/devdocs] API Documentation Browser
+- [n0shake/Public-APIs][n0shake/Public-APIs]
+- [public-apis/public-apis][public-apis/public-apis]
+- [tiangolo/fastapi][tiangolo/fastapi] FastAPI framework
+- [aimerforreimu/auxpi][aimerforreimu/auxpi] 多家 API 图床
 ## 0.10. GitHub
-[firstcontributions/first-contributions][firstcontributions/first-contributions] beginners to contribute to open source projects
-[pcottle/learnGitBranching][pcottle/learnGitBranching] GitHub分支学习
-[phodal/github][phodal/github] GitHub 漫游指南
-[kon9chunkit/GitHub-Chinese-Top-Charts][kon9chunkit/GitHub-Chinese-Top-Charts] GitHub中文项目排行榜
-[521xueweihan/HelloGitHub][521xueweihan/HelloGitHub] GitHub 上有趣、入门级的开源项目
-[GitHubDaily/GitHubDaily][GitHubDaily/GitHubDaily] GitHub 上优秀的开源项目
+- [firstcontributions/first-contributions][firstcontributions/first-contributions] beginners to contribute to open source projects
+- [pcottle/learnGitBranching][pcottle/learnGitBranching] GitHub分支学习
+- [phodal/github][phodal/github] GitHub 漫游指南
+- [kon9chunkit/GitHub-Chinese-Top-Charts][kon9chunkit/GitHub-Chinese-Top-Charts] GitHub中文项目排行榜
+- [521xueweihan/HelloGitHub][521xueweihan/HelloGitHub] GitHub 上有趣、入门级的开源项目
+- [GitHubDaily/GitHubDaily][GitHubDaily/GitHubDaily] GitHub 上优秀的开源项目
 ## 0.11. linux
-[jlevy/the-art-of-command-line][jlevy/the-art-of-command-line] 命令行的艺术
-[torvalds/linux][torvalds/linux]
-[jaywcjlove/linux-command][jaywcjlove/linux-command]
-[tbodt/ish][tbodt/ish] Linux shell for iOS
+- [jlevy/the-art-of-command-line][jlevy/the-art-of-command-line] 命令行的艺术
+- [torvalds/linux][torvalds/linux]
+- [jaywcjlove/linux-command][jaywcjlove/linux-command]
+- [tbodt/ish][tbodt/ish] Linux shell for iOS
 ## 0.12. Python
-[cool-RR/PySnooper][cool-RR/PySnooper] Never use print for debugging again
-[30-seconds/30-seconds-of-python][30-seconds/30-seconds-of-python]
-[jackfrued/Python-100-Days][jackfrued/Python-100-Days]
-[fluentpython/example-code][fluentpython/example-code]
-[TheAlgorithms/Python][TheAlgorithms/Python]
-[geekcomputers/Python][geekcomputers/Python] My Python Examples
-[mahmoud/awesome-python-applications][mahmoud/awesome-python-applications] Python开源应用
-[vinta/awesome-python][vinta/awesome-python]  Python框架、库、软件、资源
-[python/cpython][python/cpython]
-[zpoint/CPython-Internals][zpoint/CPython-Internals] Python源码分析
-[dragonfly/dragonfly][dragonfly/dragonfly] python library for scalable Bayesian optimisation
+- [cool-RR/PySnooper][cool-RR/PySnooper] Never use print for debugging again
+- [30-seconds/30-seconds-of-python][30-seconds/30-seconds-of-python]
+- [jackfrued/Python-100-Days][jackfrued/Python-100-Days]
+- [fluentpython/example-code][fluentpython/example-code]
+- [TheAlgorithms/Python][TheAlgorithms/Python]
+- [geekcomputers/Python][geekcomputers/Python] My Python Examples
+- [mahmoud/awesome-python-applications][mahmoud/awesome-python-applications] Python开源应用
+- [vinta/awesome-python][vinta/awesome-python]  Python框架、库、软件、资源
+- [python/cpython][python/cpython]
+- [zpoint/CPython-Internals][zpoint/CPython-Internals] Python源码分析
+- [dragonfly/dragonfly][dragonfly/dragonfly] python library for scalable Bayesian optimisation
 ## 0.13. 爬虫
-[psf/requests][psf/requests] requests源码
-[rmax/scrapy-redis][rmax/scrapy-redis]
-[andymccurdy/redis-py][andymccurdy/redis-py]
-[shengqiangzhang/examples-of-web-crawlers][shengqiangzhang/examples-of-web-crawlers] 有趣的python爬虫例子
-[kingname/SourceCodeOfBook][kingname/SourceCodeOfBook] 《Python爬虫开发 从入门到实战》配套源代码
-[Kr1s77/awesome-python-login-model][Kr1s77/awesome-python-login-model] Python登陆爬虫
-[justauth/JustAuth][justauth/JustAuth] 第三方登录的开源库
-[ghost123gg/tools][ghost123gg/tools] A Python Crawler Framework
-[yhangf/PythonCrawler][yhangf/PythonCrawler]
-[mozilla/geckodriver][mozilla/geckodriver]
-[SeleniumHQ/docs][SeleniumHQ/docs]
-[SeleniumHQ/selenium][SeleniumHQ/selenium]
-[dequinns/ScrapydArt][dequinns/ScrapydArt] 增强Scrapyd
-[diffbot/diffbot-python-client][diffbot/diffbot-python-client]
-[jhao104/proxy_pool][jhao104/proxy_pool]
-[postmanlabs/postman-app-support][postmanlabs/postman-app-support] HTTP requests quickly
+- [psf/requests][psf/requests] requests源码
+- [rmax/scrapy-redis][rmax/scrapy-redis]
+- [andymccurdy/redis-py][andymccurdy/redis-py]
+- [shengqiangzhang/examples-of-web-crawlers][shengqiangzhang/examples-of-web-crawlers] 有趣的python爬虫例子
+- [kingname/SourceCodeOfBook][kingname/SourceCodeOfBook] 《Python爬虫开发 从入门到实战》配套源代码
+- [Kr1s77/awesome-python-login-model][Kr1s77/awesome-python-login-model] Python登陆爬虫
+- [justauth/JustAuth][justauth/JustAuth] 第三方登录的开源库
+- [ghost123gg/tools][ghost123gg/tools] A Python Crawler Framework
+- [yhangf/PythonCrawler][yhangf/PythonCrawler]
+- [mozilla/geckodriver][mozilla/geckodriver]
+- [SeleniumHQ/docs][SeleniumHQ/docs]
+- [SeleniumHQ/selenium][SeleniumHQ/selenium]
+- [dequinns/ScrapydArt][dequinns/ScrapydArt] 增强Scrapyd
+- [diffbot/diffbot-python-client][diffbot/diffbot-python-client]
+- [jhao104/proxy_pool][jhao104/proxy_pool]
+- [postmanlabs/postman-app-support][postmanlabs/postman-app-support] HTTP requests quickly
 ## 0.14. web
-[pallets/flask-website][pallets/flask-website]
-[pallets/flask][pallets/flask]
-[pallets/werkzeug][pallets/werkzeug]
-[nesdis/djongo][nesdis/djongo] Django and MongoDB database connector
-[django/django][django/django]
-[filamentgroup/tablesaw][filamentgroup/tablesaw] 智能表格
-[heartexlabs/label-studio][heartexlabs/label-studio] a multi-type data labeling and annotation tool
-[kognise/water.css][kognise/water.css] styles to make simple websites just a little nicer
-[numpy/numpy][numpy/numpy]
-[virgili0/Virgilio][virgili0/Virgilio] Data Science E-Learning
+- [pallets/flask-website][pallets/flask-website]
+- [pallets/flask][pallets/flask]
+- [pallets/werkzeug][pallets/werkzeug]
+- [nesdis/djongo][nesdis/djongo] Django and MongoDB database connector
+- [django/django][django/django]
+- [filamentgroup/tablesaw][filamentgroup/tablesaw] 智能表格
+- [heartexlabs/label-studio][heartexlabs/label-studio] a multi-type data labeling and annotation tool
+- [kognise/water.css][kognise/water.css] styles to make simple websites just a little nicer
+- [numpy/numpy][numpy/numpy]
+- [virgili0/Virgilio][virgili0/Virgilio] Data Science E-Learning
 ## 0.15. javascript
-[lydiahallie/javascript-questions][lydiahallie/javascript-questions]
-[naptha/tesseract.js][naptha/tesseract.js] Javascript OCR for more than 100 Languages
+- [lydiahallie/javascript-questions][lydiahallie/javascript-questions]
+- [naptha/tesseract.js][naptha/tesseract.js] Javascript OCR for more than 100 Languages
 ## 0.16. 工具
-[jhuangtw-dev/xg2xg][jhuangtw-dev/xg2xg] tech & services in Google
-[Wookai/paper-tips-and-tricks][Wookai/paper-tips-and-tricks] write scientific papers in LaTeX
-[HarisIqbal88/PlotNeuralNet][HarisIqbal88/PlotNeuralNet] Latex code for making neural networks diagrams
-[Awesome-Windows/Awesome][Awesome-Windows/Awesome] Windows软件
-[LisaDziuba/Awesome-Design-Tools][LisaDziuba/Awesome-Design-Tools] design tools and plugins
-[wesbos/awesome-uses][wesbos/awesome-uses] 效率工具
-[Tencent/TubeMQ][Tencent/TubeMQ] high-performance storage and transmission of massive data
-[smacke/subsync][smacke/subsync] 字幕与视频同步
-[showdownjs/showdown][showdownjs/showdown] a Javascript Markdown to HTML bidirectional converter
-[jgm/pandoc][jgm/pandoc] Universal markup converter
-[ytdl-org/youtube-dl][ytdl-org/youtube-dl] Command-line program to download videos from YouTube.com and other video sites
-[kn007/silk-v3-decoder][kn007/silk-v3-decoder] 解码silk v3音频文件
-[weolar/miniblink49][weolar/miniblink49] 小巧、轻量的浏览器内核
-[xland/xiangxuema][xland/xiangxuema] 个人知识管理与自媒体营销工具
-[zhaoolee/ChromeAppHeroes][zhaoolee/ChromeAppHeroes] Chrome插件英雄榜
-[cdr/code-server][cdr/code-server] Run VS Code on a remote server. 
-[shadowsocks/shadowsocks-windows][shadowsocks/shadowsocks-windows] 科学上网
-[bannedbook/fanqiang][bannedbook/fanqiang] 科学上网
-[v2ray/v2ray-core][v2ray/v2ray-core] 科学上网
-[outline/outline][outline/outline] wiki and knowledge base
-[pirate/ArchiveBox][pirate/ArchiveBox] 网站克隆
-[lemire/simdjson][lemire/simdjson] Parsing gigabytes of JSON per second
+- [jhuangtw-dev/xg2xg][jhuangtw-dev/xg2xg] tech & services in Google
+- [Wookai/paper-tips-and-tricks][Wookai/paper-tips-and-tricks] write scientific papers in LaTeX
+- [HarisIqbal88/PlotNeuralNet][HarisIqbal88/PlotNeuralNet] Latex code for making neural networks diagrams
+- [Awesome-Windows/Awesome][Awesome-Windows/Awesome] Windows软件
+- [LisaDziuba/Awesome-Design-Tools][LisaDziuba/Awesome-Design-Tools] design tools and plugins
+- [wesbos/awesome-uses][wesbos/awesome-uses] 效率工具
+- [Tencent/TubeMQ][Tencent/TubeMQ] high-performance storage and transmission of massive data
+- [smacke/subsync][smacke/subsync] 字幕与视频同步
+- [showdownjs/showdown][showdownjs/showdown] a Javascript Markdown to HTML bidirectional converter
+- [jgm/pandoc][jgm/pandoc] Universal markup converter
+- [ytdl-org/youtube-dl][ytdl-org/youtube-dl] Command-line program to download videos from YouTube.com and other video sites
+- [kn007/silk-v3-decoder][kn007/silk-v3-decoder] 解码silk v3音频文件
+- [weolar/miniblink49][weolar/miniblink49] 小巧、轻量的浏览器内核
+- [xland/xiangxuema][xland/xiangxuema] 个人知识管理与自媒体营销工具
+- [zhaoolee/ChromeAppHeroes][zhaoolee/ChromeAppHeroes] Chrome插件英雄榜
+- [cdr/code-server][cdr/code-server] Run VS Code on a remote server. 
+- [shadowsocks/shadowsocks-windows][shadowsocks/shadowsocks-windows] 科学上网
+- [bannedbook/fanqiang][bannedbook/fanqiang] 科学上网
+- [v2ray/v2ray-core][v2ray/v2ray-core] 科学上网
+- [outline/outline][outline/outline] wiki and knowledge base
+- [pirate/ArchiveBox][pirate/ArchiveBox] 网站克隆
+- [lemire/simdjson][lemire/simdjson] Parsing gigabytes of JSON per second
 ## 0.17. 炫技
-[taichi-dev/taichi][taichi-dev/taichi] 冰雪奇缘
-[chrislgarry/Apollo-11][chrislgarry/Apollo-11]
-[mars-project/mars][mars-project/mars]  large-scale data computation
+- [taichi-dev/taichi][taichi-dev/taichi] 冰雪奇缘
+- [chrislgarry/Apollo-11][chrislgarry/Apollo-11]
+- [mars-project/mars][mars-project/mars]  large-scale data computation
 ## 0.18. AI
-[rusty1s/pytorch_geometric][rusty1s/pytorch_geometric] Geometric Deep Learning Extension Library for PyTorch
-[uber/ludwig][uber/ludwig] train and test deep learning models without the need to write code.
-[deepmipt/DeepPavlov][deepmipt/DeepPavlov] deep learning chatbots
-[microsoft/MMdnn][microsoft/MMdnn] inter-operate among different deep learning frameworks
-[ChristosChristofidis/awesome-deep-learning][ChristosChristofidis/awesome-deep-learning] Deep Learning tutorials, projects and communities 
-[hadrienj/deepLearningBook-Notes][hadrienj/deepLearningBook-Notes]
-[deepfakes/faceswap][deepfakes/faceswap] 换脸
-[fengdu78/deeplearning_ai_books][fengdu78/deeplearning_ai_books]
-[rasbt/deeplearning-models][rasbt/deeplearning-models]
-[scutan90/DeepLearning-500-questions][scutan90/DeepLearning-500-questions]
-[lexfridman/mit-deep-learning][lexfridman/mit-deep-learning]
-[trekhleb/homemade-machine-learning][trekhleb/homemade-machine-learning]
-[Angel-ML/angel][Angel-ML/angel]  large-scale machine learning
-[BayesWitnesses/m2cgen][BayesWitnesses/m2cgen] Transform ML models into a native code
-[MLEveryday/100-Days-Of-ML-Code][MLEveryday/100-Days-Of-ML-Code]
-[apple/coremltools][apple/coremltools] Core ML Community Tools.
-[datawhalechina/pumpkin-book][datawhalechina/pumpkin-book] 《机器学习》西瓜书
-[wb14123/seq2seq-couplet][wb14123/seq2seq-couplet] 深度学习对对联
-[NVlabs/stylegan][NVlabs/stylegan]  Official TensorFlow Implementation
-[taki0112/Tensorflow-Cookbook][taki0112/Tensorflow-Cookbook]
-[tensorflow/models][tensorflow/models]
-[tensorflow/tensorflow][tensorflow/tensorflow]
-[yu4u/age-gender-estimation][yu4u/age-gender-estimation] Keras implementation of a CNN network for age and gender estimation
-[keras-team/keras][keras-team/keras]
-[huggingface/transformers][huggingface/transformers] Transformers NLP
-[keon/awesome-nlp][keon/awesome-nlp] NLP resources
-[fighting41love/funNLP][fighting41love/funNLP]
-[stanfordnlp/CoreNLP][stanfordnlp/CoreNLP]
-[InsaneLife/ChineseNLPCorpus][InsaneLife/ChineseNLPCorpus]
-[microsoft/nlp-recipes][microsoft/nlp-recipes]
-[msgi/nlp-journey][msgi/nlp-journey]
-[thunlp/OpenHowNet][thunlp/OpenHowNet]
-[thunlp/OpenKE][thunlp/OpenKE]
-[Determined22/zh-NER-TF][Determined22/zh-NER-TF] 中文命名实体识别
+- [rusty1s/pytorch_geometric][rusty1s/pytorch_geometric] Geometric Deep Learning Extension Library for PyTorch
+- [uber/ludwig][uber/ludwig] train and test deep learning models without the need to write code.
+- [deepmipt/DeepPavlov][deepmipt/DeepPavlov] deep learning chatbots
+- [microsoft/MMdnn][microsoft/MMdnn] inter-operate among different deep learning frameworks
+- [ChristosChristofidis/awesome-deep-learning][ChristosChristofidis/awesome-deep-learning] Deep Learning tutorials, projects and communities 
+- [hadrienj/deepLearningBook-Notes][hadrienj/deepLearningBook-Notes]
+- [deepfakes/faceswap][deepfakes/faceswap] 换脸
+- [fengdu78/deeplearning_ai_books][fengdu78/deeplearning_ai_books]
+- [rasbt/deeplearning-models][rasbt/deeplearning-models]
+- [scutan90/DeepLearning-500-questions][scutan90/DeepLearning-500-questions]
+- [lexfridman/mit-deep-learning][lexfridman/mit-deep-learning]
+- [trekhleb/homemade-machine-learning][trekhleb/homemade-machine-learning]
+- [Angel-ML/angel][Angel-ML/angel]  large-scale machine learning
+- [BayesWitnesses/m2cgen][BayesWitnesses/m2cgen] Transform ML models into a native code
+- [MLEveryday/100-Days-Of-ML-Code][MLEveryday/100-Days-Of-ML-Code]
+- [apple/coremltools][apple/coremltools] Core ML Community Tools.
+- [datawhalechina/pumpkin-book][datawhalechina/pumpkin-book] 《机器学习》西瓜书
+- [wb14123/seq2seq-couplet][wb14123/seq2seq-couplet] 深度学习对对联
+- [NVlabs/stylegan][NVlabs/stylegan]  Official TensorFlow Implementation
+- [taki0112/Tensorflow-Cookbook][taki0112/Tensorflow-Cookbook]
+- [tensorflow/models][tensorflow/models]
+- [tensorflow/tensorflow][tensorflow/tensorflow]
+- [yu4u/age-gender-estimation][yu4u/age-gender-estimation] Keras implementation of a CNN network for age and gender estimation
+- [keras-team/keras][keras-team/keras]
+- [huggingface/transformers][huggingface/transformers] Transformers NLP
+- [keon/awesome-nlp][keon/awesome-nlp] NLP resources
+- [fighting41love/funNLP][fighting41love/funNLP]
+- [stanfordnlp/CoreNLP][stanfordnlp/CoreNLP]
+- [InsaneLife/ChineseNLPCorpus][InsaneLife/ChineseNLPCorpus]
+- [microsoft/nlp-recipes][microsoft/nlp-recipes]
+- [msgi/nlp-journey][msgi/nlp-journey]
+- [thunlp/OpenHowNet][thunlp/OpenHowNet]
+- [thunlp/OpenKE][thunlp/OpenKE]
+- [Determined22/zh-NER-TF][Determined22/zh-NER-TF] 中文命名实体识别
 ## 0.19. 应用
-[macrozheng/mall][macrozheng/mall] 电商系统
-[justjavac/awesome-wechat-weapp][justjavac/awesome-wechat-weapp] 微信小程序开发资源汇总 
-[youfou/wxpy][youfou/wxpy] 微信API
-[littlecodersh/ItChat][littlecodersh/ItChat] 微信API
+- [macrozheng/mall][macrozheng/mall] 电商系统
+- [justjavac/awesome-wechat-weapp][justjavac/awesome-wechat-weapp] 微信小程序开发资源汇总 
+- [youfou/wxpy][youfou/wxpy] 微信API
+- [littlecodersh/ItChat][littlecodersh/ItChat] 微信API
 ## 0.20. 财经
-[peerchen/cktrader][peerchen/cktrader] 程序化交易的框架
-[cantaro86/Financial-Models-Numerical-Methods][cantaro86/Financial-Models-Numerical-Methods] Collection of notebooks about quantitative finance, with interactive python code.
-[fmzquant/strategies][fmzquant/strategies] 量化策略
-[cedricporter/funcat][cedricporter/funcat] 股票相关公式移植到Python 
-[datochan/ctdx][datochan/ctdx] 通达信基本通讯的封装
-[sinall/StrategyEase-Python-SDK][sinall/StrategyEase-Python-SDK] 自动化交易 API 及量化平台
+- [peerchen/cktrader][peerchen/cktrader] 程序化交易的框架
+- [cantaro86/Financial-Models-Numerical-Methods][cantaro86/Financial-Models-Numerical-Methods] Collection of notebooks about quantitative finance, with interactive python code.
+- [fmzquant/strategies][fmzquant/strategies] 量化策略
+- [cedricporter/funcat][cedricporter/funcat] 股票相关公式移植到Python 
+- [datochan/ctdx][datochan/ctdx] 通达信基本通讯的封装
+- [sinall/StrategyEase-Python-SDK][sinall/StrategyEase-Python-SDK] 自动化交易 API 及量化平台
 ## 0.21. 名企
-[bilibili/kratos][bilibili/kratos] bilibili开源的一套Go微服务框架
-[facebook/prophet][facebook/prophet] time series
-[facebook/rocksdb][facebook/rocksdb] fast storage
-[facebookresearch/pytext][facebookresearch/pytext] A natural language modeling framework based on PyTorch 
-[google-research/bert][google-research/bert] TensorFlow code and pre-trained models for BERT
-[google/earthenterprise][google/earthenterprise] Google Earth Enterprise - Open Source
-[google/jax][google/jax] Composable transformations
-[google/tink][google/tink] cryptographic APIs
-[googlehosts/hosts][googlehosts/hosts]
-[microsoftarchive/redis][microsoftarchive/redis]
-[microsoft/calculator][microsoft/calculator]
-[microsoft/pyright][microsoft/pyright] Static type checker for Python
-[microsoft/recommenders][microsoft/recommenders] Best Practices on Recommendation Systems 
-[microsoft/terminal][microsoft/terminal] source code for:Windows Terminal, Console and Command-Line repo
-[microsoft/vscode-extension-samples][microsoft/vscode-extension-samples]
-[microsoft/vscode][microsoft/vscode]
-[wikimedia/mediawiki-extensions][wikimedia/mediawiki-extensions]
-[wikimedia/mediawiki][wikimedia/mediawiki]
+- [bilibili/kratos][bilibili/kratos] bilibili开源的一套Go微服务框架
+- [facebook/prophet][facebook/prophet] time series
+- [facebook/rocksdb][facebook/rocksdb] fast storage
+- [facebookresearch/pytext][facebookresearch/pytext] A natural language modeling framework based on PyTorch 
+- [google-research/bert][google-research/bert] TensorFlow code and pre-trained models for BERT
+- [google/earthenterprise][google/earthenterprise] Google Earth Enterprise - Open Source
+- [google/jax][google/jax] Composable transformations
+- [google/tink][google/tink] cryptographic APIs
+- [googlehosts/hosts][googlehosts/hosts]
+- [microsoftarchive/redis][microsoftarchive/redis]
+- [microsoft/calculator][microsoft/calculator]
+- [microsoft/pyright][microsoft/pyright] Static type checker for Python
+- [microsoft/recommenders][microsoft/recommenders] Best Practices on Recommendation Systems 
+- [microsoft/terminal][microsoft/terminal] source code for:Windows Terminal, Console and Command-Line repo
+- [microsoft/vscode-extension-samples][microsoft/vscode-extension-samples]
+- [microsoft/vscode][microsoft/vscode]
+- [wikimedia/mediawiki-extensions][wikimedia/mediawiki-extensions]
+- [wikimedia/mediawiki][wikimedia/mediawiki]
 ## 0.22. 其他
-[itdelatrisu/opsu][itdelatrisu/opsu]  rhythm game 
-[donnemartin/system-design-primer][donnemartin/system-design-primer] design large-scale systems
-[home-assistant/home-assistant][home-assistant/home-assistant] home automation
-[NLRX-WJC/Learn-Vue-Source-Code][NLRX-WJC/Learn-Vue-Source-Code] Vue.js源码解析
-
+- [itdelatrisu/opsu][itdelatrisu/opsu]  rhythm game 
+- [donnemartin/system-design-primer][donnemartin/system-design-primer] design large-scale systems
+- [home-assistant/home-assistant][home-assistant/home-assistant] home automation
+- [NLRX-WJC/Learn-Vue-Source-Code][NLRX-WJC/Learn-Vue-Source-Code] Vue.js源码解析
 
 [0voice/from_coder_to_expert]:https://github.com/0voice/from_coder_to_expert
 [0voice/interview_internal_reference]:https://github.com/0voice/interview_internal_reference
