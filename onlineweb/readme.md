@@ -1,9 +1,9 @@
-# 电子书下载平台
-## 部分电子书
+# 电子书下载平台  
+## 部分电子书  
 [99藏书网](99csw.html)    
 [allitebooks](allitebooks.html)   
-[周读网](zdw.html)
-## 
+[周读网](zdw.html)  
+## 搜书网站  
 http://www.1024ebook.com/  
 http://www.allitebooks.com/  
 http://www.baizhionline.com/  
@@ -18,7 +18,7 @@ https://www.gitenberg.org/browse
 https://greenteapress.com/wp/    
 https://www.guhai.com.cn/html/zgsj/    
 http://m.gutenberg.org/ebooks/search.mobile/?sort_order=downloads  
-https://www.jiumodiary.com/ 鸠摩搜索
+https://www.jiumodiary.com/ 鸠摩搜索    
 http://hejizhan.com/bbs/  
 https://haobook.org/  
 http://hejizhan.com/bbs/  
@@ -39,6 +39,7 @@ https://manybooks.net/
 http://mydbfx.com/  
 http://www.myit.com/free-ebooks/  
 http://myitbooks.com/  
+http://www.nulog.cn/ 绝版图书   
 http://www.oapen.org/  
 https://www.openbookpublishers.com/section/2/1   
 http://www.pythondoc.com/  
@@ -51,13 +52,13 @@ http://tieba.github.io/cpp/#books
 http://www.xuexi111.org/  
 http://www.xzpc6.com/  
 http://www.weibaiyue.com/  
+https://zh.wikisource.org/wiki/Special:所有页面  
 https://en.wikibooks.org/wiki/Subject:Python_programming_language   
 https://www.wq1.net/  
 http://www.wzbook.xyz/  
 http://www.panduoduo.net/  
 https://www.douban.com/group/topic/27717353/  
-
-## English Readings
+## English Readings  
 https://www.gutenberg.org/  
 https://www.hathitrust.org/  
 https://manybooks.net/    
