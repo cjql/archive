@@ -5,74 +5,90 @@
 1. [学习方法](method/readme.md)
 2. [目前关注的GitHub仓库](overview/mystars.md)
 3. [各大电子书搜索平台](onlineweb/readme.md)
-4. [iamshuaidi提供的计算机类书籍网盘下载](overview/计算机类.md)
+4. [计算机资源](overview/计算机资源.md)
 5. [一些有用的软件](setups/readme.md)
 6. [各大咨询公司的企业文档目录](文档目录结构/readme.md)
-7. [我的百度网盘资源](list/readme.md)
-8. [计算机书籍源码](overview/计算机书籍源码.md)
+7. [本仓库wiki](wiki/readme.md)
 
 [仓库网页]:https://cjql.github.io/archive/
 
 ## 仓库目录结构
-```
-│  README.md
-│  _config.yml
-│
-├─list 【我的藏书】
-│      2017.12.18.md
-│      CS.md
-│      in.md
-│      readme.md
-│      二十六本经济学入门书单.md
-│      从业资格.md
-│      写作.md
-│      投行四大.md
-│      文史地泛读.md
-│      晚读.md
-│      暂时不看.md
-│      未整理.md
-│      经济.md
-│      英文读本.md
-│      词典.md
-│      逻辑数学推理.md
-│
-├─method
-│      readme.md
-│      Skills and Attributes.md
-│      分类.md
-│      归纳法.md
-│      知识整理.jpg
-│      算法技能树.png
-│      编程习惯.md
-│
-├─onlineweb
-│  │  99csw.html
-│  │  allitebooks.html
-│  │  allitebooks.py
-│  │  readme.md
-│  │  zdw.html
-│  │  文件遍历跨级.py
-│  │  获取全部内容.py
-│  │
-│  └─dbfx
-│          mydbfx.md
-│          mydbfx_error.md
-│          readme.md
-│
-├─overview
-│      mystars.md
-│      计算机类书籍在线阅读及下载.md
-│
-├─setups
-│  │  geckodriver-v0.23.0-win64.zip
-│  │  readme.md
-│  │  SSR_for_win.zip
-│  │
-│  └─chrome
-│          Chrome.md
-│          ChromeSetup.exe
-│
-└─文档目录结构
+```bash
+|   README.md
+|   _config.yml
+|   
++---method
+|       readme.md
+|       Skills and Attributes.md
+|       分类.md
+|       归纳法.md
+|       知识整理.jpg
+|       算法技能树.png
+|       编程习惯.md
+|       
++---onlineweb
+|   |   99csw.html
+|   |   allitebooks.html
+|   |   allitebooks.py
+|   |   readme.md
+|   |   zdw.html
+|   |   获取全部内容.py
+|   |   
+|   \---dbfx
+|           mydbfx.md
+|           mydbfx_error.md
+|           readme.md
+|           
++---overview
+|       mystars.md
+|       计算机资源.md
+|       
++---setups
+|   |   geckodriver-v0.23.0-win64.zip
+|   |   readme.md
+|   |   SSR_for_win.zip
+|   |   
+|   \---chrome
+|           Chrome.md
+|           ChromeSetup.exe
+|           
++---wiki
+|       !大部头.md
+|       2017.12.18.md
+|       @钱币.textile
+|       book.mediawiki
+|       CFA.md
+|       CS.md
+|       FRM.md
+|       Home.md
+|       in.md
+|       readme.md
+|       中华全景百卷书.md
+|       中国文化.md
+|       中国文化史知识丛书.md
+|       书目.md
+|       二十六本经济学入门书单.textile
+|       二级市场.md
+|       从业资格.md
+|       体育.md
+|       名言-武侠-古代汉语.md
+|       国家地理.md
+|       地产.md
+|       投行四大.md
+|       文史期刊.md
+|       未整理.md
+|       毛泽东.md
+|       清华经管课.md
+|       百科.md
+|       知识整理.md
+|       经济.md
+|       维基文库.md
+|       英文读本.md
+|       通史.md
+|       逻辑数学推理.md
+|       金融类书籍.md
+|       
+\---文档目录结构
         01麦肯锡 文档目录结构.txt
         02安达信 文档目录结构.txt
         03埃森哲 文档目录结构.txt
