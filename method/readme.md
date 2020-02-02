@@ -7,4 +7,4 @@ https://getpocket.com/explore/item/how-to-activate-your-brain-s-ability-to-learn
 [知识整理](知识整理.jpg)  
 [算法技能树](算法技能树.png)  
 [编程习惯](编程习惯.md)  
-[Skills and Attributes](Skills%20and%20Attributes.md)  
+[Skills and Attributes](Skills_and_Attributes.md)  
