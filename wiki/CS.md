@@ -8,13 +8,13 @@ thinkpython|http://www.greenteapress.com/thinkpython2/thinkpython2.pdf
 thinthink-data-structures|http://greenteapress.com/wp/think-data-structures/
 
 
-## [](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#%E8%AF%AD%E8%A8%80%E6%97%A0%E5%85%B3)语言无关
+## [语言无关](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#%E8%AF%AD%E8%A8%80%E6%97%A0%E5%85%B3)
 
-### [](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#ide)IDE
+### [IDE](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#ide)
 
 *   [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
-### [](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#web)Web
+### [Web](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#web)
 
 *   [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 *   [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
