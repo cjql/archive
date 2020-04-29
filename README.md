@@ -9,6 +9,7 @@
 5. [一些有用的软件](setups/readme.md)
 6. [各大咨询公司的企业文档目录](文档目录结构/readme.md)
 7. [本仓库wiki](wiki/readme.md)
+8. [金融相关项目和库](overview/金融相关项目和库.md)
 
 [仓库网页]:https://cjql.github.io/archive/
 
