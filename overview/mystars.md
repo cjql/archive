@@ -236,6 +236,17 @@
 - [donnemartin/system-design-primer][donnemartin/system-design-primer] design large-scale systems  
 - [home-assistant/home-assistant][home-assistant/home-assistant] home automation  
 - [NLRX-WJC/Learn-Vue-Source-Code][NLRX-WJC/Learn-Vue-Source-Code] Vue.js源码解析  
+- https://github.com/MorFansLab/LiteWebChat_Frame 一个简洁，易用的 HTML 聊天框架 
+- https://github.com/Neulana/douban-movie-extension 豆瓣电影传送门Chrome插件
+- https://github.com/RomuloOliveira/commit-messages-guide 
+- https://github.com/git-tips/tips
+- https://github.com/hjptriplebee/Chinese_poem_generator
+- https://github.com/lancopku/pkuseg-python
+- https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+- https://raw.githubusercontent.com/eduosi/district/master/district-simple.csv
+- https://zhuanlan.zhihu.com/p/84991613 github多行评论
+- http://www.iocoder.cn/chinese-comment-repository/ GitHub：中文详细注释的开源项目
+- https://alibaba.github.io/arthas/commands.html
 ## 链接专区（仅供编辑时引用）
 [0voice/from_coder_to_expert]:https://github.com/0voice/from_coder_to_expert  
 [0voice/interview_internal_reference]:https://github.com/0voice/interview_internal_reference  
